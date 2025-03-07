@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
-  title: "mindlab_site"
+  title: "The MIND Lab"
   navbar:
     left:
       - href: index.qmd
