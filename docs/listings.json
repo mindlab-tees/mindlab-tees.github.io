@@ -1,0 +1,24 @@
+[
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/fnirs.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/projects/hypomania.html"
+    ]
+  },
+  {
+    "listing": "/projects/hypomania.html",
+    "items": []
+  },
+  {
+    "listing": "/tools/fnirs.html",
+    "items": [
+      "/projects/hypomania.html"
+    ]
+  }
+]

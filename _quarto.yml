@@ -4,15 +4,18 @@ project:
 website:
   title: "The MIND Lab"
   navbar:
+    logo: "images/icon.png"
     left:
       - href: index.qmd
         text: Home
-
+      - href: research.qmd
+        text: Research
+      - href: tools.qmd
+        text: Equipment and Software
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      - litera
     css: styles.css
     toc: true
 

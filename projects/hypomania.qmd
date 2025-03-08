@@ -1,0 +1,21 @@
+---
+title: "Hypomania and Risk-taking"
+image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Hyperthymia.png"
+categories:
+  - fnirs
+  - hypomania
+  - risk perception
+listing:
+  fields: [image, title]
+  include:
+    categories: "{hypomania}*"
+---
+
+## Project Overview
+This project seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.
+
+We are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.
+
+We use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention.
+
+## More on hypomania:

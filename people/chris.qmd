@@ -1,0 +1,6 @@
+---
+title: "Christopher Wilson"
+theme: jola
+image: "../images/chris.webp"
+---
+

@@ -1,0 +1,27 @@
+---
+title: "Functional Near-Infrared Spectroscopy"
+image: "images/fnirs.png"
+categories:
+  - fnirs
+listing:
+  contents:
+  - "../projects/*.qmd"
+  type: table
+  fields: [image, title]
+  include:
+    categories: "{fnirs}*"
+---
+
+# What is fNIRS?
+
+Functional Near-Infrared Spectroscopy (fNIRS) is a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.
+
+## How do we use fNIRS in our work?
+
+We use fnirs to examine brain activity during various cognitive tasks, such as working memory, attention, and decision-making. By measuring changes in blood oxygenation, we can identify brain regions that are involved in these tasks and study how they interact with each other. fNIRS is particularly well-suited for studying brain function over time, and can be used to track changes in brain activity during the course of a task or intervention.
+
+## Our system
+
+We currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions.
+
+## More on fNIRS:
