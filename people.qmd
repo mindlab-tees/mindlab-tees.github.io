@@ -1,5 +1,6 @@
 ---
 title: "Lab members"
+toc: true
 listing:
   - id: lab-directors
     contents: people

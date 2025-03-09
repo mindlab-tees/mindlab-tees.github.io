@@ -3,7 +3,8 @@ title: "Introduction to Functional Near-Infrared Spectroscopy"
 image: "/images/fnirs.png"
 categories:
   - fnirs
-event-date: 2024-09-01
+event-date: 2024-10-23
+event-location: fNIRS lab
 author: chris
 ---
 

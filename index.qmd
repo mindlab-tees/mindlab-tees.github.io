@@ -1,15 +1,25 @@
 ---
 title: "Welcome to the Lab"
+page-navigation: false
 listing:
   - id: events
     contents: "events/*qmd"
     type: default
-    fields: [event-date, title]
+    fields: [event-date, event-location, title]
+  - id: people
+    contents: "people/*qmd"
+    type: grid
+    fields: [image, title]
+    include:
+      role: "{director}"
 ---
 
 The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.
 
 We are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations.
+
+::: {#people}
+:::
 
 ## Lab Events
 

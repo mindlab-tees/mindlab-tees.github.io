@@ -4,18 +4,27 @@ image: "../images/chris.webp"
 role: director
 projects: [hypomania, gambling]
 about: 
-  template: trestles
+  template: jolla
   image: "../images/chris.webp"
   image-width: 10em
   image-shape: round
-
+  links:
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=kmI2DNgAAAAJ&hl=en
+    - icon: file-person
+      text: ORCID
+      href: https://orcid.org/0000-0002-7155-0662
+    - icon: github
+      text: GitHub
+      href: https://github.com/christopherjwilson
 # listing:
 #     - id: related-projects
 #       contents: "../projects/*"
 #       type: default
 #       fields: [image, title]
 #       include:
-#         researchers: chris
+#         people: chris
 ---
 
 ::: {#hero-heading}
@@ -25,6 +34,7 @@ In the lab, I use [fNIRS](/tools/fnirs.qmd), Eyetracking, Virtual Reality and we
 jsPsych for coding experiments. 
 
 :::
+
 
 
 

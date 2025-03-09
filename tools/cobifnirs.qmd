@@ -1,0 +1,28 @@
+---
+title: "COBI fNIRS R Package"
+image: "/images/fnirs.png"
+categories:
+  - fnirs
+  - software
+  - R
+listing:
+  contents:
+  - "../projects/*.qmd"
+  type: grid
+  fields: [image, title]
+  include:
+    categories: "{fnirs, software, R}*"
+---
+
+[![](https://img.shields.io/github/r-package/v/christopherjwilson/cobifnirs
+)](https://github.com/christopherjwilson/cobifnirs)
+
+The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.
+
+The package is in early development and should be used with caution. Please check all outputs and results carefully.
+
+If you have questions or would like to contribute to the package, please get in touch.
+
+
+
+## Related to this topic:

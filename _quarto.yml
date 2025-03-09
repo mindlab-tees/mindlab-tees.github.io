@@ -19,7 +19,6 @@ format:
     theme:
       - litera
     css: styles.css
-    toc: true
 
 editor: source
 

@@ -1,6 +1,7 @@
 ---
 title: "Social, Cognitve and Neurological Factors in Gambling Behaviour"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
+people: [chris, jaya-priya, david, alana]
 categories:
   - gambling
   - fnirs
@@ -24,14 +25,14 @@ listing:
 
 [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/z5ky8/)
 
-## Project Overview
+## Research Overview
 
-This project seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. 
+This work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. 
 We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.
 
 In addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania.
 
-## Lab members involved in this project
+## Lab members involved in this research
 
 ::: {#lab-members}
 :::
