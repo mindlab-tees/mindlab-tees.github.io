@@ -11,7 +11,7 @@
     "href": "people.html",
     "title": "Our People",
     "section": "",
-    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\nJaya-Priya\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/hypomania.html",
@@ -35,11 +35,25 @@
     "text": "More on hypomania:"
   },
   {
-    "objectID": "people/lisa.html",
-    "href": "people/lisa.html",
-    "title": "Lisa Cassidy",
+    "objectID": "people/jaya-priya.html",
+    "href": "people/jaya-priya.html",
+    "title": "Jaya-Priya",
     "section": "",
-    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
+    "text": "fascinating intersections of cognition, mental health, and decision-making. From investigating how hypomania traits shape financial decision-making in non-clinical populations to understanding cognitive dynamics in children within special education settings, my work delves into the complexities of behaviour and the brain. With a passion for rigorous research and real-world impact, my goal is to advance psychology research while developing practical interventions that empower individuals to thrive"
+  },
+  {
+    "objectID": "people/chris.html",
+    "href": "people/chris.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+  },
+  {
+    "objectID": "people/chris.html#projects",
+    "href": "people/chris.html#projects",
+    "title": "Christopher Wilson",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nHypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research.html",
@@ -49,11 +63,11 @@
     "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "people/chris.html",
-    "href": "people/chris.html",
-    "title": "Christopher Wilson",
+    "objectID": "people/lisa.html",
+    "href": "people/lisa.html",
+    "title": "Lisa Cassidy",
     "section": "",
-    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
   },
   {
     "objectID": "people/srdan.html",

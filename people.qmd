@@ -16,19 +16,29 @@ listing:
     type: grid
     include:
       role: doctorate
+  - id: volunteer-researchers
+    contents: people
+    type: grid
+    include:
+      role: volunteer
 ---
-# Lab leads
+### Lab leads
 
 ::: {#lab-directors}
 :::
 
-# Doctoral Researchers
+### Doctoral Researchers
 
 ::: {#doctoral-researchers}
 
 :::
 
-# Undergraduate Researchers
+### Undergraduate Researchers
 
 ::: {#undergraduate-researchers}
+:::
+
+### Volunteer Researchers
+
+::: {#volunteer-researchers}
 :::

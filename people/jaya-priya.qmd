@@ -1,0 +1,10 @@
+---
+title: "Jaya-Priya"
+role: volunteer
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+---
+
+fascinating intersections of cognition, mental health, and decision-making. From investigating how hypomania traits shape financial decision-making in non-clinical populations to understanding cognitive dynamics in children within special education settings, my work delves into the complexities of behaviour and the brain. With a passion for rigorous research and real-world impact, my goal is to advance psychology research while developing practical interventions that empower individuals to thrive

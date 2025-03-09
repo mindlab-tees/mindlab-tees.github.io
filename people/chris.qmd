@@ -7,6 +7,13 @@ about:
   image: "../images/chris.webp"
   image-width: 10em
   image-shape: round
+listing:
+    - id: related-projects
+      contents: "../projects/*"
+      type: default
+      fields: [image, title]
+      include:
+        researchers: chris
 ---
 
 ::: {#hero-heading}
@@ -16,3 +23,9 @@ In the lab, I use [fNIRS](/tools/fnirs.qmd), Eyetracking, Virtual Reality and we
 jsPsych for coding experiments. 
 
 :::
+
+## Projects
+
+::: {#related-projects}
+:::
+

@@ -4,12 +4,19 @@
     "items": [
       "/people/chris.html",
       "/people/srdan.html",
-      "/people/lisa.html"
+      "/people/lisa.html",
+      "/people/jaya-priya.html"
     ]
   },
   {
     "listing": "/projects/hypomania.html",
     "items": []
+  },
+  {
+    "listing": "/people/chris.html",
+    "items": [
+      "/projects/hypomania.html"
+    ]
   },
   {
     "listing": "/research.html",

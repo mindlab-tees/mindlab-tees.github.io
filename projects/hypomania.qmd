@@ -1,6 +1,7 @@
 ---
 title: "Hypomania and Risk-taking"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Hyperthymia.png"
+researchers: [chris, jaya-priya]
 categories:
   - fnirs
   - hypomania
@@ -12,6 +13,7 @@ listing:
 ---
 
 ## Project Overview
+
 This project seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.
 
 We are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.
