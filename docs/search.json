@@ -7,18 +7,11 @@
     "text": "placeholder text"
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Lab Equipment and Software",
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Our People",
     "section": "",
-    "text": "Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Our Research",
-    "section": "",
-    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/hypomania.html",
@@ -40,6 +33,41 @@
     "title": "Hypomania and Risk-taking",
     "section": "More on hypomania:",
     "text": "More on hypomania:"
+  },
+  {
+    "objectID": "people/lisa.html",
+    "href": "people/lisa.html",
+    "title": "Lisa Cassidy",
+    "section": "",
+    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Our Research",
+    "section": "",
+    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/chris.html",
+    "href": "people/chris.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+  },
+  {
+    "objectID": "people/srdan.html",
+    "href": "people/srdan.html",
+    "title": "Srdan Medimorec",
+    "section": "",
+    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Lab Equipment and Software",
+    "section": "",
+    "text": "Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tools/fnirs.html",

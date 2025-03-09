@@ -1,0 +1,34 @@
+---
+title: "Our People"
+listing:
+  - id: lab-directors
+    contents: people
+    type: grid
+    include:
+      role: director
+  - id: undergraduate-researchers
+    contents: people
+    type: grid
+    include:
+      role: undergraduate
+  - id: doctoral-researchers
+    contents: people
+    type: grid
+    include:
+      role: doctorate
+---
+# Lab leads
+
+::: {#lab-directors}
+:::
+
+# Doctoral Researchers
+
+::: {#doctoral-researchers}
+
+:::
+
+# Undergraduate Researchers
+
+::: {#undergraduate-researchers}
+:::

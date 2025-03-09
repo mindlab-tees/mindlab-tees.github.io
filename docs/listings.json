@@ -1,9 +1,15 @@
 [
   {
-    "listing": "/tools.html",
+    "listing": "/people.html",
     "items": [
-      "/tools/fnirs.html"
+      "/people/chris.html",
+      "/people/srdan.html",
+      "/people/lisa.html"
     ]
+  },
+  {
+    "listing": "/projects/hypomania.html",
+    "items": []
   },
   {
     "listing": "/research.html",
@@ -12,8 +18,10 @@
     ]
   },
   {
-    "listing": "/projects/hypomania.html",
-    "items": []
+    "listing": "/tools.html",
+    "items": [
+      "/tools/fnirs.html"
+    ]
   },
   {
     "listing": "/tools/fnirs.html",

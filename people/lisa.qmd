@@ -1,0 +1,12 @@
+---
+title: "Lisa Cassidy"
+image: "../images/lisa.jpg"
+role: undergraduate
+about: 
+  template: trestles
+  image: "../images/lisa.jpg"
+  image-width: 10em
+  image-shape: round
+---
+
+My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own. 

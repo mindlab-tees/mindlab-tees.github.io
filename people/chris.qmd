@@ -1,6 +1,18 @@
 ---
 title: "Christopher Wilson"
-theme: jola
 image: "../images/chris.webp"
+role: director
+about: 
+  template: trestles
+  image: "../images/chris.webp"
+  image-width: 10em
+  image-shape: round
 ---
 
+::: {#hero-heading}
+I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.
+
+In the lab, I use [fNIRS](/tools/fnirs.qmd), Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and 
+jsPsych for coding experiments. 
+
+:::
