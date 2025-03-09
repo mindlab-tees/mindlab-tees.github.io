@@ -5,7 +5,7 @@ listing:
   - id: events
     contents: "events/*qmd"
     type: default
-    fields: [event-date, event-location, title]
+    fields: [event-date, event-location, image, title]
   - id: people
     contents: "people/*qmd"
     type: grid

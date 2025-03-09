@@ -1,0 +1,16 @@
+---
+title: "Experimental Tasks"
+---
+
+In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using [JSPsych](https://www.jspsych.org/), a JavaScript library for creating behavioral experiments in a web browser or [OpenSesame](https://osdoc.cogsci.nl/), a graphical experiment builder that runs on python.
+
+We plan to make the code for these tasks available on our github repository soon. In the meantime, please get in touch if you would like more information about any of the tasks listed below.
+
+- **Decision under risk** (based on [Rogers et al., 1999](https://www.jneurosci.org/content/19/20/9029)). Commonly referred to as "The Cambridge Gambling Task", this task was first published by Rogers et al., in 1999. This is a computerized task that assesses decision-making under risk. Participants are presented with a series of gambles and must decide whether to accept or reject each gamble. The task is designed to measure risk-taking behavior and has been used in a range of studies investigating decision-making in healthy and clinical populations. We have implemented this task in JSPsych and also have a version of the task that is modified for fNIRS, including delays in the feedback to account for the hemodynamic response, and serial port communication to synchronize the task with the fNIRS data.
+
+- **Working Memory** We use a version of the Operation Span task to assess working memory capacity. In this task, participants are presented with a series of math problems and must remember the answer to each problem. At the end of each set of problems, participants are asked to recall the answers in the order they were presented. This task is designed to measure working memory capacity and has been used in a range of studies investigating working memory in healthy and clinical populations. This version of the task has been implemented in JSPsych.
+
+- **Global and Local Processing** We use a version of the Navon task to assess global and local processing. In this task, participants are presented with a large letter made up of smaller letters. Participants must respond to either the large letter (global level) or the smaller letters (local level). This task is designed to measure the extent to which participants process information at the global or local level and has been used in a range of studies investigating cognitive processing in healthy and clinical populations. This version of the task has been implemented in JSPsych.
+
+- **Eyewitness lineup identification** We have implemented a simultaneous lineup task to assess eyewitness identification accuracy. In this task, participants are presented with a lineup of faces and must identify the face they saw during a previous event. This includes a confidence rating response based on the "cup half full" scale. This task is designed to measure eyewitness identification accuracy and has been used in a range of studies investigating eyewitness memory in adult and child populations. This version of the task has been implemented in JSPsych.
+

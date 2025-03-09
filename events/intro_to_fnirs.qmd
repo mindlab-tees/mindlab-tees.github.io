@@ -1,13 +1,15 @@
 ---
 title: "Introduction to Functional Near-Infrared Spectroscopy"
-image: "/images/fnirs.png"
+image: "../images/fnirs_plot.webp"
 categories:
   - fnirs
 event-date: 2024-10-23
-event-location: fNIRS lab
+event-location: Themis fNIRS lab
 ---
 
 This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.
+
+![](../images/fnirs_plot.webp)
 
 ## Workshop Outline
 

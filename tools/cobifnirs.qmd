@@ -1,6 +1,6 @@
 ---
 title: "COBI fNIRS R Package"
-image: "/images/fnirs.png"
+image: "/images/fnirs_plot.webp"
 categories:
   - fnirs
   - software
@@ -23,6 +23,7 @@ The package is in early development and should be used with caution. Please chec
 
 If you have questions or would like to contribute to the package, please get in touch.
 
+The github repository for the package can be found [here](https://github.com/christopherjwilson/cobifnirs).
 
 
 ## Related to this topic:
