@@ -2,18 +2,20 @@
 title: "Christopher Wilson"
 image: "../images/chris.webp"
 role: director
+projects: [hypomania, gambling]
 about: 
   template: trestles
   image: "../images/chris.webp"
   image-width: 10em
   image-shape: round
-listing:
-    - id: related-projects
-      contents: "../projects/*"
-      type: default
-      fields: [image, title]
-      include:
-        researchers: chris
+
+# listing:
+#     - id: related-projects
+#       contents: "../projects/*"
+#       type: default
+#       fields: [image, title]
+#       include:
+#         researchers: chris
 ---
 
 ::: {#hero-heading}
@@ -24,8 +26,5 @@ jsPsych for coding experiments.
 
 :::
 
-## Projects
 
-::: {#related-projects}
-:::
 

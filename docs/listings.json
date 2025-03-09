@@ -1,27 +1,20 @@
 [
   {
+    "listing": "/index.html",
+    "items": [
+      "/events/intro_to_fnirs.html"
+    ]
+  },
+  {
     "listing": "/people.html",
     "items": [
       "/people/chris.html",
       "/people/srdan.html",
       "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/alana.html",
+      "/people/david.html",
       "/people/jaya-priya.html"
-    ]
-  },
-  {
-    "listing": "/projects/hypomania.html",
-    "items": []
-  },
-  {
-    "listing": "/people/chris.html",
-    "items": [
-      "/projects/hypomania.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/projects/hypomania.html"
     ]
   },
   {
@@ -31,9 +24,32 @@
     ]
   },
   {
+    "listing": "/projects/gambling.html",
+    "items": [
+      "/people/chris.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/projects/hypomania.html",
+      "/projects/gambling.html"
+    ]
+  },
+  {
+    "listing": "/projects/hypomania.html",
+    "items": [
+      "/people/alana.html",
+      "/people/chris.html",
+      "/people/david.html",
+      "/people/jaya-priya.html"
+    ]
+  },
+  {
     "listing": "/tools/fnirs.html",
     "items": [
-      "/projects/hypomania.html"
+      "/projects/hypomania.html",
+      "/projects/gambling.html"
     ]
   }
 ]

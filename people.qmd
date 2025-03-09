@@ -1,5 +1,5 @@
 ---
-title: "Our People"
+title: "Lab members"
 listing:
   - id: lab-directors
     contents: people
@@ -15,7 +15,7 @@ listing:
     contents: people
     type: grid
     include:
-      role: doctorate
+      role: doctoral
   - id: volunteer-researchers
     contents: people
     type: grid

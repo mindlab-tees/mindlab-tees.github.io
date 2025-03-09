@@ -71,7 +71,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-related-content .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-related-content'] = new List('listing-related-content', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-lab-members .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -80,11 +108,11 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -184,7 +212,7 @@ window.Quarto = {
    
   <ul>
   <li><a href="#project-overview" id="toc-project-overview" class="nav-link active" data-scroll-target="#project-overview">Project Overview</a></li>
-  <li><a href="#more-on-hypomania" id="toc-more-on-hypomania" class="nav-link" data-scroll-target="#more-on-hypomania">More on hypomania:</a></li>
+  <li><a href="#lab-members-involved-in-this-project" id="toc-lab-members-involved-in-this-project" class="nav-link" data-scroll-target="#lab-members-involved-in-this-project">Lab members involved in this project</a></li>
   </ul>
 </nav>
     </div>
@@ -198,6 +226,9 @@ window.Quarto = {
     <div class="quarto-category">fnirs</div>
     <div class="quarto-category">hypomania</div>
     <div class="quarto-category">risk perception</div>
+    <div class="quarto-category">decision-making</div>
+    <div class="quarto-category">executive function</div>
+    <div class="quarto-category">memory</div>
   </div>
   </div>
 
@@ -215,23 +246,119 @@ window.Quarto = {
 </header>
 
 
+<p><a href="https://osf.io/3vx2w/"><img src="https://img.shields.io/badge/OSF-3vx2w-green.png" class="img-fluid"></a></p>
 <section id="project-overview" class="level2">
 <h2 class="anchored" data-anchor-id="project-overview">Project Overview</h2>
 <p>This project seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.</p>
 <p>We are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.</p>
 <p>We use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention.</p>
 </section>
-<section id="more-on-hypomania" class="level2">
-<h2 class="anchored" data-anchor-id="more-on-hypomania">More on hypomania:</h2>
+<section id="lab-members-involved-in-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-project">Lab members involved in this project</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741525080921" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<a href="../people/alana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alana Gadsby
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1741525668439" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<a href="../people/chris.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/chris.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Christopher Wilson
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1741525099724" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
+<a href="../people/david.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+David Minchella
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1741525072649" data-listing-reading-time-sort="1" data-listing-word-count-sort="44">
+<a href="../people/jaya-priya.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jaya-Priya Naganathan
+</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<!--
+## More on hypomania:
+
+::: {#related-content}
+:::
+-->
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-
+<div class="quarto-listing quarto-listing-container-table" id="listing-related-content">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-related-content-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-related-content'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title-sort" data-direction="asc">
+          Title
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+<th>
+</th>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+</tr>
+</thead>
+<tbody class="list">
+</tbody>
+</table>
 <div class="listing-no-matching d-none">
 No matching items
 </div>

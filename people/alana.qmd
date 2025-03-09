@@ -1,0 +1,13 @@
+---
+title: "Alana Gadsby"
+image: "../images/user.webp"
+role: doctoral
+projects: [hypomania]
+about: 
+  template: trestles
+ # image: "../images/lisa.jpg"
+  image-width: 10em
+  image-shape: round
+---
+
+Alana is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory.

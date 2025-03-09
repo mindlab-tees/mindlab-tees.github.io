@@ -6,7 +6,7 @@ categories:
 listing:
   contents:
   - "../projects/*.qmd"
-  type: table
+  type: grid
   fields: [image, title]
   include:
     categories: "{fnirs}*"
