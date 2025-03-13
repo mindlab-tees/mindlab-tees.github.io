@@ -2,6 +2,7 @@
 title: "Srdan Medimorec"
 image: "../images/srdan.jpg"
 role: director
+projects: [accent, metacognition]
 about: 
   template: trestles
   image: "../images/srdan.jpg"

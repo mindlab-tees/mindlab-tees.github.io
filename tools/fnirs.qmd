@@ -1,6 +1,6 @@
 ---
 title: "Functional Near-Infrared Spectroscopy"
-image: "/images/fnirs.png"
+image: "../images/fnirs.png"
 categories:
   - fnirs
 listing:

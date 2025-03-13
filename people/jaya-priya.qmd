@@ -1,5 +1,5 @@
 ---
-title: "Jaya-Priya Naganathan"
+title: "Jaya Priya Naganathan"
 role: volunteer
 projects: [hypomania]
 image: "../images/user.webp"

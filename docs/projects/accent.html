@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Experimental Tasks – The MIND Lab</title>
+<title>Is non-native speech processed in less detail and, if so, why? – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,93 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-related-content .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-related-content'] = new List('listing-related-content', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-lab-members .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -124,11 +212,10 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Experimental Tasks</h1>
+<h1 class="title">Is non-native speech processed in less detail and, if so, why?</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">JSPsych</div>
-    <div class="quarto-category">OpenSesame</div>
-    <div class="quarto-category">coding</div>
+    <div class="quarto-category">speech</div>
+    <div class="quarto-category">accent</div>
   </div>
   </div>
 
@@ -146,18 +233,83 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using <a href="https://www.jspsych.org/">JSPsych</a>, a JavaScript library for creating behavioral experiments in a web browser or <a href="https://osdoc.cogsci.nl/">OpenSesame</a>, a graphical experiment builder that runs on python.</p>
-<p>We plan to make the code for these tasks available on our github repository soon. In the meantime, please get in touch if you would like more information about any of the tasks listed below.</p>
-<ul>
-<li><p><strong>Decision under risk</strong> (based on <a href="https://www.jneurosci.org/content/19/20/9029">Rogers et al., 1999</a>). Commonly referred to as “The Cambridge Gambling Task”, this task was first published by Rogers et al., in 1999. This is a computerized task that assesses decision-making under risk. Participants are presented with a series of gambles and must decide whether to accept or reject each gamble. The task is designed to measure risk-taking behavior and has been used in a range of studies investigating decision-making in healthy and clinical populations. We have implemented this task in JSPsych and also have a version of the task that is modified for fNIRS, including delays in the feedback to account for the hemodynamic response, and serial port communication to synchronize the task with the fNIRS data.</p></li>
-<li><p><strong>Working Memory</strong> We use a version of the Operation Span task to assess working memory capacity. In this task, participants are presented with a series of math problems and must remember the answer to each problem. At the end of each set of problems, participants are asked to recall the answers in the order they were presented. This task is designed to measure working memory capacity and has been used in a range of studies investigating working memory in healthy and clinical populations. This version of the task has been implemented in JSPsych.</p></li>
-<li><p><strong>Global and Local Processing</strong> We use a version of the Navon task to assess global and local processing. In this task, participants are presented with a large letter made up of smaller letters. Participants must respond to either the large letter (global level) or the smaller letters (local level). This task is designed to measure the extent to which participants process information at the global or local level and has been used in a range of studies investigating cognitive processing in healthy and clinical populations. This version of the task has been implemented in JSPsych.</p></li>
-<li><p><strong>Eyewitness lineup identification</strong> We have implemented a simultaneous lineup task to assess eyewitness identification accuracy. In this task, participants are presented with a lineup of faces and must identify the face they saw during a previous event. This includes a confidence rating response based on the “cup half full” scale. This task is designed to measure eyewitness identification accuracy and has been used in a range of studies investigating eyewitness memory in adult and child populations. This version of the task has been implemented in JSPsych.</p></li>
-</ul>
+<!--[![](https://img.shields.io/badge/OSF-3vx2w-green)](https://osf.io/3vx2w/) -->
+<section id="research-overview" class="level2">
+<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
+<p>In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.</p>
+<p>The goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.</p>
+<p>We contrast these potential accounts by manipulating speaker accent (native vs.&nbsp;non-native) and information about the speaker’s expertise (expert vs.&nbsp;non-expert).</p>
+</section>
+<section id="lab-members-involved-in-this-research" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-research">Lab members involved in this research</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741877486065" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="../people/lisa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/lisa.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lisa Cassidy
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1741877498672" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="../people/lorraine.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lorraine Temple
+</h5>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1741877491792" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<a href="../people/srdan.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/srdan.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Srdan Medimorec
+</h5>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<!--
+## More on hypomania:
+
+::: {#related-content}
+:::
+-->
 
 
 
-</main> <!-- /main -->
+</section>
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-related-content">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

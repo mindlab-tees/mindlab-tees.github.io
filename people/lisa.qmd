@@ -2,6 +2,7 @@
 title: "Lisa Cassidy"
 image: "../images/lisa.jpg"
 role: undergraduate
+projects: [accent, metacognition]
 about: 
   template: trestles
   image: "../images/lisa.jpg"

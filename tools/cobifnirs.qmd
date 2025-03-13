@@ -1,6 +1,6 @@
 ---
 title: "COBI fNIRS R Package"
-image: "/images/fnirs_plot.webp"
+image: "../images/fnirs_plot.webp"
 categories:
   - fnirs
   - software

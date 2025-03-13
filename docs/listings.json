@@ -35,25 +35,43 @@
     ]
   },
   {
-    "listing": "/projects/gambling.html",
-    "items": [
-      "/people/chris.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/projects/hypomania.html",
-      "/projects/gambling.html"
-    ]
-  },
-  {
     "listing": "/projects/hypomania.html",
     "items": [
       "/people/alana.html",
       "/people/chris.html",
       "/people/david.html",
       "/people/jaya-priya.html"
+    ]
+  },
+  {
+    "listing": "/projects/metacognition.html",
+    "items": [
+      "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/srdan.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/projects/hypomania.html",
+      "/projects/accent.html",
+      "/projects/metacognition.html",
+      "/projects/gambling.html"
+    ]
+  },
+  {
+    "listing": "/projects/gambling.html",
+    "items": [
+      "/people/chris.html"
+    ]
+  },
+  {
+    "listing": "/projects/accent.html",
+    "items": [
+      "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/srdan.html"
     ]
   },
   {
