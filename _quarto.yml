@@ -16,6 +16,7 @@ website:
         text: People
 format:
   html:
+    email-obfuscation: javascript
     theme:
       - litera
     css: styles.css

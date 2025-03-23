@@ -27,28 +27,17 @@
     ]
   },
   {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/cobifnirs.html",
-      "/tools/custom_tasks.html",
-      "/tools/fnirs.html"
-    ]
-  },
-  {
-    "listing": "/projects/hypomania.html",
-    "items": [
-      "/people/alana.html",
-      "/people/chris.html",
-      "/people/david.html",
-      "/people/jaya-priya.html"
-    ]
-  },
-  {
-    "listing": "/projects/metacognition.html",
+    "listing": "/projects/accent.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
       "/people/srdan.html"
+    ]
+  },
+  {
+    "listing": "/projects/gambling.html",
+    "items": [
+      "/people/chris.html"
     ]
   },
   {
@@ -61,17 +50,28 @@
     ]
   },
   {
-    "listing": "/projects/gambling.html",
-    "items": [
-      "/people/chris.html"
-    ]
-  },
-  {
-    "listing": "/projects/accent.html",
+    "listing": "/projects/metacognition.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
       "/people/srdan.html"
+    ]
+  },
+  {
+    "listing": "/projects/hypomania.html",
+    "items": [
+      "/people/alana.html",
+      "/people/chris.html",
+      "/people/david.html",
+      "/people/jaya-priya.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/cobifnirs.html",
+      "/tools/custom_tasks.html",
+      "/tools/fnirs.html"
     ]
   },
   {

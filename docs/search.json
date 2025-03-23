@@ -35,116 +35,18 @@
     "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Lab Equipment and Software",
+    "objectID": "events/intro_to_fnirs.html",
+    "href": "events/intro_to_fnirs.html",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
     "section": "",
-    "text": "COBI fNIRS R Package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperimental Tasks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
   },
   {
-    "objectID": "projects/hypomania.html#research-overview",
-    "href": "projects/hypomania.html#research-overview",
-    "title": "Hypomania and Risk-taking",
-    "section": "Research Overview",
-    "text": "Research Overview\nThis work seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.\nWe are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.\nWe use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention."
-  },
-  {
-    "objectID": "projects/hypomania.html#lab-members-involved-in-this-research",
-    "href": "projects/hypomania.html#lab-members-involved-in-this-research",
-    "title": "Hypomania and Risk-taking",
-    "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/metacognition.html",
-    "href": "projects/metacognition.html",
-    "title": "Metacognition and cognitive offloading",
-    "section": "",
-    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
-  },
-  {
-    "objectID": "projects/metacognition.html#research-overview",
-    "href": "projects/metacognition.html#research-overview",
-    "title": "Metacognition and cognitive offloading",
-    "section": "",
-    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
-  },
-  {
-    "objectID": "projects/metacognition.html#lab-members-involved-in-this-research",
-    "href": "projects/metacognition.html#lab-members-involved-in-this-research",
-    "title": "Metacognition and cognitive offloading",
-    "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/lorraine.html",
-    "href": "people/lorraine.html",
-    "title": "Lorraine Temple",
-    "section": "",
-    "text": "Lorraine is an undergraduate student whose work has focused on metacognition and accent perception."
-  },
-  {
-    "objectID": "people/david.html",
-    "href": "people/david.html",
-    "title": "David Minchella",
-    "section": "",
-    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception."
-  },
-  {
-    "objectID": "people/lisa.html",
-    "href": "people/lisa.html",
-    "title": "Lisa Cassidy",
-    "section": "",
-    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Current Projects",
-    "section": "",
-    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/chris.html",
-    "href": "people/chris.html",
-    "title": "Christopher Wilson",
-    "section": "",
-    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
-  },
-  {
-    "objectID": "people/jaya-priya.html",
-    "href": "people/jaya-priya.html",
-    "title": "Jaya Priya Naganathan",
-    "section": "",
-    "text": "I am an MSc. student who is interested in the fascinating intersections of cognition, mental health, and decision-making. I have a passion for rigorous research and real-world impact, my goal is to advance psychology research while developing practical interventions that empower individuals to thrive."
-  },
-  {
-    "objectID": "people/alana.html",
-    "href": "people/alana.html",
-    "title": "Alana Gadsby",
-    "section": "",
-    "text": "Alana is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
-  },
-  {
-    "objectID": "people/srdan.html",
-    "href": "people/srdan.html",
-    "title": "Srdan Medimorec",
-    "section": "",
-    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
-  },
-  {
-    "objectID": "projects/gambling.html#research-overview",
-    "href": "projects/gambling.html#research-overview",
-    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
-    "section": "Research Overview",
-    "text": "Research Overview\nThis work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.\nIn addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania."
-  },
-  {
-    "objectID": "projects/gambling.html#lab-members-involved-in-this-research",
-    "href": "projects/gambling.html#lab-members-involved-in-this-research",
-    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
-    "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\nNo matching items"
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
   },
   {
     "objectID": "projects/accent.html",
@@ -168,18 +70,137 @@
     "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/intro_to_fnirs.html",
-    "href": "events/intro_to_fnirs.html",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "",
-    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+    "objectID": "projects/gambling.html#research-overview",
+    "href": "projects/gambling.html#research-overview",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
+    "section": "Research Overview",
+    "text": "Research Overview\nThis work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.\nIn addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania."
   },
   {
-    "objectID": "events/intro_to_fnirs.html#workshop-outline",
-    "href": "events/intro_to_fnirs.html#workshop-outline",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "Workshop Outline",
-    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+    "objectID": "projects/gambling.html#lab-members-involved-in-this-research",
+    "href": "projects/gambling.html#lab-members-involved-in-this-research",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
+    "section": "Lab members involved in this research",
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/srdan.html",
+    "href": "people/srdan.html",
+    "title": "Srdan Medimorec",
+    "section": "",
+    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
+  },
+  {
+    "objectID": "people/alana.html",
+    "href": "people/alana.html",
+    "title": "Alana Gadsby",
+    "section": "",
+    "text": "Alana is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
+  },
+  {
+    "objectID": "people/jaya-priya.html",
+    "href": "people/jaya-priya.html",
+    "title": "Jaya Priya Naganathan",
+    "section": "",
+    "text": "I am an MSc. student who is interested in the fascinating intersections of cognition, mental health, and decision-making. I have a passion for rigorous research and real-world impact, my goal is to advance psychology research while developing practical interventions that empower individuals to thrive."
+  },
+  {
+    "objectID": "people/chris.html",
+    "href": "people/chris.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/lisa.html",
+    "href": "people/lisa.html",
+    "title": "Lisa Cassidy",
+    "section": "",
+    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
+  },
+  {
+    "objectID": "people/david.html",
+    "href": "people/david.html",
+    "title": "David Minchella",
+    "section": "",
+    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception."
+  },
+  {
+    "objectID": "people/lorraine.html",
+    "href": "people/lorraine.html",
+    "title": "Lorraine Temple",
+    "section": "",
+    "text": "Lorraine is an undergraduate student whose work has focused on metacognition and accent perception."
+  },
+  {
+    "objectID": "projects/metacognition.html",
+    "href": "projects/metacognition.html",
+    "title": "Metacognition and cognitive offloading",
+    "section": "",
+    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
+  },
+  {
+    "objectID": "projects/metacognition.html#research-overview",
+    "href": "projects/metacognition.html#research-overview",
+    "title": "Metacognition and cognitive offloading",
+    "section": "",
+    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
+  },
+  {
+    "objectID": "projects/metacognition.html#lab-members-involved-in-this-research",
+    "href": "projects/metacognition.html#lab-members-involved-in-this-research",
+    "title": "Metacognition and cognitive offloading",
+    "section": "Lab members involved in this research",
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/hypomania.html#research-overview",
+    "href": "projects/hypomania.html#research-overview",
+    "title": "Hypomania and Risk-taking",
+    "section": "Research Overview",
+    "text": "Research Overview\nThis work seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.\nWe are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.\nWe use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention."
+  },
+  {
+    "objectID": "projects/hypomania.html#lab-members-involved-in-this-research",
+    "href": "projects/hypomania.html#lab-members-involved-in-this-research",
+    "title": "Hypomania and Risk-taking",
+    "section": "Lab members involved in this research",
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Lab Equipment and Software",
+    "section": "",
+    "text": "COBI fNIRS R Package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperimental Tasks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recruitment/hyp1_slide.html#participants-needed",
+    "href": "recruitment/hyp1_slide.html#participants-needed",
+    "title": "The MIND Lab",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment/hyp1.html",
+    "href": "recruitment/hyp1.html",
+    "title": "The MIND Lab",
+    "section": "",
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment/hyp1.html#participants-needed",
+    "href": "recruitment/hyp1.html#participants-needed",
+    "title": "The MIND Lab",
+    "section": "",
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
   },
   {
     "objectID": "tools/custom_tasks.html",
