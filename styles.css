@@ -27,3 +27,16 @@ p.italic {
 }
 
 
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  right: 12px;
+  max-width: unset !important;
+  max-height: unset !important; 
+  height: 70px !important;
+  width: 70px !important;
+  z-index: 2;
+}
+
+

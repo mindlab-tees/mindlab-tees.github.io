@@ -4,7 +4,11 @@ meta:
 
 logo: 
   images: 
-    icon: "../images/mind_logo.jpg"
+    icon: "../images/mind_icon_small.png"
+    large: "../images/mind_logo_large.png"
+    small: "../images/mind_logo_small.png"
+    medium: "../images/mind_logo_medium.png"
+    alt: "Mind Logo"
   small: icon
 color:
   palette:
