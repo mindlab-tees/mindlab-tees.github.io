@@ -1,0 +1,28 @@
+---
+brand: ../_brand_mind.yml
+format: 
+  html:
+    embed_resources: true
+    output-file: "metacognition1.html"
+  revealjs: 
+    embed_resources: true
+    output-file: "metacognition1_slide.html"
+    width: 1500
+email-obfuscation: javascript 
+status: open
+study-location: "Themis Building at Teesside University"
+title: "Metacognition"
+image: "../images/metacongition1.jpg"
+---
+
+## Participants needed! {.smaller}
+
+**Topic:** 	The aim of the study is to investigate performance in an immediate memory task. 
+
+**Location:** This study takes place in the Themis Building at Teesside University.
+
+**What is involved?** The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point. 
+
+**Duration:** The study should take no longer than 25 minutes.
+
+**SONA:** [https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135](https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135)

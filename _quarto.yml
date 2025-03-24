@@ -14,6 +14,8 @@ website:
         text: Tools
       - href: people.qmd
         text: People
+      - href: recruitment.qmd
+        text: Research Participation
 format:
   html:
     email-obfuscation: javascript

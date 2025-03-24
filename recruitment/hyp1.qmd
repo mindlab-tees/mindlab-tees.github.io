@@ -9,6 +9,10 @@ format:
     output-file: "hyp1_slide.html"
     width: 1500
 email-obfuscation: javascript 
+status: open
+study-location: "Psychology Department at Teesside University"
+title: "The role of working memory and response inhibition in economic decision making"
+image: "../images/decision_making.png"
 ---
 
 ## Participants needed! {.smaller}
@@ -21,7 +25,7 @@ email-obfuscation: javascript
 
 **Duration:** The study will take approximately 20 minutes to complete.
 
-<img src="../images/study_qr.png" width="150  "> <br />
+<img src="../images/study_qr.png" width="120  "> <br />
 
 **Contact:** If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email [christopher.wilson@tees.ac.uk](mailto:christopher.wilson@tees.ac.uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study.).
 
