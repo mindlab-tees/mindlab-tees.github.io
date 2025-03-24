@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources: 
+    - "CNAME.txt"
 website:
   announcement: 
     icon: info-circle
