@@ -12,12 +12,9 @@ email-obfuscation: javascript
 status: open
 study-location: "Online"
 title: "Conversational Memory"
-image: "../images/speech.jpg"
-<<<<<<< HEAD
-footer: "<a href='/'>www.themindlab.uk</a>" 
-=======
+image: "../images/speech.jpg>"
 footer: "<a href=/'>www.themindlab.uk</a>" 
->>>>>>> 540e96c0ff1c2a2d77a1bd98d2442fd2ae39e6c2
+
 ---
 
 ## Participants needed! {.smaller}
