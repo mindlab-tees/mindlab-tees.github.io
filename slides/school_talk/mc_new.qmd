@@ -10,6 +10,7 @@ format:
         theme: "default"
         css: ["styles.css"]
         output-file: "index.html"
+        logo: "assets/tulogo.jpg"
 title: "Breaking big problems into small pieces..."
 title-slide-attributes:
   data-background-image: assets/jigsaw.jpg
@@ -17,6 +18,7 @@ title-slide-attributes:
   data-background-opacity: "0.3"
 subtitle: "How how psychology researchers tackle complex problems"
 brand: "_brand_mind.yml"
+
 ---
 
 ## Overview
