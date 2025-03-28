@@ -33,6 +33,10 @@
 
 /* other quarto variables */
 :root {
+  --quarto-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+:root {
   --quarto-font-monospace: IBM Plex Mono;
 }
 
@@ -202,4 +206,4 @@ code span.kw {
   content: "</";
 }
 
-/*# sourceMappingURL=3a0a91f13bf26971ee501fed68227c36.css.map */
+/*# sourceMappingURL=a1544d6b3aa9a219756e5887b412543a.css.map */
