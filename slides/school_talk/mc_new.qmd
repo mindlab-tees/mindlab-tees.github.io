@@ -28,7 +28,7 @@ brand: "_brand_mind.yml"
 
 # How do do psychology researchers tackle complex problems?  {background-image="assets/complex.png"}
 
-# {background-image="assets/psychology.png" background-repeat="contain"}
+# {background-image="assets/psychology.png" background-size="contain"}
 
 # Focus: Harmful gambling  {background-image="assets/gambling.jpg"}
 
@@ -54,7 +54,7 @@ brand: "_brand_mind.yml"
 
 ## {background-image="assets/methods.png" background-repeat="contain"}
 
-# How pigeons helped get people to spend money to their in mobile games
+# How pigeons helped get people to spend money to their in mobile games {background-color="#FF6F20"}
 
 How combining pieces of knowledge can help us understand the complex problem
 
@@ -67,7 +67,7 @@ Who is aware of the term "dark patterns"?
 
 :::
 
-# What do all of the following images have in common?
+# What do all of the following images have in common? {background-color="#FF6F20"}
 
 #  {background-image="assets/gambling_examples.png" background-repeat="cover" color="white"}
 
@@ -105,11 +105,11 @@ Each of these images represents a particular type of manipulation that is being 
 
 ![](assets/stumbleguys.png)
 
-## People are not pigeons...
+# People are not pigeons... {background-color="#FF6F20"}
 
 #  {background-image="assets/pigeonman.png" background-repeat="cover" color="white"}
 
-# People are easier to manipulate..
+# People are easier to manipulate.. {background-color="#FF6F20"}
 
 ## Our perception of value can be manipulated
 
@@ -204,12 +204,14 @@ This means that just by exposing us to something repeatedly, we are likley to ha
 - Limited time offers in game stores (type 1 thinking)
 - Influencers and fake games in ads (affect heuristic)
 
-## Working together in a lab
+# How a psychology research lab works to tackle complex problems {background-image="assets/methods.png" background-repeat="contain" background-opacity="0.3"}
+
+## 
 
 <https://www.themindlab.uk>
 <iframe src="https://themindlab.uk" title="https://quarto.org/" width="960" height="600"></iframe>
 
-# Brain Imaging Demonstration
+# Brain Imaging Demonstration {background-color="#FF6F20"}
 
 ## Functional Near Infrared Spectroscopy
 
@@ -217,7 +219,7 @@ This means that just by exposing us to something repeatedly, we are likley to ha
 - This can tell is which areas of the brain are active at any given time
 - The prefrontal cortex is involved in thinking and decision-making
 
-# I need a volunteer
+# I need a volunteer {background-color="#FF6F20"}
 
 ## Summary
 
@@ -226,4 +228,4 @@ This means that just by exposing us to something repeatedly, we are likley to ha
 3. In a lab, we have many projects running at the same time looking at a given topic
 4. fNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition
 
-# Any questions?
+# Any questions? {background-color="#FF6F20"}
