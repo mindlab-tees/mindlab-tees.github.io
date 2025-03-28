@@ -56,9 +56,15 @@ brand: "_brand_mind.yml"
 
 ## {background-image="assets/methods.png" background-repeat="contain"}
 
-# How pigeons helped get people to spend money to their in mobile games {background-color="#FF6F20"}
+# How pigeons helped get people to spend money to their in [mobile] games {background-color="#FF6F20"}
 
 How combining pieces of knowledge can help us understand the complex problem
+
+## {background-color="#FF6F20"}
+
+<iframe height="100%" width="100%" 
+src="https://youtube.com/embed/VL7dpByBC_A?autoplay=1&controls=0&showinfo=0&autohide=1">
+</iframe>
 
 # Problem: The manipulation of people to keep them engaged with games/apps (and spend money) {background-image="assets/phone.png" background-repeat="cover" color="white"}
 
@@ -94,6 +100,8 @@ Each of these images represents a particular type of manipulation that is being 
 -   Variable-ratio reinforcement schedules are most useful in increasing responding
 
 ![](assets/extinction_schedules.jpg)
+
+
 
 ## Variable ratio reinforcement in games
 
