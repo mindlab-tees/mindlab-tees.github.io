@@ -1,4 +1,5 @@
 ---
+brand: ../../_brand_mind.yml
 author: 
     name: Dr Christopher Wilson
     email: christopher.wilson@tees.ac.uk
@@ -17,7 +18,7 @@ title-slide-attributes:
   data-background-size: cover
   data-background-opacity: "0.3"
 subtitle: "How how psychology researchers tackle complex problems"
-brand: "_brand_mind.yml"
+
 
 ---
 
