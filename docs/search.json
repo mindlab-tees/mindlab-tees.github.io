@@ -144,7 +144,7 @@
     "href": "slides/school_talk/index.html#overview",
     "title": "Breaking big problems into small pieces…",
     "section": "Overview",
-    "text": "Overview\n\nHow do do psychology researchers tackle complex problems?\nHow pigeons helped get people to spend money to their in mobile games\nA psychology research lab\nBrain imaging demonstration"
+    "text": "Overview\n\nHow do do psychology researchers tackle complex problems?\nHow pigeons helped get people to spend money to their in mobile games\nA psychology research lab\nComputer-based tasks in the lab\nBrain imaging demonstration"
   },
   {
     "objectID": "slides/school_talk/index.html#gambling-can-be-examined-at-multiple-levels",
@@ -263,7 +263,7 @@
     "href": "slides/school_talk/index.html#summary",
     "title": "Breaking big problems into small pieces…",
     "section": "Summary",
-    "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
+    "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nWe design computer-based tasks to examine specific elements of behaviour and cognition\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
   },
   {
     "objectID": "people/chris.html",
@@ -404,5 +404,19 @@
     "title": "Functional Near-Infrared Spectroscopy",
     "section": "",
     "text": "We currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions."
+  },
+  {
+    "objectID": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
+    "href": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Beahvioural / cognitive tasks in the lab",
+    "text": "Beahvioural / cognitive tasks in the lab\n\nWe use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.\nWe can measure reaction times, accuracy, and other behavioural measures.\nWe can also measure physiological responses (e.g., heart rate, skin conductance)."
+  },
+  {
+    "objectID": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
+    "href": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
+    "title": "Breaking big problems into small pieces…",
+    "section": "What pieces of gambling behaviour does the task examine?",
+    "text": "What pieces of gambling behaviour does the task examine?\nThis is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:\n\nRisk perception\nRisk taking\nAdjusting behaviour based on consequences\n\nWe can combine this with other measures to get a more complete picture."
   }
 ]

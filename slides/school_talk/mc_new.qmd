@@ -27,7 +27,8 @@ subtitle: "How how psychology researchers tackle complex problems"
 1. How do do psychology researchers tackle complex problems?
 2. How pigeons helped get people to spend money to their in mobile games
 3. A psychology research lab
-4. Brain imaging demonstration 
+4. Computer-based tasks in the lab
+5. Brain imaging demonstration 
 
 # How do do psychology researchers tackle complex problems?  {background-image="assets/complex.png"}
 
@@ -222,6 +223,28 @@ This means that just by exposing us to something repeatedly, we are likley to ha
 <https://www.themindlab.uk>
 <iframe src="https://themindlab.uk" title="https://quarto.org/" width="960" height="600"></iframe>
 
+## Beahvioural / cognitive tasks in the lab
+
+-   We use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.
+
+-   We can measure reaction times, accuracy, and other behavioural measures.
+
+-   We can also measure physiological responses (e.g., heart rate, skin conductance).
+
+# What pieces of gambling behaviour does the following task examine? {background-color="#FF6F20"}
+
+[An example task](https://jatos2.christopherjwilson.uk/publix/CyQWQ0u9kGk){target="_blank"}
+
+## What pieces of gambling behaviour does the task examine?
+
+This is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:
+
+-   Risk perception
+-   Risk taking
+-   Adjusting behaviour based on consequences
+
+We can combine this with other measures to get a more complete picture.
+
 # Brain Imaging Demonstration {background-color="#FF6F20"}
 
 ## Functional Near Infrared Spectroscopy
@@ -230,13 +253,14 @@ This means that just by exposing us to something repeatedly, we are likley to ha
 - This can tell is which areas of the brain are active at any given time
 - The prefrontal cortex is involved in thinking and decision-making
 
-# I need a volunteer {background-color="#FF6F20"}
+# I need a volunteer! {background-color="#FF6F20"}
 
 ## Summary
 
 1. We tackle complex problems by breaking them into smaller pieces
 2. Combining those pieces of knowledge give us the big picture 
 3. In a lab, we have many projects running at the same time looking at a given topic
-4. fNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition
+4. We design computer-based tasks to examine specific elements of behaviour and cognition
+5. fNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition
 
 # Any questions? {background-color="#FF6F20"}
