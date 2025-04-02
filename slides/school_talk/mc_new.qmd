@@ -130,7 +130,7 @@ Perceived scarcity can drive us to value something more than we might otherwise 
 ::: r-stack
 ![](assets/panic_buying.webp){.fragment}
 
-![](/assets/ps5_scarcity.png){.fragment}
+![](assets/ps5_scarcity.png){.fragment}
 :::
 
 ::: notes
