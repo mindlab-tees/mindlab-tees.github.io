@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/events/college_talk.html",
       "/events/intro_to_fnirs.html",
       "/people/chris.html",
       "/people/srdan.html"

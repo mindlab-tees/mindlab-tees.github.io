@@ -17,6 +17,10 @@ li::marker {
   color: #FF6F20;
 }
 
+.reveal .slides {
+  font-family: 'Atkinson Hyperlegible'
+  
+}
 .reveal .title-slide h1 {
   background: rgba(0, 0, 0, 0.5); 
   color: white;
