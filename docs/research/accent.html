@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to the Lab – The MIND Lab</title>
+<title>Is non-native speech processed in less detail and, if so, why? – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,27 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-2f888a9df4d438511fe441eb1046b373.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-a90412ab12e10e4c76bfe8821856a4ea.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dark-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2f888a9df4d438511fe441eb1046b373.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-a90412ab12e10e4c76bfe8821856a4ea.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dark-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -74,20 +74,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-events .list');
+    const listingTargetEl = window.document.querySelector('#listing-related-content .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-event-date','listing-event-location','listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-events'] = new List('listing-events', options);
+    window['quarto-listings']['listing-related-content'] = new List('listing-related-content', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -102,7 +102,7 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-people .list');
+    const listingTargetEl = window.document.querySelector('#listing-lab-members .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -115,7 +115,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-people'] = new List('listing-people', options);
+    window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -159,7 +159,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -167,15 +167,15 @@ window.Quarto = {
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <div id="quarto-announcement" data-announcement-id="da8b9ad2430bacfafc2fdc11cbec58e0" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are currently recruiting participants for research on campus. Click <a href="./recruitment.html">here</a> to learn more.</p>
+<p>We are currently recruiting participants for research on campus. Click <a href="../recruitment.html">here</a> to learn more.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/icon.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/icon.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">The MIND Lab</span>
     </a>
   </div>
@@ -186,23 +186,23 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./tools.html"> 
+    <a class="nav-link" href="../tools.html"> 
 <span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recruitment.html"> 
+    <a class="nav-link" href="../recruitment.html"> 
 <span class="menu-text">Research Participation</span></a>
   </li>  
 </ul>
@@ -222,8 +222,12 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to the Lab</h1>
-</div>
+<h1 class="title">Is non-native speech processed in less detail and, if so, why?</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">speech</div>
+    <div class="quarto-category">accent</div>
+  </div>
+  </div>
 
 
 
@@ -239,28 +243,48 @@ window.Quarto = {
 </header>
 
 
-<p>The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.</p>
-<p>We are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations.</p>
-<div id="listing-people" class="quarto-listing quarto-listing-container-grid">
+<!--[![](https://img.shields.io/badge/OSF-3vx2w-green)](https://osf.io/3vx2w/) -->
+<section id="research-overview" class="level2">
+<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
+<p>In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.</p>
+<p>The goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.</p>
+<p>We contrast these potential accounts by manipulating speaker accent (native vs.&nbsp;non-native) and information about the speaker’s expertise (expert vs.&nbsp;non-expert).</p>
+</section>
+<section id="lab-members-involved-in-this-research" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-research">Lab members involved in this research</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741536651662" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
-<a href="./people/chris.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741877486065" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="../people/lisa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/chris.webp" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="../images/lisa.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Christopher Wilson
+Lisa Cassidy
 </h5>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1744375825110" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<a href="./people/srdan.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1741877498672" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="../people/lorraine.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./images/srdan.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lorraine Temple
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1741877491792" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<a href="../people/srdan.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/srdan.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -272,69 +296,23 @@ Srdan Medimorec
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<section id="lab-events" class="level2">
-<h2 class="anchored" data-anchor-id="lab-events">Lab Events</h2>
-<div id="listing-events" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Zm5pcnMlMkNnYW1ibGluZyUyQ2dhbWluZw==" data-listing-file-modified-sort="1744373730943" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<div class="thumbnail"><a href="./events/college_talk.html" class="no-external">
+<!--
+## More on hypomania:
 
-<img loading="lazy" src="./images/jigsaw.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/college_talk.html" class="no-external">Breaking big problems into small pieces…</a>
-</h3>
-<div class="delink listing-description"><a href="./events/college_talk.html" class="no-external">
-<p>This session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./events/college_talk.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-04-02
-</div>
-<div class="metadata-value listing-event-location">
-Themis Building, Psychology Dept.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Zm5pcnM=" data-listing-file-modified-sort="1741545565130" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
-<div class="thumbnail"><a href="./events/intro_to_fnirs.html" class="no-external">
-
-<img loading="lazy" src="./images/fnirs_plot.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/intro_to_fnirs.html" class="no-external">Introduction to Functional Near-Infrared Spectroscopy</a>
-</h3>
-<div class="delink listing-description"><a href="./events/intro_to_fnirs.html" class="no-external">
-This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./events/intro_to_fnirs.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2024-10-23
-</div>
-<div class="metadata-value listing-event-location">
-Themis fNIRS lab
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+::: {#related-content}
+:::
+-->
 
 
 
 </section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-default" id="listing-related-content">
+<div class="list quarto-listing-default">
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

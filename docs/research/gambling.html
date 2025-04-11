@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Dr Christopher Wilson">
 
-<title>Breaking big problems into small pieces… – The MIND Lab</title>
+<title>Social, Cognitve and Neurological Factors in Gambling Behaviour – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,25 +23,27 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../../">
-<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-dark-2f888a9df4d438511fe441eb1046b373.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-a90412ab12e10e4c76bfe8821856a4ea.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-dark-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/bootstrap/bootstrap-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-2f888a9df4d438511fe441eb1046b373.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-a90412ab12e10e4c76bfe8821856a4ea.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dark-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-8e33201c595aa0ea0ad96cd4231ccef7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,25 +71,83 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-lab-members .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="../../styles.css">
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <div id="quarto-announcement" data-announcement-id="da8b9ad2430bacfafc2fdc11cbec58e0" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are currently recruiting participants for research on campus. Click <a href="../../recruitment.html">here</a> to learn more.</p>
+<p>We are currently recruiting participants for research on campus. Click <a href="../recruitment.html">here</a> to learn more.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../../images/icon.png" alt="" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/icon.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="../../index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">The MIND Lab</span>
     </a>
   </div>
@@ -99,23 +158,23 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../research.html"> 
+    <a class="nav-link" href="../research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../tools.html"> 
+    <a class="nav-link" href="../tools.html"> 
 <span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../recruitment.html"> 
+    <a class="nav-link" href="../recruitment.html"> 
 <span class="menu-text">Research Participation</span></a>
   </li>  
 </ul>
@@ -129,36 +188,28 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.html"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Breaking big problems into small pieces…</h1>
-<p class="subtitle lead">How how psychology researchers tackle complex problems</p>
-</div>
+<h1 class="title">Social, Cognitve and Neurological Factors in Gambling Behaviour</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">gambling</div>
+    <div class="quarto-category">fnirs</div>
+    <div class="quarto-category">risk perception</div>
+    <div class="quarto-category">decision-making</div>
+    <div class="quarto-category">social identity</div>
+    <div class="quarto-category">implicit accociation</div>
+  </div>
+  </div>
 
 
-<div class="quarto-title-meta-author">
-  <div class="quarto-title-meta-heading">Author</div>
-  <div class="quarto-title-meta-heading">Affiliation</div>
-  
-    <div class="quarto-title-meta-contents">
-    <p class="author">Dr Christopher Wilson <a href="mailto:christopher.wilson@tees.ac.uk" class="quarto-title-author-email"><i class="bi bi-envelope"></i></a> </p>
-  </div>
-  <div class="quarto-title-meta-contents">
-        <p class="affiliation">
-            Teesside University
-          </p>
-      </div>
-  </div>
 
 <div class="quarto-title-meta">
 
-      
+    
   
     
   </div>
@@ -168,240 +219,44 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<ol type="1">
-<li>How do do psychology researchers tackle complex problems?</li>
-<li>How pigeons helped get people to spend money to their in mobile games</li>
-<li>A psychology research lab</li>
-<li>Computer-based tasks in the lab</li>
-<li>Brain imaging demonstration</li>
-</ol>
+<p><a href="https://osf.io/z5ky8/"><img src="https://img.shields.io/badge/OSF-z5ky8-green.png" class="img-fluid"></a></p>
+<section id="research-overview" class="level2">
+<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
+<p>This work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.</p>
+<p>In addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania.</p>
 </section>
-<section id="how-do-do-psychology-researchers-tackle-complex-problems" class="level1" data-background-image="assets/complex.png">
-<h1 data-background-image="assets/complex.png">How do do psychology researchers tackle complex problems?</h1>
+<section id="projects" class="level2">
+<h2 class="anchored" data-anchor-id="projects">Projects</h2>
+<p><strong>“It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.</strong></p>
+<p>This project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. A link to the project site will be added here when available. The project is led by Dr.&nbsp;Christopher Wilson and Co-investigators Dr.&nbsp;Srdan Medimorec, Dr.&nbsp;Robert Portman, Dr.&nbsp;Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.</p>
 </section>
-<section id="section" class="level1" data-background-image="assets/psychology.png" data-background-size="contain">
-<h1 data-background-image="assets/psychology.png" data-background-size="contain"></h1>
-</section>
-<section id="focus-harmful-gambling" class="level1" data-background-image="assets/gambling.jpg">
-<h1 data-background-image="assets/gambling.jpg">Focus: Harmful gambling</h1>
-<section id="gambling-can-be-examined-at-multiple-levels" class="level2 smaller">
-<h2 class="smaller anchored" data-anchor-id="gambling-can-be-examined-at-multiple-levels">Gambling can be examined at multiple levels</h2>
-<ul>
-<li><p>Social: Social norms around gambling, peer influences, accessibility of gambling (e.g., online platforms), societal costs.</p></li>
-<li><p>Relational: Impact of gambling on family and relationships, co-dependency.</p></li>
-<li><p>Behavioral: Compulsive gambling, reinforcement, addiction.</p></li>
-<li><p>Cognitive: Cognitive distortions (e.g., gambler’s fallacy, illusion of control), risk assessment, decision-making processes.</p></li>
-<li><p>Neurological: Reward pathways in the brain, neurotransmitter involvement (e.g., dopamine), brain activity during gambling.</p></li>
-</ul>
-</section>
-<section id="how-do-we-tackle-such-a-complex-problem" class="level2">
-<h2 class="anchored" data-anchor-id="how-do-we-tackle-such-a-complex-problem">How do we tackle such a complex problem?</h2>
-<ul>
-<li>Break it down into smaller pieces.</li>
-<li>Use different methods to examine each piece.</li>
-<li>Integrate knowledge across levels.</li>
-</ul>
-<p><img src="assets/jigsaw.jpg" class="r-stretch img-fluid"></p>
-</section>
-<section id="section-1" class="level2" data-background-image="assets/methods.png" data-background-repeat="contain">
-<h2 data-background-image="assets/methods.png" data-background-repeat="contain" class="anchored" data-anchor-id="section-1"></h2>
-</section>
-</section>
-<section id="how-pigeons-helped-get-people-to-spend-money-to-their-in-mobile-games" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">How pigeons helped get people to spend money to their in [mobile] games</h1>
-<p>How combining pieces of knowledge can help us understand the complex problem</p>
-<section id="section-2" class="level2" data-background-color="#FF6F20">
-<h2 data-background-color="#FF6F20" class="anchored" data-anchor-id="section-2"></h2>
-<iframe height="100%" width="100%" src="https://youtube.com/embed/VL7dpByBC_A?autoplay=1&amp;controls=0&amp;showinfo=0&amp;autohide=1">
-</iframe>
-</section>
-</section>
-<section id="problem-the-manipulation-of-people-to-keep-them-engaged-with-gamesapps-and-spend-money" class="level1" data-background-image="assets/phone.png" data-background-repeat="cover" color="white">
-<h1 data-background-image="assets/phone.png" data-background-repeat="cover" color="white">Problem: The manipulation of people to keep them engaged with games/apps (and spend money)</h1>
-<div class="notes">
-<p>Does anyone recognise this issue? Who is aware of the term “dark patterns”?</p>
+<section id="lab-members-involved-in-this-research" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-research">Lab members involved in this research</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1741536651662" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<a href="../people/chris.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/chris.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Christopher Wilson
+</h5>
 </div>
-</section>
-<section id="what-do-all-of-the-following-images-have-in-common" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">What do all of the following images have in common?</h1>
-</section>
-<section id="section-3" class="level1" data-background-image="assets/gambling_examples.png" data-background-repeat="cover" color="white">
-<h1 data-background-image="assets/gambling_examples.png" data-background-repeat="cover" color="white"></h1>
-<div class="notes">
-<p>What do all of these images have in common? Each of these images represents a particular type of manipulation that is being combined to hook people into games</p>
+</div></a>
 </div>
-</section>
-<section id="section-4" class="level1" data-background-image="assets/pigeon1.webp" data-background-repeat="cover" color="white">
-<h1 data-background-image="assets/pigeon1.webp" data-background-repeat="cover" color="white"></h1>
-</section>
-<section id="section-5" class="level1" data-background-image="assets/skinner.jpg" data-background-repeat="cover" color="white">
-<h1 data-background-image="assets/skinner.jpg" data-background-repeat="cover" color="white"></h1>
-<section id="operant-conditioning" class="level2">
-<h2 class="anchored" data-anchor-id="operant-conditioning">Operant conditioning</h2>
-<ul>
-<li>Conditioning through reinforcement of responding</li>
-<li>If we receive a reward for an action, the behaviour is reinforced.</li>
-</ul>
-<p><img src="assets/pigeon2.jpg" class="img-fluid"></p>
-</section>
-<section id="reinforcement-schedules" class="level2">
-<h2 class="anchored" data-anchor-id="reinforcement-schedules">Reinforcement schedules</h2>
-<ul>
-<li>Variable-ratio reinforcement schedules are most useful in increasing responding</li>
-</ul>
-<p><img src="assets/extinction_schedules.jpg" class="img-fluid"></p>
-</section>
-<section id="variable-ratio-reinforcement-in-games" class="level2">
-<h2 class="anchored" data-anchor-id="variable-ratio-reinforcement-in-games">Variable ratio reinforcement in games</h2>
-<p><img src="assets/vrrgame.webp" class="img-fluid"></p>
-</section>
-<section id="variable-ratio-reinforcement-in-games-1" class="level2">
-<h2 class="anchored" data-anchor-id="variable-ratio-reinforcement-in-games-1">Variable ratio reinforcement in games</h2>
-<p><img src="assets/fifa.jpg" class="img-fluid"></p>
-</section>
-<section id="variable-ratio-reinforcement-in-games-2" class="level2">
-<h2 class="anchored" data-anchor-id="variable-ratio-reinforcement-in-games-2">Variable ratio reinforcement in games</h2>
-<p><img src="assets/stumbleguys.png" class="img-fluid"></p>
-</section>
-</section>
-<section id="people-are-not-pigeons" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">People are not pigeons…</h1>
-</section>
-<section id="section-6" class="level1" data-background-image="assets/pigeonman.png" data-background-repeat="cover" color="white">
-<h1 data-background-image="assets/pigeonman.png" data-background-repeat="cover" color="white"></h1>
-</section>
-<section id="people-are-easier-to-manipulate.." class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">People are easier to manipulate..</h1>
-<section id="our-perception-of-value-can-be-manipulated" class="level2">
-<h2 class="anchored" data-anchor-id="our-perception-of-value-can-be-manipulated">Our perception of value can be manipulated</h2>
-<p>Perceived scarcity can drive us to value something more than we might otherwise do</p>
-<div class="r-stack">
-<p><img src="assets/panic_buying.webp" class="fragment img-fluid"></p>
-<p><img src="assets/ps5_scarcity.png" class="fragment img-fluid"></p>
 </div>
-<div class="notes">
-<p>Loss aversion is a strong driver of our behaviour.</p>
+<div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-<section id="artificial-scarcity-is-used-to-create-f.o.m.o" class="level2">
-<h2 class="anchored" data-anchor-id="artificial-scarcity-is-used-to-create-f.o.m.o">Artificial scarcity is used to create F.O.M.O</h2>
-<div class="r-stack">
-<p><img src="assets/stumbleguys.png" class="fragment" width="900" height="500"></p>
-<p><img src="assets/fifa.jpg" class="fragment" width="900" height="500"></p>
-</div>
-<div class="notes">
-<p>You might think that people would be savvy, and realise what is happening. But our ability to reflect is often short-circuted by tapping into another process</p>
-</div>
-</section>
-<section id="type-1-and-type-2-thinking-systems" class="level2">
-<h2 class="anchored" data-anchor-id="type-1-and-type-2-thinking-systems">Type 1 and Type 2 thinking systems</h2>
-<ul>
-<li><p>Dual process theory suggests there are two parallel cognitive processing systems, an intuitive and an analytic system.</p></li>
-<li><p>Intuitive thinking is more immediate and emotion-based.</p></li>
-<li><p>Analytic thinking happens later and is more rational and logical.</p></li>
-</ul>
-<div class="notes">
-<p>If you can get someone to act quickly, they might act in a way that is less rational and more led by emotions.</p>
-</div>
-</section>
-<section id="limited-time-offers" class="level2">
-<h2 class="anchored" data-anchor-id="limited-time-offers">Limited time offers!</h2>
-<div class="r-stack">
-<p><img src="assets/limitedtime1.png" class="fragment img-fluid"></p>
-<p><img src="assets/limitedtimeoffer2.jpg" class="fragment img-fluid"></p>
-<p><img src="assets/lto3.png" class="fragment" width="900" height="500"></p>
-</div>
-<div class="notes">
-<p>By creating artificial scarcity (FOMO) and getting people to act quickly (limited time), you can get them to act more emotionally and less rationally.</p>
-<p>This can be enhanced if you manipulate people’s emotional state too.</p>
-</div>
-</section>
-<section id="the-affect-heuristic" class="level2">
-<h2 class="anchored" data-anchor-id="the-affect-heuristic">The affect heuristic</h2>
-<ul>
-<li><p>Our decisions are often made based on our current emotional state</p></li>
-<li><p>This “gut feeling” often leads to biased judgments or even disregarding of information.</p></li>
-<li><p>Familiarity through exposure is sufficient to generate positive affect.</p></li>
-</ul>
-<div class="notes">
-<p>This means that just by exposing us to something repeatedly, we are likley to have a more positive feeling about it.</p>
-</div>
-</section>
-<section id="influencers-and-fake-games" class="level2">
-<h2 class="anchored" data-anchor-id="influencers-and-fake-games">Influencers and fake games</h2>
-<div class="r-stack">
-<p><img src="assets/fakegame1.png" class="fragment img-fluid"></p>
-<p><img src="assets/fakegame2.png" class="fragment img-fluid"></p>
-<p><img src="assets/fakegame3.png" class="fragment" width="900" height="500"></p>
-</div>
-</section>
-<section id="combination-of-manipulation-techniques" class="level2">
-<h2 class="anchored" data-anchor-id="combination-of-manipulation-techniques">Combination of manipulation techniques</h2>
-<ul>
-<li>Addictive gameplay (Variable ratio reinforcement)</li>
-<li>Artificial scarcity in game stores (value framing)</li>
-<li>Limited time offers in game stores (type 1 thinking)</li>
-<li>Influencers and fake games in ads (affect heuristic)</li>
-</ul>
-</section>
-</section>
-<section id="how-a-psychology-research-lab-works-to-tackle-complex-problems" class="level1" data-background-image="assets/methods.png" data-background-repeat="contain" data-background-opacity="0.3">
-<h1 data-background-image="assets/methods.png" data-background-repeat="contain" data-background-opacity="0.3">How a psychology research lab works to tackle complex problems</h1>
-<section id="section-7" class="level2">
-<h2 class="anchored" data-anchor-id="section-7"></h2>
-<p><a href="https://www.themindlab.uk" class="uri">https://www.themindlab.uk</a> <iframe src="https://themindlab.uk" title="https://quarto.org/" width="960" height="600"></iframe></p>
-</section>
-<section id="beahvioural-cognitive-tasks-in-the-lab" class="level2">
-<h2 class="anchored" data-anchor-id="beahvioural-cognitive-tasks-in-the-lab">Beahvioural / cognitive tasks in the lab</h2>
-<ul>
-<li><p>We use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.</p></li>
-<li><p>We can measure reaction times, accuracy, and other behavioural measures.</p></li>
-<li><p>We can also measure physiological responses (e.g., heart rate, skin conductance).</p></li>
-</ul>
-</section>
-</section>
-<section id="what-pieces-of-gambling-behaviour-does-the-following-task-examine" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">What pieces of gambling behaviour does the following task examine?</h1>
-<p><a href="https://jatos2.christopherjwilson.uk/publix/CyQWQ0u9kGk" target="_blank">An example task</a></p>
-<section id="what-pieces-of-gambling-behaviour-does-the-task-examine" class="level2">
-<h2 class="anchored" data-anchor-id="what-pieces-of-gambling-behaviour-does-the-task-examine">What pieces of gambling behaviour does the task examine?</h2>
-<p>This is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:</p>
-<ul>
-<li>Risk perception</li>
-<li>Risk taking</li>
-<li>Adjusting behaviour based on consequences</li>
-</ul>
-<p>We can combine this with other measures to get a more complete picture.</p>
-</section>
-</section>
-<section id="brain-imaging-demonstration" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">Brain Imaging Demonstration</h1>
-<section id="functional-near-infrared-spectroscopy" class="level2">
-<h2 class="anchored" data-anchor-id="functional-near-infrared-spectroscopy">Functional Near Infrared Spectroscopy</h2>
-<ul>
-<li>Uses light to measure blood oxygenation in the brain</li>
-<li>This can tell is which areas of the brain are active at any given time</li>
-<li>The prefrontal cortex is involved in thinking and decision-making</li>
-</ul>
-</section>
-</section>
-<section id="i-need-a-volunteer" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">I need a volunteer!</h1>
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<ol type="1">
-<li>We tackle complex problems by breaking them into smaller pieces</li>
-<li>Combining those pieces of knowledge give us the big picture</li>
-<li>In a lab, we have many projects running at the same time looking at a given topic</li>
-<li>We design computer-based tasks to examine specific elements of behaviour and cognition</li>
-<li>fNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition</li>
-</ol>
-</section>
-</section>
-<section id="any-questions" class="level1" data-background-color="#FF6F20">
-<h1 data-background-color="#FF6F20">Any questions?</h1>
+<!--
+## More on hypomania:
+
+::: {#related-content}
+:::
+-->
+
 
 
 </section>
