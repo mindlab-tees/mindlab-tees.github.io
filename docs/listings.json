@@ -10,10 +10,7 @@
   },
   {
     "listing": "/tools/cobifnirs.html",
-    "items": [
-      "/projects/hypomania.html",
-      "/projects/gambling.html"
-    ]
+    "items": []
   },
   {
     "listing": "/people.html",
@@ -28,15 +25,7 @@
     ]
   },
   {
-    "listing": "/recruitment.html",
-    "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
-    ]
-  },
-  {
-    "listing": "/projects/accent.html",
+    "listing": "/research/accent.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
@@ -44,9 +33,17 @@
     ]
   },
   {
-    "listing": "/projects/gambling.html",
+    "listing": "/research/gambling.html",
     "items": [
       "/people/chris.html"
+    ]
+  },
+  {
+    "listing": "/recruitment.html",
+    "items": [
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
     ]
   },
   {
@@ -59,23 +56,6 @@
     ]
   },
   {
-    "listing": "/projects/metacognition.html",
-    "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
-    ]
-  },
-  {
-    "listing": "/projects/hypomania.html",
-    "items": [
-      "/people/alana.html",
-      "/people/chris.html",
-      "/people/david.html",
-      "/people/jaya-priya.html"
-    ]
-  },
-  {
     "listing": "/tools.html",
     "items": [
       "/tools/cobifnirs.html",
@@ -84,16 +64,11 @@
     ]
   },
   {
-    "listing": "/tools/fnirs.html",
+    "listing": "/research/metacognition.html",
     "items": [
-      "/projects/hypomania.html",
-      "/projects/gambling.html"
-    ]
-  },
-  {
-    "listing": "/research/gambling.html",
-    "items": [
-      "/people/chris.html"
+      "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/srdan.html"
     ]
   },
   {
@@ -106,19 +81,7 @@
     ]
   },
   {
-    "listing": "/research/metacognition.html",
-    "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
-    ]
-  },
-  {
-    "listing": "/research/accent.html",
-    "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
-    ]
+    "listing": "/tools/fnirs.html",
+    "items": []
   }
 ]
