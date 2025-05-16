@@ -1,0 +1,18 @@
+---
+title: "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)"
+image: "../images/afsg.jpg"
+categories:
+  - funding
+  - gambling
+news-date: 2025-05-1
+---
+
+![](../images/afsg.jpg){style="display: block; margin: 0 auto; width:50%" }
+
+The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction.
+
+Highlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the [AFSG](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/):
+
+>"The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”
+    
+Project updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research.
