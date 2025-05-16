@@ -26,4 +26,3 @@ If you have questions or would like to contribute to the package, please get in 
 The github repository for the package can be found [here](https://github.com/christopherjwilson/cobifnirs).
 
 
-## Related to this topic:
