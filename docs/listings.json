@@ -39,11 +39,11 @@
     ]
   },
   {
-    "listing": "/recruitment.html",
+    "listing": "/tools.html",
     "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
+      "/tools/cobifnirs.html",
+      "/tools/custom_tasks.html",
+      "/tools/fnirs.html"
     ]
   },
   {
@@ -56,11 +56,11 @@
     ]
   },
   {
-    "listing": "/tools.html",
+    "listing": "/recruitment.html",
     "items": [
-      "/tools/cobifnirs.html",
-      "/tools/custom_tasks.html",
-      "/tools/fnirs.html"
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
     ]
   },
   {
