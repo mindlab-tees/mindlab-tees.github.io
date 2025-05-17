@@ -18,7 +18,7 @@ The MIND Lab is based in the Department of Psychology at Teesside University. Th
 
 We are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations.
 
-::: {.callout-tip}
+::: {.callout}
 ## Joining the lab
 
 If you are intersted in joining the lab, the fist step is reading the [Lab Manual](info/lab_manual.html). This will give you an overview of the lab's research, methods, and culture.
