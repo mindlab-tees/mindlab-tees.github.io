@@ -13,19 +13,16 @@
     "items": []
   },
   {
-    "listing": "/people.html",
+    "listing": "/research/hypomania.html",
     "items": [
-      "/people/chris.html",
-      "/people/srdan.html",
-      "/people/lisa.html",
-      "/people/lorraine.html",
       "/people/alana.html",
+      "/people/chris.html",
       "/people/david.html",
       "/people/jaya-priya.html"
     ]
   },
   {
-    "listing": "/research/accent.html",
+    "listing": "/research/metacognition.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
@@ -33,17 +30,11 @@
     ]
   },
   {
-    "listing": "/research/gambling.html",
+    "listing": "/recruitment.html",
     "items": [
-      "/people/chris.html"
-    ]
-  },
-  {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/cobifnirs.html",
-      "/tools/custom_tasks.html",
-      "/tools/fnirs.html"
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
     ]
   },
   {
@@ -56,15 +47,21 @@
     ]
   },
   {
-    "listing": "/recruitment.html",
+    "listing": "/tools.html",
     "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
+      "/tools/cobifnirs.html",
+      "/tools/custom_tasks.html",
+      "/tools/fnirs.html"
     ]
   },
   {
-    "listing": "/research/metacognition.html",
+    "listing": "/research/gambling.html",
+    "items": [
+      "/people/chris.html"
+    ]
+  },
+  {
+    "listing": "/research/accent.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
@@ -72,10 +69,13 @@
     ]
   },
   {
-    "listing": "/research/hypomania.html",
+    "listing": "/people.html",
     "items": [
-      "/people/alana.html",
       "/people/chris.html",
+      "/people/srdan.html",
+      "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/alana.html",
       "/people/david.html",
       "/people/jaya-priya.html"
     ]

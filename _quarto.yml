@@ -24,6 +24,8 @@ website:
         text: Tools
       - href: people.qmd
         text: People
+      - href: training/index.qmd
+        text: Training
       - href: recruitment.qmd
         text: Research Participation
 format:
