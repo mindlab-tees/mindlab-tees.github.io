@@ -7,7 +7,7 @@ categories:
   - R
 listing:
   contents:
-  - "../projects/*.qmd"
+  - "../research/*.qmd"
   type: grid
   fields: [image, title]
   include:
@@ -25,4 +25,4 @@ If you have questions or would like to contribute to the package, please get in 
 
 The github repository for the package can be found [here](https://github.com/christopherjwilson/cobifnirs).
 
-
+### Projects that use the package:

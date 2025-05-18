@@ -5,7 +5,7 @@ categories:
   - fnirs
 listing:
   contents:
-  - "../projects/*.qmd"
+  - "../research/*.qmd"
   type: grid
   fields: [image, title]
   include:
