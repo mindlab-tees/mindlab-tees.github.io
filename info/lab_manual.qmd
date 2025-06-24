@@ -7,7 +7,20 @@ format:
     mainfont: "Lexica Ultralegible"
 ---
 
-Last Updated: April 2025
+Last Updated: June 2025
+
+
+## How to join the lab
+
+If you are interested in joining the lab, please contact [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Joining the MIND Lab) or [Dr. Srdan Medimorec](s.medimorec@tees.ac.uk?subject=Joining the MIND Lab).
+
+Joining the lab means attending lab meetings, contributing to research projects (as appropriate to your career stage), and engaging with other lab members. 
+
+ - [Info for Undergraduate Students](#sec-ug)
+ - [Info for MSc Students](#sec-msc) 
+ - [Info for Doctoral Researchers](#sec-doctoral). 
+
+If you would like to gain some volunteer experience in a lab environment, you can also join the lab through VolunTees (Teesside University's volunteering service). You can apply [here](https://voluntees.co.uk/opportunity/96384).
 
 ## Overview
 
@@ -69,7 +82,7 @@ We will:
 - Be available to answer your questions and provide feedback
 - Keep you in the loop about the direction of the lab and its research agenda and allow you to contribute to that agenda
 
-### Doctoral students
+### Doctoral students {#sec-doctoral}
 
 Doctoral students are taking the first steps in their academic careers, but in the lab are relatively senior members of the team. The lab leads will support you in your development as a researcher and aim to put you in the best position to succeed in your academic career. 
 
@@ -84,7 +97,7 @@ Doctoral students will (with the support of the lab leads):
 
 We will support doctoral students in applying for external funding to support their research and dissemination. We will also support doctoral students in applying for post-doctoral positions and other academic opportunities.
 
-### MSc students
+### MSc students {#sec-msc}
 
 MSc students are expected to take a more active role in the lab than undergraduate students. They might be considering a career in research and the lab is a good opportunity to gain experience and develop their skills.
 
@@ -97,7 +110,7 @@ MSc students will (with the support of the lab leads and doctoral students):
 
 MSc students might publish their work in peer-reviewed journals and present at conferences, but this will often be dependent on the nature of their MSc project or as part of a larger project. We will support MSc students to apply for external bursaries to support their research or dissemination.
 
-### Undergraduate students
+### Undergraduate students {#sec-ug}
 
 Undergraduate students are expected to take an active role in the lab, but they are also at the beginning of their academic careers. Being a member of the lab is about learning from the other researchers and developing your skills.
 
@@ -108,7 +121,7 @@ Undergraduate students will (with the support of the lab leads and doctoral/MSc 
 
 Undergraduate students might publish their work in peer-reviewed journals as part of a larger project. We will also support undergraduate students in applying for student conferences, if they are interested in doing so.
 
-### Research assistants/associates
+### Research assistants/associates {#sec-ra}
 
 Research assistants and associates are typically early career researchers who are looking to gain experience in a lab environment. They may be working on a specific project or providing support to the lab leads and other lab members.
 
@@ -123,10 +136,6 @@ RAs will (with the support of the lab leads and other lab members):
 - Publish their work in peer-reviewed journals and present at conferences (as appropriate)
 
 We will support RAs in applying for external funding to support their research and dissemination. We will also support RAs in applying for post-graduate/post-doctoral positions and other academic opportunities (as appropriate).
-
-## Opportunities and how to get involved
-
-The MIND lab is always looking for curious and motivated researchers to join our team. If you are interested in joining the lab, please contact us. 
 
 ## Lab culture and practices
 

@@ -8,4 +8,4 @@ about:
   image-width: 10em
   image-shape: round
 ---
-I am an MSc. student who is interested in the fascinating intersections of cognition, mental health, and decision-making. I have a passion for rigorous research and real-world impact, my goal is to advance psychology research while developing practical interventions that empower individuals to thrive.
+I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field.
