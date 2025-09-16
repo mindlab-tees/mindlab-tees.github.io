@@ -1,17 +1,24 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/tools/fnirs.html",
     "items": [
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html",
-      "/news/afsg_award.html"
+      "/research/hypomania.html",
+      "/research/gambling.html"
     ]
   },
   {
     "listing": "/tools/cobifnirs.html",
     "items": [
       "/research/hypomania.html",
+      "/research/gambling.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/hypomania.html",
+      "/research/accent.html",
+      "/research/metacognition.html",
       "/research/gambling.html"
     ]
   },
@@ -25,50 +32,22 @@
     ]
   },
   {
-    "listing": "/research/metacognition.html",
-    "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
-    ]
-  },
-  {
-    "listing": "/recruitment.html",
-    "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/hypomania.html",
-      "/research/accent.html",
-      "/research/metacognition.html",
-      "/research/gambling.html"
-    ]
-  },
-  {
-    "listing": "/tools.html",
-    "items": [
-      "/tools/cobifnirs.html",
-      "/tools/custom_tasks.html",
-      "/tools/fnirs.html"
-    ]
-  },
-  {
-    "listing": "/research/gambling.html",
-    "items": [
-      "/people/chris.html"
-    ]
-  },
-  {
     "listing": "/research/accent.html",
     "items": [
       "/people/lisa.html",
       "/people/lorraine.html",
       "/people/srdan.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html",
+      "/news/lab_schedule_sem1.html",
+      "/news/tu_research_fair.html",
+      "/news/afsg_award.html"
     ]
   },
   {
@@ -84,10 +63,33 @@
     ]
   },
   {
-    "listing": "/tools/fnirs.html",
+    "listing": "/recruitment.html",
     "items": [
-      "/research/hypomania.html",
-      "/research/gambling.html"
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
+    ]
+  },
+  {
+    "listing": "/research/gambling.html",
+    "items": [
+      "/people/chris.html"
+    ]
+  },
+  {
+    "listing": "/research/metacognition.html",
+    "items": [
+      "/people/lisa.html",
+      "/people/lorraine.html",
+      "/people/srdan.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/cobifnirs.html",
+      "/tools/custom_tasks.html",
+      "/tools/fnirs.html"
     ]
   }
 ]

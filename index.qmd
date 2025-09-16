@@ -8,6 +8,7 @@ listing:
     sort: "event-date desc"
     fields: [event-date, event-location, image, title, description]
   - id: news
+    sort: "news-date desc"
     contents: "news/*qmd"
     type: default
     fields: [image, title, description, news-date]

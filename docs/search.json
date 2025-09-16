@@ -1,38 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Lab",
-    "section": "",
-    "text": "The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.\nWe are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
-  },
-  {
-    "objectID": "index.html#lab-news",
-    "href": "index.html#lab-news",
-    "title": "Welcome to the Lab",
-    "section": "Lab News",
-    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nGrant awarded by the Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\n\n\n\n2025-05-1\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#lab-events",
-    "href": "index.html#lab-events",
-    "title": "Welcome to the Lab",
-    "section": "Lab Events",
-    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.\n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "tools/cobifnirs.html",
-    "href": "tools/cobifnirs.html",
-    "title": "COBI fNIRS R Package",
-    "section": "",
-    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "training/index.html",
     "href": "training/index.html",
     "title": "Research training in the MIND Lab",
     "section": "",
-    "text": "Each semester, the lab leads and doctoral students deliver a series of seminars on various topics related to research training. The seminars are designed to provide students with the necessary skills and knowledge to conduct research in the field of cognitve psychology and neuroscience."
+    "text": "Each semester, the lab leads and doctoral students deliver a series of seminars on various topics related to research training. The seminars are designed to provide students with the necessary skills and knowledge to conduct research in the field of cognitive psychology and neuroscience."
+  },
+  {
+    "objectID": "training/index.html#meeting-schedule-for-semester-1-20252026",
+    "href": "training/index.html#meeting-schedule-for-semester-1-20252026",
+    "title": "Research training in the MIND Lab",
+    "section": "Meeting schedule for Semester 1 2025/2026",
+    "text": "Meeting schedule for Semester 1 2025/2026\nThe seminars are open to all students in the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nRoom TBC - will be added soon.\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nChris Talk - Research Stream Update\n\n\n13/11/25\nIntroduction to fNIRS for brain imaging\n\n\n27/11/25\nLab meeting\n\n\n15/01/26\nIntroduction to eyetracking for cognitive psychology\n\n\n29/01/26\nLab meeting\n\n\n12/2/2026\nDesigning and coding experiments with OpenSesame\n\n\n26/02/26\nLab meeting\n\n\n12/3/2026\nUsing OpenScience Framework (OSF) for research management"
   },
   {
     "objectID": "training/index.html#core-skills-for-cognitive-psychology-and-neuroscience-research",
@@ -47,6 +26,97 @@
     "title": "Research training in the MIND Lab",
     "section": "Advanced skills for cognitive psychology and neuroscience research",
     "text": "Advanced skills for cognitive psychology and neuroscience research\n\nIntroduction to JSPsych for coding online experimental tasks\n\nJSPsych is a JavaScript library for creating and running online psychological experiments. It is designed to be flexible and easy to use, allowing researchers to create a wide range of experimental paradigms that can be run in web browsers.\nLike OpenSesame, JSPsych supports various types of stimuli, including images, sounds, and videos, and can be used to collect data from participants in both laboratory and online settings.\nJSPsych is particularly useful for researchers who want to run experiments online, due to its ability to collect data from participants in real-time and its compatibility with various web-based platforms. However, it requires programming knowledge, as it is based on JavaScript and HTML.\nIn this workshop, we will cover the basics of using JSPsych for coding online experimental tasks, including how to create a simple experiment, how to use different types of stimuli, and how to collect and analyze data. We will also discuss some common applications of JSPsych in cognitive psychology and neuroscience research.\n\n\nMixed effects modelling with R\nMixed effects modelling is a powerful statistical technique used to analyze data with complex hierarchical structures, such as repeated measures or nested data. It allows researchers to account for both fixed and random effects in their models, making it a valuable tool for analyzing data in cognitive psychology and neuroscience research.\nIn this workshop, we will cover the basics of mixed effects modelling with R, including how to fit mixed effects models using the lme4 package, how to interpret the results, and how to visualize the results using the ggplot2 package. We will also discuss some common applications of mixed effects modelling in cognitive psychology and neuroscience research."
+  },
+  {
+    "objectID": "tools/fnirs.html",
+    "href": "tools/fnirs.html",
+    "title": "Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "Functional Near-Infrared Spectroscopy (fNIRS) is a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.\n\n\nWe use fnirs to examine brain activity during various cognitive tasks, such as working memory, attention, and decision-making. By measuring changes in blood oxygenation, we can identify brain regions that are involved in these tasks and study how they interact with each other. fNIRS is particularly well-suited for studying brain function over time, and can be used to track changes in brain activity during the course of a task or intervention.\n\n\n\nWe currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions."
+  },
+  {
+    "objectID": "tools/fnirs.html#how-do-we-use-fnirs-in-our-work",
+    "href": "tools/fnirs.html#how-do-we-use-fnirs-in-our-work",
+    "title": "Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "We use fnirs to examine brain activity during various cognitive tasks, such as working memory, attention, and decision-making. By measuring changes in blood oxygenation, we can identify brain regions that are involved in these tasks and study how they interact with each other. fNIRS is particularly well-suited for studying brain function over time, and can be used to track changes in brain activity during the course of a task or intervention."
+  },
+  {
+    "objectID": "tools/fnirs.html#our-system",
+    "href": "tools/fnirs.html#our-system",
+    "title": "Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "We currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions."
+  },
+  {
+    "objectID": "tools/cobifnirs.html",
+    "href": "tools/cobifnirs.html",
+    "title": "COBI fNIRS R Package",
+    "section": "",
+    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Themes",
+    "section": "",
+    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/hypomania.html#research-overview",
+    "href": "research/hypomania.html#research-overview",
+    "title": "Hypomania and Risk-taking",
+    "section": "Research Overview",
+    "text": "Research Overview\nThis work seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.\nWe are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.\nWe use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention."
+  },
+  {
+    "objectID": "research/hypomania.html#lab-members-involved-in-this-research",
+    "href": "research/hypomania.html#lab-members-involved-in-this-research",
+    "title": "Hypomania and Risk-taking",
+    "section": "Lab members involved in this research",
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/accent.html",
+    "href": "research/accent.html",
+    "title": "Is non-native speech processed in less detail and, if so, why?",
+    "section": "",
+    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
+  },
+  {
+    "objectID": "research/accent.html#research-overview",
+    "href": "research/accent.html#research-overview",
+    "title": "Is non-native speech processed in less detail and, if so, why?",
+    "section": "",
+    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
+  },
+  {
+    "objectID": "research/accent.html#lab-members-involved-in-this-research",
+    "href": "research/accent.html#lab-members-involved-in-this-research",
+    "title": "Is non-native speech processed in less detail and, if so, why?",
+    "section": "Lab members involved in this research",
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recruitment/metacognition1.html",
+    "href": "recruitment/metacognition1.html",
+    "title": "Metacognition",
+    "section": "",
+    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+  },
+  {
+    "objectID": "recruitment/metacognition1.html#participants-needed",
+    "href": "recruitment/metacognition1.html#participants-needed",
+    "title": "Metacognition",
+    "section": "",
+    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+  },
+  {
+    "objectID": "recruitment/metacognition1_slide.html#participants-needed",
+    "href": "recruitment/metacognition1_slide.html#participants-needed",
+    "title": "Metacognition",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
   },
   {
     "objectID": "recruitment/accent1.html",
@@ -70,6 +140,195 @@
     "text": "Participants needed!\nTopic: The aim of the study is to investigate the factors underpinning conversational memory.\nLocation: This study takes place online.\nWhat is involved? In conversation, there are multiple factors that determine what will be remembered. The current research will offer insight into the cognitive mechanisms underlying the phenomenon. Participants will be asked to listen to a conversation and complete a fill-in-the-gap task.\nDuration: Time slots are available for 60 minutes, but the experiment will take around 30–45 minutes to complete.\nEligibility: Native English speaker. The study must run on a laptop/PC (not a phone or a tablet). Must NOT have signed up or completed Conversational Memory Version 2.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1140"
   },
   {
+    "objectID": "people/srdan.html",
+    "href": "people/srdan.html",
+    "title": "Srdan Medimorec",
+    "section": "",
+    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
+  },
+  {
+    "objectID": "people/lisa.html",
+    "href": "people/lisa.html",
+    "title": "Lisa Cassidy",
+    "section": "",
+    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
+  },
+  {
+    "objectID": "people/david.html",
+    "href": "people/david.html",
+    "title": "David Minchella",
+    "section": "",
+    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception."
+  },
+  {
+    "objectID": "people/alana.html",
+    "href": "people/alana.html",
+    "title": "Alana Gadsby",
+    "section": "",
+    "text": "Alana is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
+  },
+  {
+    "objectID": "news/afsg_award.html",
+    "href": "news/afsg_award.html",
+    "title": "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)",
+    "section": "",
+    "text": "The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction.\nHighlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the AFSG:\n\n“The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”\n\nProject updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Lab",
+    "section": "",
+    "text": "The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.\nWe are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
+  },
+  {
+    "objectID": "index.html#lab-news",
+    "href": "index.html#lab-news",
+    "title": "Welcome to the Lab",
+    "section": "Lab News",
+    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nLab meeting schedule for Semester 1 published\n\n\n\n\n\n\n\n\n\n\n\n2025-09-16\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab at Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n2025-06-24\n\n\n\n\n\n\n\n\n\n\n\n\nGrant awarded by the Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\n\n\n\n\n\n\n2025-05-1\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#lab-events",
+    "href": "index.html#lab-events",
+    "title": "Welcome to the Lab",
+    "section": "Lab Events",
+    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\n\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media. \n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html",
+    "href": "events/intro_to_fnirs.html",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+  },
+  {
+    "objectID": "events/college_talk.html",
+    "href": "events/college_talk.html",
+    "title": "Breaking big problems into small pieces…",
+    "section": "",
+    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
+  },
+  {
+    "objectID": "events/tu_research_fair.html",
+    "href": "events/tu_research_fair.html",
+    "title": "MIND Lab @ Teesside University Research Fair",
+    "section": "",
+    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
+  },
+  {
+    "objectID": "info/lab_manual.html",
+    "href": "info/lab_manual.html",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "",
+    "text": "Last Updated: June 2025"
+  },
+  {
+    "objectID": "info/lab_manual.html#how-to-join-the-lab",
+    "href": "info/lab_manual.html#how-to-join-the-lab",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "How to join the lab",
+    "text": "How to join the lab\nIf you are interested in joining the lab, please contact Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Joining%20the%20MIND%20Lab) or Dr. Srdan Medimorec.\nJoining the lab means attending lab meetings, contributing to research projects (as appropriate to your career stage), and engaging with other lab members.\n\nInfo for Undergraduate Students\nInfo for MSc Students\nInfo for Doctoral Researchers.\n\nIf you would like to gain some volunteer experience in a lab environment, you can also join the lab through VolunTees (Teesside University’s volunteering service). You can apply here."
+  },
+  {
+    "objectID": "info/lab_manual.html#overview",
+    "href": "info/lab_manual.html#overview",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Overview",
+    "text": "Overview\nThe MIND Lab is a research group based in the Psychology Department at Teesside University. We conduct research into cognition, memory and decision-making, with specific strands of work being led by Dr. Christopher Wilson (decision-making under risk: gambling, financial decision-making) and Dr. Srdan Medimorec (language, meta-cognition, implicit learning).\nThis document outlines our approach to conducting research in a lab environment. It is intended to be a living document that will be updated as our lab grows and changes."
+  },
+  {
+    "objectID": "info/lab_manual.html#our-goals-and-values",
+    "href": "info/lab_manual.html#our-goals-and-values",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Our goals and values",
+    "text": "Our goals and values\nWe believe in the importance of conducting high-quality research that is both scientifically rigorous and socially impactful. Importantly, as cognitive scientists, we recognise the value of fundamental research in laying the groundwork for that impact, so long as we can connect the research to those who will benefit from it. These values are reflected in our lab culture and practices.\nCollaboration: Our lab is a place for people to learn from others and develop their skills. We value inclusivity and diverse perspectives.\nCuriosity: We believe that research can be a force for good. We are always striving to understand the complexities of the mind and how it works.\nRigour: We are committed to robust methods and upholding the highest standards of ethical scientific practice.\nInnovation: We aim to make meaningful and significant contributions to psychology through innovative research and research practices.\nImpact: We strive to conduct work that will benefit society and we recognise the value of fundamental research in laying the groundwork for future impact.\nThe lab is a place for people to learn about the research process while contributing to important projects. We foster a collaborative and supportive environment and we want volunteering in our lab to be an enriching and rewarding experience. Everyone who contributes to the lab is a valued member of the team and we want to ensure that everyone has the opportunity to develop their skills and knowledge."
+  },
+  {
+    "objectID": "info/lab_manual.html#roles-and-expectations",
+    "href": "info/lab_manual.html#roles-and-expectations",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Roles and expectations",
+    "text": "Roles and expectations\nThe success of the lab and the research we conduct depends on the contributions of all lab members. Being a member of the lab is an active process and we expect all members to contribute to the lab in a meaningful way.\nSome expectations apply to all lab members regardless of their role, while others are specific to certain roles.\n\nAll lab members\nEveryone can conduct research that they are interested in and passionate about. We will do so in a way that is ethical and responsible, we will be transparent about our methods and findings and we will adhere to Teesside University regulations at all times.\nEveryone can learn from each other. This means that everyone will be expected to participate in lab meetings and discussions, presenting their work and providing feedback to others.\nEveryone can become skilled a researcher. This lab conducts work that involves computer-based cognitive tasks, neurological and physiological measurement, as well as statistical modelling of data. These are skills that will be useful in your future careers. A key part of being a researcher is recognising what you don’t know and seeking out opportunities to learn. We don’t expect you to know how to do all of this immediately, but we expect you to want to know how. We will support you in your learning, but as a researcher, you need to take an active role in enhancing your skills.\nEveryone can be supportive colleague. This means being respectful and supportive of others, being open to feedback and constructive criticism, and being willing to help others when needed. Good science is collaborative: we all succeed when we work together.\nEveryone can be an ambassador for the lab. As a member of the lab, you represent the lab, the department and the university. Passion and enthusiasm for the work we do is important, and we want you to share that with others. This means being professional in your interactions with others, both inside and outside the lab.\nEveryone can have a life outside the lab. We want you to be happy and healthy. We think our work is important, but it is not the only thing that matters. The combination of passion for work and flexibility of hours that comes with being a researcher can be a a huge benefit but also contribute to stress and difficulty disconnecting. If you are struggling with this, please talk to us. We want to help you find a balance that works for you.\n\n\nLab leads\nThe lab leads (Dr. Wilson and Dr. Medimorec) are responsible for the overall direction of the lab and its research agenda. They are also responsible for mentoring and supporting lab members, ensuring that the lab is a positive and productive environment.\nWe supervise Undergraduate, Postgraduate and Doctoral students in accordance with the university’s policies and procedures. To that end, the lab is an additional, voluntary opportunity for students, which exists in addition to (not a replacement for) the normal supervision process.\nAs supervisors, we will always prioritise the academic needs of our students and support them to meet their academic goals. We do not require students to join the lab, and students in the lab are not required to work on projects that are not aligned with their academic goals. Additionally, supervisees who join the lab are not treated differently, in an academic sense, from supervisees who are not in the lab.\nThe lab is an opportunity for students who wish to, to gain experience working in collaborative research teams, to learn about the research process and to develop their skills alongside other researchers who are at different stages of their academic career.\nWe will:\n\nSupport you in your academic and professional development\nProvide you with opportunities to learn and develop your skills\nProvide you with opportunities to conduct research and publish your work\nBe available to answer your questions and provide feedback\nKeep you in the loop about the direction of the lab and its research agenda and allow you to contribute to that agenda\n\n\n\nDoctoral students\nDoctoral students are taking the first steps in their academic careers, but in the lab are relatively senior members of the team. The lab leads will support you in your development as a researcher and aim to put you in the best position to succeed in your academic career.\nDoctoral students will (with the support of the lab leads):\n\nConduct the research that is the focus of their doctoral studies\nPresent their work at lab meetings and other events\nSupport and mentor undergraduate and MSc students\nEngage in professional development and networking opportunities appropriate to doctoral level and in line with their career goals\nPublish their work in peer-reviewed journals and present at conferences\nSeek out appropriate funding opportunities to support their research\n\nWe will support doctoral students in applying for external funding to support their research and dissemination. We will also support doctoral students in applying for post-doctoral positions and other academic opportunities.\n\n\nMSc students\nMSc students are expected to take a more active role in the lab than undergraduate students. They might be considering a career in research and the lab is a good opportunity to gain experience and develop their skills.\nMSc students will (with the support of the lab leads and doctoral students):\n\nConduct the research that is the focus of their MSc studies\nPresent their work at lab meetings and other events\nSupport and mentor undergraduate students\nEngage in skills development and learning opportunities appropriate to MSc level and in line with their career goals\n\nMSc students might publish their work in peer-reviewed journals and present at conferences, but this will often be dependent on the nature of their MSc project or as part of a larger project. We will support MSc students to apply for external bursaries to support their research or dissemination.\n\n\nUndergraduate students\nUndergraduate students are expected to take an active role in the lab, but they are also at the beginning of their academic careers. Being a member of the lab is about learning from the other researchers and developing your skills.\nUndergraduate students will (with the support of the lab leads and doctoral/MSc students):\n\nConduct the research that is the focus of their undergraduate dissertation\nPresent their work at lab meetings and other events (where appropriate)\n\nUndergraduate students might publish their work in peer-reviewed journals as part of a larger project. We will also support undergraduate students in applying for student conferences, if they are interested in doing so.\n\n\nResearch assistants/associates\nResearch assistants and associates are typically early career researchers who are looking to gain experience in a lab environment. They may be working on a specific project or providing support to the lab leads and other lab members.\nSome RAs will be employed as part of a funded project, while others may be volunteering their time to gain experience. In either case, we will support RAs in their development as researchers and aim to put them in the best position to succeed in their academic careers.\nRAs will (with the support of the lab leads and other lab members):\n\nConduct the research that is the focus of their project. Funded RAs will work the hours defined in their contract, while volunteer RAs will work on their project as time allows, in consultation with the lab leads\nPresent their work at lab meetings as appropriate\nContribute to external engagement and dissemination activities related to their project\nEngage in professional development and networking opportunities appropriate to their career goals\nPublish their work in peer-reviewed journals and present at conferences (as appropriate)\n\nWe will support RAs in applying for external funding to support their research and dissemination. We will also support RAs in applying for post-graduate/post-doctoral positions and other academic opportunities (as appropriate)."
+  },
+  {
+    "objectID": "info/lab_manual.html#lab-culture-and-practices",
+    "href": "info/lab_manual.html#lab-culture-and-practices",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Lab culture and practices",
+    "text": "Lab culture and practices\nGood research comes from good practices. Part of joining a lab is about learning how to conduct research that is rigorous and scientifically valid. This means learning about the research process, the methods we use and how to conduct research in a way that is ethical and responsible.\nThis is an ongoing process and involves learning from each other, sharing ideas and feedback, and being open to new ways of thinking about research. For these experiences to happen, regular engagement and communication is essential. It is through this engagement that we grow as researchers and achieve the level of excellence and impact the we are aspiring to.\n\nLab meetings\nLab meetings are an important part of the lab culture. They are a place for everyone to come together to discuss their work, share ideas and provide feedback to each other. Lab meetings are held regularly and the schedule will be shared on the website and the lab calendar. Attendance at lab meetings is expected for all lab members, notwithstanding any other commitments (e.g., teaching, placements, etc.).\nEveryone will get an opportunity to present their work at lab meetings. This might be a formal presentation or a more informal discussion of your work. The aim is to provide a supportive environment where everyone can share their ideas and get feedback from others. As well as contributing to the lab culture, this is an important part of your development as a researcher and helps prepare you for presenting your work at conferences and other events.\n\n\nResearch seminars\nThe psychology department hosts a series of research seminars throughout the year. These are an opportunity to hear from other speakers about their work and to engage in discussions about current research in psychology. Attendance at these seminars is strongly encouraged for all lab members, and we encourage you to ask questions and engage with the speakers. Lab members will also present their work at these seminars and we will support you in preparing for these presentations.\n\n\nResearch integrity\nResearch integrity is about conducting research in a way that is ethical and responsible. This means being transparent about your methods and findings, adhering to ethical guidelines and regulations, and being open to feedback and constructive criticism. As a pschyology lab, we are bound by the British Psychological Society’s Code of Ethics and Conduct, as well as the university’s policies and procedures. All lab members are expected to be familiar with these guidelines and rules (consistent with their level of experience), before conducting any work. We will support you in understanding these guidelines and how to apply them to your work.\n\n\nOpen science and reproducable research\nOpen science is about making research more transparent and accessible. This means sharing your data, methods and findings with others, and being open to feedback and constructive criticism. Reproducible research is about conducting research in a way that allows others to replicate your work. This is an important part of the scientific process and helps to ensure that research is robust and reliable. We use the Open Science Framework (OSF) to share our data, methods and findings with others.\nAll projects conducted in the lab will be registered on the OSF and all data and materials will be shared on the OSF. Pre-registration of studies is the default for all projects.\nWe will have consistent approaches to our OSF usage. We will support you in understanding how to use the OSF and how to apply open science principles to your work."
+  },
+  {
+    "objectID": "info/lab_manual.html#publication-and-authorship",
+    "href": "info/lab_manual.html#publication-and-authorship",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Publication and authorship",
+    "text": "Publication and authorship\nPublishing your work is an important part of being a researcher. It is how we share our findings with others and contribute to the scientific community. We want to support everyone in the lab to publish their work, wherever possible and we will provide guidance and support on how to do this.\nTo ensure everyone gets appropriate credit for their work, we use the Contributor Roles Taxonomy (CRediT) to define the roles of authors on a publication. This is a standardised system for describing the contributions of authors to a publication."
+  },
+  {
+    "objectID": "info/lab_manual.html#equipment-and-tools",
+    "href": "info/lab_manual.html#equipment-and-tools",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Equipment and tools",
+    "text": "Equipment and tools\nAs part of the psychology department at Teesside University. The MIND Lab is equipped with a range of tools and equipment to support our research. This includes computers, software, and other equipment (fNIRS, EEG, Eyetracking) for conducting experiments and collecting data. Part of your experience in the lab will be learning how to use this equipment and software, and how to conduct research using these tools.\n\nLearning to use the equipment\nWe will provide training on how to use the equipment and software in the lab. This will include both formal training sessions and informal opportunities to learn from other lab members. We encourage you to ask questions and seek out opportunities to learn about the equipment and software.\nYou should not use any equipment or software without first receiving training and approval from the lab leads. This is to ensure that you are using the equipment safely and effectively, and to protect the integrity of the research being conducted in the lab.\n\n\nCare and maintenance of equipment\nWhen conducting research, we have a responsibility to ensure that the equipment is used properly and maintained in good condition. This means following all guidelines and protocols for using the equipment, and reporting any issues or problems to the lab leads and psychology technician."
+  },
+  {
+    "objectID": "info/lab_manual.html#organisation-and-collaboration",
+    "href": "info/lab_manual.html#organisation-and-collaboration",
+    "title": "Working at the MIND Lab (the lab manual)",
+    "section": "Organisation and collaboration",
+    "text": "Organisation and collaboration\nHaving a consistent approach to organisation and collaboration is important for the success of the lab. This means having clear processes and procedures for conducting research, managing data, and communicating with each other. By using a consistent approach, we can maintain research integrity, proper research protocols and data management practices.\n\nCommunication\nWe will use the lab website as the main external communication tool for the lab. This will include information about the lab, our research, and opportunities to get involved. You can contribute to the website by sharing your work, writing blog posts, and sharing news and updates about the lab.\nWe will use Microsoft Teams as the main internal communication tool for the lab. This will include channels for different projects, as well as general channels for lab members to share ideas and discuss their work. We will also use Teams for video calls and meetings.\nThis will allow us to maintain a central repository of information and resources, and to communicate effectively with each other. We will also use email for more formal communication, but we encourage you to use Teams for day-to-day communication.\n\n\nData collection and management\nAll projects should have a Data Management Plan (DMP) that outlines how data will be collected, stored, and shared. This should include information about the types of data being collected, how it will be stored and backed up, and how it will be shared with others. We will provide templates and guidance on how to create a DMP.\nWhen collecting data for a project, it is essential that you adhere to the DMP and follow all guidelines and protocols for data collection. This particularly relates to storing, saving and backing up data, as well the storage of any personal information from participants.\nFailure to adhere to the DMP and guidelines for data collection may result in the loss of data, violation of legal/ethical requirements or other issues that could impact the integrity of the research. If you have any questions or concerns about the DMP or data collection, please speak to the lab leads.\n\n\nThe Open Science Framework (OSF)\nWe will use the OSF to manage our projects and share our data, methods and findings with others. This will include creating a project page for each project, where you can share your data, methods and findings. We will provide training on how to use the OSF in accordance with the lab’s policies and procedures.\n\n\nGithub\nWe will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab’s policies and procedures.\n\n\nThe lab website\nThe lab website will generally be run by the lab leads, but we will encourage all lab members to contribute to the website. This will include sharing your work, writing blog posts, and sharing news and updates about the lab. We will provide guidance on how to use the website and how to contribute to it."
+  },
+  {
+    "objectID": "news/tu_research_fair.html",
+    "href": "news/tu_research_fair.html",
+    "title": "MIND Lab at Teesside University Research Fair",
+    "section": "",
+    "text": "The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nDr. Srdan Medimoric said of the event:\n\n“We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University.”\n\nPosters presented at the event included:\n\nIt’s part of the sport: How social identification with sports groups predicts gambling behaviour\nThe cognitive and neural moderators of hypomania and economic risk-taking\nCognitive offloading without benefits to performance?\nIs non-native speech processed in less detail and, if so, why?"
+  },
+  {
+    "objectID": "people/chris.html",
+    "href": "people/chris.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+  },
+  {
+    "objectID": "people/jaya-priya.html",
+    "href": "people/jaya-priya.html",
+    "title": "Jaya Priya Naganathan",
+    "section": "",
+    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field."
+  },
+  {
+    "objectID": "people/lorraine.html",
+    "href": "people/lorraine.html",
+    "title": "Lorraine Temple",
+    "section": "",
+    "text": "Lorraine is an undergraduate student whose work has focused on metacognition and accent perception."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Lab members",
+    "section": "",
+    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recruitment/hyp1_slide.html#participants-needed",
+    "href": "recruitment/hyp1_slide.html#participants-needed",
+    "title": "The role of working memory and response inhibition in economic decision making",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
     "objectID": "recruitment/hyp1.html",
     "href": "recruitment/hyp1.html",
     "title": "The role of working memory and response inhibition in economic decision making",
@@ -84,39 +343,32 @@
     "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
   },
   {
-    "objectID": "recruitment/hyp1_slide.html#participants-needed",
-    "href": "recruitment/hyp1_slide.html#participants-needed",
-    "title": "The role of working memory and response inhibition in economic decision making",
-    "section": "Participants needed!",
-    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
-  },
-  {
-    "objectID": "events/college_talk.html",
-    "href": "events/college_talk.html",
-    "title": "Breaking big problems into small pieces…",
+    "objectID": "recruitment.html",
+    "href": "recruitment.html",
+    "title": "Studies we are currently recruiting for",
     "section": "",
-    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
+    "text": "In the lab, we are running many studies at any one time. Below are some of the studies we are currently recruiting participants for. If you are interested in taking part in any of these studies, click on the link to see more information and sign up for a time slot.\nBecause of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. If you are interested in taking part in any of these studies, please sign up for a time slot using the link provided. If you have any questions, please email the researcher directly.\n\n\n\n\n\n\n\n\n\n\nConversational Memory\n\n\n\n\n\n\n\n\nOnline\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition\n\n\n\n\n\n\n\n\nThemis Building at Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nThe role of working memory and response inhibition in economic decision making\n\n\n\n\n\n\n\n\nPsychology Department at Teesside University\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "news/afsg_award.html",
-    "href": "news/afsg_award.html",
-    "title": "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)",
-    "section": "",
-    "text": "The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction.\nHighlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the AFSG:\n\n“The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”\n\nProject updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research."
-  },
-  {
-    "objectID": "research/hypomania.html#research-overview",
-    "href": "research/hypomania.html#research-overview",
-    "title": "Hypomania and Risk-taking",
+    "objectID": "research/gambling.html#research-overview",
+    "href": "research/gambling.html#research-overview",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
     "section": "Research Overview",
-    "text": "Research Overview\nThis work seeks to understand risk-taking in hypomania through the application of cognitive neuroscience and behavioral economic approaches.\nWe are particularly interested how risk-perception, reward sensitivity, and decision-making processes are linked to hypomania, and how these alterations contribute to the development of risky behaviors.\nWe use functional near-infrared spectroscopy (fNIRS) to examine brain activity during risk-taking tasks. By measuring changes in blood oxygenation, we can identify brain regions that are involved in risk perception and decision-making, and study how these processes are linked to hypomania. Our goal is to develop a better understanding of the neural mechanisms underlying risk-taking behavior in hypomania, and to identify potential targets for intervention."
+    "text": "Research Overview\nThis work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.\nIn addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania."
   },
   {
-    "objectID": "research/hypomania.html#lab-members-involved-in-this-research",
-    "href": "research/hypomania.html#lab-members-involved-in-this-research",
-    "title": "Hypomania and Risk-taking",
+    "objectID": "research/gambling.html#projects",
+    "href": "research/gambling.html#projects",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
+    "section": "Projects",
+    "text": "Projects\n“It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\nThis project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. A link to the project site will be added here when available. The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.\nDetails of the project are available on the AFSG website."
+  },
+  {
+    "objectID": "research/gambling.html#lab-members-involved-in-this-research",
+    "href": "research/gambling.html#lab-members-involved-in-this-research",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\nNo matching items"
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/metacognition.html",
@@ -137,42 +389,7 @@
     "href": "research/metacognition.html#lab-members-involved-in-this-research",
     "title": "Metacognition and cognitive offloading",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "recruitment.html",
-    "href": "recruitment.html",
-    "title": "Studies we are currently recruiting for",
-    "section": "",
-    "text": "In the lab, we are running many studies at any one time. Below are some of the studies we are currently recruiting participants for. If you are interested in taking part in any of these studies, click on the link to see more information and sign up for a time slot.\nBecause of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. If you are interested in taking part in any of these studies, please sign up for a time slot using the link provided. If you have any questions, please email the researcher directly.\n\n\n\n\n\n\n\n\n\n\nConversational Memory\n\n\n\n\n\nOnline\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition\n\n\n\n\n\nThemis Building at Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nThe role of working memory and response inhibition in economic decision making\n\n\n\n\n\nPsychology Department at Teesside University\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/srdan.html",
-    "href": "people/srdan.html",
-    "title": "Srdan Medimorec",
-    "section": "",
-    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
-  },
-  {
-    "objectID": "people/alana.html",
-    "href": "people/alana.html",
-    "title": "Alana Gadsby",
-    "section": "",
-    "text": "Alana is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
-  },
-  {
-    "objectID": "people/jaya-priya.html",
-    "href": "people/jaya-priya.html",
-    "title": "Jaya Priya Naganathan",
-    "section": "",
-    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field."
-  },
-  {
-    "objectID": "people/chris.html",
-    "href": "people/chris.html",
-    "title": "Christopher Wilson",
-    "section": "",
-    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/school_talk/index.html#overview",
@@ -315,195 +532,6 @@
     "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nWe design computer-based tasks to examine specific elements of behaviour and cognition\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research Themes",
-    "section": "",
-    "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/lisa.html",
-    "href": "people/lisa.html",
-    "title": "Lisa Cassidy",
-    "section": "",
-    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
-  },
-  {
-    "objectID": "people/david.html",
-    "href": "people/david.html",
-    "title": "David Minchella",
-    "section": "",
-    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception."
-  },
-  {
-    "objectID": "people/lorraine.html",
-    "href": "people/lorraine.html",
-    "title": "Lorraine Temple",
-    "section": "",
-    "text": "Lorraine is an undergraduate student whose work has focused on metacognition and accent perception."
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "Lab Equipment and Software",
-    "section": "",
-    "text": "COBI fNIRS R Package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperimental Tasks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "info/lab_manual.html",
-    "href": "info/lab_manual.html",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "",
-    "text": "Last Updated: June 2025"
-  },
-  {
-    "objectID": "info/lab_manual.html#overview",
-    "href": "info/lab_manual.html#overview",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Overview",
-    "text": "Overview\nThe MIND Lab is a research group based in the Psychology Department at Teesside University. We conduct research into cognition, memory and decision-making, with specific strands of work being led by Dr. Christopher Wilson (decision-making under risk: gambling, financial decision-making) and Dr. Srdan Medimorec (language, meta-cognition, implicit learning).\nThis document outlines our approach to conducting research in a lab environment. It is intended to be a living document that will be updated as our lab grows and changes."
-  },
-  {
-    "objectID": "info/lab_manual.html#our-goals-and-values",
-    "href": "info/lab_manual.html#our-goals-and-values",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Our goals and values",
-    "text": "Our goals and values\nWe believe in the importance of conducting high-quality research that is both scientifically rigorous and socially impactful. Importantly, as cognitive scientists, we recognise the value of fundamental research in laying the groundwork for that impact, so long as we can connect the research to those who will benefit from it. These values are reflected in our lab culture and practices.\nCollaboration: Our lab is a place for people to learn from others and develop their skills. We value inclusivity and diverse perspectives.\nCuriosity: We believe that research can be a force for good. We are always striving to understand the complexities of the mind and how it works.\nRigour: We are committed to robust methods and upholding the highest standards of ethical scientific practice.\nInnovation: We aim to make meaningful and significant contributions to psychology through innovative research and research practices.\nImpact: We strive to conduct work that will benefit society and we recognise the value of fundamental research in laying the groundwork for future impact.\nThe lab is a place for people to learn about the research process while contributing to important projects. We foster a collaborative and supportive environment and we want volunteering in our lab to be an enriching and rewarding experience. Everyone who contributes to the lab is a valued member of the team and we want to ensure that everyone has the opportunity to develop their skills and knowledge."
-  },
-  {
-    "objectID": "info/lab_manual.html#roles-and-expectations",
-    "href": "info/lab_manual.html#roles-and-expectations",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Roles and expectations",
-    "text": "Roles and expectations\nThe success of the lab and the research we conduct depends on the contributions of all lab members. Being a member of the lab is an active process and we expect all members to contribute to the lab in a meaningful way.\nSome expectations apply to all lab members regardless of their role, while others are specific to certain roles.\n\nAll lab members\nEveryone can conduct research that they are interested in and passionate about. We will do so in a way that is ethical and responsible, we will be transparent about our methods and findings and we will adhere to Teesside University regulations at all times.\nEveryone can learn from each other. This means that everyone will be expected to participate in lab meetings and discussions, presenting their work and providing feedback to others.\nEveryone can become skilled a researcher. This lab conducts work that involves computer-based cognitive tasks, neurological and physiological measurement, as well as statistical modelling of data. These are skills that will be useful in your future careers. A key part of being a researcher is recognising what you don’t know and seeking out opportunities to learn. We don’t expect you to know how to do all of this immediately, but we expect you to want to know how. We will support you in your learning, but as a researcher, you need to take an active role in enhancing your skills.\nEveryone can be supportive colleague. This means being respectful and supportive of others, being open to feedback and constructive criticism, and being willing to help others when needed. Good science is collaborative: we all succeed when we work together.\nEveryone can be an ambassador for the lab. As a member of the lab, you represent the lab, the department and the university. Passion and enthusiasm for the work we do is important, and we want you to share that with others. This means being professional in your interactions with others, both inside and outside the lab.\nEveryone can have a life outside the lab. We want you to be happy and healthy. We think our work is important, but it is not the only thing that matters. The combination of passion for work and flexibility of hours that comes with being a researcher can be a a huge benefit but also contribute to stress and difficulty disconnecting. If you are struggling with this, please talk to us. We want to help you find a balance that works for you.\n\n\nLab leads\nThe lab leads (Dr. Wilson and Dr. Medimorec) are responsible for the overall direction of the lab and its research agenda. They are also responsible for mentoring and supporting lab members, ensuring that the lab is a positive and productive environment.\nWe supervise Undergraduate, Postgraduate and Doctoral students in accordance with the university’s policies and procedures. To that end, the lab is an additional, voluntary opportunity for students, which exists in addition to (not a replacement for) the normal supervision process.\nAs supervisors, we will always prioritise the academic needs of our students and support them to meet their academic goals. We do not require students to join the lab, and students in the lab are not required to work on projects that are not aligned with their academic goals. Additionally, supervisees who join the lab are not treated differently, in an academic sense, from supervisees who are not in the lab.\nThe lab is an opportunity for students who wish to, to gain experience working in collaborative research teams, to learn about the research process and to develop their skills alongside other researchers who are at different stages of their academic career.\nWe will:\n\nSupport you in your academic and professional development\nProvide you with opportunities to learn and develop your skills\nProvide you with opportunities to conduct research and publish your work\nBe available to answer your questions and provide feedback\nKeep you in the loop about the direction of the lab and its research agenda and allow you to contribute to that agenda\n\n\n\nDoctoral students\nDoctoral students are taking the first steps in their academic careers, but in the lab are relatively senior members of the team. The lab leads will support you in your development as a researcher and aim to put you in the best position to succeed in your academic career.\nDoctoral students will (with the support of the lab leads):\n\nConduct the research that is the focus of their doctoral studies\nPresent their work at lab meetings and other events\nSupport and mentor undergraduate and MSc students\nEngage in professional development and networking opportunities appropriate to doctoral level and in line with their career goals\nPublish their work in peer-reviewed journals and present at conferences\nSeek out appropriate funding opportunities to support their research\n\nWe will support doctoral students in applying for external funding to support their research and dissemination. We will also support doctoral students in applying for post-doctoral positions and other academic opportunities.\n\n\nMSc students\nMSc students are expected to take a more active role in the lab than undergraduate students. They might be considering a career in research and the lab is a good opportunity to gain experience and develop their skills.\nMSc students will (with the support of the lab leads and doctoral students):\n\nConduct the research that is the focus of their MSc studies\nPresent their work at lab meetings and other events\nSupport and mentor undergraduate students\nEngage in skills development and learning opportunities appropriate to MSc level and in line with their career goals\n\nMSc students might publish their work in peer-reviewed journals and present at conferences, but this will often be dependent on the nature of their MSc project or as part of a larger project. We will support MSc students to apply for external bursaries to support their research or dissemination.\n\n\nUndergraduate students\nUndergraduate students are expected to take an active role in the lab, but they are also at the beginning of their academic careers. Being a member of the lab is about learning from the other researchers and developing your skills.\nUndergraduate students will (with the support of the lab leads and doctoral/MSc students):\n\nConduct the research that is the focus of their undergraduate dissertation\nPresent their work at lab meetings and other events (where appropriate)\n\nUndergraduate students might publish their work in peer-reviewed journals as part of a larger project. We will also support undergraduate students in applying for student conferences, if they are interested in doing so.\n\n\nResearch assistants/associates\nResearch assistants and associates are typically early career researchers who are looking to gain experience in a lab environment. They may be working on a specific project or providing support to the lab leads and other lab members.\nSome RAs will be employed as part of a funded project, while others may be volunteering their time to gain experience. In either case, we will support RAs in their development as researchers and aim to put them in the best position to succeed in their academic careers.\nRAs will (with the support of the lab leads and other lab members):\n\nConduct the research that is the focus of their project. Funded RAs will work the hours defined in their contract, while volunteer RAs will work on their project as time allows, in consultation with the lab leads\nPresent their work at lab meetings as appropriate\nContribute to external engagement and dissemination activities related to their project\nEngage in professional development and networking opportunities appropriate to their career goals\nPublish their work in peer-reviewed journals and present at conferences (as appropriate)\n\nWe will support RAs in applying for external funding to support their research and dissemination. We will also support RAs in applying for post-graduate/post-doctoral positions and other academic opportunities (as appropriate)."
-  },
-  {
-    "objectID": "info/lab_manual.html#opportunities-and-how-to-get-involved",
-    "href": "info/lab_manual.html#opportunities-and-how-to-get-involved",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Opportunities and how to get involved",
-    "text": "Opportunities and how to get involved\nThe MIND lab is always looking for curious and motivated researchers to join our team. If you are interested in joining the lab, please contact us."
-  },
-  {
-    "objectID": "info/lab_manual.html#lab-culture-and-practices",
-    "href": "info/lab_manual.html#lab-culture-and-practices",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Lab culture and practices",
-    "text": "Lab culture and practices\nGood research comes from good practices. Part of joining a lab is about learning how to conduct research that is rigorous and scientifically valid. This means learning about the research process, the methods we use and how to conduct research in a way that is ethical and responsible.\nThis is an ongoing process and involves learning from each other, sharing ideas and feedback, and being open to new ways of thinking about research. For these experiences to happen, regular engagement and communication is essential. It is through this engagement that we grow as researchers and achieve the level of excellence and impact the we are aspiring to.\n\nLab meetings\nLab meetings are an important part of the lab culture. They are a place for everyone to come together to discuss their work, share ideas and provide feedback to each other. Lab meetings are held regularly and the schedule will be shared on the website and the lab calendar. Attendance at lab meetings is expected for all lab members, notwithstanding any other commitments (e.g., teaching, placements, etc.).\nEveryone will get an opportunity to present their work at lab meetings. This might be a formal presentation or a more informal discussion of your work. The aim is to provide a supportive environment where everyone can share their ideas and get feedback from others. As well as contributing to the lab culture, this is an important part of your development as a researcher and helps prepare you for presenting your work at conferences and other events.\n\n\nResearch seminars\nThe psychology department hosts a series of research seminars throughout the year. These are an opportunity to hear from other speakers about their work and to engage in discussions about current research in psychology. Attendance at these seminars is strongly encouraged for all lab members, and we encourage you to ask questions and engage with the speakers. Lab members will also present their work at these seminars and we will support you in preparing for these presentations.\n\n\nResearch integrity\nResearch integrity is about conducting research in a way that is ethical and responsible. This means being transparent about your methods and findings, adhering to ethical guidelines and regulations, and being open to feedback and constructive criticism. As a pschyology lab, we are bound by the British Psychological Society’s Code of Ethics and Conduct, as well as the university’s policies and procedures. All lab members are expected to be familiar with these guidelines and rules (consistent with their level of experience), before conducting any work. We will support you in understanding these guidelines and how to apply them to your work.\n\n\nOpen science and reproducable research\nOpen science is about making research more transparent and accessible. This means sharing your data, methods and findings with others, and being open to feedback and constructive criticism. Reproducible research is about conducting research in a way that allows others to replicate your work. This is an important part of the scientific process and helps to ensure that research is robust and reliable. We use the Open Science Framework (OSF) to share our data, methods and findings with others.\nAll projects conducted in the lab will be registered on the OSF and all data and materials will be shared on the OSF. Pre-registration of studies is the default for all projects.\nWe will have consistent approaches to our OSF usage. We will support you in understanding how to use the OSF and how to apply open science principles to your work."
-  },
-  {
-    "objectID": "info/lab_manual.html#publication-and-authorship",
-    "href": "info/lab_manual.html#publication-and-authorship",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Publication and authorship",
-    "text": "Publication and authorship\nPublishing your work is an important part of being a researcher. It is how we share our findings with others and contribute to the scientific community. We want to support everyone in the lab to publish their work, wherever possible and we will provide guidance and support on how to do this.\nTo ensure everyone gets appropriate credit for their work, we use the Contributor Roles Taxonomy (CRediT) to define the roles of authors on a publication. This is a standardised system for describing the contributions of authors to a publication."
-  },
-  {
-    "objectID": "info/lab_manual.html#equipment-and-tools",
-    "href": "info/lab_manual.html#equipment-and-tools",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Equipment and tools",
-    "text": "Equipment and tools\nAs part of the psychology department at Teesside University. The MIND Lab is equipped with a range of tools and equipment to support our research. This includes computers, software, and other equipment (fNIRS, EEG, Eyetracking) for conducting experiments and collecting data. Part of your experience in the lab will be learning how to use this equipment and software, and how to conduct research using these tools.\n\nLearning to use the equipment\nWe will provide training on how to use the equipment and software in the lab. This will include both formal training sessions and informal opportunities to learn from other lab members. We encourage you to ask questions and seek out opportunities to learn about the equipment and software.\nYou should not use any equipment or software without first receiving training and approval from the lab leads. This is to ensure that you are using the equipment safely and effectively, and to protect the integrity of the research being conducted in the lab.\n\n\nCare and maintenance of equipment\nWhen conducting research, we have a responsibility to ensure that the equipment is used properly and maintained in good condition. This means following all guidelines and protocols for using the equipment, and reporting any issues or problems to the lab leads and psychology technician."
-  },
-  {
-    "objectID": "info/lab_manual.html#organisation-and-collaboration",
-    "href": "info/lab_manual.html#organisation-and-collaboration",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "Organisation and collaboration",
-    "text": "Organisation and collaboration\nHaving a consistent approach to organisation and collaboration is important for the success of the lab. This means having clear processes and procedures for conducting research, managing data, and communicating with each other. By using a consistent approach, we can maintain research integrity, proper research protocols and data management practices.\n\nCommunication\nWe will use the lab website as the main external communication tool for the lab. This will include information about the lab, our research, and opportunities to get involved. You can contribute to the website by sharing your work, writing blog posts, and sharing news and updates about the lab.\nWe will use Microsoft Teams as the main internal communication tool for the lab. This will include channels for different projects, as well as general channels for lab members to share ideas and discuss their work. We will also use Teams for video calls and meetings.\nThis will allow us to maintain a central repository of information and resources, and to communicate effectively with each other. We will also use email for more formal communication, but we encourage you to use Teams for day-to-day communication.\n\n\nData collection and management\nAll projects should have a Data Management Plan (DMP) that outlines how data will be collected, stored, and shared. This should include information about the types of data being collected, how it will be stored and backed up, and how it will be shared with others. We will provide templates and guidance on how to create a DMP.\nWhen collecting data for a project, it is essential that you adhere to the DMP and follow all guidelines and protocols for data collection. This particularly relates to storing, saving and backing up data, as well the storage of any personal information from participants.\nFailure to adhere to the DMP and guidelines for data collection may result in the loss of data, violation of legal/ethical requirements or other issues that could impact the integrity of the research. If you have any questions or concerns about the DMP or data collection, please speak to the lab leads.\n\n\nThe Open Science Framework (OSF)\nWe will use the OSF to manage our projects and share our data, methods and findings with others. This will include creating a project page for each project, where you can share your data, methods and findings. We will provide training on how to use the OSF in accordance with the lab’s policies and procedures.\n\n\nGithub\nWe will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab’s policies and procedures.\n\n\nThe lab website\nThe lab website will generally be run by the lab leads, but we will encourage all lab members to contribute to the website. This will include sharing your work, writing blog posts, and sharing news and updates about the lab. We will provide guidance on how to use the website and how to contribute to it."
-  },
-  {
-    "objectID": "research/gambling.html#research-overview",
-    "href": "research/gambling.html#research-overview",
-    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
-    "section": "Research Overview",
-    "text": "Research Overview\nThis work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.\nIn addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania."
-  },
-  {
-    "objectID": "research/gambling.html#projects",
-    "href": "research/gambling.html#projects",
-    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
-    "section": "Projects",
-    "text": "Projects\n“It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\nThis project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. A link to the project site will be added here when available. The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.\nDetails of the project are available on the AFSG website."
-  },
-  {
-    "objectID": "research/gambling.html#lab-members-involved-in-this-research",
-    "href": "research/gambling.html#lab-members-involved-in-this-research",
-    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
-    "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/accent.html",
-    "href": "research/accent.html",
-    "title": "Is non-native speech processed in less detail and, if so, why?",
-    "section": "",
-    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
-  },
-  {
-    "objectID": "research/accent.html#research-overview",
-    "href": "research/accent.html#research-overview",
-    "title": "Is non-native speech processed in less detail and, if so, why?",
-    "section": "",
-    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
-  },
-  {
-    "objectID": "research/accent.html#lab-members-involved-in-this-research",
-    "href": "research/accent.html#lab-members-involved-in-this-research",
-    "title": "Is non-native speech processed in less detail and, if so, why?",
-    "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/tu_research_fair.html",
-    "href": "events/tu_research_fair.html",
-    "title": "MIND Lab @ Teesside University Research Fair",
-    "section": "",
-    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html",
-    "href": "events/intro_to_fnirs.html",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "",
-    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html#workshop-outline",
-    "href": "events/intro_to_fnirs.html#workshop-outline",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "Workshop Outline",
-    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
-  },
-  {
-    "objectID": "recruitment/metacognition1_slide.html#participants-needed",
-    "href": "recruitment/metacognition1_slide.html#participants-needed",
-    "title": "Metacognition",
-    "section": "Participants needed!",
-    "text": "Participants needed!\nTopic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
-  },
-  {
-    "objectID": "recruitment/metacognition1.html",
-    "href": "recruitment/metacognition1.html",
-    "title": "Metacognition",
-    "section": "",
-    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
-  },
-  {
-    "objectID": "recruitment/metacognition1.html#participants-needed",
-    "href": "recruitment/metacognition1.html#participants-needed",
-    "title": "Metacognition",
-    "section": "",
-    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "Lab members",
-    "section": "",
-    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "tools/custom_tasks.html",
     "href": "tools/custom_tasks.html",
     "title": "Experimental Tasks",
@@ -511,31 +539,17 @@
     "text": "In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using JSPsych, a JavaScript library for creating behavioral experiments in a web browser or OpenSesame, a graphical experiment builder that runs on python.\nWe plan to make the code for these tasks available on our github repository soon. In the meantime, please get in touch if you would like more information about any of the tasks listed below.\n\nDecision under risk (based on Rogers et al., 1999). Commonly referred to as “The Cambridge Gambling Task”, this task was first published by Rogers et al., in 1999. This is a computerized task that assesses decision-making under risk. Participants are presented with a series of gambles and must decide whether to accept or reject each gamble. The task is designed to measure risk-taking behavior and has been used in a range of studies investigating decision-making in healthy and clinical populations. We have implemented this task in JSPsych and also have a version of the task that is modified for fNIRS, including delays in the feedback to account for the hemodynamic response, and serial port communication to synchronize the task with the fNIRS data.\nWorking Memory We use a version of the Operation Span task to assess working memory capacity. In this task, participants are presented with a series of math problems and must remember the answer to each problem. At the end of each set of problems, participants are asked to recall the answers in the order they were presented. This task is designed to measure working memory capacity and has been used in a range of studies investigating working memory in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nGlobal and Local Processing We use a version of the Navon task to assess global and local processing. In this task, participants are presented with a large letter made up of smaller letters. Participants must respond to either the large letter (global level) or the smaller letters (local level). This task is designed to measure the extent to which participants process information at the global or local level and has been used in a range of studies investigating cognitive processing in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nEyewitness lineup identification We have implemented a simultaneous lineup task to assess eyewitness identification accuracy. In this task, participants are presented with a lineup of faces and must identify the face they saw during a previous event. This includes a confidence rating response based on the “cup half full” scale. This task is designed to measure eyewitness identification accuracy and has been used in a range of studies investigating eyewitness memory in adult and child populations. This version of the task has been implemented in JSPsych."
   },
   {
-    "objectID": "tools/fnirs.html",
-    "href": "tools/fnirs.html",
-    "title": "Functional Near-Infrared Spectroscopy",
+    "objectID": "tools.html",
+    "href": "tools.html",
+    "title": "Lab Equipment and Software",
     "section": "",
-    "text": "Functional Near-Infrared Spectroscopy (fNIRS) is a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.\n\n\nWe use fnirs to examine brain activity during various cognitive tasks, such as working memory, attention, and decision-making. By measuring changes in blood oxygenation, we can identify brain regions that are involved in these tasks and study how they interact with each other. fNIRS is particularly well-suited for studying brain function over time, and can be used to track changes in brain activity during the course of a task or intervention.\n\n\n\nWe currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions."
+    "text": "COBI fNIRS R Package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperimental Tasks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "tools/fnirs.html#how-do-we-use-fnirs-in-our-work",
-    "href": "tools/fnirs.html#how-do-we-use-fnirs-in-our-work",
-    "title": "Functional Near-Infrared Spectroscopy",
+    "objectID": "news/lab_schedule_sem1.html",
+    "href": "news/lab_schedule_sem1.html",
+    "title": "Lab meeting schedule for Semester 1 published",
     "section": "",
-    "text": "We use fnirs to examine brain activity during various cognitive tasks, such as working memory, attention, and decision-making. By measuring changes in blood oxygenation, we can identify brain regions that are involved in these tasks and study how they interact with each other. fNIRS is particularly well-suited for studying brain function over time, and can be used to track changes in brain activity during the course of a task or intervention."
-  },
-  {
-    "objectID": "tools/fnirs.html#our-system",
-    "href": "tools/fnirs.html#our-system",
-    "title": "Functional Near-Infrared Spectroscopy",
-    "section": "",
-    "text": "We currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions."
-  },
-  {
-    "objectID": "info/lab_manual.html#how-to-join-the-lab",
-    "href": "info/lab_manual.html#how-to-join-the-lab",
-    "title": "Working at the MIND Lab (the lab manual)",
-    "section": "How to join the lab",
-    "text": "How to join the lab\nIf you are interested in joining the lab, please contact Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Joining%20the%20MIND%20Lab) or Dr. Srdan Medimorec.\nJoining the lab means attending lab meetings, contributing to research projects (as appropriate to your career stage), and engaging with other lab members.\n\nInfo for Undergraduate Students\nInfo for MSc Students\nInfo for Doctoral Researchers.\n\nIf you would like to gain some volunteer experience in a lab environment, you can also join the lab through VolunTees (Teesside University’s volunteering service). You can apply here."
+    "text": "The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.\nThe first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this link and is also displayed below:"
   }
 ]
