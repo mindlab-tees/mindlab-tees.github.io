@@ -29,7 +29,37 @@ Room TBC - will be added soon.
 | 26/02/26  | Lab meeting                                               |
 | 12/3/2026  | Using OpenScience Framework (OSF) for research management |
 
-## Core skills for cognitive psychology and neuroscience research
+<!-- ## MIND Lab Research Training Badges
+
+This semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members. 
+
+We have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.
+
+The first set of badges are:
+
+- Lab engagement badge: awarded for regular attendance and active participation in lab meetings and discussions. This shows that you contributed to the lab culture.
+
+- Literature reading and review badge: awarded for participation and contribution to paper review sessions.
+
+- Research presentation badge: awarded for delivering a presentation in a lab meeting.
+
+- Lab data collection badge: awarded for collection of participant data in a lab-based project.
+
+- Online data collection badge: awarded for online collection of participant data in a project.
+
+- Data analysis badge: awarded for completion of at least 1 training session on data analysis and contribution to data analysis for at least 1 project.
+
+- Open Science Badge: awarded for completion of introduction to Open Science Framework training and contribution to 1 lab project on OSF.
+
+- Eyetracker badge: awarded for completion of eyetracker training and eyetracker data collection on 1 project.
+
+- fNIRS badge: awarded for completion of fNIRS training and fNIRS data collection on 1 project.
+
+- Academic Writing badge: awarded for author contribution to a lab research article. 
+-->
+
+
+## Training sessions: Core skills for cognitive psychology and neuroscience research
 
 These are some of the core skills for conducting research in the MIND lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.
 
