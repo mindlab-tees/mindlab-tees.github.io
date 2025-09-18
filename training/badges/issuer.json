@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://themindlab.uk/training/badges/issuer.json",
+  "name": "The MIND Lab Cognitive Neuroscience Lab",
+  "url": "https://themindlab.uk",
+  "email": "christopher.wilson@tees.ac.uk"
+}

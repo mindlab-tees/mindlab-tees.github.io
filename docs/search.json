@@ -7,32 +7,18 @@
     "text": "Each semester, the lab leads and doctoral students deliver a series of seminars on various topics related to research training. The seminars are designed to provide students with the necessary skills and knowledge to conduct research in the field of cognitive psychology and neuroscience."
   },
   {
-    "objectID": "training/index.html#meeting-schedule-for-semester-1-20252026",
-    "href": "training/index.html#meeting-schedule-for-semester-1-20252026",
-    "title": "Research training in the MIND Lab",
-    "section": "Meeting schedule for Semester 1 2025/2026",
-    "text": "Meeting schedule for Semester 1 2025/2026\nThe seminars are open to all students in the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nRoom TBC - will be added soon.\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nChris Talk - Research Stream Update\n\n\n13/11/25\nIntroduction to fNIRS for brain imaging\n\n\n27/11/25\nLab meeting\n\n\n15/01/26\nIntroduction to eyetracking for cognitive psychology\n\n\n29/01/26\nLab meeting\n\n\n12/2/2026\nDesigning and coding experiments with OpenSesame\n\n\n26/02/26\nLab meeting\n\n\n12/3/2026\nUsing OpenScience Framework (OSF) for research management"
-  },
-  {
     "objectID": "training/index.html#mind-lab-research-training-badges",
     "href": "training/index.html#mind-lab-research-training-badges",
     "title": "Research training in the MIND Lab",
     "section": "MIND Lab Research Training Badges",
-    "text": "MIND Lab Research Training Badges\nThis semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members.\nWe have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.\nThe first set of badges are:\n\nLab engagement badge: awarded for regular attendance and active participation in lab meetings and discussions. This shows that you contributed to the lab culture.\nLiterature reading and review badge: awarded for participation and contribution to paper review sessions.\nResearch presentation badge: awarded for delivering a presentation in a lab meeting.\nLab data collection badge: awarded for collection of participant data in a lab-based project.\nOnline data collection badge: awarded for online collection of participant data in a project.\nData analysis badge: awarded for completion of at least 1 training session on data analysis and contribution to data analysis for at least 1 project.\nOpen Science Badge: awarded for completion of introduction to Open Science Framework training and contribution to 1 lab project on OSF.\nEyetracker badge: awarded for completion of eyetracker training and eyetracker data collection on 1 project.\nfNIRS badge: awarded for completion of fNIRS training and fNIRS data collection on 1 project.\nAcademic Writing badge: awarded for author contribution to a lab research article."
+    "text": "MIND Lab Research Training Badges\nThis semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members.\nWe have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.\nBadges will be visible on the profile of each lab member on the MIND Lab website, showcasing their skills and expertise to potential employers and collaborators. Each badge has a specific set of criteria that must be met in order to earn it, and lab mambers will receive feedback on their progress towards earning each badge.\nSoon, the badges will be implemented using the open badge standard, which allows for easy sharing and verification of skills across different platforms. This means that lab members will be able to showcase their badges on their CVs, LinkedIn profiles, and other professional networks.\n\n\n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n  \n    \n      \n    \n  \n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "training/index.html#training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research",
-    "href": "training/index.html#training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research",
+    "objectID": "training/index.html#some-of-our-training-sessions",
+    "href": "training/index.html#some-of-our-training-sessions",
     "title": "Research training in the MIND Lab",
-    "section": "Training sessions: Core skills for cognitive psychology and neuroscience research",
-    "text": "Training sessions: Core skills for cognitive psychology and neuroscience research\nThese are some of the core skills for conducting research in the MIND lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.\n\nIntroduction to functional near-infrared spectroscopy (fNIRS) for brain imaging\n\nThis workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.\n\n\nIntroduction to eye-tracking for cognitive psychology\n\nEye-tracking is a powerful tool for studying visual attention and cognitive processes in cognitive psychology. It allows researchers to measure where and how long participants look at different stimuli, providing insights into their cognitive processes. Eye-tracking can be used to study a wide range of topics, including visual perception, attention, memory, and decision-making.\nIn this session, we will cover the basics of eye-tracking, including how eye-trackers work, how to set up an eye-tracking experiment, and how to analyze eye-tracking data. We will also discuss some common applications of eye-tracking in cognitive psychology research.\n\n\nDesigning and coding experiments with OpenSesame\n\nOpenSesame is a free and open-source software package for designing and running psychological experiments. It is designed to be user-friendly and flexible, allowing researchers to create a wide range of experimental paradigms without needing extensive programming knowledge. OpenSesame supports various types of stimuli, including images, sounds, and videos, and can be used to collect data from participants in both laboratory and online settings. It can also interface with various hardware devices, such as eye trackers and response boxes, making it a versatile tool for researchers in cognitive psychology and neuroscience.\nIn this workshop, we will cover the basics of designing and coding experiments with OpenSesame, including how to create a simple experiment, how to use different types of stimuli, and how to collect and analyse data.\n\n\nIntroduction to data analysis with R\n\nR is a free and open-source programming language and software environment for statistical computing and graphics. It is widely used in the fields of data analysis, statistics, and machine learning, making it a valuable tool for researchers in cognitive psychology and neuroscience.\nIn the MIND lab, R is our default tool for analysis and visualisation of data. In this workshop, we will cover the basics of R, including how to install and set up R and RStudio, how to import and manipulate data. We will also cover some common statistical techniques used in cognitive psychology and neuroscience research, such as t-tests, ANOVA, and regression analysis.\n\n\nIntroduction to Zotero for reference management\n\nZotero is a free and open-source reference management software that helps researchers collect, organize, and cite their references. It is designed to be user-friendly and flexible, allowing researchers to create a personal library of references and easily generate citations in various styles. Zotero can automatically extract metadata from web pages, PDFs, and other sources, making it easy to add references to your library.\nIn this workshop, we will cover the basics of using Zotero for reference management, including how to install and set up Zotero, how to add references to your library, and how to generate citations in different styles. We will also discuss some best practices for using Zotero to promote transparency and reproducibility in research.\n\n\nUsing OpenScience Framework (OSF) for research management\n\nThe Open Science Framework (OSF) is a free and open-source web-based platform for managing and sharing research projects. It is designed to help researchers organize their work, collaborate with others, and share their findings with the broader scientific community. OSF provides a range of tools for managing research projects, including file storage, version control, and project management features.\nWe will cover the basics of using OSF for research management, pre-registration, and sharing research findings. We will also discuss best practices for using OSF to promote transparency and reproducibility in research.\n\n\nUsing GitHub for version control and collaboration\n\nGitHub is a web-based platform for version control and collaboration that is widely used in the fields of software development and data science. It allows researchers to track changes to their code and data, collaborate with others, and share their work with the broader scientific community.\nWhen coding cognitive psychology and neuroscience experiments, it is important to keep track of changes to the code and data, especially when working in a team. GitHub provides a range of tools for version control, including branching, merging, and pull requests, making it easy to collaborate with others and keep track of changes to the code. In this session, we will cover the basics of using GitHub for version control and collaboration, including how to create a repository, how to commit changes, and how to collaborate with others using pull requests. We will also discuss best practices for using GitHub to promote transparency and reproducibility in research."
-  },
-  {
-    "objectID": "training/index.html#advanced-skills-for-cognitive-psychology-and-neuroscience-research",
-    "href": "training/index.html#advanced-skills-for-cognitive-psychology-and-neuroscience-research",
-    "title": "Research training in the MIND Lab",
-    "section": "Advanced skills for cognitive psychology and neuroscience research",
-    "text": "Advanced skills for cognitive psychology and neuroscience research\n\nIntroduction to JSPsych for coding online experimental tasks\n\nJSPsych is a JavaScript library for creating and running online psychological experiments. It is designed to be flexible and easy to use, allowing researchers to create a wide range of experimental paradigms that can be run in web browsers.\nLike OpenSesame, JSPsych supports various types of stimuli, including images, sounds, and videos, and can be used to collect data from participants in both laboratory and online settings.\nJSPsych is particularly useful for researchers who want to run experiments online, due to its ability to collect data from participants in real-time and its compatibility with various web-based platforms. However, it requires programming knowledge, as it is based on JavaScript and HTML.\nIn this workshop, we will cover the basics of using JSPsych for coding online experimental tasks, including how to create a simple experiment, how to use different types of stimuli, and how to collect and analyze data. We will also discuss some common applications of JSPsych in cognitive psychology and neuroscience research.\n\n\nMixed effects modelling with R\nMixed effects modelling is a powerful statistical technique used to analyze data with complex hierarchical structures, such as repeated measures or nested data. It allows researchers to account for both fixed and random effects in their models, making it a valuable tool for analyzing data in cognitive psychology and neuroscience research.\nIn this workshop, we will cover the basics of mixed effects modelling with R, including how to fit mixed effects models using the lme4 package, how to interpret the results, and how to visualize the results using the ggplot2 package. We will also discuss some common applications of mixed effects modelling in cognitive psychology and neuroscience research."
+    "section": "Some of our training sessions",
+    "text": "Some of our training sessions\nThese are some of the core skills for conducting research in the MIND lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.\n\nIntroduction to functional near-infrared spectroscopy (fNIRS) for brain imaging\n\nThis workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time.\n\n\nIntroduction to eye-tracking for cognitive psychology\n\nEye-tracking is a powerful tool for studying visual attention and cognitive processes in cognitive psychology. It allows researchers to measure where and how long participants look at different stimuli, providing insights into their cognitive processes. Eye-tracking can be used to study a wide range of topics, including visual perception, attention, memory, and decision-making.\nIn this session, we will cover the basics of eye-tracking, including how eye-trackers work, how to set up an eye-tracking experiment, and how to analyze eye-tracking data. We will also discuss some common applications of eye-tracking in cognitive psychology research.\n\n\nDesigning and coding experiments with OpenSesame\n\nOpenSesame is a free and open-source software package for designing and running psychological experiments. It is designed to be user-friendly and flexible, allowing researchers to create a wide range of experimental paradigms without needing extensive programming knowledge. OpenSesame supports various types of stimuli, including images, sounds, and videos, and can be used to collect data from participants in both laboratory and online settings. It can also interface with various hardware devices, such as eye trackers and response boxes, making it a versatile tool for researchers in cognitive psychology and neuroscience.\nIn this workshop, we will cover the basics of designing and coding experiments with OpenSesame, including how to create a simple experiment, how to use different types of stimuli, and how to collect and analyse data.\n\n\nIntroduction to data analysis with R\n\nR is a free and open-source programming language and software environment for statistical computing and graphics. It is widely used in the fields of data analysis, statistics, and machine learning, making it a valuable tool for researchers in cognitive psychology and neuroscience.\nIn the MIND lab, R is our default tool for analysis and visualisation of data. In this workshop, we will cover the basics of R, including how to install and set up R and RStudio, how to import and manipulate data. We will also cover some common statistical techniques used in cognitive psychology and neuroscience research, such as t-tests, ANOVA, and regression analysis.\n\n\nIntroduction to Zotero for reference management\n\nZotero is a free and open-source reference management software that helps researchers collect, organize, and cite their references. It is designed to be user-friendly and flexible, allowing researchers to create a personal library of references and easily generate citations in various styles. Zotero can automatically extract metadata from web pages, PDFs, and other sources, making it easy to add references to your library.\nIn this workshop, we will cover the basics of using Zotero for reference management, including how to install and set up Zotero, how to add references to your library, and how to generate citations in different styles. We will also discuss some best practices for using Zotero to promote transparency and reproducibility in research.\n\n\nUsing OpenScience Framework (OSF) for research management\n\nThe Open Science Framework (OSF) is a free and open-source web-based platform for managing and sharing research projects. It is designed to help researchers organize their work, collaborate with others, and share their findings with the broader scientific community. OSF provides a range of tools for managing research projects, including file storage, version control, and project management features.\nWe will cover the basics of using OSF for research management, pre-registration, and sharing research findings. We will also discuss best practices for using OSF to promote transparency and reproducibility in research.\n\n\nUsing GitHub for version control and collaboration\n\nGitHub is a web-based platform for version control and collaboration that is widely used in the fields of software development and data science. It allows researchers to track changes to their code and data, collaborate with others, and share their work with the broader scientific community.\nWhen coding cognitive psychology and neuroscience experiments, it is important to keep track of changes to the code and data, especially when working in a team. GitHub provides a range of tools for version control, including branching, merging, and pull requests, making it easy to collaborate with others and keep track of changes to the code. In this session, we will cover the basics of using GitHub for version control and collaboration, including how to create a repository, how to commit changes, and how to collaborate with others using pull requests. We will also discuss best practices for using GitHub to promote transparency and reproducibility in research.\n\n\nIntroduction to JSPsych for coding online experimental tasks\n\nJSPsych is a JavaScript library for creating and running online psychological experiments. It is designed to be flexible and easy to use, allowing researchers to create a wide range of experimental paradigms that can be run in web browsers.\nLike OpenSesame, JSPsych supports various types of stimuli, including images, sounds, and videos, and can be used to collect data from participants in both laboratory and online settings.\nJSPsych is particularly useful for researchers who want to run experiments online, due to its ability to collect data from participants in real-time and its compatibility with various web-based platforms. However, it requires programming knowledge, as it is based on JavaScript and HTML.\nIn this workshop, we will cover the basics of using JSPsych for coding online experimental tasks, including how to create a simple experiment, how to use different types of stimuli, and how to collect and analyze data. We will also discuss some common applications of JSPsych in cognitive psychology and neuroscience research.\n\n\nMixed effects modelling with R\nMixed effects modelling is a powerful statistical technique used to analyze data with complex hierarchical structures, such as repeated measures or nested data. It allows researchers to account for both fixed and random effects in their models, making it a valuable tool for analyzing data in cognitive psychology and neuroscience research.\nIn this workshop, we will cover the basics of mixed effects modelling with R, including how to fit mixed effects models using the lme4 package, how to interpret the results, and how to visualize the results using the ggplot2 package. We will also discuss some common applications of mixed effects modelling in cognitive psychology and neuroscience research."
   },
   {
     "objectID": "tools/fnirs.html",
@@ -81,7 +67,7 @@
     "href": "research/hypomania.html#lab-members-involved-in-this-research",
     "title": "Hypomania and Risk-taking",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/accent.html",
@@ -102,7 +88,7 @@
     "href": "research/accent.html#lab-members-involved-in-this-research",
     "title": "Is non-native speech processed in less detail and, if so, why?",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recruitment/metacognition1.html",
@@ -147,8 +133,8 @@
     "text": "Participants needed!\nTopic: The aim of the study is to investigate the factors underpinning conversational memory.\nLocation: This study takes place online.\nWhat is involved? In conversation, there are multiple factors that determine what will be remembered. The current research will offer insight into the cognitive mechanisms underlying the phenomenon. Participants will be asked to listen to a conversation and complete a fill-in-the-gap task.\nDuration: Time slots are available for 60 minutes, but the experiment will take around 30–45 minutes to complete.\nEligibility: Native English speaker. The study must run on a laptop/PC (not a phone or a tablet). Must NOT have signed up or completed Conversational Memory Version 2.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1140"
   },
   {
-    "objectID": "people/srdan.html",
-    "href": "people/srdan.html",
+    "objectID": "people/srdan/index.html",
+    "href": "people/srdan/index.html",
     "title": "Srdan Medimorec",
     "section": "",
     "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
@@ -179,7 +165,70 @@
     "href": "news/lab_schedule_sem1.html",
     "title": "Lab meeting schedule for Semester 1 published",
     "section": "",
-    "text": "The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.\nThe first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this link (www.themindlab.uk/training/)."
+    "text": "The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.\nThe first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this link (www.themindlab.uk/info/lab_schedule.html)."
+  },
+  {
+    "objectID": "info/lab_schedule.html",
+    "href": "info/lab_schedule.html",
+    "title": "Lab Meeting Schedule",
+    "section": "",
+    "text": "Last Updated: Sept 2025"
+  },
+  {
+    "objectID": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "href": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "title": "Lab Meeting Schedule",
+    "section": "Meeting schedule for Semester 1 2025/2026",
+    "text": "Meeting schedule for Semester 1 2025/2026\nThe meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nTime 2pm. Room: CL1.03 Themis\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nChris Talk - Research Stream Update\n\n\n13/11/25\nIntroduction to fNIRS for brain imaging\n\n\n27/11/25\nLab meeting\n\n\n15/01/26\nIntroduction to eyetracking for cognitive psychology\n\n\n29/01/26\nLab meeting\n\n\n12/2/2026\nDesigning and coding experiments with OpenSesame\n\n\n26/02/26\nLab meeting\n\n\n12/3/2026\nUsing OpenScience Framework (OSF) for research management"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Lab",
+    "section": "",
+    "text": "The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.\nWe are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
+  },
+  {
+    "objectID": "index.html#lab-news",
+    "href": "index.html#lab-news",
+    "title": "Welcome to the Lab",
+    "section": "Lab News",
+    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nLab meeting schedule for Semester 1 published\n\n\n\n\n\n\n\n\n\n\n\n2025-09-16\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab at Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n2025-06-24\n\n\n\n\n\n\n\n\n\n\n\n\nGrant awarded by the Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\n\n\n\n\n\n\n2025-05-1\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#lab-events",
+    "href": "index.html#lab-events",
+    "title": "Welcome to the Lab",
+    "section": "Lab Events",
+    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\n\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media. \n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html",
+    "href": "events/intro_to_fnirs.html",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+  },
+  {
+    "objectID": "events/college_talk.html",
+    "href": "events/college_talk.html",
+    "title": "Breaking big problems into small pieces…",
+    "section": "",
+    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
+  },
+  {
+    "objectID": "events/tu_research_fair.html",
+    "href": "events/tu_research_fair.html",
+    "title": "MIND Lab @ Teesside University Research Fair",
+    "section": "",
+    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
   },
   {
     "objectID": "info/lab_manual.html",
@@ -245,55 +294,6 @@
     "text": "Organisation and collaboration\nHaving a consistent approach to organisation and collaboration is important for the success of the lab. This means having clear processes and procedures for conducting research, managing data, and communicating with each other. By using a consistent approach, we can maintain research integrity, proper research protocols and data management practices.\n\nCommunication\nWe will use the lab website as the main external communication tool for the lab. This will include information about the lab, our research, and opportunities to get involved. You can contribute to the website by sharing your work, writing blog posts, and sharing news and updates about the lab.\nWe will use Microsoft Teams as the main internal communication tool for the lab. This will include channels for different projects, as well as general channels for lab members to share ideas and discuss their work. We will also use Teams for video calls and meetings.\nThis will allow us to maintain a central repository of information and resources, and to communicate effectively with each other. We will also use email for more formal communication, but we encourage you to use Teams for day-to-day communication.\n\n\nData collection and management\nAll projects should have a Data Management Plan (DMP) that outlines how data will be collected, stored, and shared. This should include information about the types of data being collected, how it will be stored and backed up, and how it will be shared with others. We will provide templates and guidance on how to create a DMP.\nWhen collecting data for a project, it is essential that you adhere to the DMP and follow all guidelines and protocols for data collection. This particularly relates to storing, saving and backing up data, as well the storage of any personal information from participants.\nFailure to adhere to the DMP and guidelines for data collection may result in the loss of data, violation of legal/ethical requirements or other issues that could impact the integrity of the research. If you have any questions or concerns about the DMP or data collection, please speak to the lab leads.\n\n\nThe Open Science Framework (OSF)\nWe will use the OSF to manage our projects and share our data, methods and findings with others. This will include creating a project page for each project, where you can share your data, methods and findings. We will provide training on how to use the OSF in accordance with the lab’s policies and procedures.\n\n\nGithub\nWe will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab’s policies and procedures.\n\n\nThe lab website\nThe lab website will generally be run by the lab leads, but we will encourage all lab members to contribute to the website. This will include sharing your work, writing blog posts, and sharing news and updates about the lab. We will provide guidance on how to use the website and how to contribute to it."
   },
   {
-    "objectID": "events/tu_research_fair.html",
-    "href": "events/tu_research_fair.html",
-    "title": "MIND Lab @ Teesside University Research Fair",
-    "section": "",
-    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
-  },
-  {
-    "objectID": "events/college_talk.html",
-    "href": "events/college_talk.html",
-    "title": "Breaking big problems into small pieces…",
-    "section": "",
-    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html",
-    "href": "events/intro_to_fnirs.html",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "",
-    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html#workshop-outline",
-    "href": "events/intro_to_fnirs.html#workshop-outline",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "Workshop Outline",
-    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Lab",
-    "section": "",
-    "text": "The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec.\nWe are interested in understanding the cognitive and neural mechanisms underlying decision-making, learning, and memory. We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
-  },
-  {
-    "objectID": "index.html#lab-news",
-    "href": "index.html#lab-news",
-    "title": "Welcome to the Lab",
-    "section": "Lab News",
-    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nLab meeting schedule for Semester 1 published\n\n\n\n\n\n\n\n\n\n\n\n2025-09-16\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab at Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n2025-06-24\n\n\n\n\n\n\n\n\n\n\n\n\nGrant awarded by the Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\n\n\n\n\n\n\n2025-05-1\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#lab-events",
-    "href": "index.html#lab-events",
-    "title": "Welcome to the Lab",
-    "section": "Lab Events",
-    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\n\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media. \n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "news/afsg_award.html",
     "href": "news/afsg_award.html",
     "title": "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)",
@@ -308,11 +308,11 @@
     "text": "The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nDr. Srdan Medimoric said of the event:\n\n“We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University.”\n\nPosters presented at the event included:\n\nIt’s part of the sport: How social identification with sports groups predicts gambling behaviour\nThe cognitive and neural moderators of hypomania and economic risk-taking\nCognitive offloading without benefits to performance?\nIs non-native speech processed in less detail and, if so, why?"
   },
   {
-    "objectID": "people/chris.html",
-    "href": "people/chris.html",
+    "objectID": "people/chris/index.html",
+    "href": "people/chris/index.html",
     "title": "Christopher Wilson",
     "section": "",
-    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.\nIn the lab, I use fNIRS, Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/jaya-priya.html",
@@ -322,18 +322,25 @@
     "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field."
   },
   {
-    "objectID": "people/lorraine.html",
-    "href": "people/lorraine.html",
+    "objectID": "people/lorraine_temple/index.html",
+    "href": "people/lorraine_temple/index.html",
     "title": "Lorraine Temple",
     "section": "",
-    "text": "Lorraine is an undergraduate student whose work has focused on metacognition and accent perception."
+    "text": "Lorraine is an MRes student. Her work has focused on metacognition and accent perception. She works as a research assistant on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour."
+  },
+  {
+    "objectID": "people/lorraine_temple/index.html#research-training-badges",
+    "href": "people/lorraine_temple/index.html#research-training-badges",
+    "title": "Lorraine Temple",
+    "section": "Research Training Badges",
+    "text": "Research Training Badges\n\n\n  \n    \n      \n    \n  \n\n\n\nNo matching items"
   },
   {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Lab members",
     "section": "",
-    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nMSc/MRes Researchers\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Researchers\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recruitment/hyp1_slide.html#participants-needed",
@@ -382,7 +389,7 @@
     "href": "research/gambling.html#lab-members-involved-in-this-research",
     "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab members involved in this research\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/metacognition.html",
@@ -403,7 +410,7 @@
     "href": "research/metacognition.html#lab-members-involved-in-this-research",
     "title": "Metacognition and cognitive offloading",
     "section": "Lab members involved in this research",
-    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "slides/school_talk/index.html#overview",

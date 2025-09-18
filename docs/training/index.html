@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-badges .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-filename','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-filename","listing-file-modified"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-badges'] = new List('listing-badges', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -138,8 +198,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#meeting-schedule-for-semester-1-20252026" id="toc-meeting-schedule-for-semester-1-20252026" class="nav-link active" data-scroll-target="#meeting-schedule-for-semester-1-20252026">Meeting schedule for Semester 1 2025/2026</a></li>
-  <li><a href="#training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research" id="toc-training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research" class="nav-link" data-scroll-target="#training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research">Training sessions: Core skills for cognitive psychology and neuroscience research</a>
+  <li><a href="#mind-lab-research-training-badges" id="toc-mind-lab-research-training-badges" class="nav-link active" data-scroll-target="#mind-lab-research-training-badges">MIND Lab Research Training Badges</a></li>
+  <li><a href="#some-of-our-training-sessions" id="toc-some-of-our-training-sessions" class="nav-link" data-scroll-target="#some-of-our-training-sessions">Some of our training sessions</a>
   <ul class="collapse">
   <li><a href="#introduction-to-functional-near-infrared-spectroscopy-fnirs-for-brain-imaging" id="toc-introduction-to-functional-near-infrared-spectroscopy-fnirs-for-brain-imaging" class="nav-link" data-scroll-target="#introduction-to-functional-near-infrared-spectroscopy-fnirs-for-brain-imaging">Introduction to functional near-infrared spectroscopy (fNIRS) for brain imaging</a></li>
   <li><a href="#introduction-to-eye-tracking-for-cognitive-psychology" id="toc-introduction-to-eye-tracking-for-cognitive-psychology" class="nav-link" data-scroll-target="#introduction-to-eye-tracking-for-cognitive-psychology">Introduction to eye-tracking for cognitive psychology</a></li>
@@ -148,9 +208,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#introduction-to-zotero-for-reference-management" id="toc-introduction-to-zotero-for-reference-management" class="nav-link" data-scroll-target="#introduction-to-zotero-for-reference-management">Introduction to Zotero for reference management</a></li>
   <li><a href="#using-openscience-framework-osf-for-research-management" id="toc-using-openscience-framework-osf-for-research-management" class="nav-link" data-scroll-target="#using-openscience-framework-osf-for-research-management">Using OpenScience Framework (OSF) for research management</a></li>
   <li><a href="#using-github-for-version-control-and-collaboration" id="toc-using-github-for-version-control-and-collaboration" class="nav-link" data-scroll-target="#using-github-for-version-control-and-collaboration">Using GitHub for version control and collaboration</a></li>
-  </ul></li>
-  <li><a href="#advanced-skills-for-cognitive-psychology-and-neuroscience-research" id="toc-advanced-skills-for-cognitive-psychology-and-neuroscience-research" class="nav-link" data-scroll-target="#advanced-skills-for-cognitive-psychology-and-neuroscience-research">Advanced skills for cognitive psychology and neuroscience research</a>
-  <ul class="collapse">
   <li><a href="#introduction-to-jspsych-for-coding-online-experimental-tasks" id="toc-introduction-to-jspsych-for-coding-online-experimental-tasks" class="nav-link" data-scroll-target="#introduction-to-jspsych-for-coding-online-experimental-tasks">Introduction to JSPsych for coding online experimental tasks</a></li>
   <li><a href="#mixed-effects-modelling-with-r" id="toc-mixed-effects-modelling-with-r" class="nav-link" data-scroll-target="#mixed-effects-modelling-with-r">Mixed effects modelling with R</a></li>
   </ul></li>
@@ -180,95 +237,132 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Each semester, the lab leads and doctoral students deliver a series of seminars on various topics related to research training. The seminars are designed to provide students with the necessary skills and knowledge to conduct research in the field of cognitive psychology and neuroscience.</p>
-<section id="meeting-schedule-for-semester-1-20252026" class="level2">
-<h2 class="anchored" data-anchor-id="meeting-schedule-for-semester-1-20252026">Meeting schedule for Semester 1 2025/2026</h2>
-<p>The seminars are open to all students in the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.</p>
-<p>Room TBC - will be added soon.</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 15%">
-<col style="width: 84%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>W/C</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>02/10/25</td>
-<td>Introduction meeting 25/26</td>
-</tr>
-<tr class="even">
-<td>16/10/25</td>
-<td>Srdan Talk - Research Stream Update</td>
-</tr>
-<tr class="odd">
-<td>30/10/25</td>
-<td>Chris Talk - Research Stream Update</td>
-</tr>
-<tr class="even">
-<td>13/11/25</td>
-<td>Introduction to fNIRS for brain imaging</td>
-</tr>
-<tr class="odd">
-<td>27/11/25</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="even">
-<td>15/01/26</td>
-<td>Introduction to eyetracking for cognitive psychology</td>
-</tr>
-<tr class="odd">
-<td>29/01/26</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="even">
-<td>12/2/2026</td>
-<td>Designing and coding experiments with OpenSesame</td>
-</tr>
-<tr class="odd">
-<td>26/02/26</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="even">
-<td>12/3/2026</td>
-<td>Using OpenScience Framework (OSF) for research management</td>
-</tr>
-</tbody>
-</table>
-<!-- ## MIND Lab Research Training Badges
+<section id="mind-lab-research-training-badges" class="level2">
+<h2 class="anchored" data-anchor-id="mind-lab-research-training-badges">MIND Lab Research Training Badges</h2>
+<p>This semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members.</p>
+<p>We have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.</p>
+<p>Badges will be visible on the profile of each lab member on the MIND Lab website, showcasing their skills and expertise to potential employers and collaborators. Each badge has a specific set of criteria that must be met in order to earn it, and lab mambers will receive feedback on their progress towards earning each badge.</p>
+<p>Soon, the badges will be implemented using the open badge standard, which allows for easy sharing and verification of skills across different platforms. This means that lab members will be able to showcase their badges on their CVs, LinkedIn profiles, and other professional networks.</p>
+<div id="listing-badges" class="quarto-listing quarto-listing-container-custom">
+<div class="grid">
 
-This semester we are introducing a new initiative to encourage and recognise the development of research skills among our lab members. 
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_da.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-We have identified a set of skills that are important for conducting research in cognitive psychology and neuroscience. We will be awarding digital badges to students who complete training in these skills, through participation in workshops, seminars, or contributions to lab projects.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_ed.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-The first set of badges are:
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_et.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Lab engagement badge: awarded for regular attendance and active participation in lab meetings and discussions. This shows that you contributed to the lab culture.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_fnirs.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Literature reading and review badge: awarded for participation and contribution to paper review sessions.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_github.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Research presentation badge: awarded for delivering a presentation in a lab meeting.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_jspsych.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Lab data collection badge: awarded for collection of participant data in a lab-based project.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_ldc.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Online data collection badge: awarded for online collection of participant data in a project.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_le.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Data analysis badge: awarded for completion of at least 1 training session on data analysis and contribution to data analysis for at least 1 project.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_lr.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Open Science Badge: awarded for completion of introduction to Open Science Framework training and contribution to 1 lab project on OSF.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_mem.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Eyetracker badge: awarded for completion of eyetracker training and eyetracker data collection on 1 project.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_odc.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- fNIRS badge: awarded for completion of fNIRS training and fNIRS data collection on 1 project.
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_os.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
 
-- Academic Writing badge: awarded for author contribution to a lab research article. 
--->
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_power.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_quarto.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_r.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../training/badges/ml_badge_rp.svg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+
+</div>
+
+<style>
+.badge-container {
+  padding: 10px;
+}
+.badge-svg {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  
+}
+</style>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
-<section id="training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research" class="level2">
-<h2 class="anchored" data-anchor-id="training-sessions-core-skills-for-cognitive-psychology-and-neuroscience-research">Training sessions: Core skills for cognitive psychology and neuroscience research</h2>
+<section id="some-of-our-training-sessions" class="level2">
+<h2 class="anchored" data-anchor-id="some-of-our-training-sessions">Some of our training sessions</h2>
 <p>These are some of the core skills for conducting research in the MIND lab. While other sessions might be more specific to a particular project, these sessions are designed to provide a solid foundation for all students in the lab.</p>
 <section id="introduction-to-functional-near-infrared-spectroscopy-fnirs-for-brain-imaging" class="level3">
 <h3 class="anchored" data-anchor-id="introduction-to-functional-near-infrared-spectroscopy-fnirs-for-brain-imaging">Introduction to functional near-infrared spectroscopy (fNIRS) for brain imaging</h3>
@@ -311,9 +405,6 @@ The first set of badges are:
 <p>GitHub is a web-based platform for version control and collaboration that is widely used in the fields of software development and data science. It allows researchers to track changes to their code and data, collaborate with others, and share their work with the broader scientific community.</p>
 <p>When coding cognitive psychology and neuroscience experiments, it is important to keep track of changes to the code and data, especially when working in a team. GitHub provides a range of tools for version control, including branching, merging, and pull requests, making it easy to collaborate with others and keep track of changes to the code. In this session, we will cover the basics of using GitHub for version control and collaboration, including how to create a repository, how to commit changes, and how to collaborate with others using pull requests. We will also discuss best practices for using GitHub to promote transparency and reproducibility in research.</p>
 </section>
-</section>
-<section id="advanced-skills-for-cognitive-psychology-and-neuroscience-research" class="level2">
-<h2 class="anchored" data-anchor-id="advanced-skills-for-cognitive-psychology-and-neuroscience-research">Advanced skills for cognitive psychology and neuroscience research</h2>
 <section id="introduction-to-jspsych-for-coding-online-experimental-tasks" class="level3">
 <h3 class="anchored" data-anchor-id="introduction-to-jspsych-for-coding-online-experimental-tasks">Introduction to JSPsych for coding online experimental tasks</h3>
 <p><img src="../images/jspsych.png" class="img-fluid" style="display: block; margin: 0 auto; width:30%"></p>
@@ -326,6 +417,7 @@ The first set of badges are:
 <h3 class="anchored" data-anchor-id="mixed-effects-modelling-with-r">Mixed effects modelling with R</h3>
 <p>Mixed effects modelling is a powerful statistical technique used to analyze data with complex hierarchical structures, such as repeated measures or nested data. It allows researchers to account for both fixed and random effects in their models, making it a valuable tool for analyzing data in cognitive psychology and neuroscience research.</p>
 <p>In this workshop, we will cover the basics of mixed effects modelling with R, including how to fit mixed effects models using the lme4 package, how to interpret the results, and how to visualize the results using the ggplot2 package. We will also discuss some common applications of mixed effects modelling in cognitive psychology and neuroscience research.</p>
+
 
 
 </section>

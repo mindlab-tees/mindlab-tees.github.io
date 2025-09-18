@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/training/index.html",
+    "items": []
+  },
+  {
     "listing": "/tools/fnirs.html",
     "items": [
       "/research/hypomania.html",
@@ -26,7 +30,6 @@
     "listing": "/research/hypomania.html",
     "items": [
       "/people/alana.html",
-      "/people/chris.html",
       "/people/david.html",
       "/people/jaya-priya.html"
     ]
@@ -34,9 +37,7 @@
   {
     "listing": "/research/accent.html",
     "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
+      "/people/lisa.html"
     ]
   },
   {
@@ -51,12 +52,20 @@
     ]
   },
   {
+    "listing": "/people/chris/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/lorraine_temple/index.html",
+    "items": []
+  },
+  {
     "listing": "/people.html",
     "items": [
-      "/people/chris.html",
-      "/people/srdan.html",
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
       "/people/lisa.html",
-      "/people/lorraine.html",
+      "/people/lorraine_temple/index.html",
       "/people/alana.html",
       "/people/david.html",
       "/people/jaya-priya.html"
@@ -72,16 +81,12 @@
   },
   {
     "listing": "/research/gambling.html",
-    "items": [
-      "/people/chris.html"
-    ]
+    "items": []
   },
   {
     "listing": "/research/metacognition.html",
     "items": [
-      "/people/lisa.html",
-      "/people/lorraine.html",
-      "/people/srdan.html"
+      "/people/lisa.html"
     ]
   },
   {

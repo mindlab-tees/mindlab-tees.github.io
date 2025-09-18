@@ -127,6 +127,34 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-masters-researchers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-masters-researchers'] = new List('listing-masters-researchers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-doctoral-researchers .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -284,6 +312,7 @@ window.Quarto = {
   <ul>
   <li><a href="#lab-leads" id="toc-lab-leads" class="nav-link active" data-scroll-target="#lab-leads">Lab leads</a></li>
   <li><a href="#doctoral-researchers" id="toc-doctoral-researchers" class="nav-link" data-scroll-target="#doctoral-researchers">Doctoral Researchers</a></li>
+  <li><a href="#mscmres-researchers" id="toc-mscmres-researchers" class="nav-link" data-scroll-target="#mscmres-researchers">MSc/MRes Researchers</a></li>
   <li><a href="#undergraduate-researchers" id="toc-undergraduate-researchers" class="nav-link" data-scroll-target="#undergraduate-researchers">Undergraduate Researchers</a></li>
   <li><a href="#volunteer-researchers" id="toc-volunteer-researchers" class="nav-link" data-scroll-target="#volunteer-researchers">Volunteer Researchers</a></li>
   </ul>
@@ -315,8 +344,8 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="lab-leads">Lab leads</h3>
 <div id="listing-lab-directors" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1757597264687" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
-<a href="./people/chris.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1758120887098" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
+<a href="./people/chris/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/chris.webp" class="thumbnail-image card-img" style="height: 150px;">
@@ -337,8 +366,8 @@ I am an Associate Professor in the Department of Psychology at Teesside Universi
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1757597264687" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
-<a href="./people/srdan.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1758121417631" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
+<a href="./people/srdan/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
 <img loading="lazy" src="./images/srdan.jpg" class="thumbnail-image card-img" style="height: 150px;">
@@ -419,6 +448,38 @@ No matching items
 </div>
 </div>
 </section>
+<section id="mscmres-researchers" class="level3">
+<h3 class="anchored" data-anchor-id="mscmres-researchers">MSc/MRes Researchers</h3>
+<div id="listing-masters-researchers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1758121611747" data-listing-reading-time-sort="1" data-listing-word-count-sort="38">
+<a href="./people/lorraine_temple/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./images/lorraine_temple.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lorraine Temple
+</h5>
+<div class="card-text listing-description">
+Lorraine is an MRes student. Her work has focused on metacognition and accent perception. She works as a research assistant on the ASFG funded project which explores how…
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
 <section id="undergraduate-researchers" class="level3">
 <h3 class="anchored" data-anchor-id="undergraduate-researchers">Undergraduate Researchers</h3>
 <div id="listing-undergraduate-researchers" class="quarto-listing quarto-listing-container-grid">
@@ -435,28 +496,6 @@ Lisa Cassidy
 </h5>
 <div class="card-text listing-description">
 My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant…
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1757597264687" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
-<a href="./people/lorraine.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lorraine Temple
-</h5>
-<div class="card-text listing-description">
-Lorraine is an undergraduate student whose work has focused on metacognition and accent perception.
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">

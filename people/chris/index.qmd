@@ -1,11 +1,11 @@
 ---
 title: "Christopher Wilson"
-image: "../images/chris.webp"
+image: "../../images/chris.webp"
 role: director
 projects: [hypomania, gambling]
 about: 
   template: jolla
-  image: "../images/chris.webp"
+  image: "../../images/chris.webp"
   image-width: 10em
   image-shape: round
   links:
@@ -18,13 +18,10 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/christopherjwilson
-# listing:
-#     - id: related-projects
-#       contents: "../projects/*"
-#       type: default
-#       fields: [image, title]
-#       include:
-#         people: chris
+listing:
+   - id: badges
+     contents: "/*.svg"
+     template: ../../badges.ejs
 ---
 
 ::: {#hero-heading}

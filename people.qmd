@@ -12,6 +12,11 @@ listing:
     type: grid
     include:
       role: undergraduate
+  - id: masters-researchers
+    contents: people
+    type: grid
+    include:
+      role: masters
   - id: doctoral-researchers
     contents: people
     type: grid
@@ -31,6 +36,12 @@ listing:
 ### Doctoral Researchers
 
 ::: {#doctoral-researchers}
+
+:::
+
+### MSc/MRes Researchers
+
+::: {#masters-researchers}
 
 :::
 
