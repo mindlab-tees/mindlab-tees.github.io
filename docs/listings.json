@@ -41,25 +41,6 @@
     ]
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html",
-      "/news/lab_schedule_sem1.html",
-      "/news/tu_research_fair.html",
-      "/news/afsg_award.html"
-    ]
-  },
-  {
-    "listing": "/people/chris/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/lorraine_temple/index.html",
-    "items": []
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/chris/index.html",
@@ -69,6 +50,26 @@
       "/people/alana.html",
       "/people/david.html",
       "/people/jaya-priya.html"
+    ]
+  },
+  {
+    "listing": "/people/lorraine_temple/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/chris/index.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html",
+      "/news/construal_paper.html",
+      "/news/lab_schedule_sem1.html",
+      "/news/tu_research_fair.html",
+      "/news/afsg_award.html"
     ]
   },
   {

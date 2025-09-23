@@ -10,8 +10,8 @@ listing:
   - id: news
     sort: "news-date desc"
     contents: "news/*qmd"
-    type: default
-    fields: [image, title, description, news-date]
+    type: grid
+    fields: [image, title, description]
 
 ---
 
