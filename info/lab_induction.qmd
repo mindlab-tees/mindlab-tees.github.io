@@ -67,3 +67,9 @@ Dr Srdan Medimorec
 - This is a voluntary opportunity (we use Voluntees to track hours)
 - This will not suit everyone - it is a commitment
 - We are looking for motivated and enthusiastic students who want to develop their research skills
+
+# Questions?
+
+# Please sign-in using the QR code below!
+
+![](../images/qr_signin.png)
