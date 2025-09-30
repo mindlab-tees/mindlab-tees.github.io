@@ -196,6 +196,41 @@
     "text": "Meeting schedule for Semester 1 2025/2026\nThe meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nTime 2pm. Room: CL1.03 Themis\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nChris Talk - Research Stream Update\n\n\n13/11/25\nIntroduction to fNIRS for brain imaging\n\n\n27/11/25\nLab meeting\n\n\n15/01/26\nIntroduction to eyetracking for cognitive psychology\n\n\n29/01/26\nLab meeting\n\n\n12/2/2026\nDesigning and coding experiments with OpenSesame\n\n\n26/02/26\nLab meeting\n\n\n12/3/2026\nUsing OpenScience Framework (OSF) for research management"
   },
   {
+    "objectID": "info/lab_induction.html#introductions",
+    "href": "info/lab_induction.html#introductions",
+    "title": "Introduction to the lab",
+    "section": "Introductions",
+    "text": "Introductions\nDr Christopher Wilson\nDr Srdan Medimorec"
+  },
+  {
+    "objectID": "events/tu_research_fair.html",
+    "href": "events/tu_research_fair.html",
+    "title": "MIND Lab @ Teesside University Research Fair",
+    "section": "",
+    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
+  },
+  {
+    "objectID": "events/college_talk.html",
+    "href": "events/college_talk.html",
+    "title": "Breaking big problems into small pieces…",
+    "section": "",
+    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html",
+    "href": "events/intro_to_fnirs.html",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome to the Lab",
@@ -215,34 +250,6 @@
     "title": "Welcome to the Lab",
     "section": "Lab Events",
     "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\n\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media. \n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html",
-    "href": "events/intro_to_fnirs.html",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "",
-    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html#workshop-outline",
-    "href": "events/intro_to_fnirs.html#workshop-outline",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "Workshop Outline",
-    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
-  },
-  {
-    "objectID": "events/college_talk.html",
-    "href": "events/college_talk.html",
-    "title": "Breaking big problems into small pieces…",
-    "section": "",
-    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
-  },
-  {
-    "objectID": "events/tu_research_fair.html",
-    "href": "events/tu_research_fair.html",
-    "title": "MIND Lab @ Teesside University Research Fair",
-    "section": "",
-    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
   },
   {
     "objectID": "info/lab_manual.html",
