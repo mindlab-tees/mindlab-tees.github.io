@@ -41,24 +41,10 @@
     ]
   },
   {
-    "listing": "/people.html",
+    "listing": "/projects/afsg_sport.html",
     "items": [
-      "/people/chris/index.html",
-      "/people/srdan/index.html",
-      "/people/lisa.html",
-      "/people/lorraine_temple/index.html",
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/jaya-priya.html"
+      "/people/lorraine_temple.html"
     ]
-  },
-  {
-    "listing": "/people/lorraine_temple/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/chris/index.html",
-    "items": []
   },
   {
     "listing": "/index.html",
@@ -70,6 +56,28 @@
       "/news/lab_schedule_sem1.html",
       "/news/tu_research_fair.html",
       "/news/afsg_award.html"
+    ]
+  },
+  {
+    "listing": "/people/chris/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/lorraine_temple/lorraine_temple.html",
+    "items": [
+      "/projects/afsg_sport.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/lisa.html",
+      "/people/lorraine_temple.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/jaya-priya.html"
     ]
   },
   {
@@ -96,6 +104,12 @@
       "/tools/cobifnirs.html",
       "/tools/custom_tasks.html",
       "/tools/fnirs.html"
+    ]
+  },
+  {
+    "listing": "/people/lorraine_temple.html",
+    "items": [
+      "/projects/afsg_sport.html"
     ]
   }
 ]
