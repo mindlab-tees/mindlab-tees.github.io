@@ -4,13 +4,97 @@ subtitle: "What psychology and social work research at Teesside University can d
 author: "Christopher Wilson"
 format:
   revealjs:
-    theme: simple
     slide-number: true
-    logo: "https://www.tees.ac.uk/web/images/teesside-university-logo-square.png"
-    css: custom.scss
+    logo: "../../images/tu_icon.jpg"
+    theme: [simple, custom.scss]
+    width: 1000
 ---
 
+# {data-background-image="../../images/s1seminars.png" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="center" .noblur}
 
+# What's the point of research at a time like this?
+
+## The challenges we face {data-background-image="../../images/challenges.png" data-background-opacity="0.1"}
+
+-   Climate change
+-   Misinformation and distrust
+-   Social Isolation
+-   Inequality and division
+-   Trauma and mental health issues
+-   Chronic illness and ageing populations
+-   Adaptation to a rapidly changing world
+
+:::{.notes}
+Climate Change
+Source: Intergovernmental Panel on Climate Change (IPCC)
+
+Citation: IPCC. (2023). Climate Change 2023: Synthesis Report. Contribution of Working Groups I, II and III to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change [Core Writing Team, H. Lee and J. Romero (eds.)]. IPCC, Geneva, Switzerland.
+
+Relevance: This is the most comprehensive and authoritative assessment of the scientific evidence on climate change. It establishes the unequivocal human influence on the warming of the atmosphere, ocean, and land, and details the widespread and rapid changes that have occurred.
+
+Misinformation and Distrust
+Source: Science (Journal) and Edelman (Global Communications Firm)
+
+Citation 1: Lazer, D. M. J., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., ... & Zittrain, J. L. (2018). The science of fake news. Science, 359(6380), 1094-1096.
+
+Relevance 1: This article provides a framework for understanding the ecosystem of misinformation, how it spreads, and its corrosive effects on democratic institutions and public trust.
+
+Citation 2: Edelman. (2024). 2024 Edelman Trust Barometer. Edelman.
+
+Relevance 2: This annual global report provides extensive data on the state of public trust in key institutions, including government, media, business, and NGOs. It consistently documents a crisis of trust and links it to societal and political polarization.
+
+Social Isolation
+Source: PLoS Medicine (Journal) and World Health Organization (WHO)
+
+Citation 1: Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: A meta-analytic review. PLoS Medicine, 7(7), e1000316.
+
+Relevance 1: This highly influential meta-analysis demonstrates that the mortality risk associated with social isolation and loneliness is comparable to, or greater than, well-established risk factors like obesity, physical inactivity, and smoking.
+
+Citation 2: World Health Organization. (2023). Social isolation and loneliness among older people: ADVOCACY BRIEF. WHO.
+
+Relevance 2: This brief frames social isolation as a critical public health priority, detailing its negative impacts on physical and mental health, particularly within ageing populations.
+
+Inequality and Division
+Source: Academic (Economics) and World Bank
+
+Citation 1: Piketty, T. (2014). Capital in the Twenty-First Century. (Translated by Arthur Goldhammer). Harvard University Press.
+
+Relevance 1: A landmark economic analysis demonstrating through historical data that the rate of return on capital has historically exceeded the rate of economic growth, leading to a natural tendency towards increasing wealth and income inequality.
+
+Citation 2: World Bank. (2022). Poverty and Shared Prosperity 2022: Correcting Course. World Bank.
+
+Relevance 2: This report provides global data and analysis on the state of poverty and inequality, highlighting how recent crises have led to the largest setback to global poverty-reduction efforts in decades and exacerbated inequality.
+
+Trauma and Mental Health Issues
+Source: World Health Organization (WHO)
+
+Citation: World Health Organization. (2022). World mental health report: Transforming mental health for all. WHO.
+
+Relevance: This comprehensive report provides the most current global data on the prevalence of mental health conditions, including those linked to trauma like PTSD and depression. It details the significant gaps in care and the immense human and economic cost of unaddressed mental health issues worldwide.
+
+Chronic Illness and Ageing Populations
+Source: United Nations (UN) and World Health Organization (WHO)
+
+Citation 1: United Nations, Department of Economic and Social Affairs, Population Division. (2022). World Population Prospects 2022: Summary of Results. UN DESA/POP/2022/TR/NO. 3.
+
+Relevance 1: This is the definitive source for global demographic data and projections. It provides the evidence base for the rapid ageing of the global population, a key driver of the increasing burden of chronic illness.
+
+Citation 2: World Health Organization. (2023). Noncommunicable diseases. [Fact sheet].
+
+Relevance 2: This resource outlines the scale of chronic, noncommunicable diseases (NCDs) like heart disease, cancer, and diabetes, which kill 41 million people each year (74% of all deaths globally) and are strongly associated with ageing populations.
+
+Adaptation to a Rapidly Changing World
+Source: World Economic Forum (WEF) and Academic (Sociology)
+
+Citation 1: Schwab, K. (2016). The Fourth Industrial Revolution. World Economic Forum.
+
+Relevance 1: This work provides a widely used framework for understanding the rapid, disruptive, and systemic changes brought about by converging technologies (e.g., AI, IoT, bioengineering). It argues that the speed and scope of this revolution demand profound adaptation from all parts of society.
+
+Citation 2: Bauman, Z. (2000). Liquid Modernity. Polity Press.
+
+Relevance 2: A foundational sociological text that characterizes the contemporary era as "liquid," where social forms and institutions are no longer stable and are in a continuous state of flux. This forces individuals and societies into a constant state of adaptation with no fixed endpoint.
+
+:::
 
 ## The Human Element {data-background-image="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg" data-background-opacity="0.1"}
 
@@ -30,7 +114,7 @@ Perhaps one of the biggest challenges of our time is the way that misinformation
 :::
 ---
 
-## The Paradox of Fear {data-background-image="https://images.pexels.com/photos/7130473/pexels-photo-7130473.jpeg" data-background-opacity="0.1"}
+## The Paradox of Fear {.smaller data-background-image="https://images.pexels.com/photos/7130473/pexels-photo-7130473.jpeg" data-background-opacity="0.1"}
 
 ::: {.columns}
 ::: {.column width="40%"}
@@ -98,9 +182,9 @@ Dr. Walker's research reveals a collaborative reality in clinical practice. The 
 
 ---
 
-## Section 2: The Fraying of Social Bonds
+# The Fraying of Social Bonds
 
-Understanding and Mending Isolation.
+Understanding and addressing loneliness in a rapidly changing world.
 
 ---
 
@@ -214,7 +298,7 @@ Dr. O'Neill's work in community psychology demonstrates a commitment to Asset-Ba
 
 ---
 
-## Section 3: Deconstructing Division
+# Deconstructing Division
 
 The Psychological Roots of Prejudice and Inequality.
 
@@ -330,7 +414,7 @@ Dr. Angela Prout's research highlights a subtle but profound mechanism of inequa
 
 ---
 
-## Section 4: From Trauma to Resilience
+# From Trauma to Resilience
 
 Pathways to Healing and Growth.
 
@@ -346,7 +430,7 @@ Pathways to Healing and Growth.
 :::
 
 ::: {.column width="60%"}
-Dr. Carthy's work identified a **"flourishing profile"** of students who, despite high levels of trauma exposure, had a positive academic experience. This provides a roadmap for universities to proactively foster protective factors like social support and coping skills.
+This work identified a **"flourishing profile"** of students who, despite high levels of trauma exposure, had a positive academic experience. This provides a roadmap for universities to proactively foster protective factors like social support and coping skills.
 :::
 :::
 
@@ -364,7 +448,7 @@ This research represents a crucial move away from a deterministic model where tr
 ::: {.column width="40%"}
 ![A headshot of the researcher](https://research.tees.ac.uk/files-asset/95715136/chris_wilson_photo_head.jpg?w=320&f=webp)
 <br>
-**Dr. Jayne Finch**
+**Dr. Cat O' Neill**
 :::
 
 ::: {.column width="60%"}
@@ -424,7 +508,7 @@ Dr. Kathy Burrows' research highlights the long-term consequences of early life 
 
 ---
 
-## The Complexity of Trauma {data-background-image="https://images.pexels.com/photos/3958958/pexels-photo-3958958.jpeg" data-background-opacity="0.1"}
+## The Complexity of Trauma {.smaller data-background-image="https://images.pexels.com/photos/3958958/pexels-photo-3958958.jpeg" data-background-opacity="0.1"}
 
 ::: {.columns}
 ::: {.column width="40%"}
@@ -434,7 +518,9 @@ Dr. Kathy Burrows' research highlights the long-term consequences of early life 
 :::
 
 ::: {.column width="60%"}
-The deepest wounds of trauma are not just about re-experiencing the past, but about how it shatters a person's sense of self, creating "Identity loss and existential fear."
+>The deepest wounds of trauma are not just about re-experiencing the past, but about how it shatters a person's sense of self, creating "Identity loss and existential fear." 
+
+Dr Bowman notes the lack of empirical evidence for interventions tailored specifically for individuals with traumatic injuries.
 :::
 :::
 
@@ -442,14 +528,14 @@ The deepest wounds of trauma are not just about re-experiencing the past, but ab
 Dr. Alan Robert Bowman's clinical work broadens our understanding of trauma's reach. His focus recognizes that healing pushes the psychological response beyond symptom management to the more profound work of helping individuals reconstruct meaning, purpose, and a coherent sense of identity in the aftermath of life-altering experiences.
 :::
 
-<p class="footer">Bowman, A. (n.d.). *Dr Alan Bowman, Clinical Psychologist*. Psychology Today.</p>
+<p class="footer">Grant, E., Bowman, A., & Johnson, L. (2025). Effectiveness of interventions for psychological distress following traumatic injury: A systematic review. Injury, 56(2), 112090. </p>
 
 
 ---
 
-## Section 5: Fostering Wellbeing Across the Lifespan
+# Fostering Wellbeing Across the Lifespan
 
-From Childhood to Chronic Illness.
+Childhood development, lifelong health, and ageing well.
 
 ---
 
@@ -563,9 +649,9 @@ Maggie Jackson's research in Death Education focuses on addressing societal sile
 
 ---
 
-## Section 6: Psychology in a Changing World
+# Psychology in a Changing World 
 
-New Frontiers and Pressing Concerns.
+New Frontiers and Global Challenges.
 
 ---
 
@@ -591,7 +677,7 @@ Dr. Marcin Owczarek's systematic review of the tools used to measure climate-rel
 
 ---
 
-## Section 7: Critical Perspectives & Foundational Processes
+# Critical Perspectives & Foundational Processes
 
 ---
 
@@ -640,9 +726,7 @@ Dr. Srdan Medimorec's foundational research into the architecture of the mind is
 
 ---
 
-## Section 8: The Social Work Lens
-
-Practice, Policy, and Inclusivity.
+## Practice, Policy, and Inclusivity.
 
 ---
 
