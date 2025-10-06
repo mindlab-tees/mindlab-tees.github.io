@@ -9,7 +9,6 @@ format:
     theme: [custom.scss]
     width: 1280
     height: 720
-embed-resources: true
 ---
 
 #  {.noblur data-background-image="../../images/s1seminars.png" data-background-size="contain" data-background-repeat="no-repeat" data-background-position="center"}
