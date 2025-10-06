@@ -18,33 +18,44 @@
     ]
   },
   {
-    "listing": "/research.html",
-    "items": [
-      "/research/hypomania.html",
-      "/research/accent.html",
-      "/research/metacognition.html",
-      "/research/gambling.html"
-    ]
-  },
-  {
-    "listing": "/research/hypomania.html",
-    "items": [
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/jaya-priya.html"
-    ]
-  },
-  {
-    "listing": "/research/accent.html",
+    "listing": "/research/metacognition.html",
     "items": [
       "/people/lisa.html"
     ]
   },
   {
-    "listing": "/projects/afsg_sport.html",
+    "listing": "/research/gambling.html",
+    "items": []
+  },
+  {
+    "listing": "/recruitment.html",
     "items": [
-      "/people/lorraine_temple.html"
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
     ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/lorraine_temple.html",
+      "/people/jaya-priya.html",
+      "/people/lisa.html",
+      "/people/alana.html",
+      "/people/david.html"
+    ]
+  },
+  {
+    "listing": "/people/lorraine_temple.html",
+    "items": [
+      "/projects/afsg_sport.html"
+    ]
+  },
+  {
+    "listing": "/people/chris/index.html",
+    "items": []
   },
   {
     "listing": "/index.html",
@@ -59,43 +70,33 @@
     ]
   },
   {
-    "listing": "/people/chris/index.html",
-    "items": []
-  },
-  {
-    "listing": "/people/lorraine_temple/lorraine_temple.html",
+    "listing": "/projects/afsg_sport.html",
     "items": [
-      "/projects/afsg_sport.html"
+      "/people/lorraine_temple.html"
     ]
   },
   {
-    "listing": "/people.html",
-    "items": [
-      "/people/chris/index.html",
-      "/people/srdan/index.html",
-      "/people/lisa.html",
-      "/people/lorraine_temple.html",
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/jaya-priya.html"
-    ]
-  },
-  {
-    "listing": "/recruitment.html",
-    "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
-    ]
-  },
-  {
-    "listing": "/research/gambling.html",
-    "items": []
-  },
-  {
-    "listing": "/research/metacognition.html",
+    "listing": "/research/accent.html",
     "items": [
       "/people/lisa.html"
+    ]
+  },
+  {
+    "listing": "/research/hypomania.html",
+    "items": [
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/hypomania.html",
+      "/research/accent.html",
+      "/research/metacognition.html",
+      "/research/gambling.html"
     ]
   },
   {
@@ -104,12 +105,6 @@
       "/tools/cobifnirs.html",
       "/tools/custom_tasks.html",
       "/tools/fnirs.html"
-    ]
-  },
-  {
-    "listing": "/people/lorraine_temple.html",
-    "items": [
-      "/projects/afsg_sport.html"
     ]
   }
 ]

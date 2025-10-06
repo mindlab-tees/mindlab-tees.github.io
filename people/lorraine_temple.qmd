@@ -1,7 +1,7 @@
 ---
 title: "Lorraine Temple"
 image: "../images/lorraine_temple.jpg"
-role: masters
+role: ra
 projects: [hypomania, afsg_sport]
 about: 
   template: trestles
@@ -13,7 +13,7 @@ listing:
      template: ../badges.ejs
    - id : projects
      contents: "../projects/*qmd"
-     type: default
+     type: grid
      include: 
        people: [lorraine_temple]
      fields: [image, title]
