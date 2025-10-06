@@ -51,13 +51,17 @@ $presentation-heading-color: #0a9396;
   position: absolute;
   bottom: 15px;
   left: 0px;
-  font-size: 0.6em;
+  font-size: 0.2em;
   color: rgba(0, 0, 0, 0.6);
   padding: 5px 10px;
   border-radius: 5px;
   z-index: 10;
   max-width: 100%;
   text-align: center;
+}
+
+.reveal .slides p .footer {
+  font-size: 0.5em;
 }
 
 // Styling for the researcher's image to make it stand out
