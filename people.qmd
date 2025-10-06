@@ -22,35 +22,48 @@ listing:
     type: grid
     include:
       role: doctoral
+  - id: research-associates
+    contents: people
+    type: grid
+    include:
+      role: ra
   - id: volunteer-researchers
     contents: people
     type: grid
     include:
       role: volunteer
+  - id: alumni
+    contents: people
+    type: grid
+    include:
+      role: alumni
 ---
+
+::: {.callout}
+## Note
+We are currently updating the lab membership for the 2025-26 academic year. Please check back soon!
+:::
+
 ### Lab leads
 
 ::: {#lab-directors}
 :::
 
-### Doctoral Researchers
+### Research Associates
 
-::: {#doctoral-researchers}
-
+::: {#research-associates}
 :::
 
-### MSc/MRes Researchers
 
-::: {#masters-researchers}
-
-:::
-
-### Undergraduate Researchers
-
-::: {#undergraduate-researchers}
-:::
 
 ### Volunteer Researchers
 
 ::: {#volunteer-researchers}
+:::
+
+### Alumni
+
+Alumni of the lab include past UG, MSc, MRes, PhD students and research assistants.
+
+::: {#alumni}
 :::
