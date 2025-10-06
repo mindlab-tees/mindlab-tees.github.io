@@ -1,7 +1,7 @@
 ---
 title: "What's the point of research at a time like this?"
 subtitle: "What psychology and social work research at Teesside University can do about the big challenges of our time"
-author: "Christopher Wilson"
+author: "Dr Christopher Wilson"
 format:
   revealjs:
     slide-number: true
@@ -460,7 +460,7 @@ Dr. Brown's research provides a conceptually informed analysis of current policy
 
 <p class="footer">
 Brown, C. (2023). Removing gender barriers: Promoting inclusion for trans and non-binary carers in fostering and adoption. *Practice, 35*(1), 47-62.
-</p>o
+</p>
 
 ## Stigma and Reintegration {data-background-image="https://images.pexels.com/photos/7319323/pexels-photo-7319323.jpeg" data-background-opacity="0.3"}
 
@@ -781,4 +781,4 @@ Jackson, M. (2019). *Sneaking Death Into the Classroom* \[Conference paper\]. De
 
 :::
 
-## Thank You
+# Thank You {.section}
