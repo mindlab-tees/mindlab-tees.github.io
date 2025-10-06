@@ -791,7 +791,7 @@ Kilinc, S. (n.d.). *Long-term health conditions*. Teesside University.
 
 :::::: columns
 :::: {.column width="40%"}
-![](https://research.tees.ac.uk/files-asset/4124603/DisplayPhoto.jpg?w=320&f=webp)
+![](https://research.tees.ac.uk/files-asset/4124603/DisplayPhoto.jpg?w=320&f=webp){.researcher-image}
 
 ::: researcher-name
 **Dr. Grant McGeechan**
