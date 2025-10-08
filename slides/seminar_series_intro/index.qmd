@@ -61,11 +61,11 @@ This can be true for academics and researchers as well. When research is framed 
 
 ## The Human Element {data-background-image="https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg" data-background-opacity="0.3"}
 
-::: incremental
+
 -   Contemporary challenges like misinformation, social isolation, and trauma are often viewed through a political or economic lens.
 -   At their core, however, they are fundamentally human problems, rooted in cognition, emotion, and social identity.
 -   Research provides us with the tools to understand these challenges, to support individuals and communities, and to start looking for solutions.
-:::
+
 
 ::: notes
 The goal of this talk is to argue that research is not a luxury, but a necessity. The problems we face are fundamentally human problems, rooted in cognition, emotion, and social identity.
@@ -153,6 +153,8 @@ For individuals with strong conspiratorial beliefs, fear-based health appeals ca
 That links to Lee's work, which demonstrates that how we communicate about risk might not effect behaviour in the way we expect.
 
 It demonstrates the psychological principle of **reactance**, where a perceived attempt at control triggers defiance.
+
+In Lee's work, higher levels of anxiety led to more compliance, except for people with strong conspiratorial beliefs.
 
 For individuals who already distrust institutions, fear appeals are not seen as warnings but as coercion, leading to an active rejection of recommended behaviours.
 
@@ -597,9 +599,8 @@ O'Neill, C., et al. (2025). *Stories of Hope: Using Digital Storytelling with me
 ::::
 
 ::: {.column width="60%"}
-> The deepest wounds of trauma are not just about re-experiencing the past, but about how it shatters a person's sense of self, creating "Identity loss and existential fear."
+>"Traumatic injury poses significant physical and psychological challenges, often resulting in psychological distress, encompassing symptoms of anxiety, depression and post-traumatic stress"
 
-Dr Bowman notes the lack of empirical evidence for interventions tailored specifically for individuals with traumatic injuries.
 :::
 ::::::
 
@@ -664,7 +665,7 @@ Embedding Mental Health Support Teams in schools helps to "change the culture wi
 ::::::
 
 ::: notes
-Dr. Haste's research demonstrates a critical shift from a reactive model, which waits for children to be in crisis, to a proactive, preventative model that normalises conversations about mental health and builds a supportive culture for all students.
+This work discusses shift from a reactive model, which waits for children to be in crisis, an early intervention that normalises conversations about mental health and builds a supportive culture for all students.
 :::
 
 ::: footer
@@ -773,11 +774,11 @@ Jackson, M. (2019). *Sneaking Death Into the Classroom* \[Conference paper\]. De
 
 ## The Value of Psychology and Social Work Research
 
-::: incremental
+
 -   Beneath environmental, political and social disruption lie fundamental human processes.
 -   In a complex world, the evidence-based, but deeply human insights of this research are more essential than ever.
 -   The work done at Teesside University focuses on the mechanisms that underlie these challenges and can be harnessed to create meaningful change.
-:::
+
 
 ::: notes
 To conclude, I hope this brief overview has given you a sense of the breadth and depth of research being conducted in the Department of Psychology and Social Work at Teesside University.
