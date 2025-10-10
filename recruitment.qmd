@@ -36,15 +36,15 @@ If you are a student or staff member at Teesside University, you can sign up to 
 
 You can sign up for as many studies as you like, and you can withdraw from a study at any time. If you join the participant pool you are not obliged to take part in any studies. 
 
-At the moment, you must be a student or staff member at Teesside University to register for our research participation system. 
 
-![](images/sona1.png){width=50%}
+
+![](images/sona1.png){width=100%}
 
 To do so, click [on this link](https://tees.sona-systems.com/default.aspx) to register for an account. You will need to use your Teesside University email address to login first.
 
 ## How to take part in our studies (general public)
 
-We do recruit participants from outside of the university for studies. Available will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.
+We do recruit participants from outside of the university for studies. Available studies will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.
 
 If you are interested in taking part in one of our studies, please contact the researcher listed in the study description. They will provide you with more information about the study and how to take part.
 
