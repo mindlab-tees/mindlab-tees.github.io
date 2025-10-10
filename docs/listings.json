@@ -28,14 +28,6 @@
     "items": []
   },
   {
-    "listing": "/recruitment.html",
-    "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
-    ]
-  },
-  {
     "listing": "/people.html",
     "items": [
       "/people/chris/index.html",

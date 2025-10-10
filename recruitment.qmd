@@ -1,17 +1,58 @@
 ---
-title: "Studies we are currently recruiting for"
-listing:
-  - id: recruitment
-    contents: "recruitment/*qmd"
-    fields: [study-location, image, title]
-    image-height: 100px
-    include:
-      status: open
+title: "Taking part in psychology research at the MIND Lab"
+toc: true
+#listing:
+ # - id: recruitment
+ #   contents: "recruitment/*qmd"
+ #   fields: [study-location, image, title]
+ #   image-height: 100px
+ #   include:
+ #    status: open
 ---
 
-In the lab, we are running many studies at any one time. Below are some of the studies we are currently recruiting participants for. If you are interested in taking part in any of these studies, click on the link to see more information and sign up for a time slot.
 
-Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. If you are interested in taking part in any of these studies, please sign up for a time slot using the link provided. If you have any questions, please email the researcher directly.
 
-:::{#recruitment}
-:::
+In the lab, we are running many studies at any one time.  Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. 
+
+Research participation is an essential part of the scientific process. It allows us to test our hypotheses, gather data, and ultimately to the research that makes an impact in the real world. 
+
+The ultimate goal of our research is to improve people's lives. To do this, we need to understand how people think, feel, and behave. By participating in our studies, you are helping us to gain this understanding.
+
+## What does taking part involve?
+
+This depends on the study. Some studies may involve completing questionnaires, while others may involve performing tasks on a computer. Some studies may require you to come into the lab, while others can be completed online. Each study will have a detailed description of what is involved, so you can decide if it is something you would like to take part in.
+
+Before taking part in any study, you will be provided with an information sheet that explains the study in detail. You will also have the opportunity to ask any questions you may have. You would then indicate your consent to take part by singing a consent form (or providing electronic consent on a computer).
+
+## Is there any compensation for taking part?
+
+This depends on the study. Some studies may offer compensation in the form of vouchers or a prize draw, while others may offer research participation credit (for students). Some studies may not offer any compensation at all. 
+
+This will be clearly stated in the study description. 
+
+## How to take part in our studies (Teesside University students and staff)
+
+If you are a student or staff member at Teesside University, you can sign up to take part in our studies through our online research participation system. This lists all of the studies that are currently recruiting participants. You can sign up for studies that interest you, based on the study description provided.
+
+You can sign up for as many studies as you like, and you can withdraw from a study at any time. If you join the participant pool you are not obliged to take part in any studies. 
+
+At the moment, you must be a student or staff member at Teesside University to register for our research participation system. 
+
+![](images/sona1.png){width=50%}
+
+To do so, click [on this link](https://tees.sona-systems.com/default.aspx) to register for an account. You will need to use your Teesside University email address to login first.
+
+## How to take part in our studies (general public)
+
+We do recruit participants from outside of the university for studies. Available will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.
+
+If you are interested in taking part in one of our studies, please contact the researcher listed in the study description. They will provide you with more information about the study and how to take part.
+
+## General criteria for taking part in our studies (unless the study states otherwise)
+
+- Participants should be aged 18 or over .
+- Participants need to have proficiency in English sufficient to understand and complete the study tasks.
+- Participants should have normal or corrected-to-normal vision and hearing.
+
+
+
