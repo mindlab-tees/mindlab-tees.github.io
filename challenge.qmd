@@ -1,0 +1,37 @@
+---
+title: "The MIND Lab Research Challenge"
+toc: true
+image: "images/challenge_poster.png"
+---
+
+## Take part in 3 research studies and get a chance to win a £100 Amazon voucher!
+
+
+We are looking for participants to take part in three research studies that explore how people think and make decisions. At the end of each study we will give you a code. Enter the codes from all three studies into the form at the end of this page to be entered into a prize draw to win a £100 Amazon voucher.
+
+![](images/challenge_poster.png){width=50% fig-align="center"}
+
+
+### Step 1: Be sure you are registered in our research participant pool
+
+If you have not already done so, please register in our [research participant pool](https://tees.sona-systems.com/Default.aspx?ReturnUrl=%2fmain.aspx). This will enable you to take part in our studies and be entered into the prize draw.
+
+![](images/sona1.png){width=50% fig-align="center"}
+
+### Step 2: Take part in the studies
+
+You can take part in the studies in any order. Each study will take approximately 20-30 minutes to complete.
+
+| [The Language Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-1){.btn .btn-primary} | [The Decision Making Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-2){.btn .btn-primary} | [The Memory Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-3){.btn .btn-primary} |
+| :---: | :---: | :---: |
+| ![](images/language.jpg){width=200px} | ![](images/decision1.jpg){width=200px} | ![](images/metacog.jpg){width=200px} |
+
+### Step 3: Enter the codes from each study into the form below
+
+At the end of each study you will be given a code. Please enter the codes from all three studies into the form below to be entered into the prize draw to win a £100 Amazon voucher.
+
+::: .align-items="center"
+
+[Enter your codes here](https://forms.office.com/e/1G7i0kJ3Xk){.btn .btn-primary .btn-lg text-align="center"}
+
+:::

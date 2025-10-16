@@ -7,7 +7,7 @@ format:
     mainfont: "Lexica Ultralegible"
 ---
 
-Last Updated: Sept 2025
+Last Updated: Oct 2025
 
 ## Meeting schedule for Semester 1 2025/2026
 
@@ -19,11 +19,11 @@ Time 2pm. Room: CL1.03 Themis
 |-----------|-----------------------------------------------------------|
 | 02/10/25  | Introduction meeting 25/26                                |
 | 16/10/25  | Srdan Talk - Research Stream Update                       |
-| 30/10/25  | Chris Talk - Research Stream Update                       |
-| 13/11/25  | Introduction to fNIRS for brain imaging                   |
-| 27/11/25  | Lab meeting                                               |
-| 15/01/26  | Introduction to eyetracking for cognitive psychology      |
-| 29/01/26  | Lab meeting                                               |
-| 12/2/2026 | Designing and coding experiments with OpenSesame          |
-| 26/02/26  | Lab meeting                                               |
-| 12/3/2026 | Using OpenScience Framework (OSF) for research management |
+| 30/10/25  | Introduction to fNIRS for brain imaging                   |
+| 13/11/25  |Lab meeting                    |
+| 27/11/25  | Introduction to eyetracking for cognitive psychology                                               |
+| 15/01/26  | Lab meeting     |
+| 29/01/26  | Designing and coding experiments with OpenSesame                                                |
+| 12/2/2026 | Lab meeting          |
+| 26/02/26  |  Using OpenScience Framework (OSF) for research management                                             |
+| 12/3/2026 | Lab meeting |
