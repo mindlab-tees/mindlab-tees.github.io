@@ -4,7 +4,7 @@ image: "../images/poster1.png"
 categories:
   - conferences
   - posters
-date: 2025-06-24
+event-date: 2025-06-24
 event-location: The Hub exhibition space, SU Building
 ---
 

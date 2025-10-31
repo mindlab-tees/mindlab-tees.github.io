@@ -17,7 +17,7 @@ website:
       - href: index.qmd
         text: Home
       - href: info/lab_schedule.qmd
-        text: Meetings Schedule
+        text: Events and Meetings
       - href: info/lab_manual.qmd
         text: Lab Manual
       - href: research.qmd

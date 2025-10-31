@@ -7,6 +7,7 @@ listing:
     type: default
     sort: "event-date desc"
     fields: [event-date, event-location, image, title, description]
+    max-items: 3
   - id: news
     sort: "news-date desc"
     contents: "news/*qmd"
@@ -31,7 +32,9 @@ If you are interested in joining the lab, the fist step is reading the [Lab Manu
 ::: {#news}
 :::
 
-## Lab Events
+## Upcoming Events
+
+The full lab meeting and event schedule can be found on the [Lab Schedule](info/lab_schedule.html) page.
 
 ::: {#events}
 :::

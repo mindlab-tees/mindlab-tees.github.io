@@ -18,14 +18,68 @@
     ]
   },
   {
-    "listing": "/research/metacognition.html",
+    "listing": "/research.html",
+    "items": [
+      "/research/hypomania.html",
+      "/research/accent.html",
+      "/research/metacognition.html",
+      "/research/gambling.html"
+    ]
+  },
+  {
+    "listing": "/research/hypomania.html",
+    "items": [
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html"
+    ]
+  },
+  {
+    "listing": "/research/accent.html",
     "items": [
       "/people/lisa.html"
     ]
   },
   {
-    "listing": "/research/gambling.html",
+    "listing": "/projects/afsg_sport.html",
+    "items": [
+      "/people/lorraine_temple.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html",
+      "/news/construal_paper.html",
+      "/news/lab_schedule_sem1.html",
+      "/news/tu_research_fair.html",
+      "/news/afsg_award.html"
+    ]
+  },
+  {
+    "listing": "/info/lab_schedule.html",
+    "items": [
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html"
+    ]
+  },
+  {
+    "listing": "/people/chris/index.html",
     "items": []
+  },
+  {
+    "listing": "/people/lorraine_temple.html",
+    "items": [
+      "/projects/afsg_sport.html"
+    ]
   },
   {
     "listing": "/people.html",
@@ -40,55 +94,13 @@
     ]
   },
   {
-    "listing": "/people/lorraine_temple.html",
-    "items": [
-      "/projects/afsg_sport.html"
-    ]
-  },
-  {
-    "listing": "/people/chris/index.html",
+    "listing": "/research/gambling.html",
     "items": []
   },
   {
-    "listing": "/index.html",
-    "items": [
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html",
-      "/news/construal_paper.html",
-      "/news/lab_schedule_sem1.html",
-      "/news/tu_research_fair.html",
-      "/news/afsg_award.html"
-    ]
-  },
-  {
-    "listing": "/projects/afsg_sport.html",
-    "items": [
-      "/people/lorraine_temple.html"
-    ]
-  },
-  {
-    "listing": "/research/accent.html",
+    "listing": "/research/metacognition.html",
     "items": [
       "/people/lisa.html"
-    ]
-  },
-  {
-    "listing": "/research/hypomania.html",
-    "items": [
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/jaya-priya.html",
-      "/people/lorraine_temple.html"
-    ]
-  },
-  {
-    "listing": "/research.html",
-    "items": [
-      "/research/hypomania.html",
-      "/research/accent.html",
-      "/research/metacognition.html",
-      "/research/gambling.html"
     ]
   },
   {
