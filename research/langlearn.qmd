@@ -24,7 +24,7 @@ listing:
   - id: langlearn-projects
     contents: "../projects/*qmd"
     type: default
-    fields: [image, title]
+    fields: [image, title, description]
     include:
       programme: langlearn
 ---

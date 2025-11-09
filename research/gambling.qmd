@@ -35,7 +35,7 @@ listing:
   - id: doctoral-researchers
     contents: "../people/*qmd"
     type: grid
-    fields: [image, title]
+    fields: [image, title, description]
     include:
       programme: gambling
       role: doctoral
@@ -48,7 +48,7 @@ listing:
   - id: talks
     contents: "../events/*qmd"
     type: default
-    fields: [image, title]
+    fields: [image, title, description]
     include:
       programme: gambling
       categories: talks

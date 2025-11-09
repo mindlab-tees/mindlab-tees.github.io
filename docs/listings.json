@@ -16,11 +16,52 @@
     ]
   },
   {
-    "listing": "/research_old.html",
+    "listing": "/research/langlearn.html",
     "items": [
+      "/people/lisa.html",
+      "/events/tu_research_fair.html",
+      "/events/srdan_talk_25.html",
       "/projects/accent.html",
-      "/projects/afsg_sport.html",
       "/projects/metacognition.html"
+    ]
+  },
+  {
+    "listing": "/recruitment.html",
+    "items": [
+      "/recruitment/accent1.html",
+      "/recruitment/metacognition1.html",
+      "/recruitment/hyp1.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/people/lorraine_temple.html",
+      "/people/jaya-priya.html",
+      "/people/lisa.html"
+    ]
+  },
+  {
+    "listing": "/people/lorraine_temple.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html",
+      "/news/construal_paper.html",
+      "/news/lab_schedule_sem1.html",
+      "/news/tu_research_fair.html",
+      "/news/afsg_award.html"
     ]
   },
   {
@@ -38,72 +79,11 @@
     ]
   },
   {
-    "listing": "/projects/metacognition.html",
-    "items": [
-      "/people/lisa.html"
-    ]
-  },
-  {
-    "listing": "/projects/accent.html",
-    "items": [
-      "/people/lisa.html"
-    ]
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/events/chris_talk_25.html",
-      "/events/srdan_talk_25.html",
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html",
-      "/news/construal_paper.html",
-      "/news/lab_schedule_sem1.html",
-      "/news/tu_research_fair.html",
-      "/news/afsg_award.html"
-    ]
-  },
-  {
-    "listing": "/people/lorraine_temple.html",
-    "items": []
-  },
-  {
-    "listing": "/people.html",
-    "items": [
-      "/people/chris/index.html",
-      "/people/srdan/index.html",
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/ema.html",
-      "/people/lorraine_temple.html",
-      "/people/jaya-priya.html",
-      "/people/lisa.html"
-    ]
-  },
-  {
-    "listing": "/recruitment.html",
-    "items": [
-      "/recruitment/accent1.html",
-      "/recruitment/metacognition1.html",
-      "/recruitment/hyp1.html"
-    ]
-  },
-  {
     "listing": "/tools.html",
     "items": [
       "/tools/cobifnirs.html",
       "/tools/custom_tasks.html",
       "/tools/fnirs.html"
-    ]
-  },
-  {
-    "listing": "/research/langlearn.html",
-    "items": [
-      "/people/lisa.html",
-      "/events/tu_research_fair.html",
-      "/events/srdan_talk_25.html",
-      "/projects/accent.html",
-      "/projects/metacognition.html"
     ]
   }
 ]
