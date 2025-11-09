@@ -1,0 +1,14 @@
+---
+title: "Ema Abir"
+image: "../images/user.webp"
+role: doctoral
+#projects: [hypomania]
+programme: gambling
+about: 
+  template: trestles
+ # image: "../images/lisa.jpg"
+  image-width: 10em
+  image-shape: round
+---
+
+Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between depression and problem gambling. Her work employs a neuroeconomic approach, using functional near-infrared spectroscopy to examine neural correlates of gambling decisions.

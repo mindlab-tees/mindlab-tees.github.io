@@ -1,0 +1,40 @@
+---
+title: "Lab Events and Meeting Schedule"
+format: 
+  html:
+    toc: true
+  typst:
+    mainfont: "Lexica Ultralegible"
+listing:
+  - id: events
+    contents: "../events/*qmd"
+    type: default
+    sort: "event-date desc"
+    fields: [event-date, event-location, image, title, description]
+---
+
+Last Updated: Oct 2025
+
+## Meeting schedule for Semester 1 2025/2026
+
+The meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.
+
+Time 2pm. Room: CL1.03 Themis
+
+| W/C       | Topic                                                     |
+|-----------|-----------------------------------------------------------|
+| 02/10/25  | Introduction meeting 25/26                                |
+| 16/10/25  | Srdan Talk - Research Stream Update                       |
+| 30/10/25  | Introduction to fNIRS for brain imaging                   |
+| 13/11/25  |Lab meeting                    |
+| 27/11/25  | Introduction to eyetracking for cognitive psychology                                               |
+| 15/01/26  | Lab meeting     |
+| 29/01/26  | Designing and coding experiments with OpenSesame                                                |
+| 12/2/2026 | Lab meeting          |
+| 26/02/26  |  Using OpenScience Framework (OSF) for research management                                             |
+| 12/3/2026 | Lab meeting |
+
+## Lab Events
+
+::: {#events}
+:::

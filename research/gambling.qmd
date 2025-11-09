@@ -1,0 +1,102 @@
+---
+title: "The Cognitive Neuroscience of Risk and Gambling Harms"
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
+sidebar: false
+toc: true
+categories:
+  - gambling
+  - fnirs
+  - risk perception
+  - decision-making
+  - social identity
+  - implicit accociation
+listing:
+  - id: lab-members
+    contents: "../people/*qmd"
+    type: grid
+    fields: [image, title]
+    include:
+      programme: gambling
+    exclude:
+      role: [doctoral,ra]
+  - id: ra
+    contents: "../people/*qmd"
+    type: grid
+    fields: [image, title]
+    include:
+      programme: gambling
+      role: [ra]
+  - id: gambling-projects
+    contents: "../projects/*qmd"
+    type: default
+    fields: [image, title]
+    include:
+      programme: gambling
+  - id: doctoral-researchers
+    contents: "../people/*qmd"
+    type: grid
+    fields: [image, title, description]
+    include:
+      programme: gambling
+      role: doctoral
+  - id: recent-publications
+    contents: "../publications/*qmd"
+    type: default
+    fields: [image, title]
+    include:
+      programme: gambling
+  - id: talks
+    contents: "../events/*qmd"
+    type: default
+    fields: [image, title, description]
+    include:
+      programme: gambling
+      categories: talks
+---
+
+[![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/z5ky8/)
+
+This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. 
+
+- Cognitive Moderators (e.g., attention, memory, numeracy)
+
+- Clinical Vulnerability (e.g., depression, hypomania, anxiety)
+
+- The Social Context (e.g., sports engagement, social identity)
+
+- Neurological Correlates (Using fNIRS to map the "in-the-moment" brain activity of decision-making and risk-taking)
+
+![](../images/gambling_research_prog.png)
+
+
+## Projects
+
+::: {#gambling-projects}
+:::
+
+## Recent Publications
+
+::: {#recent-publications}
+:::
+
+## Talks
+
+::: {#talks}
+:::
+
+## Doctoral Students
+
+::: {#doctoral-researchers}
+:::
+
+## Research Associates
+
+::: {#ra}
+:::
+
+## Other lab members involved in this research programme
+
+::: {#lab-members}
+:::
+
+

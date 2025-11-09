@@ -1,0 +1,87 @@
+[
+  {
+    "listing": "/training/index.html",
+    "items": []
+  },
+  {
+    "listing": "/tools/fnirs.html",
+    "items": [
+      "/research/gambling.html"
+    ]
+  },
+  {
+    "listing": "/tools/cobifnirs.html",
+    "items": [
+      "/research/gambling.html"
+    ]
+  },
+  {
+    "listing": "/research/langlearn.html",
+    "items": [
+      "/people/lisa.html",
+      "/events/tu_research_fair.html",
+      "/events/srdan_talk_25.html",
+      "/projects/accent.html",
+      "/projects/metacognition.html"
+    ]
+  },
+  {
+    "listing": "/recruitment.html",
+    "items": [
+      "/projects/afsg_sport.html"
+    ]
+  },
+  {
+    "listing": "/people.html",
+    "items": [
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/people/lorraine_temple.html",
+      "/people/jaya-priya.html",
+      "/people/lisa.html"
+    ]
+  },
+  {
+    "listing": "/people/lorraine_temple.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html",
+      "/news/construal_paper.html",
+      "/news/lab_schedule_sem1.html",
+      "/news/tu_research_fair.html",
+      "/news/afsg_award.html"
+    ]
+  },
+  {
+    "listing": "/research/gambling.html",
+    "items": [
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html",
+      "/projects/afsg_sport.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/publications/wilson2025.html",
+      "/events/tu_research_fair.html",
+      "/events/chris_talk_25.html"
+    ]
+  },
+  {
+    "listing": "/tools.html",
+    "items": [
+      "/tools/cobifnirs.html",
+      "/tools/custom_tasks.html",
+      "/tools/fnirs.html"
+    ]
+  }
+]

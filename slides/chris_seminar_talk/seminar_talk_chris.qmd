@@ -1,0 +1,46 @@
+---
+title: "'It's part of the sport'"
+subtitle: "Exploring how social identification with sport predicts gambling behaviour and the normalisation of gambling in sports social groups."
+editor: visual
+author: Christopher J Wilson, Srdan Medimorec, Judith Eberhardt, Robert Portman, Hannah Poulter, Lorraine Temple
+format: 
+  revealjs:
+    transition: slide
+    footer: "Research Funded by The Academic Forum for the Study of Gambling"
+    header-logo: "../../assets/mind_logo_medium.png"
+    logo: "../../assets/tulogo.jpg"
+---
+
+## Overview
+
+-   Context
+
+-   Gambling harms
+
+-   The complex nature of the topic
+
+-   Describing a research programme
+
+    -   Clinical work: Hypomania
+
+    -   Clinical work: Depression
+
+    -   Clinical work Anxiety
+
+    -   Social: Implicit Associations with sport
+
+    -   Social: Effects of advertising via short form video
+
+    -   Policy: Efficacy of gambling policy
+
+
+-   "It's part of the sport" - project overview
+
+-   "It's part of the sport" - WP1 progress
+
+-   "It's part of the sport" - WP 2 progress
+
+-   "It's part of the sport" - project outcomes
+
+-   Future research
+

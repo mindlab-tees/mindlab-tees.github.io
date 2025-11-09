@@ -1,0 +1,15 @@
+---
+title: "It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups."
+      
+image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
+categories: [projects]
+programme: [gambling]
+---
+  
+  [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
+
+  
+This project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.
+
+Details of the project are available on the [AFSG website](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/).
+

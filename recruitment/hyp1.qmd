@@ -1,0 +1,33 @@
+---
+brand: ../_brand_mind.yml
+format: 
+  html:
+    embed_resources: true
+    output-file: "hyp1.html"
+  revealjs: 
+    embed_resources: true
+    output-file: "hyp1_slide.html"
+    width: 1500
+email-obfuscation: javascript 
+status: open
+study-location: "Psychology Department at Teesside University"
+title: "The role of working memory and response inhibition in economic decision making"
+image: "../images/decision_making.png"
+footer: "<a href='/'>www.themindlab.uk</a>" 
+---
+
+## Participants needed! {.smaller}
+
+**Topic:** We are currently recruiting participants for a study on decision-making. 
+
+**Location:** This study takes place on campus in the Psychology Department at Teesside University.
+
+**What is involved?** This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.
+
+**Duration:** The study will take approximately 20 minutes to complete.
+
+<img src="../images/study_qr.png" width="120  "> <br />
+
+**Contact:** If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email [christopher.wilson@tees.ac.uk](mailto:christopher.wilson@tees.ac.uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study.).
+
+**SONA:** [https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220](https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220)

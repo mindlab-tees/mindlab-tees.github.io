@@ -1,0 +1,218 @@
+---
+title: "Working at the MIND Lab (the lab manual)"
+format: 
+  html:
+    toc: true
+  typst:
+    mainfont: "Lexica Ultralegible"
+---
+
+Last Updated: June 2025
+
+
+## How to join the lab
+
+If you are interested in joining the lab, please contact [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Joining the MIND Lab) or [Dr. Srdan Medimorec](mailto:s.medimorec@tees.ac.uk?subject=Joining the MIND Lab).
+
+Joining the lab means attending lab meetings, contributing to research projects (as appropriate to your career stage), and engaging with other lab members. 
+
+ - [Info for Undergraduate Students](#sec-ug)
+ - [Info for MSc Students](#sec-msc) 
+ - [Info for Doctoral Researchers](#sec-doctoral). 
+
+If you would like to gain some volunteer experience in a lab environment, you can also join the lab through VolunTees (Teesside University's volunteering service). You can apply [here](https://voluntees.co.uk/opportunity/96384).
+
+## Overview
+
+The MIND Lab is a research group based in the Psychology Department at Teesside University. We conduct research into cognition, memory and decision-making, with specific strands of work being led by Dr. Christopher Wilson (decision-making under risk: gambling, financial decision-making) and Dr. Srdan Medimorec (language, meta-cognition, implicit learning).
+
+This document outlines our approach to conducting research in a lab environment. It is intended to be a living document that will be updated as our lab grows and changes.
+
+## Our goals and values 
+
+We believe in the importance of conducting high-quality research that is both scientifically rigorous and socially impactful. Importantly, as cognitive scientists, we recognise the value of fundamental research in laying the groundwork for that impact, so long as we can connect the research to those who will benefit from it. These values are reflected in our lab culture and practices.
+
+**Collaboration:** Our lab is a place for people to learn from others and develop their skills. We value inclusivity and diverse perspectives.
+
+**Curiosity:** We believe that research can be a force for good. We are always striving to understand the complexities of the mind and how it works.
+
+**Rigour:** We are committed to robust methods and upholding the highest standards of ethical scientific practice.
+
+**Innovation:** We aim to make meaningful and significant contributions to psychology through innovative research and research practices.
+
+**Impact:** We strive to conduct work that will benefit society and we recognise the value of fundamental research in laying the groundwork for future impact.
+
+The lab is a place for people to learn about the research process while contributing to important projects. We foster a collaborative and supportive environment and we want volunteering in our lab to be an enriching and rewarding experience. Everyone who contributes to the lab is a valued member of the team and we want to ensure that everyone has the opportunity to develop their skills and knowledge.
+
+## Roles and expectations 
+
+The success of the lab and the research we conduct depends on the contributions of all lab members. Being a member of the lab is an active process and we expect all members to contribute to the lab in a meaningful way.
+
+Some expectations apply to all lab members regardless of their role, while others are specific to certain roles.
+
+### All lab members
+
+**Everyone can conduct research that they are interested in and passionate about.** We will do so in a way that is ethical and responsible, we will be transparent about our methods and findings and we will adhere to Teesside University regulations at all times.
+
+**Everyone can learn from each other.** This means that everyone will be expected to participate in lab meetings and discussions, presenting their work and providing feedback to others.
+
+**Everyone can become skilled a researcher.** This lab conducts work that involves computer-based cognitive tasks, neurological and physiological measurement, as well as statistical modelling of data. These are skills that will be useful in your future careers. A key part of being a researcher is recognising what you don't know and seeking out opportunities to learn. We don't expect you to know how to do all of this immediately, but we expect you to *want* to know how. We will support you in your learning, but as a researcher, you need to take an active role in enhancing your skills.
+
+**Everyone can be supportive colleague.** This means being respectful and supportive of others, being open to feedback and constructive criticism, and being willing to help others when needed. Good science is collaborative: we all succeed when we work together.
+
+**Everyone can be an ambassador for the lab.** As a member of the lab, you represent the lab, the department and the university. Passion and enthusiasm for the work we do is important, and we want you to share that with others. This means being professional in your interactions with others, both inside and outside the lab.
+
+**Everyone can have a life outside the lab.** We want you to be happy and healthy. We think our work is important, but it is not the only thing that matters. The combination of passion for work and flexibility of hours that comes with being a researcher can be a a huge benefit but also contribute to stress and difficulty disconnecting. If you are struggling with this, please talk to us. We want to help you find a balance that works for you.
+
+### Lab leads
+
+The lab leads (Dr. Wilson and Dr. Medimorec) are responsible for the overall direction of the lab and its research agenda. They are also responsible for mentoring and supporting lab members, ensuring that the lab is a positive and productive environment.
+
+We supervise Undergraduate, Postgraduate and Doctoral students in accordance with the university's policies and procedures. To that end, the lab is an additional, voluntary opportunity for students, which exists in addition to (not a replacement for) the normal supervision process. 
+
+As supervisors, we will always prioritise the academic needs of our students and support them to meet their academic goals. We do not require students to join the lab, and students in the lab are not required to work on projects that are not aligned with their academic goals. Additionally, supervisees who join the lab are not treated differently, in an academic sense, from supervisees who are not in the lab. 
+
+The lab is an opportunity for students who wish to, to gain experience working in collaborative research teams, to learn about the research process and to develop their skills alongside other researchers who are at different stages of their academic career.
+
+We will:
+
+- Support you in your academic and professional development
+- Provide you with opportunities to learn and develop your skills
+- Provide you with opportunities to conduct research and publish your work
+- Be available to answer your questions and provide feedback
+- Keep you in the loop about the direction of the lab and its research agenda and allow you to contribute to that agenda
+
+### Doctoral students {#sec-doctoral}
+
+Doctoral students are taking the first steps in their academic careers, but in the lab are relatively senior members of the team. The lab leads will support you in your development as a researcher and aim to put you in the best position to succeed in your academic career. 
+
+Doctoral students will (with the support of the lab leads):
+
+- Conduct the research that is the focus of their doctoral studies
+- Present their work at lab meetings and other events
+- Support and mentor undergraduate and MSc students
+- Engage in professional development and networking opportunities appropriate to doctoral level and in line with their career goals
+- Publish their work in peer-reviewed journals and present at conferences
+- Seek out appropriate funding opportunities to support their research 
+
+We will support doctoral students in applying for external funding to support their research and dissemination. We will also support doctoral students in applying for post-doctoral positions and other academic opportunities.
+
+### MSc students {#sec-msc}
+
+MSc students are expected to take a more active role in the lab than undergraduate students. They might be considering a career in research and the lab is a good opportunity to gain experience and develop their skills.
+
+MSc students will (with the support of the lab leads and doctoral students):
+
+- Conduct the research that is the focus of their MSc studies
+- Present their work at lab meetings and other events
+- Support and mentor undergraduate students
+- Engage in skills development and learning opportunities appropriate to MSc level and in line with their career goals
+
+MSc students might publish their work in peer-reviewed journals and present at conferences, but this will often be dependent on the nature of their MSc project or as part of a larger project. We will support MSc students to apply for external bursaries to support their research or dissemination.
+
+### Undergraduate students {#sec-ug}
+
+Undergraduate students are expected to take an active role in the lab, but they are also at the beginning of their academic careers. Being a member of the lab is about learning from the other researchers and developing your skills.
+
+Undergraduate students will (with the support of the lab leads and doctoral/MSc students):
+
+- Conduct the research that is the focus of their undergraduate dissertation
+- Present their work at lab meetings and other events (where appropriate)
+
+Undergraduate students might publish their work in peer-reviewed journals as part of a larger project. We will also support undergraduate students in applying for student conferences, if they are interested in doing so.
+
+### Research assistants/associates {#sec-ra}
+
+Research assistants and associates are typically early career researchers who are looking to gain experience in a lab environment. They may be working on a specific project or providing support to the lab leads and other lab members.
+
+Some RAs will be employed as part of a funded project, while others may be volunteering their time to gain experience. In either case, we will support RAs in their development as researchers and aim to put them in the best position to succeed in their academic careers.
+
+RAs will (with the support of the lab leads and other lab members):
+
+- Conduct the research that is the focus of their project. Funded RAs will work the hours defined in their contract, while volunteer RAs will  work on their project as time allows, in consultation with the lab leads
+- Present their work at lab meetings as appropriate
+- Contribute to external engagement and dissemination activities related to their project 
+- Engage in professional development and networking opportunities appropriate to their career goals
+- Publish their work in peer-reviewed journals and present at conferences (as appropriate)
+
+We will support RAs in applying for external funding to support their research and dissemination. We will also support RAs in applying for post-graduate/post-doctoral positions and other academic opportunities (as appropriate).
+
+## Lab culture and practices
+
+Good research comes from good practices. Part of joining a lab is about learning how to conduct research that is rigorous and scientifically valid. This means learning about the research process, the methods we use and how to conduct research in a way that is ethical and responsible.
+
+This is an ongoing process and involves learning from each other, sharing ideas and feedback, and being open to new ways of thinking about research. For these experiences to happen, regular engagement and communication is essential. It is through this engagement that we grow as researchers and achieve the level of excellence and impact the we are aspiring to.
+
+### Lab meetings
+
+Lab meetings are an important part of the lab culture. They are a place for everyone to come together to discuss their work, share ideas and provide feedback to each other. Lab meetings are held regularly and the schedule will be shared on the website and the lab calendar. Attendance at lab meetings is expected for all lab members, notwithstanding any other commitments (e.g., teaching, placements, etc.).
+
+Everyone will get an opportunity to present their work at lab meetings. This might be a formal presentation or a more informal discussion of your work. The aim is to provide a supportive environment where everyone can share their ideas and get feedback from others. As well as contributing to the lab culture, this is an important part of your development as a researcher and helps prepare you for presenting your work at conferences and other events.
+
+### Research seminars
+
+The psychology department hosts a series of research seminars throughout the year. These are an opportunity to hear from other speakers about their work and to engage in discussions about current research in psychology. Attendance at these seminars is strongly encouraged for all lab members, and we encourage you to ask questions and engage with the speakers. Lab members will also present their work at these seminars and we will support you in preparing for these presentations.
+
+### Research integrity
+
+Research integrity is about conducting research in a way that is ethical and responsible. This means being transparent about your methods and findings, adhering to ethical guidelines and regulations, and being open to feedback and constructive criticism. As a pschyology lab, we are bound by the [British Psychological Society's Code of Ethics and Conduct](https://www.bps.org.uk/guideline/code-ethics-and-conduct), as well as the university's policies and procedures. All lab members are expected to be familiar with these guidelines and rules (consistent with their level of experience), before conducting any work. We will support you in understanding these guidelines and how to apply them to your work.
+
+### Open science and reproducable research
+
+Open science is about making research more transparent and accessible. This means sharing your data, methods and findings with others, and being open to feedback and constructive criticism. Reproducible research is about conducting research in a way that allows others to replicate your work. This is an important part of the scientific process and helps to ensure that research is robust and reliable. We use the [Open Science Framework (OSF)](https://osf.io) to share our data, methods and findings with others.
+
+All projects conducted in the lab will be registered on the OSF and all data and materials will be shared on the OSF. Pre-registration of studies is the default for all projects. 
+
+We will have consistent approaches to our OSF usage. We will support you in understanding how to use the OSF and how to apply open science principles to your work.
+
+## Publication and authorship
+
+Publishing your work is an important part of being a researcher. It is how we share our findings with others and contribute to the scientific community. We want to support everyone in the lab to publish their work, wherever possible and we will provide guidance and support on how to do this.
+
+To ensure everyone gets appropriate credit for their work, we use the [Contributor Roles Taxonomy (CRediT)](https://credit.niso.org/) to define the roles of authors on a publication. This is a standardised system for describing the contributions of authors to a publication. 
+
+## Equipment and tools
+
+As part of the psychology department at Teesside University. The MIND Lab is equipped with a range of tools and equipment to support our research. This includes computers, software, and other equipment (fNIRS, EEG, Eyetracking) for conducting experiments and collecting data. Part of your experience in the lab will be learning how to use this equipment and software, and how to conduct research using these tools.
+
+### Learning to use the equipment
+
+We will provide training on how to use the equipment and software in the lab. This will include both formal training sessions and informal opportunities to learn from other lab members. We encourage you to ask questions and seek out opportunities to learn about the equipment and software.
+
+You should not use any equipment or software without first receiving training and approval from the lab leads. This is to ensure that you are using the equipment safely and effectively, and to protect the integrity of the research being conducted in the lab.
+
+### Care and maintenance of equipment
+
+When conducting research, we have a responsibility to ensure that the equipment is used properly and maintained in good condition. This means following all guidelines and protocols for using the equipment, and reporting any issues or problems to the lab leads and psychology technician.
+
+## Organisation and collaboration 
+
+Having a consistent approach to organisation and collaboration is important for the success of the lab. This means having clear processes and procedures for conducting research, managing data, and communicating with each other. By using a consistent approach, we can maintain research integrity, proper research protocols and data management practices.
+
+### Communication
+
+We will use the lab website as the main external communication tool for the lab. This will include information about the lab, our research, and opportunities to get involved. You can contribute to the website by sharing your work, writing blog posts, and sharing news and updates about the lab.
+
+We will use Microsoft Teams as the main internal communication tool for the lab. This will include channels for different projects, as well as general channels for lab members to share ideas and discuss their work. We will also use Teams for video calls and meetings.
+
+This will allow us to maintain a central repository of information and resources, and to communicate effectively with each other. We will also use email for more formal communication, but we encourage you to use Teams for day-to-day communication.
+
+### Data collection and management
+
+All projects should have a Data Management Plan (DMP) that outlines how data will be collected, stored, and shared. This should include information about the types of data being collected, how it will be stored and backed up, and how it will be shared with others. We will provide templates and guidance on how to create a DMP.
+
+When collecting data for a project, it is essential that you adhere to the DMP and follow all guidelines and protocols for data collection. This particularly relates to storing, saving and backing up data, as well the storage of any personal information from participants.
+
+Failure to adhere to the DMP and guidelines for data collection may result in the loss of data, violation of legal/ethical requirements or other issues that could impact the integrity of the research. If you have any questions or concerns about the DMP or data collection, please speak to the lab leads.
+
+### The Open Science Framework (OSF)
+
+We will use the OSF to manage our projects and share our data, methods and findings with others. This will include creating a project page for each project, where you can share your data, methods and findings. We will provide training on how to use the OSF in accordance with the lab's policies and procedures.
+
+### Github
+
+We will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab's policies and procedures.
+
+### The lab website
+
+The lab website will generally be run by the lab leads, but we will encourage all lab members to contribute to the website. This will include sharing your work, writing blog posts, and sharing news and updates about the lab. We will provide guidance on how to use the website and how to contribute to it.

@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - "CNAME"
+website:
+  announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "We are currently recruiting participants for research on campus. Click <a href='/recruitment.html'>here</a> to learn more."
+    type: primary
+    position: above-navbar
+  title: "The MIND Lab"
+  navbar:
+    logo: "images/icon.png"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: info/lab_schedule.qmd
+        text: Events and Meetings
+      - href: info/lab_manual.qmd
+        text: Lab Manual
+      - sidebar:research
+      - href: tools.qmd
+        text: Tools
+      - href: people.qmd
+        text: People
+      - href: training/index.qmd
+        text: Training
+      - href: recruitment.qmd
+        text: Research Participation
+        
+  sidebar:
+    - id: research
+      title: "Research"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+       - href: research/gambling.qmd
+         text: Gambling Research Programme
+       - href: research/langlearn.qmd
+         text: Language Learning and Metacognition Programme
+        
+        
+        
+format:
+  html:
+    email-obfuscation: javascript
+    theme:
+      - litera
+    css: styles.css
+    page-layout: full
+
+editor: source
+

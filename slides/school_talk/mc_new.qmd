@@ -1,0 +1,266 @@
+---
+brand: ../../_brand_mind.yml
+author: 
+    name: Dr Christopher Wilson
+    email: christopher.wilson@tees.ac.uk
+    affiliations: 
+        name: Teesside University
+format: 
+    revealjs:
+        embed_resources: true
+        theme: "default"
+        css: ["styles.css"]
+        output-file: "index.html"
+        logo: "assets/tulogo.jpg"
+title: "Breaking big problems into small pieces..."
+title-slide-attributes:
+  data-background-image: assets/jigsaw.jpg
+  data-background-size: cover
+  data-background-opacity: "0.3"
+subtitle: "How how psychology researchers tackle complex problems"
+
+
+---
+
+## Overview
+
+1. How do do psychology researchers tackle complex problems?
+2. How pigeons helped get people to spend money to their in mobile games
+3. A psychology research lab
+4. Computer-based tasks in the lab
+5. Brain imaging demonstration 
+
+# How do do psychology researchers tackle complex problems?  {background-image="assets/complex.png"}
+
+# {background-image="assets/psychology.png" background-size="contain"}
+
+# Focus: Harmful gambling  {background-image="assets/gambling.jpg"}
+
+## Gambling can be examined at multiple levels {.smaller}
+
+-   Social: Social norms around gambling, peer influences, accessibility of gambling (e.g., online platforms), societal costs.
+
+-   Relational: Impact of gambling on family and relationships, co-dependency.
+
+-   Behavioral: Compulsive gambling, reinforcement, addiction.
+
+-   Cognitive: Cognitive distortions (e.g., gambler's fallacy, illusion of control), risk assessment, decision-making processes.
+
+-   Neurological: Reward pathways in the brain, neurotransmitter involvement (e.g., dopamine), brain activity during gambling.
+
+## How do we tackle such a complex problem? 
+
+-   Break it down into smaller pieces.
+-   Use different methods to examine each piece.
+-   Integrate knowledge across levels.
+
+![](assets/jigsaw.jpg){.r-stretch}
+
+## {background-image="assets/methods.png" background-repeat="contain"}
+
+# How pigeons helped get people to spend money to their in [mobile] games {background-color="#FF6F20"}
+
+How combining pieces of knowledge can help us understand the complex problem
+
+## {background-color="#FF6F20"}
+
+<iframe height="100%" width="100%" 
+src="https://youtube.com/embed/VL7dpByBC_A?autoplay=1&controls=0&showinfo=0&autohide=1">
+</iframe>
+
+# Problem: The manipulation of people to keep them engaged with games/apps (and spend money) {background-image="assets/phone.png" background-repeat="cover" color="white"}
+
+::: notes
+
+Does anyone recognise this issue?
+Who is aware of the term "dark patterns"?
+
+:::
+
+# What do all of the following images have in common? {background-color="#FF6F20"}
+
+#  {background-image="assets/gambling_examples.png" background-repeat="cover" color="white"}
+
+::: notes
+What do all of these images have in common?
+Each of these images represents a particular type of manipulation that is being combined to hook people into games 
+:::
+
+#  {background-image="assets/pigeon1.webp" background-repeat="cover" color="white"}
+
+#  {background-image="assets/skinner.jpg" background-repeat="cover" color="white"}
+
+## Operant conditioning
+
+-   Conditioning through reinforcement of responding
+-   If we receive a reward for an action, the behaviour is reinforced.
+
+![](assets/pigeon2.jpg)
+
+## Reinforcement schedules
+
+-   Variable-ratio reinforcement schedules are most useful in increasing responding
+
+![](assets/extinction_schedules.jpg)
+
+
+
+## Variable ratio reinforcement in games
+
+![](assets/vrrgame.webp)
+
+## Variable ratio reinforcement in games
+
+![](assets/fifa.jpg)
+
+## Variable ratio reinforcement in games
+
+![](assets/stumbleguys.png)
+
+# People are not pigeons... {background-color="#FF6F20"}
+
+#  {background-image="assets/pigeonman.png" background-repeat="cover" color="white"}
+
+# People are easier to manipulate.. {background-color="#FF6F20"}
+
+## Our perception of value can be manipulated
+
+Perceived scarcity can drive us to value something more than we might otherwise do
+
+::: r-stack
+![](assets/panic_buying.webp){.fragment}
+
+![](assets/ps5_scarcity.png){.fragment}
+:::
+
+::: notes
+
+Loss aversion is a strong driver of our behaviour.
+
+:::
+
+## Artificial scarcity is used to create F.O.M.O
+
+::: r-stack
+![](assets/stumbleguys.png){.fragment width="900" height="500"}
+
+![](assets/fifa.jpg){.fragment width="900" height="500"}
+:::
+
+::: notes
+
+You might think that people would be savvy, and realise what is happening. But our ability to reflect is often short-circuted by tapping into another process
+
+:::
+
+
+## Type 1 and Type 2 thinking systems
+
+-   Dual process theory suggests there are two parallel cognitive processing systems, an intuitive and an analytic system.
+
+-   Intuitive thinking is more immediate and emotion-based.
+
+-   Analytic thinking happens later and is more rational and logical.
+
+::: notes
+If you can get someone to act quickly, they might act in a way that is less rational and more led by emotions.
+:::
+
+## Limited time offers!
+
+::: r-stack
+![](assets/limitedtime1.png){.fragment}
+
+![](assets/limitedtimeoffer2.jpg){.fragment}
+
+![](assets/lto3.png){.fragment width="900" height="500"}
+:::
+
+::: notes
+
+By creating artificial scarcity (FOMO) and getting people to act quickly (limited time), you can get them to act more emotionally and less rationally.
+
+This can be enhanced if you manipulate people's emotional state too.
+
+:::
+
+## The affect heuristic
+
+-   Our decisions are often made based on our current emotional state
+
+-   This "gut feeling" often leads to biased judgments or even disregarding of information.
+
+-   Familiarity through exposure is sufficient to generate positive affect.
+
+::: notes
+
+This means that just by exposing us to something repeatedly, we are likley to have a more positive feeling about it.
+
+:::
+
+## Influencers and fake games
+
+::: r-stack
+![](assets/fakegame1.png){.fragment}
+
+![](assets/fakegame2.png){.fragment}
+
+![](assets/fakegame3.png){.fragment width="900" height="500"}
+:::
+
+
+## Combination of manipulation techniques
+
+- Addictive gameplay (Variable ratio reinforcement)
+- Artificial scarcity in game stores (value framing)
+- Limited time offers in game stores (type 1 thinking)
+- Influencers and fake games in ads (affect heuristic)
+
+# How a psychology research lab works to tackle complex problems {background-image="assets/methods.png" background-repeat="contain" background-opacity="0.3"}
+
+## 
+
+<https://www.themindlab.uk>
+<iframe src="https://themindlab.uk" title="https://quarto.org/" width="960" height="600"></iframe>
+
+## Beahvioural / cognitive tasks in the lab
+
+-   We use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.
+
+-   We can measure reaction times, accuracy, and other behavioural measures.
+
+-   We can also measure physiological responses (e.g., heart rate, skin conductance).
+
+# What pieces of gambling behaviour does the following task examine? {background-color="#FF6F20"}
+
+[An example task](https://jatos2.christopherjwilson.uk/publix/CyQWQ0u9kGk){target="_blank"}
+
+## What pieces of gambling behaviour does the task examine?
+
+This is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:
+
+-   Risk perception
+-   Risk taking
+-   Adjusting behaviour based on consequences
+
+We can combine this with other measures to get a more complete picture.
+
+# Brain Imaging Demonstration {background-color="#FF6F20"}
+
+## Functional Near Infrared Spectroscopy
+
+- Uses light to measure blood oxygenation in the brain
+- This can tell is which areas of the brain are active at any given time
+- The prefrontal cortex is involved in thinking and decision-making
+
+# I need a volunteer! {background-color="#FF6F20"}
+
+## Summary
+
+1. We tackle complex problems by breaking them into smaller pieces
+2. Combining those pieces of knowledge give us the big picture 
+3. In a lab, we have many projects running at the same time looking at a given topic
+4. We design computer-based tasks to examine specific elements of behaviour and cognition
+5. fNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition
+
+# Any questions? {background-color="#FF6F20"}

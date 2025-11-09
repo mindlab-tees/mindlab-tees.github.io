@@ -1,0 +1,26 @@
+---
+title: "MIND Lab at Teesside University Research Fair"
+image: "../images/srdan2.webp"
+categories:
+  - conferences
+news-date: 2025-06-24
+---
+
+![](../images/srdan2.webp){style="display: block; margin: 0 auto; width:50%" }
+
+The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).
+
+Dr. Srdan Medimoric said of the event:
+
+>"We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University."
+
+Posters presented at the event included:
+
+- [It's part of the sport: How social identification with sports groups predicts gambling behaviour](../posters/gambling_poster.pdf) 
+
+- [The cognitive and neural moderators of hypomania and economic risk-taking](../posters/hypomania_poster.pdf)
+
+- [Cognitive offloading without benefits to performance?](../posters/metacog_poster.pdf)
+
+- [Is non-native speech processed in less detail and, if so, why?](../posters/accent_poster.pdf)
+

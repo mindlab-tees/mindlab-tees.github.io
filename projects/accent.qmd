@@ -1,0 +1,15 @@
+---
+title: "Is non-native speech processed in less detail and, if so, why?"
+image: "../images/accent.jpg"
+people: [srdan, lorraine, lisa]
+categories: [projects]
+programme: [langlearn]
+---
+
+## Research Overview
+
+In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech. 
+
+The goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate. 
+
+We contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert).

@@ -1,0 +1,28 @@
+---
+title: "Breaking big problems into small pieces..."
+image: "../images/jigsaw.jpg"
+description: |
+  This session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.
+categories:
+  - fnirs
+  - gambling
+  - gaming
+event-date: 2025-04-02
+event-location: Themis Building, Psychology Dept.
+---
+
+
+
+```{=html}
+<iframe width=100% height = 400px src="../slides/school_talk/"></iframe>
+```
+<div style="color:gray; font-size:small;" >
+*To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.*
+</div>
+
+
+
+We talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.
+
+This session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour.
+
