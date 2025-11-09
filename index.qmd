@@ -22,14 +22,18 @@ The MIND Lab's work is organised into two primary research streams, each led by 
 ::: columns
 ::: {.column width="50%"}
 
-Dr. Christopher Wilson's Research Programme: The Neuroscience of Risk & Gambling Harm.
+Dr. Christopher Wilson's Research Programme: 
+
+The Cognitive Neuroscience of Risk & Gambling Harms.
 
 [Learn more about gambling research here](research/gambling.qmd){.btn .btn-success}
 
 :::
 ::: {.column width="50%"}
 
-Dr. Medimorec's Research Programme: language, meta-cognition, implicit learning. 
+Dr. Medimorec's Research Programme: 
+
+language, meta-cognition, implicit learning. 
 
 [Learn more about language and learning research here](research/languageandlearning.qmd){.btn .btn-success}
 

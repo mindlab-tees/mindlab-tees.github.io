@@ -9,8 +9,6 @@ format:
     footer: "Research Funded by The Academic Forum for the Study of Gambling"
     header-logo: "../../assets/mind_logo_medium.png"
     logo: "../../assets/tulogo.jpg"
-filters:
-  - reveal-header
 ---
 
 ## Overview

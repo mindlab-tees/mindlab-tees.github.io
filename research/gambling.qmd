@@ -1,5 +1,5 @@
 ---
-title: "The Cognitive Neuroscience of Gambling Behaviour"
+title: "The Cognitive Neuroscience of Risk and Gambling Harms"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
 sidebar: false
 toc: true

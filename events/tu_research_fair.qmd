@@ -5,12 +5,9 @@ programme: [gambling,langlearn]
 categories:
   - conferences
   - posters
-<<<<<<< Updated upstream
-date: 2025-06-24
-=======
   - talks
+date: 2025-06-24
 event-date: 2025-06-24
->>>>>>> Stashed changes
 event-location: The Hub exhibition space, SU Building
 ---
 
