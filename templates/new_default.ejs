@@ -1,0 +1,16 @@
+```{=html}
+<% for (const item of items) { %>
+<div class="quarto-post image-right" <%= metadataAttrs(item) %>>
+<div class="thumbnail">
+<a href="<%- item.path %>" class="no-external">
+<% if (item.image) { %>
+<p><img src="<%- item.image%>" class="thumbnail-image" alt="<%= item['image-alt'] %>"></p>
+<% } %>
+</a>
+</div>
+
+<h3 class="no-anchor listing-title"><a href="<%- item.path %>" class="no-external"><%= item.title %></a></h3>
+
+</div><% } %>
+
+```

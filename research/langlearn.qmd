@@ -3,10 +3,6 @@ title: "Language, Learning and Metacognition"
 image: "../../images/metacognition1.jpg"
 sidebar: false
 toc: true
-categories:
-  - language
-  - learning
-  - metacognition
 listing:
   - id: lab-members
     contents: "../people/*qmd"

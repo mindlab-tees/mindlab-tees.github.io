@@ -3,13 +3,6 @@ title: "The Cognitive Neuroscience of Risk and Gambling Harms"
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
 sidebar: false
 toc: true
-categories:
-  - gambling
-  - fnirs
-  - risk perception
-  - decision-making
-  - social identity
-  - implicit accociation
 listing:
   - id: lab-members
     contents: "../people/*qmd"
@@ -43,6 +36,7 @@ listing:
     contents: "../publications/*qmd"
     type: default
     fields: [image, title]
+    #template: "../templates/new_default.ejs"
     include:
       programme: gambling
   - id: talks
