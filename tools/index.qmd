@@ -1,12 +1,13 @@
 ---
 title: "Lab Equipment and Software"
+toc: true
 # listing:
 #   contents: "/"
 ---
 
 The MIND Lab uses a state-of-the-art, multi-level methodological approach to investigate the neurocognitive basis of human decision-making, learning, and communication. Our process is designed to be rigorous, transparent, and replicable. 
 
-## Neurocognitive & Physiological Measurement
+## Neurological & Physiological Measurement
 
 We use a range of tools to measure "in-the-moment" cognitive and physiological processes.
 
@@ -17,11 +18,11 @@ Eyetracking & Virtual Reality: We also employ eyetracking and VR to provide a ri
 [Learn more about functional near-infrared spectroscopy](fnirs.qmd){.btn .btn-success}
 
 
-## Experimental & Behavioural Design
+## Cognitive and Behavioural Response Measurement
 
 To elicit and measure specific cognitive processes, we develop and deploy high-precision experimental tasks. We use jsPsych, a modern JavaScript library, to create replicable, high-fidelity, web-based and lab-based tasks that measure complex behaviours like decision-making, learning, memory, and language processing.
 
-[Learn more about custom cognitive tasks](custom_tasks.qmd){.btn .btn-success}
+[Learn more about custom experimental tasks](custom_tasks.qmd){.btn .btn-success}
 
 ## Statistical Analysis
 Rigorous data requires rigorous analysis. The lab's analytical pipeline is built on the R statistical environment, ensuring our work is transparent, reproducible, and uses state-of-the-art methods.
