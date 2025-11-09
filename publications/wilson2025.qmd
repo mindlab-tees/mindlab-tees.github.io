@@ -9,6 +9,7 @@ image: "../images/wilson2025.jpg"
 url: "https://doi.org/10.1016/j.bbr.2025.115829"
 people: [chris]
 publication-date: "2025-09-22"
+programme: [gambling]
 ---
 
 <!-- image with link to publication -->

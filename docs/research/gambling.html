@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Social, Cognitve and Neurological Factors in Gambling Behaviour – The MIND Lab</title>
+<title>The Cognitive Neuroscience of Gambling Behaviour – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,7 +42,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-d1897f967d4dc882e6c3c4aa210b578e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -82,11 +82,151 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-image"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ra .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ra'] = new List('listing-ra', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-gambling-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-gambling-projects'] = new List('listing-gambling-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-doctoral-researchers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-doctoral-researchers'] = new List('listing-doctoral-researchers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-recent-publications .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-recent-publications'] = new List('listing-recent-publications', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-talks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -169,10 +309,21 @@ window.Quarto = {
     <a class="nav-link" href="../info/lab_manual.html"> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../research.html"> 
-<span class="menu-text">Research</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Research</span>
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
+        <li>
+    <a class="dropdown-item" href="../research/gambling.html">
+ <span class="dropdown-text">Gambling Research Programme</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../research/languageandlearning.qmd">
+ <span class="dropdown-text">Language and Learning Programme</span></a>
+  </li>  
+    </ul>
+  </li>
   <li class="nav-item">
     <a class="nav-link" href="../tools.html"> 
 <span class="menu-text">Tools</span></a>
@@ -200,13 +351,26 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a></li>
+  <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link" data-scroll-target="#recent-publications">Recent Publications</a></li>
+  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#doctoral-students" id="toc-doctoral-students" class="nav-link" data-scroll-target="#doctoral-students">Doctoral Students</a></li>
+  <li><a href="#research-associates" id="toc-research-associates" class="nav-link" data-scroll-target="#research-associates">Research Associates</a></li>
+  <li><a href="#other-lab-members-involved-in-this-research-programme" id="toc-other-lab-members-involved-in-this-research-programme" class="nav-link" data-scroll-target="#other-lab-members-involved-in-this-research-programme">Other lab members involved in this research programme</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Social, Cognitve and Neurological Factors in Gambling Behaviour</h1>
+<h1 class="title">The Cognitive Neuroscience of Gambling Behaviour</h1>
   <div class="quarto-categories">
     <div class="quarto-category">gambling</div>
     <div class="quarto-category">fnirs</div>
@@ -219,7 +383,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -232,31 +396,190 @@ window.Quarto = {
 
 
 <p><a href="https://osf.io/z5ky8/"><img src="https://img.shields.io/badge/OSF-z5ky8-green.png" class="img-fluid"></a></p>
-<section id="research-overview" class="level2">
-<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
-<p>This work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.</p>
-<p>In addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania.</p>
-</section>
+<p>This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.</p>
+<ul>
+<li><p>Cognitive Moderators (e.g., attention, memory, numeracy)</p></li>
+<li><p>Clinical Vulnerability (e.g., depression, hypomania, anxiety)</p></li>
+<li><p>The Social Context (e.g., sports engagement, social identity)</p></li>
+<li><p>Neurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)</p></li>
+</ul>
+<p><img src="../images/gambling_research_prog.png" class="img-fluid"></p>
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<p><strong>“It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.</strong></p>
-<p>This project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. A link to the project site will be added here when available. The project is led by Dr.&nbsp;Christopher Wilson and Co-investigators Dr.&nbsp;Srdan Medimorec, Dr.&nbsp;Robert Portman, Dr.&nbsp;Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.</p>
-<p>Details of the project are available on the <a href="https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/">AFSG website</a>.</p>
-</section>
-<section id="lab-members-involved-in-this-research" class="level2">
-<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-research">Lab members involved in this research</h2>
-<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
+<div id="listing-gambling-projects" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdHM=" data-listing-file-modified-sort="1762677253962" data-listing-reading-time-sort="1" data-listing-word-count-sort="60">
+<div class="thumbnail"><a href="../projects/afsg_sport.html" class="no-external">
 
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/afsg_sport.html" class="no-external">It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../projects/afsg_sport.html" class="no-external">
+</a>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<!--
-## More on hypomania:
+</section>
+<section id="recent-publications" class="level2">
+<h2 class="anchored" data-anchor-id="recent-publications">Recent Publications</h2>
+<div id="listing-recent-publications" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-file-modified-sort="1762679064414" data-listing-reading-time-sort="1" data-listing-word-count-sort="7">
+<div class="thumbnail"><a href="../publications/wilson2025.html" class="no-external">
 
-::: {#related-content}
-:::
--->
+<img loading="lazy" src="../images/wilson2025.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../publications/wilson2025.html" class="no-external">Neurological and behavioural correlates of construal in economic decision-making under cognitive load</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../publications/wilson2025.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="talks" class="level2">
+<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<div id="listing-talks" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-file-modified-sort="1762679648506" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="thumbnail"><a href="../events/tu_research_fair.html" class="no-external">
+
+<img loading="lazy" src="../images/poster1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/tu_research_fair.html" class="no-external">MIND Lab @ Teesside University Research Fair</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../events/tu_research_fair.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="dGFsa3M=" data-listing-file-modified-sort="1762679117246" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
+<div class="thumbnail"><a href="../events/chris_talk_25.html" class="no-external">
+
+<img loading="lazy" src="../images/afsg.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/chris_talk_25.html" class="no-external">Research Talk: <em>It’s part of the sport</em>: Exploring how social identification with sports groups predicts gambling behaviour</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../events/chris_talk_25.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="doctoral-students" class="level2">
+<h2 class="anchored" data-anchor-id="doctoral-students">Doctoral Students</h2>
+<div id="listing-doctoral-researchers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762677099954" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<a href="../people/alana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alana Gadsby
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1762677108574" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<a href="../people/david.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+David Minchella
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1762677683983" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<a href="../people/ema.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ema Abir
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="research-associates" class="level2">
+<h2 class="anchored" data-anchor-id="research-associates">Research Associates</h2>
+<div id="listing-ra" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762677126503" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
+<a href="../people/lorraine_temple.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/lorraine_temple.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lorraine Temple
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="other-lab-members-involved-in-this-research-programme" class="level2">
+<h2 class="anchored" data-anchor-id="other-lab-members-involved-in-this-research-programme">Other lab members involved in this research programme</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762677115107" data-listing-reading-time-sort="1" data-listing-word-count-sort="56">
+<a href="../people/jaya-priya.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Jaya Priya Naganathan
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 
 
 

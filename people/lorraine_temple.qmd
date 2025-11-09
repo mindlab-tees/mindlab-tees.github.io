@@ -2,7 +2,7 @@
 title: "Lorraine Temple"
 image: "../images/lorraine_temple.jpg"
 role: ra
-projects: [hypomania, afsg_sport]
+programme: [gambling]
 about: 
   template: trestles
   image-width: 10em

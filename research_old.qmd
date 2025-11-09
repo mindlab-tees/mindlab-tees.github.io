@@ -1,0 +1,35 @@
+---
+title: "Our Research"
+# listing:
+#   contents: research
+#   type: grid
+listing:
+   - id : projects
+     contents: "../projects/*qmd"
+     type: grid
+     fields: [image, title]
+---
+
+Research in the lab is organized into two main strands of activity: 
+
+- Dr Srdan Medimorec leads a strand of work on Language, Learning and Memory.
+
+- Dr Christopher Wilson leads a strand of work on decision-making with specific interest in economic decision-making and gambling behaviour.
+
+The work is conducted through a series of interrelated projects that align with these research strands. 
+
+The studies we conduct in the lab are usually experimental in nature, often involving behavioural tasks completed on a computer. We employ psychophysiological measures such as eye-tracking and neuroimaging (fNIRS) to gain insights into cognitive processes underlying task performance. 
+
+We also conduct experiments or questionnaire-based studies online.
+
+![How our projects align with our research strands](images/project_structure.png){fig-alt="An infographic showing how our projects align with our research strands." width="100%"}
+
+## Current Projects
+
+::: {.callout}
+## Note
+We are currently updating the website to reflect our ongoing projects. (Status: October 2025). We will have a complete list of current projects here soon!
+:::
+
+::: {#projects} 
+:::

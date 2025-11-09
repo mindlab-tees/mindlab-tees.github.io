@@ -3,14 +3,7 @@ title: "It’s part of the sport: Exploring how social identification with sport
       
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
 categories: [projects]
-people: [lorraine_temple, chris, srdan]
-listing:
-  - id: lab-members
-    contents: "../../people/*qmd"
-    include: 
-      projects: [afsg_sport]
-    type: grid
-    fields: [image, title]
+programme: [gambling]
 ---
   
   [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
@@ -20,7 +13,3 @@ This project received funding from the Academic Forum for the Study of Gambling 
 
 Details of the project are available on the [AFSG website](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/).
 
-## Lab members involved in this research
-
-::: {#lab-members}
-:::

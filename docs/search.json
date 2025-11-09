@@ -189,11 +189,19 @@
     "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nWe design computer-based tasks to examine specific elements of behaviour and cognition\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
   },
   {
+<<<<<<< Updated upstream
     "objectID": "research/metacognition.html",
     "href": "research/metacognition.html",
     "title": "Metacognition and cognitive offloading",
     "section": "",
     "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
+=======
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Programmes",
+    "section": "",
+    "text": "This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. We investigate the real-world factors that influence risky decision-making.\nOur work is takes a multi-dimensional approach to examining this topic:\nDr. Srdan Medimorec’s Programme:\n\nLanguage & Learning\nLanguage and Cognition (e.g., non-native speech processing)\nMetacognition and Implicit Learning"
+>>>>>>> Stashed changes
   },
   {
     "objectID": "research/metacognition.html#research-overview",
@@ -228,7 +236,11 @@
     "href": "research/gambling.html#lab-members-involved-in-this-research",
     "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
     "section": "Lab members involved in this research",
+<<<<<<< Updated upstream
     "text": "Lab members involved in this research\n\n\n\n\nNo matching items"
+=======
+    "text": "Lab members involved in this research"
+>>>>>>> Stashed changes
   },
   {
     "objectID": "recruitment.html",
@@ -249,6 +261,7 @@
     "href": "recruitment/hyp1.html#participants-needed",
     "title": "The role of working memory and response inhibition in economic decision making",
     "section": "",
+<<<<<<< Updated upstream
     "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
   },
   {
@@ -257,6 +270,16 @@
     "title": "The role of working memory and response inhibition in economic decision making",
     "section": "Participants needed!",
     "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+=======
+    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception.\nDavid Minchella (Dclin, 2026): Does reward focus moderate the relationship between hypomania and economic risk-taking?"
+  },
+  {
+    "objectID": "people/alana.html",
+    "href": "people/alana.html",
+    "title": "Alana Gadsby",
+    "section": "",
+    "text": "Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
+>>>>>>> Stashed changes
   },
   {
     "objectID": "people.html",
@@ -452,7 +475,11 @@
     "href": "news/afsg_award.html",
     "title": "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)",
     "section": "",
+<<<<<<< Updated upstream
     "text": "The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction.\nHighlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the AFSG:\n\n“The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”\n\nProject updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research."
+=======
+    "text": "The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec. Our lab was launched in 2024 and our website in 2025.\nThe MIND Lab’s work is organised into two primary research streams, each led by a Principal Investigator.\nWe use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
+>>>>>>> Stashed changes
   },
   {
     "objectID": "news/lab_schedule_sem1.html",
@@ -497,9 +524,193 @@
     "text": "This project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.\nDetails of the project are available on the AFSG website."
   },
   {
+<<<<<<< Updated upstream
     "objectID": "projects/afsg_sport.html#lab-members-involved-in-this-research",
     "href": "projects/afsg_sport.html#lab-members-involved-in-this-research",
     "title": "It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.",
+=======
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+  },
+  {
+    "objectID": "events/tu_research_fair.html",
+    "href": "events/tu_research_fair.html",
+    "title": "MIND Lab @ Teesside University Research Fair",
+    "section": "",
+    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
+  },
+  {
+    "objectID": "info/lab_induction.html#introductions",
+    "href": "info/lab_induction.html#introductions",
+    "title": "Introduction to the lab",
+    "section": "Introductions",
+    "text": "Introductions\nDr Christopher Wilson\nDr Srdan Medimorec"
+  },
+  {
+    "objectID": "info/lab_schedule.html",
+    "href": "info/lab_schedule.html",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "",
+    "text": "Last Updated: Oct 2025"
+  },
+  {
+    "objectID": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "href": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "Meeting schedule for Semester 1 2025/2026",
+    "text": "Meeting schedule for Semester 1 2025/2026\nThe meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nTime 2pm. Room: CL1.03 Themis\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nIntroduction to fNIRS for brain imaging\n\n\n13/11/25\nLab meeting\n\n\n27/11/25\nIntroduction to eyetracking for cognitive psychology\n\n\n15/01/26\nLab meeting\n\n\n29/01/26\nDesigning and coding experiments with OpenSesame\n\n\n12/2/2026\nLab meeting\n\n\n26/02/26\nUsing OpenScience Framework (OSF) for research management\n\n\n12/3/2026\nLab meeting"
+  },
+  {
+    "objectID": "info/lab_schedule.html#lab-events",
+    "href": "info/lab_schedule.html#lab-events",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "Lab Events",
+    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory\n\n\n\n\n\n\n\n\n2025-10-29\n\n\nCL2.02 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.\n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/construal_paper.html",
+    "href": "news/construal_paper.html",
+    "title": "New research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions",
+    "section": "",
+    "text": "A new paper from the MIND Lab has been published in the journal Behavioural Brain Research. The paper, titled “Neurological and behavioural correlates of construal in economic decision-making under cognitive load”, examines how construal level interacts with cognitive load, numeracy, financial literacy and self-control during economic decision-making.\nThis paper has relevance to our understanding of gambling behaviour, as the decisions under examination were functionally gambling decisions. The findings suggest that high construal (thinking about the big picture) promotes risk aversion under cognitive load, while low construal (focusing on details) may lead to increased risk-taking. Additionally, individual differences in self-control, financial literacy and subjective numeracy were found to influence brain activation patterns during these decisions.\nThe study employed functional near-infrared spectroscopy (fNIRS) to measure brain activity, specifically in the lateral pre-frontal cortex (LPFC), which is associated with decision-making and self-control. The results provide new insights into how cognitive processes and individual differences interact to influence economic decisions, particularly in contexts that resemble gambling.\nThe full paper can be accessed via the following link: https://doi.org/10.1016/j.bbr.2025.115829"
+  },
+  {
+    "objectID": "news/tu_research_fair.html",
+    "href": "news/tu_research_fair.html",
+    "title": "MIND Lab at Teesside University Research Fair",
+    "section": "",
+    "text": "The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nDr. Srdan Medimoric said of the event:\n\n“We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University.”\n\nPosters presented at the event included:\n\nIt’s part of the sport: How social identification with sports groups predicts gambling behaviour\nThe cognitive and neural moderators of hypomania and economic risk-taking\nCognitive offloading without benefits to performance?\nIs non-native speech processed in less detail and, if so, why?"
+  },
+  {
+    "objectID": "people/chris/index.html",
+    "href": "people/chris/index.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University, where I lead The MIND Lab.\nMy primary research programme is focused on understanding and reducing gambling-related harm. I apply cognitive neuroscience and neuroeconomic approaches to investigate the real-world factors that influence risky decision-making.\nFurther details of my research programme can be found here: The Cognitive Neuroscience of Gambling Behaviour\nIn the lab, I use fNIRS, Eyetracking, and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
+  },
+  {
+    "objectID": "people/jaya-priya.html",
+    "href": "people/jaya-priya.html",
+    "title": "Jaya Priya Naganathan",
+    "section": "",
+    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field."
+  },
+  {
+    "objectID": "people/lorraine_temple.html",
+    "href": "people/lorraine_temple.html",
+    "title": "Lorraine Temple",
+    "section": "",
+    "text": "Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on metacognition and accent perception."
+  },
+  {
+    "objectID": "people/lorraine_temple.html#projects-i-have-been-involved-in",
+    "href": "people/lorraine_temple.html#projects-i-have-been-involved-in",
+    "title": "Lorraine Temple",
+    "section": "Projects I have been involved in",
+    "text": "Projects I have been involved in\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/lorraine_temple.html#research-training-badges",
+    "href": "people/lorraine_temple.html#research-training-badges",
+    "title": "Lorraine Temple",
+    "section": "Research Training Badges",
+    "text": "Research Training Badges\n\n\n  \n    \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "Lab members",
+    "section": "",
+    "text": "NoneNote\n\n\n\nWe are still updating the lab membership for the 2025-26 academic year. Please check back soon!\n\n\n\nLab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nResearch Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recruitment/hyp1_slide.html#participants-needed",
+    "href": "recruitment/hyp1_slide.html#participants-needed",
+    "title": "The role of working memory and response inhibition in economic decision making",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment/hyp1.html",
+    "href": "recruitment/hyp1.html",
+    "title": "The role of working memory and response inhibition in economic decision making",
+    "section": "",
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment/hyp1.html#participants-needed",
+    "href": "recruitment/hyp1.html#participants-needed",
+    "title": "The role of working memory and response inhibition in economic decision making",
+    "section": "",
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment.html",
+    "href": "recruitment.html",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "",
+    "text": "In the lab, we are running many studies at any one time. Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University.\nResearch participation is an essential part of the scientific process. It allows us to test our hypotheses, gather data, and ultimately to the research that makes an impact in the real world.\nThe ultimate goal of our research is to improve people’s lives. To do this, we need to understand how people think, feel, and behave. By participating in our studies, you are helping us to gain this understanding."
+  },
+  {
+    "objectID": "recruitment.html#what-does-taking-part-involve",
+    "href": "recruitment.html#what-does-taking-part-involve",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "What does taking part involve?",
+    "text": "What does taking part involve?\nThis depends on the study. Some studies may involve completing questionnaires, while others may involve performing tasks on a computer. Some studies may require you to come into the lab, while others can be completed online. Each study will have a detailed description of what is involved, so you can decide if it is something you would like to take part in.\nBefore taking part in any study, you will be provided with an information sheet that explains the study in detail. You will also have the opportunity to ask any questions you may have. You would then indicate your consent to take part by singing a consent form (or providing electronic consent on a computer)."
+  },
+  {
+    "objectID": "recruitment.html#is-there-any-compensation-for-taking-part",
+    "href": "recruitment.html#is-there-any-compensation-for-taking-part",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "Is there any compensation for taking part?",
+    "text": "Is there any compensation for taking part?\nThis depends on the study. Some studies may offer compensation in the form of vouchers or a prize draw, while others may offer research participation credit (for students). Some studies may not offer any compensation at all.\nThis will be clearly stated in the study description."
+  },
+  {
+    "objectID": "recruitment.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
+    "href": "recruitment.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "How to take part in our studies (Teesside University students and staff)",
+    "text": "How to take part in our studies (Teesside University students and staff)\nIf you are a student or staff member at Teesside University, you can sign up to take part in our studies through our online research participation system. This lists all of the studies that are currently recruiting participants. You can sign up for studies that interest you, based on the study description provided.\nYou can sign up for as many studies as you like, and you can withdraw from a study at any time. If you join the participant pool you are not obliged to take part in any studies.\n\nTo do so, click on this link to register for an account. You will need to use your Teesside University email address to login first."
+  },
+  {
+    "objectID": "recruitment.html#how-to-take-part-in-our-studies-general-public",
+    "href": "recruitment.html#how-to-take-part-in-our-studies-general-public",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "How to take part in our studies (general public)",
+    "text": "How to take part in our studies (general public)\nWe do recruit participants from outside of the university for studies. Available studies will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.\nIf you are interested in taking part in one of our studies, please contact the researcher listed in the study description. They will provide you with more information about the study and how to take part."
+  },
+  {
+    "objectID": "recruitment.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
+    "href": "recruitment.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "General criteria for taking part in our studies (unless the study states otherwise)",
+    "text": "General criteria for taking part in our studies (unless the study states otherwise)\n\nParticipants should be aged 18 or over .\nParticipants need to have proficiency in English sufficient to understand and complete the study tasks.\nParticipants should have normal or corrected-to-normal vision and hearing."
+  },
+  {
+    "objectID": "research/gambling.html#research-overview",
+    "href": "research/gambling.html#research-overview",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
+    "section": "Research Overview",
+    "text": "Research Overview\nThis work seeks to understand the social, cognitive and neurological factors that contribute to gambling behaviour. We are interested in how social identity might moderate the relationship between sports engagement and risk-gambling, the formation of implicit associations between sports and gambling, and the neurological mechanisms underlying these processes.\nIn addition, we are examining the link between mental health and gambling behaviour, including links with depression, anxiety, and hypomania."
+  },
+  {
+    "objectID": "research/gambling.html#projects",
+    "href": "research/gambling.html#projects",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Projects",
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nIt’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#lab-members-involved-in-this-research",
+    "href": "research/gambling.html#lab-members-involved-in-this-research",
+    "title": "Social, Cognitve and Neurological Factors in Gambling Behaviour",
+>>>>>>> Stashed changes
     "section": "Lab members involved in this research",
     "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\nNo matching items"
   },
@@ -567,6 +778,7 @@
     "text": "Lab members involved in this research\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\nNo matching items"
   },
   {
+<<<<<<< Updated upstream
     "objectID": "research/hypomania.html#research-overview",
     "href": "research/hypomania.html#research-overview",
     "title": "Hypomania and Risk-taking",
@@ -586,6 +798,13 @@
     "title": "Research Themes",
     "section": "",
     "text": "Hypomania and Risk-taking\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSocial, Cognitve and Neurological Factors in Gambling Behaviour\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+=======
+    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
+    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
+    "title": "‘It’s part of the sport’",
+    "section": "",
+    "text": "Context\nGambling harms\nThe complex nature of the topic\nDescribing a research programme\n\nClinical work: Hypomania\nClinical work: Depression\nClinical work Anxiety\nSocial: Implicit Associations with sport\nSocial: Effects of advertising via short form video\nPolicy: Efficacy of gambling policy\n\n“It’s part of the sport” - context\n“It’s part of the sport” - project overview\n“It’s part of the sport” - WP1 progress\n“It’s part of the sport” - WP 2 progress\n“It’s part of the sport” - project outcomes\nFuture research"
+>>>>>>> Stashed changes
   },
   {
     "objectID": "slides/seminar_series_intro/index.html#the-challenges-we-face",
@@ -798,6 +1017,7 @@
     "text": "COBI fNIRS R Package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExperimental Tasks\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFunctional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+<<<<<<< Updated upstream
     "objectID": "slides/seminar_series_intro/index.html#coping-with-chronic-illness",
     "href": "slides/seminar_series_intro/index.html#coping-with-chronic-illness",
     "title": "What’s the point of research at a time like this?",
@@ -810,5 +1030,117 @@
     "title": "What’s the point of research at a time like this?",
     "section": "",
     "text": "Hello everyone. For those of you who don’t know me, my name is Chris Wilson, and I’m an Associate Professor of Psychology here at Teesside University.\nIt’s my pleasure to welcome you to the first in our new series of research seminars, showcasing some of the exciting work being done by our colleagues in Psychology and Social Work.\nAt the start of a seminar series, it is traditional to deliver an opening talk, to set the scene for the series."
+=======
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Our Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\n\n\n\n\n\nNoneNote\n\n\n\nWe are currently updating the website to reflect our ongoing projects. (Status: October 2025). We will have a complete list of current projects here soon!\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/ema.html",
+    "href": "people/ema.html",
+    "title": "Ema Abir",
+    "section": "",
+    "text": "Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between depression and problem gambling. Her work employs a neuroeconomic approach, using functional near-infrared spectroscopy to examine neural correlates of gambling decisions."
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html",
+    "href": "slides/chris_seminar_talk/seminar_talk_chris.html",
+    "title": "‘It’s part of the sport’",
+    "section": "",
+    "text": "Context\nGambling harms\nThe complex nature of the topic\nDescribing a research programme\n\nClinical work: Hypomania\nClinical work: Depression\nClinical work Anxiety\nSocial: Implicit Associations with sport\nSocial: Effects of advertising via short form video\nPolicy: Efficacy of gambling policy\n\n“It’s part of the sport” - context\n“It’s part of the sport” - project overview\n“It’s part of the sport” - WP1 progress\n“It’s part of the sport” - WP 2 progress\n“It’s part of the sport” - project outcomes\nFuture research"
+  },
+  {
+    "objectID": "old_research_page.html",
+    "href": "old_research_page.html",
+    "title": "Research Programmes",
+    "section": "",
+    "text": "The MIND Lab’s work is organised into two primary research streams, each led by a Principal Investigator.\nDr. Christopher Wilson’s Programme: The Neuroscience of Risk & Gambling Harm This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. We investigate the real-world factors that influence risky decision-making.\nOur work is takes a multi-dimensional approach to examining this topic:\n\nCognitive Moderators (e.g., attention, memory, numeracy)\nClinical Vulnerability (e.g., depression, hypomania, anxiety)\nThe Social Context (e.g., sports engagement, social identity)\nNeurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)\n\nLearn more about gambling projects and team here\nDr. Srdan Medimorec’s Programme:\n\nLanguage & Learning\nLanguage and Cognition (e.g., non-native speech processing)\nMetacognition and Implicit Learning\n\nLearn more about language and learning projects here"
+  },
+  {
+    "objectID": "research_old.html",
+    "href": "research_old.html",
+    "title": "Our Research",
+    "section": "",
+    "text": "Research in the lab is organized into two main strands of activity:\nThe work is conducted through a series of interrelated projects that align with these research strands.\nThe studies we conduct in the lab are usually experimental in nature, often involving behavioural tasks completed on a computer. We employ psychophysiological measures such as eye-tracking and neuroimaging (fNIRS) to gain insights into cognitive processes underlying task performance.\nWe also conduct experiments or questionnaire-based studies online."
+  },
+  {
+    "objectID": "research_old.html#current-projects",
+    "href": "research_old.html#current-projects",
+    "title": "Our Research",
+    "section": "Current Projects",
+    "text": "Current Projects\n\n\n\n\n\n\nNoneNote\n\n\n\nWe are currently updating the website to reflect our ongoing projects. (Status: October 2025). We will have a complete list of current projects here soon!\n\n\n\n\n\n\n\n\n\n\n\n\nIt’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/gambling.html",
+    "href": "research/gambling.html",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "",
+    "text": "This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#doctoral-students-in-this-research-programme",
+    "href": "research/gambling.html#doctoral-students-in-this-research-programme",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Doctoral Students in this research programme",
+    "text": "Doctoral Students in this research programme\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
+    "href": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Other lab members involved in this research programme",
+    "text": "Other lab members involved in this research programme\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#recent-publications",
+    "href": "research/gambling.html#recent-publications",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\n\n\n\n\n\n\n\n\nNeurological and behavioural correlates of construal in economic decision-making under cognitive load\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#doctoral-students",
+    "href": "research/gambling.html#doctoral-students",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Doctoral Students",
+    "text": "Doctoral Students\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#talks",
+    "href": "research/gambling.html#talks",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Talks",
+    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#research-associates",
+    "href": "research/gambling.html#research-associates",
+    "title": "The Cognitive Neuroscience of Gambling Behaviour",
+    "section": "Research Associates",
+    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+>>>>>>> Stashed changes
   }
 ]

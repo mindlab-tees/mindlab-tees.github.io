@@ -18,7 +18,26 @@
     ]
   },
   {
+<<<<<<< Updated upstream
     "listing": "/research/metacognition.html",
+=======
+    "listing": "/research.html",
+    "items": [
+      "/projects/afsg_sport.html"
+    ]
+  },
+  {
+    "listing": "/research/hypomania.html",
+    "items": [
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html"
+    ]
+  },
+  {
+    "listing": "/research/accent.html",
+>>>>>>> Stashed changes
     "items": [
       "/people/lisa.html"
     ]
@@ -28,26 +47,33 @@
     "items": []
   },
   {
+<<<<<<< Updated upstream
     "listing": "/recruitment.html",
     "items": [
       "/recruitment/accent1.html",
       "/recruitment/metacognition1.html",
       "/recruitment/hyp1.html"
     ]
+=======
+    "listing": "/people/lorraine_temple.html",
+    "items": []
+>>>>>>> Stashed changes
   },
   {
     "listing": "/people.html",
     "items": [
       "/people/chris/index.html",
       "/people/srdan/index.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
       "/people/lorraine_temple.html",
       "/people/jaya-priya.html",
-      "/people/lisa.html",
-      "/people/alana.html",
-      "/people/david.html"
+      "/people/lisa.html"
     ]
   },
   {
+<<<<<<< Updated upstream
     "listing": "/people/lorraine_temple.html",
     "items": [
       "/projects/afsg_sport.html"
@@ -56,6 +82,20 @@
   {
     "listing": "/people/chris/index.html",
     "items": []
+=======
+    "listing": "/research/gambling.html",
+    "items": [
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html",
+      "/projects/afsg_sport.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/publications/wilson2025.html",
+      "/events/tu_research_fair.html",
+      "/events/chris_talk_25.html"
+    ]
+>>>>>>> Stashed changes
   },
   {
     "listing": "/index.html",
@@ -105,6 +145,12 @@
       "/tools/cobifnirs.html",
       "/tools/custom_tasks.html",
       "/tools/fnirs.html"
+    ]
+  },
+  {
+    "listing": "/research_old.html",
+    "items": [
+      "/projects/afsg_sport.html"
     ]
   }
 ]

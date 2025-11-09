@@ -20,8 +20,7 @@ website:
         text: Meetings Schedule
       - href: info/lab_manual.qmd
         text: Lab Manual
-      - href: research.qmd
-        text: Research
+      - sidebar:research
       - href: tools.qmd
         text: Tools
       - href: people.qmd
@@ -30,6 +29,21 @@ website:
         text: Training
       - href: recruitment.qmd
         text: Research Participation
+        
+  sidebar:
+    - id: research
+      title: "Research"
+      style: "docked"
+      background: light
+      collapse-level: 2
+      contents:
+       - href: research/gambling.qmd
+         text: Gambling Research Programme
+       - href: research/languageandlearning.qmd
+         text: Language and Learning Programme
+        
+        
+        
 format:
   html:
     email-obfuscation: javascript

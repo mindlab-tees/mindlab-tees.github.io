@@ -1,8 +1,9 @@
 ---
 title: "David Minchella"
 image: "../images/user.webp"
-role: alumni
-projects: [hypomania]
+role: doctoral
+#projects: [hypomania]
+programme: [gambling]
 about: 
   template: trestles
  # image: "../images/lisa.jpg"
@@ -11,3 +12,5 @@ about:
 ---
 
 David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception.
+
+*David Minchella (Dclin, 2026): Does reward focus moderate the relationship between hypomania and economic risk-taking?*

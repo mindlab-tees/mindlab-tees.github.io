@@ -1,10 +1,16 @@
 ---
 title: "MIND Lab @ Teesside University Research Fair"
 image: "../images/poster1.png"
+programme: [gambling,langlearn]
 categories:
   - conferences
   - posters
+<<<<<<< Updated upstream
 date: 2025-06-24
+=======
+  - talks
+event-date: 2025-06-24
+>>>>>>> Stashed changes
 event-location: The Hub exhibition space, SU Building
 ---
 

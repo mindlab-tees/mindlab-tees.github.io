@@ -41,13 +41,21 @@ listing:
 
 ::: {.callout}
 ## Note
-We are currently updating the lab membership for the 2025-26 academic year. Please check back soon!
+We are still updating the lab membership for the 2025-26 academic year. Please check back soon!
 :::
+
 
 ### Lab leads
 
 ::: {#lab-directors}
 :::
+
+
+### Doctoral Researchers
+
+::: {#doctoral-researchers}
+:::
+
 
 ### Research Associates
 
@@ -61,9 +69,9 @@ We are currently updating the lab membership for the 2025-26 academic year. Plea
 ::: {#volunteer-researchers}
 :::
 
-### Alumni
+<!-- ### Alumni -->
 
-Alumni of the lab include past UG, MSc, MRes, PhD students and research assistants.
+<!-- Alumni of the lab include past UG, MSc, MRes, PhD students and research assistants. -->
 
-::: {#alumni}
-:::
+<!-- ::: {#alumni} -->
+<!-- ::: -->

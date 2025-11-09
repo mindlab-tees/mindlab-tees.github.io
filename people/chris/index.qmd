@@ -2,9 +2,9 @@
 title: "Christopher Wilson"
 image: "../../images/chris.webp"
 role: director
-projects: [hypomania, gambling]
+programme: [gambling]
 about: 
-  template: jolla
+  template: trestles
   image: "../../images/chris.webp"
   image-width: 10em
   image-shape: round
@@ -18,17 +18,21 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/christopherjwilson
-listing:
-   - id: badges
-     contents: "/*.svg"
-     template: ../../badges.ejs
 ---
 
 ::: {#hero-heading}
 I am an Associate Professor in the Department of Psychology at Teesside University. My research focuses on decision-making and attention related to risk. I am particularly interested in economic decision-making, which includes topics such as gambling. I am also interested in the application of neuroeconomic approaches to understanding decision-making in other domains, such as clinical psychology.
 
+<<<<<<< Updated upstream
 In the lab, I use [fNIRS](/tools/fnirs.qmd), Eyetracking, Virtual Reality and web-based experimental approaches in this work. I use R for data analysis and 
 jsPsych for coding experiments. 
+=======
+My primary research programme is focused on understanding and reducing gambling-related harm. I apply cognitive neuroscience and neuroeconomic approaches to investigate the real-world factors that influence risky decision-making.
+
+Further details of my research programme can be found here: [The Cognitive Neuroscience of Gambling Behaviour](../../research/gambling.html)
+
+In the lab, I use fNIRS, Eyetracking, and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments.
+>>>>>>> Stashed changes
 
 :::
 

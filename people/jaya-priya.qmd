@@ -1,8 +1,9 @@
 ---
 title: "Jaya Priya Naganathan"
 role: volunteer
-projects: [hypomania]
+#projects: [hypomania]
 image: "../images/user.webp"
+programme: [gambling]
 about: 
   template: trestles
   image-width: 10em

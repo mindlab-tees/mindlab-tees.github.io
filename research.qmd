@@ -1,6 +1,31 @@
 ---
-title: "Research Themes"
-listing:
-  contents: research
-  type: grid
+title: "Research Programmes"
+# listing:
+#   contents: research
+#   type: grid
+# listing:
+#    - id : projects
+#      contents: "../projects/*qmd"
+#      type: grid
+#      fields: [image, title]
 ---
+
+
+
+This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. We investigate the real-world factors that influence risky decision-making.
+
+
+
+Our work is takes a multi-dimensional approach to examining this topic:
+
+
+
+
+Dr. Srdan Medimorec's Programme: 
+
+- Language & Learning
+
+- Language and Cognition (e.g., non-native speech processing)
+
+- Metacognition and Implicit Learning
+

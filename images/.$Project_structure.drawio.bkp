@@ -1,0 +1,81 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="TgNApKYoBrjtbwCSjb44">
+    <mxGraphModel dx="1773" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z1aVWhhH3ytEeVs713j5-31" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Engagement and Impact&lt;/h1&gt;&lt;p&gt;We conduct engagement events with relevant stakeholders to help turn our research evidence to changes in policy or practice.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="298.4" y="460" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Research Strand: Gambling and Gambling Harms&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="70" width="440" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-3" target="z1aVWhhH3ytEeVs713j5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-5" value="Neuro&lt;div&gt;Study&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="179" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-3" value="Project:&amp;nbsp;&lt;div&gt;Clinical Predictors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="209" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-6" value="&lt;div&gt;Behav.&lt;/div&gt;Study" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="269" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-11" value="Sports Eng. Study" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="359" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-14" value="Communication and Dissemenation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="169" y="320" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-3" target="z1aVWhhH3ytEeVs713j5-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-19" value="&lt;div&gt;Attitudes Study&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="449" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-20" value="Cognition Study" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="250" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-24" target="z1aVWhhH3ytEeVs713j5-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="379" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-35" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-24" target="z1aVWhhH3ytEeVs713j5-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-24" value="Project:&amp;nbsp;&lt;div&gt;Social Factors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Projects&lt;/h1&gt;&lt;p&gt;These are multi-study research activities which are can be funded and are often conducted in collaboration with external partners.&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="619" y="63" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-28" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Studies&lt;/h1&gt;&lt;p&gt;These are discrete pieces of research which can be conducted as part of a larger project or alone to contribute to the broader aim of the research strand. Different lab members conduct these studies.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="618" y="210" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-29" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Stakeholders&lt;/h1&gt;&lt;p&gt;We work with stakeholders and experts by experience when designing and conducting our research to maximise the impact and value of the work.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="270" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Research Strands&lt;/h1&gt;&lt;p&gt;Each of the lab leads drives a strand of research activity which is focused on tackling an important challenge or problem through research.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-21" y="20" width="180" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Impact Translation Activities&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-34" target="z1aVWhhH3ytEeVs713j5-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-34" value="Project:&lt;div&gt;Decision Making&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="482.5" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z1aVWhhH3ytEeVs713j5-34" target="z1aVWhhH3ytEeVs713j5-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z1aVWhhH3ytEeVs713j5-9" value="Stakeholder Engagement &amp;amp; Planning" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="169" y="180" width="440" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
