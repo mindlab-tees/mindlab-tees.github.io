@@ -1,5 +1,0 @@
----
-title: "Lab Equipment and Software"
-listing:
-  contents: tools
----

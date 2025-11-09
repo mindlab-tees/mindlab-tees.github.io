@@ -3,37 +3,37 @@ title: "Lab members"
 toc: true
 listing:
   - id: lab-directors
-    contents: people
+    contents: "/"
     type: grid
     include:
       role: director
   - id: undergraduate-researchers
-    contents: people
+    contents: "/"
     type: grid
     include:
       role: undergraduate
   - id: masters-researchers
-    contents: people
+    contents: "/"
     type: grid
     include:
       role: masters
   - id: doctoral-researchers
-    contents: people
+    contents: /
     type: grid
     include:
       role: doctoral
   - id: research-associates
-    contents: people
+    contents: /
     type: grid
     include:
       role: ra
   - id: volunteer-researchers
-    contents: people
+    contents: /
     type: grid
     include:
       role: volunteer
   - id: alumni
-    contents: people
+    contents: /
     type: grid
     include:
       role: alumni

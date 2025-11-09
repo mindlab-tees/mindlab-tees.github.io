@@ -4,6 +4,7 @@ title: "It’s part of the sport: Exploring how social identification with sport
 image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
 categories: [projects]
 programme: [gambling]
+people: [chris, srdan, lorraine_temple]
 ---
   
   [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)

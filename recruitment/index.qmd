@@ -38,7 +38,7 @@ You can sign up for as many studies as you like, and you can withdraw from a stu
 
 
 
-![](images/sona1.png){width=100%}
+![](../images/sona1.png){width=100%}
 
 To do so, click [on this link](https://tees.sona-systems.com/default.aspx) to register for an account. You will need to use your Teesside University email address to login first.
 

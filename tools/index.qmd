@@ -1,0 +1,35 @@
+---
+title: "Lab Equipment and Software"
+# listing:
+#   contents: "/"
+---
+
+The MIND Lab uses a state-of-the-art, multi-level methodological approach to investigate the neurocognitive basis of human decision-making, learning, and communication. Our process is designed to be rigorous, transparent, and replicable. 
+
+## Neurocognitive & Physiological Measurement
+
+We use a range of tools to measure "in-the-moment" cognitive and physiological processes.
+
+Functional Near-Infrared Spectroscopy (fNIRS): For our "Neuroscience of Risk" stream, we use fNIRS to map real-time brain activity in the prefrontal cortex during active decision-making. This allows us to understand the neural processes that underlie risk, reward, and self-control.
+
+Eyetracking & Virtual Reality: We also employ eyetracking and VR to provide a richer, multi-modal understanding of attention, perception, and learning in complex environments.
+
+[Learn more about functional near-infrared spectroscopy](fnirs.qmd){.btn .btn-success}
+
+
+## Experimental & Behavioural Design
+
+To elicit and measure specific cognitive processes, we develop and deploy high-precision experimental tasks. We use jsPsych, a modern JavaScript library, to create replicable, high-fidelity, web-based and lab-based tasks that measure complex behaviours like decision-making, learning, memory, and language processing.
+
+[Learn more about custom cognitive tasks](custom_tasks.qmd){.btn .btn-success}
+
+## Statistical Analysis
+Rigorous data requires rigorous analysis. The lab's analytical pipeline is built on the R statistical environment, ensuring our work is transparent, reproducible, and uses state-of-the-art methods.
+
+Because our data is often captured on a trial-by-trial basis, we use techniques like Mixed-Effects Modelling (MLM) to analyze our data, providing greater precision and a more accurate understanding of individual differences in measurement.
+
+## Open Source Sofware Development
+
+To support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.
+
+[Learn more about the COBI fNIRS software](cobifnirs.qmd){.btn .btn-success}

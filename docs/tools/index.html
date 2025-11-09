@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,67 +68,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -138,16 +78,16 @@ window.Quarto = {
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <div id="quarto-announcement" data-announcement-id="da8b9ad2430bacfafc2fdc11cbec58e0" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are currently recruiting participants for research on campus. Click <a href="./recruitment.html">here</a> to learn more.</p>
+<p>We are currently recruiting participants for research on campus. Click <a href="../recruitment.html">here</a> to learn more.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/icon.png" alt="" class="navbar-logo light-content">
-    <img src="./images/icon.png" alt="" class="navbar-logo dark-content">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/icon.png" alt="" class="navbar-logo light-content">
+    <img src="../images/icon.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">The MIND Lab</span>
     </a>
   </div>
@@ -158,15 +98,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./info/lab_schedule.html"> 
+    <a class="nav-link" href="../info/lab_schedule.html"> 
 <span class="menu-text">Events and Meetings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./info/lab_manual.html"> 
+    <a class="nav-link" href="../info/lab_manual.html"> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -175,29 +115,29 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./research/gambling.html">
+    <a class="dropdown-item" href="../research/gambling.html">
  <span class="dropdown-text">Gambling Research Programme</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/langlearn.html">
+    <a class="dropdown-item" href="../research/langlearn.html">
  <span class="dropdown-text">Language Learning and Metacognition Programme</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./tools.html" aria-current="page"> 
+    <a class="nav-link active" href="../tools/index.html" aria-current="page"> 
 <span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people/"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training/index.html"> 
+    <a class="nav-link" href="../training/index.html"> 
 <span class="menu-text">Training</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recruitment.html"> 
+    <a class="nav-link" href="../recruitment/index.html"> 
 <span class="menu-text">Research Participation</span></a>
   </li>  
 </ul>
@@ -234,72 +174,33 @@ window.Quarto = {
 </header>
 
 
+<p>The MIND Lab uses a state-of-the-art, multi-level methodological approach to investigate the neurocognitive basis of human decision-making, learning, and communication. Our process is designed to be rigorous, transparent, and replicable.</p>
+<section id="neurocognitive-physiological-measurement" class="level2">
+<h2 class="anchored" data-anchor-id="neurocognitive-physiological-measurement">Neurocognitive &amp; Physiological Measurement</h2>
+<p>We use a range of tools to measure “in-the-moment” cognitive and physiological processes.</p>
+<p>Functional Near-Infrared Spectroscopy (fNIRS): For our “Neuroscience of Risk” stream, we use fNIRS to map real-time brain activity in the prefrontal cortex during active decision-making. This allows us to understand the neural processes that underlie risk, reward, and self-control.</p>
+<p>Eyetracking &amp; Virtual Reality: We also employ eyetracking and VR to provide a richer, multi-modal understanding of attention, perception, and learning in complex environments.</p>
+<p><a href="../tools/fnirs.html" class="btn btn-success">Learn more about functional near-infrared spectroscopy</a></p>
+</section>
+<section id="experimental-behavioural-design" class="level2">
+<h2 class="anchored" data-anchor-id="experimental-behavioural-design">Experimental &amp; Behavioural Design</h2>
+<p>To elicit and measure specific cognitive processes, we develop and deploy high-precision experimental tasks. We use jsPsych, a modern JavaScript library, to create replicable, high-fidelity, web-based and lab-based tasks that measure complex behaviours like decision-making, learning, memory, and language processing.</p>
+<p><a href="../tools/custom_tasks.html" class="btn btn-success">Learn more about custom cognitive tasks</a></p>
+</section>
+<section id="statistical-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="statistical-analysis">Statistical Analysis</h2>
+<p>Rigorous data requires rigorous analysis. The lab’s analytical pipeline is built on the R statistical environment, ensuring our work is transparent, reproducible, and uses state-of-the-art methods.</p>
+<p>Because our data is often captured on a trial-by-trial basis, we use techniques like Mixed-Effects Modelling (MLM) to analyze our data, providing greater precision and a more accurate understanding of individual differences in measurement.</p>
+</section>
+<section id="open-source-sofware-development" class="level2">
+<h2 class="anchored" data-anchor-id="open-source-sofware-development">Open Source Sofware Development</h2>
+<p>To support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.</p>
+<p><a href="../tools/cobifnirs.html" class="btn btn-success">Learn more about the COBI fNIRS software</a></p>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Zm5pcnMlMkNzb2Z0d2FyZSUyQ1I=" data-listing-file-modified-sort="1757597264844" data-listing-reading-time-sort="1" data-listing-word-count-sort="79">
-<div class="thumbnail"><a href="./tools/cobifnirs.html" class="no-external">
-
-<img loading="lazy" src="./images/fnirs_plot.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./tools/cobifnirs.html" class="no-external">COBI fNIRS R Package</a>
-</h3>
-<div class="delink listing-description"><a href="./tools/cobifnirs.html" class="no-external">
-The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./tools/cobifnirs.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="SlNQc3ljaCUyQ09wZW5TZXNhbWUlMkNjb2Rpbmc=" data-listing-file-modified-sort="1757597264844" data-listing-reading-time-sort="3" data-listing-word-count-sort="474">
-<div class="thumbnail"><a href="./tools/custom_tasks.html" class="no-external">
-
-<img loading="lazy" src="./images/tasks.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./tools/custom_tasks.html" class="no-external">Experimental Tasks</a>
-</h3>
-<div class="delink listing-description"><a href="./tools/custom_tasks.html" class="no-external">
-In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using JSPsych, a JavaScript library for creating…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./tools/custom_tasks.html" class="no-external">
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Zm5pcnM=" data-listing-file-modified-sort="1757597264844" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
-<div class="thumbnail"><a href="./tools/fnirs.html" class="no-external">
-
-<img loading="lazy" src="./images/fnirs.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./tools/fnirs.html" class="no-external">Functional Near-Infrared Spectroscopy</a>
-</h3>
-<div class="delink listing-description"><a href="./tools/fnirs.html" class="no-external">
-Functional Near-Infrared Spectroscopy (fNIRS) is a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./tools/fnirs.html" class="no-external">
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

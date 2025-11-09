@@ -21,13 +21,13 @@ website:
       - href: info/lab_manual.qmd
         text: Lab Manual
       - sidebar:research
-      - href: tools.qmd
+      - href: tools/index.qmd
         text: Tools
-      - href: people.qmd
+      - href: people/
         text: People
       - href: training/index.qmd
         text: Training
-      - href: recruitment.qmd
+      - href: recruitment/index.qmd
         text: Research Participation
         
   sidebar:
