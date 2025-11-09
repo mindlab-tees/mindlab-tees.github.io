@@ -2,7 +2,7 @@
 title: "Lisa Cassidy"
 image: "../images/lisa.jpg"
 role: volunteer
-projects: [accent, metacognition]
+programme: [langlearn]
 about: 
   template: trestles
   image: "../images/lisa.jpg"

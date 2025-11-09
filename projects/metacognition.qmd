@@ -2,36 +2,10 @@
 title: "Metacognition and cognitive offloading"
 image: "../images/metacognition.jpg"
 people: [srdan, lorraine, lisa]
-categories:
-  - metacognition
-  - cognitive offloading
-  - learning
-listing:
-  - id: related-content
-    fields: [image, title]
-    include:
-      categories: "{metacognition}*"
-  - id: lab-members
-    contents: "../people/*qmd"
-    type: grid
-    fields: [image, title]
-    include:
-      projects: metacognition
+categories: [projects]
+programme: [langlearn]
 ---
-
-<!--[![](https://img.shields.io/badge/OSF-3vx2w-green)](https://osf.io/3vx2w/) -->
 
 ## Research Overview
 
 Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors.
-
-## Lab members involved in this research
-
-::: {#lab-members}
-:::
-<!--
-## More on hypomania:
-
-::: {#related-content}
-:::
--->

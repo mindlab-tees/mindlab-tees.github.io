@@ -39,8 +39,8 @@ website:
       contents:
        - href: research/gambling.qmd
          text: Gambling Research Programme
-       - href: research/languageandlearning.qmd
-         text: Language and Learning Programme
+       - href: research/langlearn.qmd
+         text: Language Learning and Metacognition Programme
         
         
         

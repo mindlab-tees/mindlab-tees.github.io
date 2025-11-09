@@ -53,6 +53,7 @@
     "listing": "/index.html",
     "items": [
       "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
       "/events/tu_research_fair.html",
       "/events/college_talk.html",
       "/events/intro_to_fnirs.html",
@@ -93,6 +94,16 @@
       "/tools/cobifnirs.html",
       "/tools/custom_tasks.html",
       "/tools/fnirs.html"
+    ]
+  },
+  {
+    "listing": "/research/langlearn.html",
+    "items": [
+      "/people/lisa.html",
+      "/events/tu_research_fair.html",
+      "/events/srdan_talk_25.html",
+      "/projects/accent.html",
+      "/projects/metacognition.html"
     ]
   }
 ]

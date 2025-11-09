@@ -1,0 +1,20 @@
+---
+title: |
+  Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.
+image: "../images/srdan_talk2.jpg"
+categories:
+  - talks
+programme: langlearn
+event-date: 2025-10-29
+event-location: CL2.02 Themis Building, Teesside University
+---
+
+![](../images/srdan_talk1.jpg){style="display: block; margin: 0 auto; width:50%" } 
+
+Dr Srdan Medimorec will be giving a research talk titled “The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory” on October 29, 2025, at 2:00 PM in CL2.02.
+
+This talk is part of the psychology and social work research seminar series at Teesside University and is open to all students and staff interested in the cognitive aspects of language and learning.
+
+## Abstract
+
+People adjust the way they speak and write depending on the situation. For example, they may simplify their language when addressing children or older adults. Such adjustments likely help make communication clearer and easier to understand, which is especially important in instructional settings. In a series of studies, we first demonstrated that speech characteristics vary systematically across academic disciplines. For instance, science lectures often present conceptually difficult material but tend to compensate by using simpler syntax. We then examined how these linguistic variations in lectures relate to student learning. Specifically, we tested whether computationally derived measures of language difficulty could predict performance on multiple-choice and short-answer assessments. Our findings demonstrate a strong relationship between lecture language features and students’ memory.

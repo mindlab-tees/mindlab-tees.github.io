@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Is non-native speech processed in less detail and, if so, why? – The MIND Lab</title>
+<title>Language, Learning and Metacognition – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -68,7 +70,121 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-lab-members .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-lab-members'] = new List('listing-lab-members', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-talks .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-langlearn-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-langlearn-projects'] = new List('listing-langlearn-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -119,8 +235,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Gambling Research Programme</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../research/languageandlearning.qmd">
- <span class="dropdown-text">Language and Learning Programme</span></a>
+    <a class="dropdown-item" href="../research/langlearn.html">
+ <span class="dropdown-text">Language Learning and Metacognition Programme</span></a>
   </li>  
     </ul>
   </li>
@@ -151,21 +267,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a></li>
+  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#lab-members-involved-in-this-research-programme" id="toc-lab-members-involved-in-this-research-programme" class="nav-link" data-scroll-target="#lab-members-involved-in-this-research-programme">Lab members involved in this research programme</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Is non-native speech processed in less detail and, if so, why?</h1>
+<h1 class="title">Language, Learning and Metacognition</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">projects</div>
+    <div class="quarto-category">language</div>
+    <div class="quarto-category">learning</div>
+    <div class="quarto-category">metacognition</div>
   </div>
   </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -177,11 +305,123 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="research-overview" class="level2">
-<h2 class="anchored" data-anchor-id="research-overview">Research Overview</h2>
-<p>In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.</p>
-<p>The goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.</p>
-<p>We contrast these potential accounts by manipulating speaker accent (native vs.&nbsp;non-native) and information about the speaker’s expertise (expert vs.&nbsp;non-expert).</p>
+<p>This research programme investigates how people monitor, assess, and manage their own cognitive resources (like memory and attention) and those of others. We apply cognitive science and experimental approaches to understand the metacognitive processes underlying learning, language, and communication.</p>
+<p>Our work is organised into three primary themes:</p>
+<ul>
+<li><p>Cognitive Resource Management: Investigating how people make metacognitive decisions to manage cognitive effort. This includes self-monitoring (e.g., choosing to “offload” information to an external source) and other-monitoring (e.g., speakers modifying their speech to minimize a listener’s memory demands).</p></li>
+<li><p>Language &amp; Communication: Understanding the cognitive processes that shape language use and perception. This includes work on verbal fluency (examining the interplay of memory, vocabulary, and age in language production) and speech perception (e.g., why foreign-accented speech is processed differently).</p></li>
+<li><p>Learning &amp; Individual Differences: Examining the underlying mechanisms and individual differences (especially working memory capacity) that predict how people learn (e.g., implicit sequence learning) and perform on complex cognitive tasks.</p></li>
+</ul>
+<section id="projects" class="level2">
+<h2 class="anchored" data-anchor-id="projects">Projects</h2>
+<div id="listing-langlearn-projects" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdHM=" data-listing-file-modified-sort="1762698137702" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<div class="thumbnail"><a href="../projects/accent.html" class="no-external">
+
+<img loading="lazy" src="../images/accent.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/accent.html" class="no-external">Is non-native speech processed in less detail and, if so, why?</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../projects/accent.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="cHJvamVjdHM=" data-listing-file-modified-sort="1762698145579" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<div class="thumbnail"><a href="../projects/metacognition.html" class="no-external">
+
+<img loading="lazy" src="../images/metacognition.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/metacognition.html" class="no-external">Metacognition and cognitive offloading</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../projects/metacognition.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<!-- ## Recent Publications -->
+<!-- ::: {#recent-publications} -->
+<!-- ::: -->
+</section>
+<section id="talks" class="level2">
+<h2 class="anchored" data-anchor-id="talks">Talks</h2>
+<div id="listing-talks" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-date-sort="1750719600000" data-listing-file-modified-sort="1762681441336" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="thumbnail"><a href="../events/tu_research_fair.html" class="no-external">
+
+<img loading="lazy" src="../images/poster1.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/tu_research_fair.html" class="no-external">MIND Lab @ Teesside University Research Fair</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../events/tu_research_fair.html" class="no-external">
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="dGFsa3M=" data-listing-file-modified-sort="1762698377317" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
+<div class="thumbnail"><a href="../events/srdan_talk_25.html" class="no-external">
+
+<img loading="lazy" src="../images/srdan_talk2.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events/srdan_talk_25.html" class="no-external">Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.</a>
+</h3>
+</div>
+<div class="metadata">
+<a href="../events/srdan_talk_25.html" class="no-external">
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<!-- ## Doctoral Students -->
+<!-- ::: {#doctoral-researchers} -->
+<!-- ::: -->
+<!-- ## Research Associates -->
+<!-- ::: {#ra} -->
+<!-- ::: -->
+</section>
+<section id="lab-members-involved-in-this-research-programme" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members-involved-in-this-research-programme">Lab members involved in this research programme</h2>
+<div id="listing-lab-members" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762697328551" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<a href="../people/lisa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/lisa.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lisa Cassidy
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+
 
 
 </section>

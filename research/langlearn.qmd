@@ -1,0 +1,74 @@
+---
+title: "Language, Learning and Metacognition"
+image: "../../images/metacognition1.jpg"
+sidebar: false
+toc: true
+categories:
+  - language
+  - learning
+  - metacognition
+listing:
+  - id: lab-members
+    contents: "../people/*qmd"
+    type: grid
+    fields: [image, title]
+    include:
+      programme: langlearn
+  - id: talks
+    contents: "../events/*qmd"
+    type: default
+    fields: [image, title]
+    include:
+      programme: langlearn
+      categories: talks
+  - id: langlearn-projects
+    contents: "../projects/*qmd"
+    type: default
+    fields: [image, title]
+    include:
+      programme: langlearn
+---
+
+
+This research programme investigates how people monitor, assess, and manage their own cognitive resources (like memory and attention) and those of others. We apply cognitive science and experimental approaches to understand the metacognitive processes underlying learning, language, and communication.
+
+Our work is organised into three primary themes:
+
+- Cognitive Resource Management: Investigating how people make metacognitive decisions to manage cognitive effort. This includes self-monitoring (e.g., choosing to "offload" information to an external source) and other-monitoring (e.g., speakers modifying their speech to minimize a listener's memory demands).
+
+- Language & Communication: Understanding the cognitive processes that shape language use and perception. This includes work on verbal fluency (examining the interplay of memory, vocabulary, and age in language production) and speech perception (e.g., why foreign-accented speech is processed differently).
+
+- Learning & Individual Differences: Examining the underlying mechanisms and individual differences (especially working memory capacity) that predict how people learn (e.g., implicit sequence learning) and perform on complex cognitive tasks.
+
+
+## Projects
+
+::: {#langlearn-projects}
+:::
+
+<!-- ## Recent Publications -->
+
+<!-- ::: {#recent-publications} -->
+<!-- ::: -->
+
+## Talks
+
+::: {#talks}
+:::
+
+<!-- ## Doctoral Students -->
+
+<!-- ::: {#doctoral-researchers} -->
+<!-- ::: -->
+
+<!-- ## Research Associates -->
+
+<!-- ::: {#ra} -->
+<!-- ::: -->
+
+## Lab members involved in this research programme
+
+::: {#lab-members}
+:::
+
+
