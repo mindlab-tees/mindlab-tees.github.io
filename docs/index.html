@@ -262,16 +262,42 @@ window.Quarto = {
 </header>
 
 
-<p>The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec. Our lab was launched in 2024 and our website in 2025.</p>
-<p>The MIND Lab’s work is organised into two primary research streams, each led by a Principal Investigator.</p>
+<style>
+.column {
+  /* border: 1px solid #ddd; */
+  padding: 1em;
+  border-radius: 5px;
+  /* 1. Make this column a flex container */
+  display: flex;
+
+  /* 2. Stack its children vertically */
+  flex-direction: column;
+
+  /* 3. Center the children horizontally */
+  align-items: center;
+
+  /* 4. Center the children vertically */
+  justify-content: center; 
+
+  /* 5. (Optional) Also center any text inside the children */
+  text-align: center;
+}
+
+.column + .column {
+  /* This adds the 1px solid grey vertical line */
+  border-left: 1px solid #ddd;
+
+  /* This adds some space between the line and the content 
+  padding-left: 1em; */
+}
+</style>
+<p>The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.</p>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p>Dr.&nbsp;Christopher Wilson’s Research Programme:</p>
-<p>The Cognitive Neuroscience of Risk &amp; Gambling Harms.</p>
+<p><strong>The Cognitive Neuroscience of Risk &amp; Gambling Harms.</strong></p>
 <p><a href="./research/gambling.html" class="btn btn-success">Learn more about gambling research here</a></p>
 </div><div class="column" style="width:50%;">
-<p>Dr.&nbsp;Medimorec’s Research Programme:</p>
-<p>language, meta-cognition, implicit learning.</p>
+<p><strong>Language, meta-cognition, implicit learning.</strong></p>
 <p><a href="./research/langlearn.html" class="btn btn-success">Learn more about language and learning research here</a></p>
 </div>
 </div>
