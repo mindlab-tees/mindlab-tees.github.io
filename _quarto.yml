@@ -7,7 +7,7 @@ website:
   announcement: 
     icon: info-circle
     dismissable: true
-    content: "We are currently recruiting participants for research on campus. Click <a href='/recruitment.html'>here</a> to learn more."
+    content: "We are currently recruiting participants for research on campus. Click <a href='/recruitment/index.html'>here</a> to learn more."
     type: primary
     position: above-navbar
   title: "The MIND Lab"
