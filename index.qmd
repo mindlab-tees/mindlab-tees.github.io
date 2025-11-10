@@ -46,7 +46,7 @@ listing:
 }
 </style>
 
-The MIND Lab is based in the Department of Psychology at Teesside University. The lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec. The lab's work is organised into two primary research streams, each led by a Principal Investigator.
+The MIND Lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.
 
 ::: columns
 ::: {.column width="50%"}
