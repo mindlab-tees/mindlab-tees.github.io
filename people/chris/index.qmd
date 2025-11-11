@@ -21,7 +21,7 @@ about:
 ---
 
 ::: {#hero-heading}
-I am an Associate Professor in the Department of Psychology at Teesside University, where I lead The MIND Lab.
+I am an Associate Professor in the Department of Psychology at Teesside University. I am a founder and lead of The MIND Lab.
 
 My primary research programme is focused on understanding and reducing gambling-related harm. I apply cognitive neuroscience and neuroeconomic approaches to investigate the real-world factors that influence risky decision-making.
 
