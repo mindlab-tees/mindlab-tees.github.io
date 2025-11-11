@@ -1,0 +1,124 @@
+---
+brand: ../_brand_mind.yml
+format: 
+  html:
+    embed_resources: true
+    output-file: "afsgwp1.html"
+    toc: true
+  # revealjs: 
+  #   embed_resources: true
+  #   output-file: "afsgwp1_slide.html"
+  #   width: 1500
+email-obfuscation: javascript 
+status: open
+study-location: "Online"
+title: "Sports Engagement and Gambling"
+image: "../images/sport_team.jpg"
+footer: "<a href='/'>www.themindlab.uk</a>" 
+---
+
+# Thank you for your interest in this project
+
+You have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Teesside University and funded by the academic forum for the study of gambling (AFSG).
+
+# Brief summary
+
+Full information about the project is below. However, a brief summary is as follows:
+
+-   We are looking for people who are fans of, or participate in sports.
+
+-   They must be aged 18 or over.
+
+-   They might or might not have experience of gambling.
+
+-   The survey takes about 15 minutes to complete.
+
+-   We are offering a £5 shopping voucher as a token of appreciation.
+
+To take part, you need to receive a link directly from the research team.
+
+Understandably, you might have wanted to check if the initial message was legitimate. We will have more information about the project on this site soon. Until the site is up and running, you can find more information at these links:
+
+[Academic Forum for the Study of Gambling](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/)
+
+[The MIND Lab](https://www.themindlab.uk/)
+
+# Detailed infromation
+
+**Chief Investigator:** *Dr Christopher Wilson*
+
+***Researchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple***
+
+Hello, my name is ***Christopher Wilson*** and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Research%20Participation%20Query)
+
+**What is the purpose of the study?**
+
+This study aims to understand the relationship between engagement with sports and gambling behaviour.
+
+**Why am I being invited to take part?**
+
+You have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports.
+
+To be able to take part though you must be:
+
+-   at least 18 years old
+
+-   are a member of a sports club or a person who regularly follows watches sports
+
+**Do I have to take part?**
+
+No, it’s up to you if you want to, or not.
+
+**What would I be asked to do if I chose to take part?**
+
+Complete several questionnaires which cover the following topics:
+
+-   Demographics (i.e., your age, gender, education level and income)
+
+-   Your engagement with sports and socialisation with sports groups
+
+-   Your current and prior experiences of gambling
+
+**What are the possible disadvantages, or risks, of taking part?**
+
+We do not anticipate any specific risks. However, if you feel uncomfortable answering questionnaires that cover any of the above topics, such as gambling, then you do not have to take part. You can also choose to withdraw your participation at any time during the study.
+
+***What are the possible benefits to taking part?***
+
+We hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.
+
+**What would happen to the information collected about me?**
+
+The responses to the questions that you provide will initially be stored in an encrypted form on a web server, and then downloaded to Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form.
+
+This information will be identified only by a randomly-generated participant ID code, so will be anonymised from the outset. The responses you provide (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).
+
+If you wish to receive a token of compensation for taking part in this study (£5 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your questionnaire responses, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).
+
+**When will I receive my token of appreciation:** if you enter your email to receive a £5 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.
+
+You will be offered the opportunity, following this study, to take part in an online interview at a later date, and to provide your email for the purposes of arranging this interview. You can choose not to do this, but if you provide your email address for this purpose, it will be used only for this purpose, and only retained until the end of this research project (31/03/26).
+
+Personal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.
+
+**What would happen if I started, but, changed my mind?**
+
+If you decide not to complete the study, you can withdraw your participation at any time, by closing this web browser window.
+
+Once you complete the study (by clicking “complete study” at the end) you will not be able to withdraw your data, as the data will be anonymised.
+
+Information about the School Research Ethics Committee and Chair
+
+**Who has approved this study?**
+
+This study has been approved by a Research Ethics sub-Committee in:
+
+School of Social Sciences, Humanities & Law (SSSHL)
+
+**What happens if there are any problems?**
+
+If you are unhappy, or there is a problem, please contact the project lead [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Research%20Participation%20Query)
+
+If you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:
+
+[PsychologyEthicsChair\@tees.ac.uk](mailto:PsychologyEthicsChair@tees.ac.uk)

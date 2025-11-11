@@ -3,6 +3,7 @@ title: "MIND Lab at Teesside University Research Fair"
 image: "../images/srdan2.webp"
 categories:
   - conferences
+  - news
 news-date: 2025-06-24
 ---
 

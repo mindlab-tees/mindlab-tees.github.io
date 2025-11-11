@@ -1,37 +1,66 @@
 ---
 title: "The MIND Lab Research Challenge"
 toc: true
-image: "images/challenge_poster.png"
+image: "../images/challenge_poster.png"
+categories:
+  - news
+news-date: 2025-11-10
 ---
 
-## Take part in 3 research studies and get a chance to win a £100 Amazon voucher!
+## Take part in research studies and get a chance to win a £100 Amazon voucher!
 
 
-We are looking for participants to take part in three research studies that explore how people think and make decisions. At the end of each study we will give you a code. Enter the codes from all three studies into the form at the end of this page to be entered into a prize draw to win a £100 Amazon voucher.
+ ![](../images/challenge_banner.png){width=80% fig-align="center"}
 
-![](images/challenge_poster.png){width=50% fig-align="center"}
+We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take part in the lab studies listed on this page to be entered into a prize draw to win a £100, £50, or one of 2 £25 Amazon vouchers.
 
 
 ### Step 1: Be sure you are registered in our research participant pool
 
 If you have not already done so, please register in our [research participant pool](https://tees.sona-systems.com/Default.aspx?ReturnUrl=%2fmain.aspx). This will enable you to take part in our studies and be entered into the prize draw.
 
-![](images/sona1.png){width=50% fig-align="center"}
+![](../images/sona1.png){width=50% fig-align="center"}
 
 ### Step 2: Take part in the studies
 
-You can take part in the studies in any order. Each study will take approximately 20-30 minutes to complete.
+You can take part in the studies in any order. Each study will take between 30 and 45 minutes to complete. Click the buttons and login to see more information about what's involved in each study.
 
-| [The Language Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-1){.btn .btn-primary} | [The Decision Making Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-2){.btn .btn-primary} | [The Memory Study](https://tees.onlinesurveys.ac.uk/mind-lab-research-challenge-study-3){.btn .btn-primary} |
-| :---: | :---: | :---: |
-| ![](images/language.jpg){width=200px} | ![](images/decision1.jpg){width=200px} | ![](images/metacog.jpg){width=200px} |
+:::{.columns}
+:::{.column}
 
-### Step 3: Enter the codes from each study into the form below
-
-At the end of each study you will be given a code. Please enter the codes from all three studies into the form below to be entered into the prize draw to win a £100 Amazon voucher.
-
-::: .align-items="center"
-
-[Enter your codes here](https://forms.office.com/e/1G7i0kJ3Xk){.btn .btn-primary .btn-lg text-align="center"}
-
+[The Decision Making Study](https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1335){.btn .btn-primary}
+![](../images/decision1.jpg){width=200px} 
 :::
+
+:::{.column}
+[The Memory Study](https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1337){.btn .btn-primary}
+![](../images/metacog.jpg){width=200px} 
+:::
+:::
+
+### Step 3: Enter the challenge!
+
+Tell the researcher that you are taking part in the research challenge - you will be entered into the draw for each of the studies. If you complete both studies, you will get an extra entry!
+
+
+## Q&A
+
+### What is the purpose of this research challenge?
+
+A. Lab-based experiments are an important part of the evidence base in psychology. To do this work, we need people to come to the lab. However, we understand that it is not easy to give up your time to take part.
+
+### Who is eligible to enter?
+
+A. Anyone who participates in these two specific studies (the ones on this page) via the SONA platform.
+
+### What vouchers are available
+
+A. 1 x £100, 1 x £50, 2 x £25. The same person cannot win more than one voucher.
+
+### When will the draw take place?
+
+A. The draw will take place either when the studies have completed recruiting all of the participants needed, or at the end of Semester 2 (whichever comes first). The latest date that the draw takes place will be 31st May 2026.
+
+### How will I know that the draw has taken place?
+
+A. Everyone who opts into the draw will be contacted via an email from the SONA system to let them know that the draw took place. The winners will be contacted individually.

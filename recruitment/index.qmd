@@ -10,7 +10,7 @@ toc: true
  #    status: open
 ---
 
-
+[ ![](../images/challenge_banner.png){width=80% fig-align="center"} ](challenge.qmd)
 
 In the lab, we are running many studies at any one time.  Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. 
 

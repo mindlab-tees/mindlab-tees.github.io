@@ -1,7 +1,7 @@
 ---
 title: "It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups."
       
-image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Gambling_chips.jpg"
+image: "../images/sport_team.jpg"
 categories: [projects]
 programme: [gambling]
 people: [chris, srdan, lorraine_temple]

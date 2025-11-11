@@ -3,7 +3,7 @@ title: "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)"
 image: "../images/afsg.jpg"
 categories:
   - funding
-  - gambling
+  - news
 news-date: 2025-05-1
 ---
 

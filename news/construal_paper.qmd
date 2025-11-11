@@ -3,8 +3,7 @@ title: "New research paper looks at how construal, numeracy and financial litera
 image: "../images/brain.jpg"
 categories:
   - publications
-  - gambling
-  - fnirs
+  - news
 news-date: 2025-09-23
 ---
 

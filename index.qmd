@@ -10,7 +10,9 @@ listing:
     max-items: 3
   - id: news
     sort: "news-date desc"
-    contents: "news/*qmd"
+    contents: "/"
+    include:
+      categories: [news]
     type: grid
     fields: [image, title, description]
 
