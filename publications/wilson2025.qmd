@@ -6,6 +6,7 @@ author:
   - name: "Christopher J Wilson"
     orcid: "0000-0002-7155-0662"
     affiliation: "Teesside University"
+journal_name: "Behavioural Brain Research" 
 image: "../images/brain.jpg"
 url: "https://doi.org/10.1016/j.bbr.2025.115829"
 people: [chris]

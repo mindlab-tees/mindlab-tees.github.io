@@ -22,7 +22,7 @@ listing:
   - id: gambling-projects
     contents: "../projects/*qmd"
     type: default
-    fields: [image, title, description]
+    fields: [image, title, description, funder]
     include:
       programme: gambling
       categories: project
@@ -36,14 +36,14 @@ listing:
   - id: recent-publications
     contents: "../publications/*qmd"
     type: default
-    fields: [image, title, subtitle]
+    fields: [image, title, journal_name, subtitle]
     #template: "../templates/new_default.ejs"
     include:
       programme: gambling
   - id: talks
     contents: "../events/*qmd"
-    type: default
-    fields: [image, title, description]
+    sort: "event-date desc"
+    fields: [event-date, event-location, image, title, description]
     include:
       programme: gambling
       categories: talks

@@ -1,11 +1,12 @@
 ---
-title: "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)"
+title: "New project examines the links between sports engagement and gambling"
       
 image: "../images/afsg.jpg"
 categories: [project, news, funding]
 programme: [gambling]
 people: [chris, srdan, lorraine_temple]
 news-date: 2025-05-1
+funder: "Funded by The Academic Forum for the Study of Gambling (AFSG)"
 ---
  
 The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction. 

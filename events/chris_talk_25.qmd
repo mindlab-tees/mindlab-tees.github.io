@@ -3,7 +3,7 @@ title: |
   Research Talk: *It’s part of the sport*: Exploring how 
   social identification  with sports groups predicts 
   gambling behaviour
-image: "../images/afsg.jpg"
+image: "../images/gambling_sport.jpg"
 categories:
   - talks
 programme: gambling
