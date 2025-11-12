@@ -2,7 +2,7 @@
 title: "Is non-native speech processed in less detail and, if so, why?"
 image: "../images/accent.jpg"
 people: [srdan, lorraine, lisa]
-categories: [projects]
+categories: [project]
 programme: [langlearn]
 ---
 

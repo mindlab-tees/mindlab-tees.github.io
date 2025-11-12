@@ -1,16 +1,28 @@
 ---
-title: "It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups."
+title: "Grant awarded by the Academic Forum for the Study of Gambling (AFSG)"
       
-image: "../images/sport_team.jpg"
-categories: [projects]
+image: "../images/afsg.jpg"
+categories: [project, news, funding]
 programme: [gambling]
 people: [chris, srdan, lorraine_temple]
+news-date: 2025-05-1
 ---
-  
-  [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
+ 
+The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction. 
+ 
+[![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
 
-  
-This project received funding from the Academic Forum for the Study of Gambling (AFSG) in April 2025. The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project.
+![](../images/sport_team.jpg){style="display: block; margin: 0 auto; width:50%" }
 
-Details of the project are available on the [AFSG website](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/).
+
+
+Highlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the [AFSG](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/):
+
+>"The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”
+    
+The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project. Project updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research.
+
+![](../images/afsg.jpg){style="display: block; margin: 0 auto; width:50%" }
+  
+Details are available on the [AFSG website](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/).
 

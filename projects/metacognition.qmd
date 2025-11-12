@@ -2,7 +2,7 @@
 title: "Metacognition and cognitive offloading"
 image: "../images/metacognition.jpg"
 people: [srdan, lorraine, lisa]
-categories: [projects]
+categories: [project]
 programme: [langlearn]
 ---
 

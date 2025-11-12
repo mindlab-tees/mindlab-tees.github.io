@@ -22,9 +22,10 @@ listing:
   - id: gambling-projects
     contents: "../projects/*qmd"
     type: default
-    fields: [image, title]
+    fields: [image, title, description]
     include:
       programme: gambling
+      categories: project
   - id: doctoral-researchers
     contents: "../people/*qmd"
     type: grid
@@ -35,7 +36,7 @@ listing:
   - id: recent-publications
     contents: "../publications/*qmd"
     type: default
-    fields: [image, title]
+    fields: [image, title, subtitle]
     #template: "../templates/new_default.ejs"
     include:
       programme: gambling

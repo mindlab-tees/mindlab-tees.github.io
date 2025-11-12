@@ -1,18 +1,30 @@
 ---
-title: "Neurological and behavioural correlates of construal in economic decision-making under cognitive load"
+title: "New research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions"
+subtitle: "Neurological and behavioural correlates of construal in economic decision-making under cognitive load"
 abstract: "Construal level has been shown to influence economic decisions, affecting both risk perception and risk-taking. However, there has been some inconsistency as to the exact effects of high/low construal on economic decisions, with some findings suggesting that construal might interact with cognitive load and self-control in a risk-taking context. In two experiments, the current paper examines behavioural and neurological (using functional near-infrared spectroscopy) responses to high and low construal manipulations during and economic decision task, under experimentally-induced cognitive load. We also examine the how construal interacts with self-control, financial literacy and subjective numeracy to predict lateral pre-frontal cortex (LPFC) activation during these decisions. Some of the behavioural results supported previous findings that under cognitive load, high construal prompts risk aversion. Neurological data supported the theory that construal promotes risk sensitivity. Self-control, financial literacy and subjective numeracy were all found to interact with construal in predicting LPFC activation during decision-making. These findings extend our understanding of how construal effects economic decisions under cognitive load while also providing new insights into how self-control, financial literacy and subjective numeracy might interact with construal in this context."
 author:
   - name: "Christopher J Wilson"
     orcid: "0000-0002-7155-0662"
     affiliation: "Teesside University"
-image: "../images/wilson2025.jpg"
+image: "../images/brain.jpg"
 url: "https://doi.org/10.1016/j.bbr.2025.115829"
 people: [chris]
 publication-date: "2025-09-22"
 programme: [gambling]
+categories:
+  - publications
+  - news
+news-date: 2025-09-23
 ---
 
-<!-- image with link to publication -->
-[![](https://img.shields.io/badge/DOI-10.1016/j.bbr.2025.115829-blue)](https://doi.org/10.1016/j.bbr.2025.115829)
+![](../images/wilson2025.jpg){style="display: block; margin: 0 auto; width:50%" }
 
-![](../images/wilson2025.jpg)
+A new paper from the MIND Lab has been published in the journal Behavioural Brain Research. The paper, titled "Neurological and behavioural correlates of construal in economic decision-making under cognitive load", examines how construal level interacts with cognitive load, numeracy, financial literacy and self-control during economic decision-making.
+
+This paper has relevance to our understanding of gambling behaviour, as the decisions under examination were functionally gambling decisions. The findings suggest that high construal (thinking about the big picture) promotes risk aversion under cognitive load, while low construal (focusing on details) may lead to increased risk-taking. Additionally, individual differences in self-control, financial literacy and subjective numeracy were found to influence brain activation patterns during these decisions.
+
+The study employed functional near-infrared spectroscopy (fNIRS) to measure brain activity, specifically in the lateral pre-frontal cortex (LPFC), which is associated with decision-making and self-control. The results provide new insights into how cognitive processes and individual differences interact to influence economic decisions, particularly in contexts that resemble gambling.
+
+The full paper can be accessed via the following link: [https://doi.org/10.1016/j.bbr.2025.115829](https://doi.org/10.1016/j.bbr.2025.115829)
+
+
