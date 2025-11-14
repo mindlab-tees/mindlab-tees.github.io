@@ -238,6 +238,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-gambling-studies .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-status','listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-gambling-studies'] = new List('listing-gambling-studies', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -356,10 +384,12 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#projects" id="toc-projects" class="nav-link active" data-scroll-target="#projects">Projects</a></li>
-  <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link" data-scroll-target="#recent-publications">Recent Publications</a></li>
-  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#research-programme-overview" id="toc-research-programme-overview" class="nav-link active" data-scroll-target="#research-programme-overview">Research Programme Overview</a></li>
+  <li><a href="#projects" id="toc-projects" class="nav-link" data-scroll-target="#projects">Projects</a></li>
   <li><a href="#doctoral-students" id="toc-doctoral-students" class="nav-link" data-scroll-target="#doctoral-students">Doctoral Students</a></li>
+  <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link" data-scroll-target="#recent-publications">Recent Publications</a></li>
+  <li><a href="#studies" id="toc-studies" class="nav-link" data-scroll-target="#studies">Studies</a></li>
+  <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
   <li><a href="#research-associates" id="toc-research-associates" class="nav-link" data-scroll-target="#research-associates">Research Associates</a></li>
   <li><a href="#other-lab-members-involved-in-this-research-programme" id="toc-other-lab-members-involved-in-this-research-programme" class="nav-link" data-scroll-target="#other-lab-members-involved-in-this-research-programme">Other lab members involved in this research programme</a></li>
   </ul>
@@ -388,6 +418,8 @@ window.Quarto = {
 
 
 <p><a href="https://osf.io/z5ky8/"><img src="https://img.shields.io/badge/OSF-z5ky8-green.png" class="img-fluid"></a></p>
+<section id="research-programme-overview" class="level2">
+<h2 class="anchored" data-anchor-id="research-programme-overview">Research Programme Overview</h2>
 <p>This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.</p>
 <ul>
 <li><p>Cognitive Moderators (e.g., attention, memory, numeracy)</p></li>
@@ -396,11 +428,12 @@ window.Quarto = {
 <li><p>Neurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)</p></li>
 </ul>
 <p><img src="../images/gambling_research_prog.png" class="img-fluid"></p>
+</section>
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
 <div id="listing-gambling-projects" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdCUyQ25ld3MlMkNmdW5kaW5n" data-listing-file-modified-sort="1762961850845" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
+<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdCUyQ25ld3MlMkNmdW5kaW5n" data-listing-file-modified-sort="1762963451677" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <div class="thumbnail"><a href="../projects/afsg_sport.html" class="no-external">
 
 <img loading="lazy" src="../images/afsg.jpg" class="thumbnail-image">
@@ -411,7 +444,7 @@ window.Quarto = {
 <a href="../projects/afsg_sport.html" class="no-external">New project examines the links between sports engagement and gambling</a>
 </h3>
 <div class="delink listing-description"><a href="../projects/afsg_sport.html" class="no-external">
-The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling…
+The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour.
 </a></div>
 </div>
 <div class="metadata">
@@ -421,6 +454,62 @@ Funded by The Academic Forum for the Study of Gambling (AFSG)
 </div>
 </a>
 </div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="doctoral-students" class="level2">
+<h2 class="anchored" data-anchor-id="doctoral-students">Doctoral Students</h2>
+<div id="listing-doctoral-researchers" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762699152280" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
+<a href="../people/alana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alana Gadsby
+</h5>
+<div class="card-text listing-description delink">
+Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the…
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<a href="../people/david.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+David Minchella
+</h5>
+<div class="card-text listing-description delink">
+David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential…
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<a href="../people/ema.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ema Abir
+</h5>
+<div class="card-text listing-description delink">
+Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between…
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
@@ -448,6 +537,36 @@ Funded by The Academic Forum for the Study of Gambling (AFSG)
 <a href="../publications/wilson2025.html" class="no-external">
 <div class="metadata-value listing-journal_name">
 Behavioural Brain Research
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="studies" class="level2">
+<h2 class="anchored" data-anchor-id="studies">Studies</h2>
+<div id="listing-gambling-studies" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="c3R1ZHk=" data-listing-file-modified-sort="1762965320865" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="thumbnail"><a href="../studies/hypomania_gambling.html" class="no-external">
+
+<img loading="lazy" src="../images/hypomania.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../studies/hypomania_gambling.html" class="no-external">Hypomania and Risk-Taking in Gambling</a>
+</h3>
+<div class="delink listing-description"><a href="../studies/hypomania_gambling.html" class="no-external">
+Previous research has demonstrated the relationship between hypomanic tendencies and risky economic behaviour, such as gambling. This study (completed and currently being…
+</a></div>
+</div>
+<div class="metadata">
+<a href="../studies/hypomania_gambling.html" class="no-external">
+<div class="metadata-value listing-status">
+write-up
 </div>
 </a>
 </div>
@@ -509,62 +628,6 @@ The Hub exhibition space, SU Building
 </div>
 </a>
 </div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-</section>
-<section id="doctoral-students" class="level2">
-<h2 class="anchored" data-anchor-id="doctoral-students">Doctoral Students</h2>
-<div id="listing-doctoral-researchers" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762699152280" data-listing-reading-time-sort="1" data-listing-word-count-sort="33">
-<a href="../people/alana.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Alana Gadsby
-</h5>
-<div class="card-text listing-description delink">
-Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
-<a href="../people/david.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-David Minchella
-</h5>
-<div class="card-text listing-description delink">
-David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
-<a href="../people/ema.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ema Abir
-</h5>
-<div class="card-text listing-description delink">
-Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between…
-</div>
-</div>
-</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

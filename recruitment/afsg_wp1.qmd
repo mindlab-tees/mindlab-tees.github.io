@@ -19,7 +19,7 @@ footer: "<a href='/'>www.themindlab.uk</a>"
 
 # Thank you for your interest in this project
 
-You have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Teesside University and funded by the academic forum for the study of gambling (AFSG).
+You have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).
 
 # Brief summary
 
@@ -37,11 +37,6 @@ Full information about the project is below. However, a brief summary is as foll
 
 To take part, you need to receive a link directly from the research team.
 
-Understandably, you might have wanted to check if the initial message was legitimate. We will have more information about the project on this site soon. Until the site is up and running, you can find more information at these links:
-
-[Academic Forum for the Study of Gambling](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/)
-
-[The MIND Lab](https://www.themindlab.uk/)
 
 # Detailed infromation
 

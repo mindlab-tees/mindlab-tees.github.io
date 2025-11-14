@@ -47,9 +47,18 @@ listing:
     include:
       programme: gambling
       categories: talks
+  - id: gambling-studies
+    contents: "../studies/*qmd"
+    type: default
+    fields: [status, image, title, description]
+    include:
+      programme: gambling
+      categories: study
 ---
 
 [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/z5ky8/)
+
+## Research Programme Overview
 
 This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. 
 
@@ -69,9 +78,19 @@ This research programme takes a multi-dimensional approach to understanding and 
 ::: {#gambling-projects}
 :::
 
+## Doctoral Students
+
+::: {#doctoral-researchers}
+:::
+
 ## Recent Publications
 
 ::: {#recent-publications}
+:::
+
+## Studies
+
+::: {#gambling-studies}
 :::
 
 ## Talks
@@ -79,10 +98,7 @@ This research programme takes a multi-dimensional approach to understanding and 
 ::: {#talks}
 :::
 
-## Doctoral Students
 
-::: {#doctoral-researchers}
-:::
 
 ## Research Associates
 

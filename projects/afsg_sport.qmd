@@ -9,7 +9,7 @@ news-date: 2025-05-1
 funder: "Funded by The Academic Forum for the Study of Gambling (AFSG)"
 ---
  
-The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore how social identification with sports groups predicts gambling behaviour. In addition, the research will examine the normalisation of gambling within certain sports groups and develop recommendations for stakeholders on their approaches to gambling harm reduction. 
+The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour. 
  
 [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
 
