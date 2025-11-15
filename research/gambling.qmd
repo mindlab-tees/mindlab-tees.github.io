@@ -47,13 +47,13 @@ listing:
     include:
       programme: gambling
       categories: talks
-  - id: gambling-studies
-    contents: "../studies/*qmd"
-    type: default
-    fields: [status, image, title, description]
-    include:
-      programme: gambling
-      categories: study
+  # - id: gambling-studies
+  #   contents: "../studies/*qmd"
+  #   type: default
+  #   fields: [status, image, title, description]
+  #   include:
+  #     programme: gambling
+  #     categories: study
 ---
 
 [![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/z5ky8/)

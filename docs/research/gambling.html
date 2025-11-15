@@ -238,34 +238,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-gambling-studies .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-status','listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-gambling-studies'] = new List('listing-gambling-studies', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -547,32 +519,8 @@ Behavioural Brain Research
 </section>
 <section id="studies" class="level2">
 <h2 class="anchored" data-anchor-id="studies">Studies</h2>
-<div id="listing-gambling-studies" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="c3R1ZHk=" data-listing-file-modified-sort="1762965320865" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
-<div class="thumbnail"><a href="../studies/hypomania_gambling.html" class="no-external">
+<div id="gambling-studies">
 
-<img loading="lazy" src="../images/hypomania.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../studies/hypomania_gambling.html" class="no-external">Hypomania and Risk-Taking in Gambling</a>
-</h3>
-<div class="delink listing-description"><a href="../studies/hypomania_gambling.html" class="no-external">
-Previous research has demonstrated the relationship between hypomanic tendencies and risky economic behaviour, such as gambling. This study (completed and currently being…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../studies/hypomania_gambling.html" class="no-external">
-<div class="metadata-value listing-status">
-write-up
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
 <section id="talks" class="level2">
