@@ -49,226 +49,333 @@
     "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "slides/school_talk/index.html#overview",
-    "href": "slides/school_talk/index.html#overview",
-    "title": "Breaking big problems into small pieces…",
+    "objectID": "slides/seminar_series_intro/index.html#the-challenges-we-face",
+    "href": "slides/seminar_series_intro/index.html#the-challenges-we-face",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The challenges we face",
+    "text": "The challenges we face\n\nClimate change\nMisinformation and distrust\nSocial Isolation\nInequality and division\nTrauma and mental health issues\nChronic illness and ageing populations\nAdaptation to a rapidly changing world\n\n\nThere are many challenges that we face, on a global, community, and individual level.\nChallenges like climate change are co-occurring with increasing distrust of institutions and misinformation, increasing social isolation, rising inequality…\nand a general sense of instability and uncertainty in a rapidly changing world.\nWe know that people can often feel that these challenges are overwhelming, and that they are too big for any one person to tackle.\nThis can be true for academics and researchers as well. When research is framed as a luxury, something that we do when we have the time and resources, it can be framed as a distraction from the “real work” of addressing these challenges."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-human-element",
+    "href": "slides/seminar_series_intro/index.html#the-human-element",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Human Element",
+    "text": "The Human Element\n\nContemporary challenges like misinformation, social isolation, and trauma are often viewed through a political or economic lens.\nAt their core, however, they are fundamentally human problems, rooted in cognition, emotion, and social identity.\nResearch provides us with the tools to understand these challenges, to support individuals and communities, and to start looking for solutions.\n\n\nThe goal of this talk is to argue that research is not a luxury, but a necessity. The problems we face are fundamentally human problems, rooted in cognition, emotion, and social identity.\nThat we need research in psychology and social work to understand these challenges, to support individuals and communities, and to start looking for solutions.\nAnd importantly, that the research being done here at Teesside University is directly relevant to these tackling these challenges … and making a positive difference in the world."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-psychology-of-the-climate-crisis",
+    "href": "slides/seminar_series_intro/index.html#the-psychology-of-the-climate-crisis",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Psychology of the Climate Crisis",
+    "text": "The Psychology of the Climate Crisis\n\n\n\n\nDr. Marcin Owczarek\n\n\nUnderstanding emotional responses like eco-anxiety is essential for understanding the psychological impact of climate change.\n\n\nLet’s start with one of the biggest challenges.\nThere’s a lot of focus on this topic about action, and rightly so. But if we want people to act, we need to understand more about the psychological barriers to action.\nMarcin’s work focuses on the concept of eco-anxiety and is leading the call for “more rigorous methodological standards and theoretical clarity”.\nThis will help advance our understanding of how people are emotionally responding to the climate crisis, and how we can support them in taking action.\n\n\nOwczarek, M., et al. (2025). Psychometric assessment of climate-related emotional responses… Current Psychology, 44, 4883–4905."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-paradox-of-fear",
+    "href": "slides/seminar_series_intro/index.html#the-paradox-of-fear",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Paradox of Fear",
+    "text": "The Paradox of Fear\n\n\n\n\nDr. Lee Copping\n\n\nFor individuals with strong conspiratorial beliefs, fear-based health appeals can be counterproductive, triggering defiance instead of compliance.\n\n“Instead, the more anxious they become about infection, the more they blame the system and react against it…”\n\n\n\nThat links to Lee’s work, which demonstrates that how we communicate about risk might not effect behaviour in the way we expect.\nIt demonstrates the psychological principle of reactance, where a perceived attempt at control triggers defiance.\nIn Lee’s work, higher levels of anxiety led to more compliance, except for people with strong conspiratorial beliefs.\nFor individuals who already distrust institutions, fear appeals are not seen as warnings but as coercion, leading to an active rejection of recommended behaviours.\nThis work is valuable beyond the context of health messaging, because it provides insights into how to communicate effectively in a polarized information environment.\n\n\nCopping, L. (2022). Anxiety and covid-19 compliance behaviors in the UK: The moderating role of conspiratorial thinking. Personality and Individual Differences, 192, 111604."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#emotion-shortcuts-our-judgement",
+    "href": "slides/seminar_series_intro/index.html#emotion-shortcuts-our-judgement",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Emotion shortcuts our judgement",
+    "text": "Emotion shortcuts our judgement\n\n\n\n\nDr. Chris Wilson\n\n\nThis research investigates how mental strain (cognitive load) and our personal framing of a choice (construal) can disrupt the ability to process risk, identifying the brain activity behind these altered decisions.\n\n\nThis work shows that under cognitive load (mental stress), certain factors interact, disrupting our ability to rationally assess risk.\nIt’s crucial for understanding why poor decisions might be made under pressure, and it identifies the corresponding neurological and behavioural patterns.\n\n\nWilson, C. J. (2025). Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load. Behavioural Brain Research, 115829."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#co-constructing-health-knowledge",
+    "href": "slides/seminar_series_intro/index.html#co-constructing-health-knowledge",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Co-Constructing Health Knowledge",
+    "text": "Co-Constructing Health Knowledge\n\n\n\n\nDr. Lauren Walker\n\n\nThe wealth of online information is creating internet-informed patients. To maintain trust in the relationship, doctors need to shift their communication strategy “from compliance to co-construction” to build a shared understanding.\n\n\nOf course, in times of difficulty, people seek out information to help them make sense things. Like when faced with a health crisis.\nDr. Walker’s research shows that the potential harms of online misinformation can be mitigated through a strong, trusting therapeutic relationship.\nWhen patients feel safe to disclose their online research, it allows clinicians to address misconceptions, validate correct information, and integrate the patient’s priorities into a shared decision-making process.\n\n\nWalker, L., & Sillence, E. (2024). Examining Healthcare Professionals’ Communication Around Decision-Making with Internet-Informed Patients. Health communication, 39(6), 1094–1101."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#how-we-engage-on-cognitive-offloading",
+    "href": "slides/seminar_series_intro/index.html#how-we-engage-on-cognitive-offloading",
+    "title": "What’s the point of research at a time like this?",
+    "section": "How we engage on cognitive offloading",
+    "text": "How we engage on cognitive offloading\n\n\n\n\nDr. Srdan Medimorec\n\n\nInvestigating fundamental cognitive processes like metacognition (thinking about one’s own mind) and implicit learning (learning without awareness) provides the building blocks for understanding all complex human behaviours.\n\n\nDr. Srdan Medimorec’s into Cognitive offloading - the idea that when we are trying to process large amounts of information use certain techniques to temporarily offload that information so we can handle it\nprovides really important insights into how we manage this information overload without even realizing it.\nThis is one of those fundamental processes that underpins so many of the complex behaviours we are talking about today.\n\n\nMedimorec, S., et al. (2024). Children’s metacognition and cognitive offloading…"
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-human-animal-bond",
+    "href": "slides/seminar_series_intro/index.html#the-human-animal-bond",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Human-Animal Bond",
+    "text": "The Human-Animal Bond\n\n\n\n\nDr. Heather Clements\n\n\nDr. Clements’ research reveals a complex reality about pets and loneliness. With unexpected results around pet ownership and mental health, and evidence of different impacts based on the type of animal and level of engagement.\n\n\nOne of the things that I like about this pandemic-based research is that it provided an unprecedented opportunity to study the human-animal bond in a context where social isolation was widespread.\nThe findings challenge some common assumptions, but this type of nuanced understanding is vital for developing effective interventions that leverage the human-animal bond to enhance wellbeing.\n\n\nClements, H., et al. (2021). Companion Animal Type and Level of Engagement Matter: A Mixed-Methods Study… Animals, 11(8), 2349."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#therapeutic-responses-to-marginalisation",
+    "href": "slides/seminar_series_intro/index.html#therapeutic-responses-to-marginalisation",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Therapeutic Responses to Marginalisation",
+    "text": "Therapeutic Responses to Marginalisation\n\n\n\n\nDr. Alex Kyriakopoulos\n\n\nFor destitute asylum seekers, loneliness is an active product of social exclusion. The research highlights that a therapist’s validating presence can be a lifeline, directly counteracting the dehumanising effects of their circumstances.\n\n\nThis work powerfully illustrates that loneliness is not merely a passive state. For marginalised groups, it is often an active product of social and political forces.\nThe psychological response, therefore, must be equally active. It is not about teaching “social skills” but about the fundamental human act of creating a safe, trusting, and affirming relationship, providing an antidote to the isolation engendered by systemic hostility.\n\n\nGerayeli, E., & Kyriakopoulos, A. (2024). How do therapists in the UK navigate the issue of loneliness when working with destitute asylum seekers?… Counselling and Psychotherapy Research."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-power-of-group-identity-belonging",
+    "href": "slides/seminar_series_intro/index.html#the-power-of-group-identity-belonging",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Power of Group Identity: Belonging",
+    "text": "The Power of Group Identity: Belonging\n\n\n\n\nDr. Paul Sander\n\n\nThe socio-situational context associated with individual personality traits to predict academic behavioural convidence.\n\n\nPaul’s research on “Academic Behavioural Confidence” shows that a student’s confidence is not formed in a vacuum but is powerfully reinforced by social context and socio-cultural expectations around gender norms for example.\nThis is an important reminder of how individual achievement can be shaped by social norms.\n\n\nSander, P., & de la Fuente, J. (2020). Undergraduate Student Gender, Personality and Academic Confidence. International Journal of Environmental Research and Public Health, 17(15), 5567."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-power-of-group-identity-application",
+    "href": "slides/seminar_series_intro/index.html#the-power-of-group-identity-application",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Power of Group Identity: Application",
+    "text": "The Power of Group Identity: Application\n\n\n\n\nDr. Robert Portman\n\n\nThe practical application of the social identity approach can be used to facilitate health-enhancing behaviour change by actively building supportive and cohesive communities.\n\n\nDr. Portman’s work shows how social identity can influence not just how we feel, but our behaviour. His research demonstrates that when people feel part of a community pursuing shared goals, their confidence and success rates improve.\n\n\nPortman, R. M., Levy, A. R., Maher, A. J., & Fairclough, S. J. (2021). Co-developing peer interventions in health-related contexts: A case study from exercise referral. Health Education Journal, 81(1), 17-28. https://doi.org/10.1177/00178969211045106 (Original work published 2022)"
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#how-we-see-the-faces-of-others",
+    "href": "slides/seminar_series_intro/index.html#how-we-see-the-faces-of-others",
+    "title": "What’s the point of research at a time like this?",
+    "section": "How we see the faces of others",
+    "text": "How we see the faces of others\n\n\n\n\nDr. Natalie Butcher\n\n\nUnderstanding the cognitive neuroscience of face recognition, such as how facial motion affects recognition of same and other race faces, has profound implications for eyewitness testimony, unconscious bias, and intergroup relations.\n\n\nDr. Natalie Butcher’s research on the cognitive neuroscience of face recognition could have fit into several of the themes I’m discussing today, because it has such broad implications.\nHow we recognise and categorise the faces of other people is such a fundamental social cognitive process, with implications for everything from intergroup relations to eyewitness testimony.\n\n\nButcher, N. (2009). The effect of facial motion information on the recognition of same and other race faces."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-architecture-of-reasonable-hate",
+    "href": "slides/seminar_series_intro/index.html#the-architecture-of-reasonable-hate",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Architecture of “Reasonable” Hate",
+    "text": "The Architecture of “Reasonable” Hate\n\n\n\n\nDr. Shani Burke\n\n\nA key finding from discursive psychology is that strategies used to disguise talk as ‘not racist’ are also used to justify explicitly racist talk. Understanding these linguistic tactics is the first step toward deconstructing them.\n\n\nDr. Burke’s research moves beyond simply labelling discourse as hateful and instead performs a fine-grained analysis of the rhetorical strategies used to make such views appear legitimate.\nBy analysing tactics like appealing to “common sense” or constructing minorities as a threat, her research provides a “playbook” for how prejudice is laundered into seemingly acceptable public discourse. This work is vital for fostering a more critical and resilient civic dialogue.\n\n\nBurke, S., & Demasi, M. (2021). Extreme prejudice as reasoned discourse in face-to-face Interactions. In Political Communication: Discursive Perspectives."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#co-production-and-health-equity",
+    "href": "slides/seminar_series_intro/index.html#co-production-and-health-equity",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Co-Production and Health Equity",
+    "text": "Co-Production and Health Equity\n\n\n\n\nProfessor Judith Eberhardt\n\n\n\n“Through co-producing this intervention with Black communities and delivering it in trusted spaces, we aim to break down barriers to screening and facilitate equitable access to early diagnosis and treatment”.\n\n\n\nProf. Eberhardt’s research exemplifies a critical evolution in tackling systemic inequality.\nThe concept of “co-production” rejects a model where outside “experts” design interventions for a community. Instead, it involves working with community members as equal partners. This process builds trust and ensures the final product is culturally resonant, providing a powerful, evidence-based blueprint for tackling health inequalities.\n\n\nChristie-de Jong, F., & Eberhardt, J. (2025). EQUITy in Black Adult health (EQUITA). National Institute for Health and Care Research."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#championing-lgbtq-inclusive-practice",
+    "href": "slides/seminar_series_intro/index.html#championing-lgbtq-inclusive-practice",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Championing LGBTQ+ Inclusive Practice",
+    "text": "Championing LGBTQ+ Inclusive Practice\n\n\n\n\nDr. Claire Brown\n\n\nResearch focused on “support and empowerment for LGBTQ+ carers and care-experienced young people” can be used as a tool for advocacy to create more equitable and just social care systems by challenging cisgenderism and heteronormativity.\n\n\nDr. Brown’s research provides a conceptually informed analysis of current policy and practice. Through publications such as “Removing gender barriers: Promoting inclusion for trans and non-binary carers in fostering and adoption,” she argues for more consistent inclusion and challenges the ways in which trans people’s voices have been silenced in research.\n\n\nBrown, C. (2023). Removing gender barriers: Promoting inclusion for trans and non-binary carers in fostering and adoption. Practice, 35(1), 47-62."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#stigma-and-reintegration",
+    "href": "slides/seminar_series_intro/index.html#stigma-and-reintegration",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Stigma and Reintegration",
+    "text": "Stigma and Reintegration\n\n\n\n\nDr. Laura Gair\n\n\nPublic stigma against former offenders, “fueled by media portrayals and misconceptions,” can create a self-defeating feedback loop. It creates barriers to the very factors known to reduce reoffending, like stable housing and employment.\n\n\nDr. Gair’s research highlights a dangerous societal dynamic. Public stigma creates political pressure for policies that prioritise punishment over evidence-based rehabilitation. These policies, in turn, make successful reintegration nearly impossible, potentially undermining the goal of enhancing long-term public safety. Her work demonstrates the vital role of forensic psychology in bringing evidence to a highly emotional public debate.\n\n\nTuschick, E., et al. (2025). A systematic review of public views on the reintegration of men convicted of a sexual offense into the community. Trauma, Violence, & Abuse."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#inequality-within-systems-recruitment",
+    "href": "slides/seminar_series_intro/index.html#inequality-within-systems-recruitment",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Inequality Within Systems: Recruitment",
+    "text": "Inequality Within Systems: Recruitment\n\n\n\n\nDr. Sarah Craven-Staines\n\n\nInequality can be embedded within the very systems designed to provide care. This research focuses on creating anti-racist recruitment processes in Clinical Psychology to tackle disparity at its source.\n\n\nDr. Craven-Staines’ work is a powerful example of how psychology can apply its principles to its own gatekeeping functions. By systematically examining and aiming to reform the processes by which individuals enter the profession, this research works to ensure that the future of the profession more accurately reflects the diversity of the society it serves.\n\n\nCraven-Staines, S., et al. (2023). Clinical Psychology Forum, 371, 45-50."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#trauma-in-higher-education",
+    "href": "slides/seminar_series_intro/index.html#trauma-in-higher-education",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Trauma in Higher Education",
+    "text": "Trauma in Higher Education\n\n\n\n\nDr. Nikki Carthy\n\n\nThis work identified a “flourishing profile” of students who, despite high levels of trauma exposure, had a positive academic experience. This provides a roadmap for universities to proactively foster protective factors like social support and coping skills.\n\n\nThis research represents a crucial move away from a deterministic model where trauma inevitably leads to negative outcomes.\nby demonstrating that a subset of students can flourish despite adversity, The implication is that institutions can play an active role in creating an environment where students who have experienced trauma are given the tools to thrive.\n\n\nAllen, S., et al. (2024). A latent profile analysis of psychosocial factors and trauma exposure in U.K. students… Psychological Trauma: Theory, Research, Practice, and Policy."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#narratives-of-post-traumatic-growth",
+    "href": "slides/seminar_series_intro/index.html#narratives-of-post-traumatic-growth",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Narratives of Post-Traumatic Growth",
+    "text": "Narratives of Post-Traumatic Growth\n\n\n\n\nDr. Cat O’ Neill\n\n\nThe “Stories of Hope” project uses digital storytelling with men who have experienced post-traumatic growth after a suicide attempt. This research focuses not on risk factors but on the life that comes after, exploring positive psychological changes.\n\n\nThis project exemplifies a vital shift in focus within trauma studies—from pathology to resilience and meaning-making. The methodology of digital storytelling is significant, positioning the men as active creators and experts in their own lived experience. By amplifying stories of hope, this research challenges narratives of despair and provides tangible examples of how it is possible to find new meaning and purpose in the wake of profound suffering.\n\n\nO’Neill, C., et al. (2025). Stories of Hope: Using Digital Storytelling with men who have experienced post-traumatic growth following a suicide attempt."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-complexity-of-trauma",
+    "href": "slides/seminar_series_intro/index.html#the-complexity-of-trauma",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Complexity of Trauma",
+    "text": "The Complexity of Trauma\n\n\n\n\nDr. Alan Bowman\n\n\n\n“Traumatic injury poses significant physical and psychological challenges, often resulting in psychological distress, encompassing symptoms of anxiety, depression and post-traumatic stress”\n\n\n\nDr. Bowman’s clinical work broadens our understanding of trauma’s reach. His focus recognizes that healing pushes the psychological response beyond symptom management to the more profound work of helping individuals reconstruct meaning, purpose, and a coherent sense of identity in the aftermath of life-altering experiences.\n\n\nGrant, E., Bowman, A., & Johnson, L. (2025). Effectiveness of interventions for psychological distress following traumatic injury: A systematic review. Injury, 56(2), 112090."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#youth-wellbeing-nutrition",
+    "href": "slides/seminar_series_intro/index.html#youth-wellbeing-nutrition",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Youth Wellbeing: Nutrition",
+    "text": "Youth Wellbeing: Nutrition\n\n\n\n\nDr. Jeanet Ingwersen\n\n\nWellbeing is built upon foundations laid in childhood. Research shows a low glycaemic index breakfast can preferentially prevent children’s cognitive performance from declining throughout the morning.\n\n\nDr. Ingwersen’s work explores the fundamental link between nutrition and cognition. This seemingly simple finding has profound implications, showing that basic physiological support is directly tied to a child’s ability to learn and engage, highlighting a tangible, scalable way to improve educational outcomes.\n\n\nIngwersen, J. A., et al. (2007). Appetite, 49(1), 240-244."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#youth-wellbeing-school-culture",
+    "href": "slides/seminar_series_intro/index.html#youth-wellbeing-school-culture",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Youth Wellbeing: School Culture",
+    "text": "Youth Wellbeing: School Culture\n\n\n\n\nDr. Anna Haste\n\n\nEmbedding Mental Health Support Teams in schools helps to “change the culture within schools to incorporate mental health as a topic within the fabric of the school.”\n\n\nThis work discusses shift from a reactive model, which waits for children to be in crisis, an early intervention that normalises conversations about mental health and builds a supportive culture for all students.\n\n\nHaste, A., et al. (2025). Mental Health and Prevention, 39, 200435."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#lived-experience-in-health-the-whole-person",
+    "href": "slides/seminar_series_intro/index.html#lived-experience-in-health-the-whole-person",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Lived Experience in Health: The Whole Person",
+    "text": "Lived Experience in Health: The Whole Person\n\n\n\n\nDr. Stephanie Kilinc\n\n\nEffective care must address the whole person, not just a condition. Research into conditions like adult-onset epilepsy encourages healthcare practitioners to look beyond medical management and consider the impact on a person’s total wellbeing.\n\n\nDr. Kilinc’s work into the lived experience of patients has led to the development of new self-management frameworks. It is a powerful reminder that a condition is something a person has, not who they are, and that effective care must address the whole person.\n\n\nKılınç, S., Erdem, H., Healey, R., & Cole, J. (2022). Finding meaning and purpose: a framework for the self-management of neurological conditions. Disability and rehabilitation, 44(2), 219-230."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#cancer-as-chronic-illness",
+    "href": "slides/seminar_series_intro/index.html#cancer-as-chronic-illness",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Cancer as chronic illness",
+    "text": "Cancer as chronic illness\n\n\n\n\nDr. Grant McGeechan\n\n\n\n“this feeling of disorientation is not static and can ease as patients adjust to living with chronic uncertainty.”\n\n\n\npsychosocial experience of cancer survivorship as a chronic condition. The concept of “future disorientation” is a key and specific contribution of this research and should be highlighted. It captures a particular kind of existential uncertainty that goes beyond a general fear of recurrence.\nThis created a social and psychological disconnect. Participants felt they had to perform a version of health and normality for friends, family, and even healthcare professionals, because the external world struggled to understand the ongoing, invisible work of living with cancer as a chronic illness. This work is essential for developing interventions that support patients not just medically, but also psychologically, through their cancer journey.\n\n\nMcGeechan, G. J., McPherson, K. E., & Roberts, K. (2018). An interpretative phenomenological analysis of the experience of living with colorectal cancer as a chronic illness. Journal of clinical nursing, 27(15-16), 3148-3156."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#lived-experience-in-health-social-context",
+    "href": "slides/seminar_series_intro/index.html#lived-experience-in-health-social-context",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Lived Experience in Health: Social Context",
+    "text": "Lived Experience in Health: Social Context\n\n\n\n\nDr. Mia Campbell\n\n\nSupport for chronic illness must be designed with a deep understanding of real-world barriers. Self-management is challenging for people in deprivation due to “financial constraints and health literacy.”\n\n\nDr. Campbell’s work adds a crucial layer of social context, exploring how socioeconomic factors impact a person’s ability to manage their health. Her systematic review is vital for tackling health inequalities, showing that effective psychological interventions cannot be context-blind.\n\n\nCampbell, M., et al. (2023). Self-management of multiple long-term conditions: A systematic review of the barriers and facilitators amongst people experiencing socioeconomic deprivation. PLoS ONE, 18(2), e0282036."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#navigating-grief-and-loss-in-childhood",
+    "href": "slides/seminar_series_intro/index.html#navigating-grief-and-loss-in-childhood",
+    "title": "What’s the point of research at a time like this?",
+    "section": "Navigating Grief and Loss in Childhood",
+    "text": "Navigating Grief and Loss in Childhood\n\n\n\n\nMaggie Jackson\n\n\nChildren’s picture books can “offer a potentially safe way to allow adults and children to talk about and ask questions about death together.” This approach helps demystify a difficult topic and fosters emotional literacy from an early age.\n\n\n\npaper advocates for using children’s picture books as an effective and gentle way to introduce conversations about death and loss in the primary classroom.”\n“Modern picture books can provide a ‘safe way’ for adults and children to explore the topic together, addressing loss in familiar contexts like the death of a pet or grandparent.”\n\n\n\nJackson, M. (2019). Sneaking Death Into the Classroom [Conference paper]. Death, Dying and Disposal 14, University of Bath, Bath, United Kingdom."
+  },
+  {
+    "objectID": "slides/seminar_series_intro/index.html#the-value-of-psychology-and-social-work-research",
+    "href": "slides/seminar_series_intro/index.html#the-value-of-psychology-and-social-work-research",
+    "title": "What’s the point of research at a time like this?",
+    "section": "The Value of Psychology and Social Work Research",
+    "text": "The Value of Psychology and Social Work Research\n\nBeneath environmental, political and social disruption lie fundamental human processes.\nIn a complex world, the evidence-based, but deeply human insights of this research are more essential than ever.\nThe work done at Teesside University focuses on the mechanisms that underlie these challenges and can be harnessed to create meaningful change.\n\n\nTo conclude, I hope this brief overview has given you a sense of the breadth and depth of research being conducted in the Department of Psychology and Social Work at Teesside University.\nWe can see that the work we do here is vital to understanding the complex human behaviour that underpins many of the biggest challenges we face today.\nI hope that this has whet your appetite to learn more about our research and to attend the seminar series in the coming months where the researchers will be presenting new work in much more detail."
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
+    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
+    "title": "‘It’s part of the sport’",
     "section": "Overview",
-    "text": "Overview\n\nHow do do psychology researchers tackle complex problems?\nHow pigeons helped get people to spend money to their in mobile games\nA psychology research lab\nComputer-based tasks in the lab\nBrain imaging demonstration"
+    "text": "Overview\n\nContext\nGambling harms\nThe complex nature of the topic\nDescribing a research programme\n\nClinical work: Hypomania\nClinical work: Depression\nClinical work Anxiety\nSocial: Implicit Associations with sport\nSocial: Effects of advertising via short form video\nPolicy: Efficacy of gambling policy\n\n“It’s part of the sport” - project overview\n“It’s part of the sport” - WP1 progress\n“It’s part of the sport” - WP 2 progress\n“It’s part of the sport” - project outcomes\nFuture research"
   },
   {
-    "objectID": "slides/school_talk/index.html#gambling-can-be-examined-at-multiple-levels",
-    "href": "slides/school_talk/index.html#gambling-can-be-examined-at-multiple-levels",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Gambling can be examined at multiple levels",
-    "text": "Gambling can be examined at multiple levels\n\nSocial: Social norms around gambling, peer influences, accessibility of gambling (e.g., online platforms), societal costs.\nRelational: Impact of gambling on family and relationships, co-dependency.\nBehavioral: Compulsive gambling, reinforcement, addiction.\nCognitive: Cognitive distortions (e.g., gambler’s fallacy, illusion of control), risk assessment, decision-making processes.\nNeurological: Reward pathways in the brain, neurotransmitter involvement (e.g., dopamine), brain activity during gambling."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#how-do-we-tackle-such-a-complex-problem",
-    "href": "slides/school_talk/index.html#how-do-we-tackle-such-a-complex-problem",
-    "title": "Breaking big problems into small pieces…",
-    "section": "How do we tackle such a complex problem?",
-    "text": "How do we tackle such a complex problem?\n\nBreak it down into smaller pieces.\nUse different methods to examine each piece.\nIntegrate knowledge across levels."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#operant-conditioning",
-    "href": "slides/school_talk/index.html#operant-conditioning",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Operant conditioning",
-    "text": "Operant conditioning\n\nConditioning through reinforcement of responding\nIf we receive a reward for an action, the behaviour is reinforced."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#reinforcement-schedules",
-    "href": "slides/school_talk/index.html#reinforcement-schedules",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Reinforcement schedules",
-    "text": "Reinforcement schedules\n\nVariable-ratio reinforcement schedules are most useful in increasing responding"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games",
-    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Variable ratio reinforcement in games",
-    "text": "Variable ratio reinforcement in games"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-1",
-    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-1",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Variable ratio reinforcement in games",
-    "text": "Variable ratio reinforcement in games"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-2",
-    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-2",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Variable ratio reinforcement in games",
-    "text": "Variable ratio reinforcement in games"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#our-perception-of-value-can-be-manipulated",
-    "href": "slides/school_talk/index.html#our-perception-of-value-can-be-manipulated",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Our perception of value can be manipulated",
-    "text": "Our perception of value can be manipulated\nPerceived scarcity can drive us to value something more than we might otherwise do\n\n\n\n\n\nLoss aversion is a strong driver of our behaviour."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#artificial-scarcity-is-used-to-create-f.o.m.o",
-    "href": "slides/school_talk/index.html#artificial-scarcity-is-used-to-create-f.o.m.o",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Artificial scarcity is used to create F.O.M.O",
-    "text": "Artificial scarcity is used to create F.O.M.O\n\n\n\n\n\nYou might think that people would be savvy, and realise what is happening. But our ability to reflect is often short-circuted by tapping into another process"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#type-1-and-type-2-thinking-systems",
-    "href": "slides/school_talk/index.html#type-1-and-type-2-thinking-systems",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Type 1 and Type 2 thinking systems",
-    "text": "Type 1 and Type 2 thinking systems\n\nDual process theory suggests there are two parallel cognitive processing systems, an intuitive and an analytic system.\nIntuitive thinking is more immediate and emotion-based.\nAnalytic thinking happens later and is more rational and logical.\n\n\nIf you can get someone to act quickly, they might act in a way that is less rational and more led by emotions."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#limited-time-offers",
-    "href": "slides/school_talk/index.html#limited-time-offers",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Limited time offers!",
-    "text": "Limited time offers!\n\n\n\n\n\n\nBy creating artificial scarcity (FOMO) and getting people to act quickly (limited time), you can get them to act more emotionally and less rationally.\nThis can be enhanced if you manipulate people’s emotional state too."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#the-affect-heuristic",
-    "href": "slides/school_talk/index.html#the-affect-heuristic",
-    "title": "Breaking big problems into small pieces…",
-    "section": "The affect heuristic",
-    "text": "The affect heuristic\n\nOur decisions are often made based on our current emotional state\nThis “gut feeling” often leads to biased judgments or even disregarding of information.\nFamiliarity through exposure is sufficient to generate positive affect.\n\n\nThis means that just by exposing us to something repeatedly, we are likley to have a more positive feeling about it."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#influencers-and-fake-games",
-    "href": "slides/school_talk/index.html#influencers-and-fake-games",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Influencers and fake games",
-    "text": "Influencers and fake games"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#combination-of-manipulation-techniques",
-    "href": "slides/school_talk/index.html#combination-of-manipulation-techniques",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Combination of manipulation techniques",
-    "text": "Combination of manipulation techniques\n\nAddictive gameplay (Variable ratio reinforcement)\nArtificial scarcity in game stores (value framing)\nLimited time offers in game stores (type 1 thinking)\nInfluencers and fake games in ads (affect heuristic)"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#section-7",
-    "href": "slides/school_talk/index.html#section-7",
-    "title": "Breaking big problems into small pieces…",
-    "section": "",
-    "text": "https://www.themindlab.uk"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
-    "href": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Beahvioural / cognitive tasks in the lab",
-    "text": "Beahvioural / cognitive tasks in the lab\n\nWe use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.\nWe can measure reaction times, accuracy, and other behavioural measures.\nWe can also measure physiological responses (e.g., heart rate, skin conductance)."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
-    "href": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
-    "title": "Breaking big problems into small pieces…",
-    "section": "What pieces of gambling behaviour does the task examine?",
-    "text": "What pieces of gambling behaviour does the task examine?\nThis is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:\n\nRisk perception\nRisk taking\nAdjusting behaviour based on consequences\n\nWe can combine this with other measures to get a more complete picture."
-  },
-  {
-    "objectID": "slides/school_talk/index.html#functional-near-infrared-spectroscopy",
-    "href": "slides/school_talk/index.html#functional-near-infrared-spectroscopy",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Functional Near Infrared Spectroscopy",
-    "text": "Functional Near Infrared Spectroscopy\n\nUses light to measure blood oxygenation in the brain\nThis can tell is which areas of the brain are active at any given time\nThe prefrontal cortex is involved in thinking and decision-making"
-  },
-  {
-    "objectID": "slides/school_talk/index.html#summary",
-    "href": "slides/school_talk/index.html#summary",
-    "title": "Breaking big problems into small pieces…",
-    "section": "Summary",
-    "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nWe design computer-based tasks to examine specific elements of behaviour and cognition\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
-  },
-  {
-    "objectID": "research/langlearn.html",
-    "href": "research/langlearn.html",
-    "title": "Language, Learning and Metacognition",
-    "section": "",
-    "text": "This research programme investigates how people monitor, assess, and manage their own cognitive resources (like memory and attention) and those of others. We apply cognitive science and experimental approaches to understand the metacognitive processes underlying learning, language, and communication.\nOur work is organised into three primary themes:",
+    "objectID": "research/gambling.html#research-programme-overview",
+    "href": "research/gambling.html#research-programme-overview",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "section": "Research Programme Overview",
+    "text": "Research Programme Overview\nThis research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.\n\nCognitive Moderators (e.g., attention, memory, numeracy)\nClinical Vulnerability (e.g., depression, hypomania, anxiety)\nThe Social Context (e.g., sports engagement, social identity)\nNeurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)",
     "crumbs": [
-      "Language Learning and Metacognition Programme"
+      "Gambling Research Programme"
     ]
   },
   {
-    "objectID": "research/langlearn.html#projects",
-    "href": "research/langlearn.html#projects",
-    "title": "Language, Learning and Metacognition",
+    "objectID": "research/gambling.html#projects",
+    "href": "research/gambling.html#projects",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
     "section": "Projects",
-    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nFunded by The Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Language Learning and Metacognition Programme"
+      "Gambling Research Programme"
     ]
   },
   {
-    "objectID": "research/langlearn.html#talks",
-    "href": "research/langlearn.html#talks",
-    "title": "Language, Learning and Metacognition",
+    "objectID": "research/gambling.html#doctoral-students",
+    "href": "research/gambling.html#doctoral-students",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "section": "Doctoral Students",
+    "text": "Doctoral Students\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#recent-publications",
+    "href": "research/gambling.html#recent-publications",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "section": "Recent Publications",
+    "text": "Recent Publications\n\n\n\n\n\n\n\n\n\n\nNew research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions\n\n\nNeurological and behavioural correlates of construal in economic decision-making under cognitive load\n\n\n\n\n\nBehavioural Brain Research\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "research/gambling.html#talks",
+    "href": "research/gambling.html#talks",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
     "section": "Talks",
-    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\nNo matching items",
+    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Language Learning and Metacognition Programme"
+      "Gambling Research Programme"
     ]
   },
   {
-    "objectID": "research/langlearn.html#lab-members-involved-in-this-research-programme",
-    "href": "research/langlearn.html#lab-members-involved-in-this-research-programme",
-    "title": "Language, Learning and Metacognition",
-    "section": "Lab members involved in this research programme",
-    "text": "Lab members involved in this research programme\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\nNo matching items",
+    "objectID": "research/gambling.html#research-associates",
+    "href": "research/gambling.html#research-associates",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "section": "Research Associates",
+    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Language Learning and Metacognition Programme"
+      "Gambling Research Programme"
     ]
   },
   {
-    "objectID": "recruitment/metacognition1.html",
-    "href": "recruitment/metacognition1.html",
-    "title": "Metacognition",
+    "objectID": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
+    "href": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "section": "Other lab members involved in this research programme",
+    "text": "Other lab members involved in this research programme\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Gambling Research Programme"
+    ]
+  },
+  {
+    "objectID": "recruitment/index.html",
+    "href": "recruitment/index.html",
+    "title": "Taking part in psychology research at the MIND Lab",
     "section": "",
-    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+    "text": "In the lab, we are running many studies at any one time. Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University.\nResearch participation is an essential part of the scientific process. It allows us to test our hypotheses, gather data, and ultimately to the research that makes an impact in the real world.\nThe ultimate goal of our research is to improve people’s lives. To do this, we need to understand how people think, feel, and behave. By participating in our studies, you are helping us to gain this understanding."
   },
   {
-    "objectID": "recruitment/metacognition1.html#participants-needed",
-    "href": "recruitment/metacognition1.html#participants-needed",
-    "title": "Metacognition",
+    "objectID": "recruitment/index.html#what-does-taking-part-involve",
+    "href": "recruitment/index.html#what-does-taking-part-involve",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "What does taking part involve?",
+    "text": "What does taking part involve?\nThis depends on the study. Some studies may involve completing questionnaires, while others may involve performing tasks on a computer. Some studies may require you to come into the lab, while others can be completed online. Each study will have a detailed description of what is involved, so you can decide if it is something you would like to take part in.\nBefore taking part in any study, you will be provided with an information sheet that explains the study in detail. You will also have the opportunity to ask any questions you may have. You would then indicate your consent to take part by singing a consent form (or providing electronic consent on a computer)."
+  },
+  {
+    "objectID": "recruitment/index.html#is-there-any-compensation-for-taking-part",
+    "href": "recruitment/index.html#is-there-any-compensation-for-taking-part",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "Is there any compensation for taking part?",
+    "text": "Is there any compensation for taking part?\nThis depends on the study. Some studies may offer compensation in the form of vouchers or a prize draw, while others may offer research participation credit (for students). Some studies may not offer any compensation at all.\nThis will be clearly stated in the study description."
+  },
+  {
+    "objectID": "recruitment/index.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
+    "href": "recruitment/index.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "How to take part in our studies (Teesside University students and staff)",
+    "text": "How to take part in our studies (Teesside University students and staff)\nIf you are a student or staff member at Teesside University, you can sign up to take part in our studies through our online research participation system. This lists all of the studies that are currently recruiting participants. You can sign up for studies that interest you, based on the study description provided.\nYou can sign up for as many studies as you like, and you can withdraw from a study at any time. If you join the participant pool you are not obliged to take part in any studies.\n\nTo do so, click on this link to register for an account. You will need to use your Teesside University email address to login first."
+  },
+  {
+    "objectID": "recruitment/index.html#how-to-take-part-in-our-studies-general-public",
+    "href": "recruitment/index.html#how-to-take-part-in-our-studies-general-public",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "How to take part in our studies (general public)",
+    "text": "How to take part in our studies (general public)\nWe do recruit participants from outside of the university for studies. Available studies will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.\nIf you are interested in taking part in one of our studies, please contact the researcher listed in the study description. They will provide you with more information about the study and how to take part."
+  },
+  {
+    "objectID": "recruitment/index.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
+    "href": "recruitment/index.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
+    "title": "Taking part in psychology research at the MIND Lab",
+    "section": "General criteria for taking part in our studies (unless the study states otherwise)",
+    "text": "General criteria for taking part in our studies (unless the study states otherwise)\n\nParticipants should be aged 18 or over .\nParticipants need to have proficiency in English sufficient to understand and complete the study tasks.\nParticipants should have normal or corrected-to-normal vision and hearing."
+  },
+  {
+    "objectID": "recruitment/challenge.html",
+    "href": "recruitment/challenge.html",
+    "title": "The MIND Lab Research Challenge",
     "section": "",
-    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+    "text": "We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take part in the lab studies listed on this page to be entered into a prize draw to win a £100, £50, or one of 2 £25 Amazon vouchers.\n\n\nIf you have not already done so, please register in our research participant pool. This will enable you to take part in our studies and be entered into the prize draw.\n\n\n\n\n\n\n\n\nYou can take part in the studies in any order. Each study will take between 30 and 45 minutes to complete. Click the buttons and login to see more information about what’s involved in each study.\n\n\nThe Decision Making Study \n\nThe Memory Study \n\n\n\n\n\nTell the researcher that you are taking part in the research challenge - you will be entered into the draw for each of the studies. If you complete both studies, you will get an extra entry!"
   },
   {
-    "objectID": "recruitment/metacognition1_slide.html#participants-needed",
-    "href": "recruitment/metacognition1_slide.html#participants-needed",
-    "title": "Metacognition",
-    "section": "Participants needed!",
-    "text": "Participants needed!\nTopic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
-  },
-  {
-    "objectID": "recruitment/hyp1.html",
-    "href": "recruitment/hyp1.html",
-    "title": "The role of working memory and response inhibition in economic decision making",
+    "objectID": "recruitment/challenge.html#take-part-in-research-studies-and-get-a-chance-to-win-a-100-amazon-voucher",
+    "href": "recruitment/challenge.html#take-part-in-research-studies-and-get-a-chance-to-win-a-100-amazon-voucher",
+    "title": "The MIND Lab Research Challenge",
     "section": "",
-    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+    "text": "We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take part in the lab studies listed on this page to be entered into a prize draw to win a £100, £50, or one of 2 £25 Amazon vouchers.\n\n\nIf you have not already done so, please register in our research participant pool. This will enable you to take part in our studies and be entered into the prize draw.\n\n\n\n\n\n\n\n\nYou can take part in the studies in any order. Each study will take between 30 and 45 minutes to complete. Click the buttons and login to see more information about what’s involved in each study.\n\n\nThe Decision Making Study \n\nThe Memory Study \n\n\n\n\n\nTell the researcher that you are taking part in the research challenge - you will be entered into the draw for each of the studies. If you complete both studies, you will get an extra entry!"
   },
   {
-    "objectID": "recruitment/hyp1.html#participants-needed",
-    "href": "recruitment/hyp1.html#participants-needed",
-    "title": "The role of working memory and response inhibition in economic decision making",
-    "section": "",
-    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
-  },
-  {
-    "objectID": "recruitment/hyp1_slide.html#participants-needed",
-    "href": "recruitment/hyp1_slide.html#participants-needed",
-    "title": "The role of working memory and response inhibition in economic decision making",
-    "section": "Participants needed!",
-    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+    "objectID": "recruitment/challenge.html#qa",
+    "href": "recruitment/challenge.html#qa",
+    "title": "The MIND Lab Research Challenge",
+    "section": "Q&A",
+    "text": "Q&A\n\nWhat is the purpose of this research challenge?\nA. Lab-based experiments are an important part of the evidence base in psychology. To do this work, we need people to come to the lab. However, we understand that it is not easy to give up your time to take part.\n\n\nWho is eligible to enter?\nA. Anyone who participates in these two specific studies (the ones on this page) via the SONA platform.\n\n\nWhat vouchers are available\nA. 1 x £100, 1 x £50, 2 x £25. The same person cannot win more than one voucher.\n\n\nWhen will the draw take place?\nA. The draw will take place either when the studies have completed recruiting all of the participants needed, or at the end of Semester 2 (whichever comes first). The latest date that the draw takes place will be 31st May 2026.\n\n\nHow will I know that the draw has taken place?\nA. Everyone who opts into the draw will be contacted via an email from the SONA system to let them know that the draw took place. The winners will be contacted individually."
   },
   {
     "objectID": "recruitment/afsgwp1.html",
@@ -541,7 +648,7 @@
     "href": "people/lorraine_temple.html#projects-i-have-been-involved-in",
     "title": "Lorraine Temple",
     "section": "Projects I have been involved in",
-    "text": "Projects I have been involved in\n\n\n\n\n\n\n\n\nGrant awarded by the Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Projects I have been involved in\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/lorraine_temple.html#research-training-badges",
@@ -600,333 +707,240 @@
     "text": "Topic: The aim of the study is to investigate the factors underpinning conversational memory.\nLocation: This study takes place online.\nWhat is involved? In conversation, there are multiple factors that determine what will be remembered. The current research will offer insight into the cognitive mechanisms underlying the phenomenon. Participants will be asked to listen to a conversation and complete a fill-in-the-gap task.\nDuration: Time slots are available for 60 minutes, but the experiment will take around 30–45 minutes to complete.\nEligibility: Native English speaker. The study must run on a laptop/PC (not a phone or a tablet). Must NOT have signed up or completed Conversational Memory Version 2.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1140"
   },
   {
-    "objectID": "recruitment/challenge.html",
-    "href": "recruitment/challenge.html",
-    "title": "The MIND Lab Research Challenge",
+    "objectID": "recruitment/afsgwp2.html",
+    "href": "recruitment/afsgwp2.html",
+    "title": "Sports Engagement and Gambling Interviews",
     "section": "",
-    "text": "We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take part in the lab studies listed on this page to be entered into a prize draw to win a £100, £50, or one of 2 £25 Amazon vouchers.\n\n\nIf you have not already done so, please register in our research participant pool. This will enable you to take part in our studies and be entered into the prize draw.\n\n\n\n\n\n\n\n\nYou can take part in the studies in any order. Each study will take between 30 and 45 minutes to complete. Click the buttons and login to see more information about what’s involved in each study.\n\n\nThe Decision Making Study \n\nThe Memory Study \n\n\n\n\n\nTell the researcher that you are taking part in the research challenge - you will be entered into the draw for each of the studies. If you complete both studies, you will get an extra entry!"
+    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nParticipants should be willing to conduct and interview over Microsoft Teams, which will be recorded.\nThe interview will last approximately 45 minutes\nWe are offering a £15 shopping voucher as a token of appreciation.\n\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports and you have expressed an interest in being interviewed about this topic.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nYou will be interviewed about the topic of gambling in sports groups, including your experiences of this subject. You agree to take part in a Teams interview which involves using a webcam and that the interview will be recorded for the purposes of transcription.\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questions on this topic then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe interviews will be recorded and the recordings will be stored in password protected Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form. Transcripts of the interviews will also be created and stored in the same way.\nWhat you say in the interview will be anonymised. The transcript will be identified only by a pseudonym (a fake name), and any information that could identify you will be redacted.\nOnce written transcripts have been created, you will be given an opportunity to verify their accuracy. Once this has been done, the recordings of the interviews will be deleted. However, the transcripts from the interviews (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£10 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your interview transcript, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nAre there any circumstances under which my confidentiality could be breached?\nThis would only happen if you disclose any information during interviews that the researcher feels may result in harm to the participants or others, the researcher will need to breach confidentiality in order to inform the lead researcher. The researcher will then inform appropriate agencies in order to maintain the safety of those involved.\nThe researcher will act in accordance with the British Psychological Society’s Code of Human Research Ethics (2021) and the BPS Code of Ethics and Conduct (2021).\nWhen will I receive my token of appreciation: if you provide your email to receive a £15 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by notifying the interviewer.\nIf you complete the interview, you can withdraw your participation up to 7 days from the date of the interview. You will be asked to confirm your satisfaction with the the interview transcript within aprox. 7 days, at which point you can withdraw if you wish.\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk"
   },
   {
-    "objectID": "recruitment/challenge.html#take-part-in-research-studies-and-get-a-chance-to-win-a-100-amazon-voucher",
-    "href": "recruitment/challenge.html#take-part-in-research-studies-and-get-a-chance-to-win-a-100-amazon-voucher",
-    "title": "The MIND Lab Research Challenge",
+    "objectID": "recruitment/hyp1_slide.html#participants-needed",
+    "href": "recruitment/hyp1_slide.html#participants-needed",
+    "title": "The role of working memory and response inhibition in economic decision making",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
+  },
+  {
+    "objectID": "recruitment/hyp1.html",
+    "href": "recruitment/hyp1.html",
+    "title": "The role of working memory and response inhibition in economic decision making",
     "section": "",
-    "text": "We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take part in the lab studies listed on this page to be entered into a prize draw to win a £100, £50, or one of 2 £25 Amazon vouchers.\n\n\nIf you have not already done so, please register in our research participant pool. This will enable you to take part in our studies and be entered into the prize draw.\n\n\n\n\n\n\n\n\nYou can take part in the studies in any order. Each study will take between 30 and 45 minutes to complete. Click the buttons and login to see more information about what’s involved in each study.\n\n\nThe Decision Making Study \n\nThe Memory Study \n\n\n\n\n\nTell the researcher that you are taking part in the research challenge - you will be entered into the draw for each of the studies. If you complete both studies, you will get an extra entry!"
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
   },
   {
-    "objectID": "recruitment/challenge.html#qa",
-    "href": "recruitment/challenge.html#qa",
-    "title": "The MIND Lab Research Challenge",
-    "section": "Q&A",
-    "text": "Q&A\n\nWhat is the purpose of this research challenge?\nA. Lab-based experiments are an important part of the evidence base in psychology. To do this work, we need people to come to the lab. However, we understand that it is not easy to give up your time to take part.\n\n\nWho is eligible to enter?\nA. Anyone who participates in these two specific studies (the ones on this page) via the SONA platform.\n\n\nWhat vouchers are available\nA. 1 x £100, 1 x £50, 2 x £25. The same person cannot win more than one voucher.\n\n\nWhen will the draw take place?\nA. The draw will take place either when the studies have completed recruiting all of the participants needed, or at the end of Semester 2 (whichever comes first). The latest date that the draw takes place will be 31st May 2026.\n\n\nHow will I know that the draw has taken place?\nA. Everyone who opts into the draw will be contacted via an email from the SONA system to let them know that the draw took place. The winners will be contacted individually."
-  },
-  {
-    "objectID": "recruitment/index.html",
-    "href": "recruitment/index.html",
-    "title": "Taking part in psychology research at the MIND Lab",
+    "objectID": "recruitment/hyp1.html#participants-needed",
+    "href": "recruitment/hyp1.html#participants-needed",
+    "title": "The role of working memory and response inhibition in economic decision making",
     "section": "",
-    "text": "In the lab, we are running many studies at any one time. Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University.\nResearch participation is an essential part of the scientific process. It allows us to test our hypotheses, gather data, and ultimately to the research that makes an impact in the real world.\nThe ultimate goal of our research is to improve people’s lives. To do this, we need to understand how people think, feel, and behave. By participating in our studies, you are helping us to gain this understanding."
+    "text": "Topic: We are currently recruiting participants for a study on decision-making.\nLocation: This study takes place on campus in the Psychology Department at Teesside University.\nWhat is involved? This is a lab study which involves several cognitive tasks which test attention, memory and decision-making. Participants will also complete a brief questionnaire.\nDuration: The study will take approximately 20 minutes to complete.\n \nContact: If you are interested in taking part, please scan the QR code, click the link below to sign up for a time slot or email christopher.wilson@tees.ac.uk (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation&body=I%20would%20like%20to%20take%20part%20in%20your%20research%20study dot ).\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1220"
   },
   {
-    "objectID": "recruitment/index.html#what-does-taking-part-involve",
-    "href": "recruitment/index.html#what-does-taking-part-involve",
-    "title": "Taking part in psychology research at the MIND Lab",
-    "section": "What does taking part involve?",
-    "text": "What does taking part involve?\nThis depends on the study. Some studies may involve completing questionnaires, while others may involve performing tasks on a computer. Some studies may require you to come into the lab, while others can be completed online. Each study will have a detailed description of what is involved, so you can decide if it is something you would like to take part in.\nBefore taking part in any study, you will be provided with an information sheet that explains the study in detail. You will also have the opportunity to ask any questions you may have. You would then indicate your consent to take part by singing a consent form (or providing electronic consent on a computer)."
+    "objectID": "recruitment/metacognition1_slide.html#participants-needed",
+    "href": "recruitment/metacognition1_slide.html#participants-needed",
+    "title": "Metacognition",
+    "section": "Participants needed!",
+    "text": "Participants needed!\nTopic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
   },
   {
-    "objectID": "recruitment/index.html#is-there-any-compensation-for-taking-part",
-    "href": "recruitment/index.html#is-there-any-compensation-for-taking-part",
-    "title": "Taking part in psychology research at the MIND Lab",
-    "section": "Is there any compensation for taking part?",
-    "text": "Is there any compensation for taking part?\nThis depends on the study. Some studies may offer compensation in the form of vouchers or a prize draw, while others may offer research participation credit (for students). Some studies may not offer any compensation at all.\nThis will be clearly stated in the study description."
-  },
-  {
-    "objectID": "recruitment/index.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
-    "href": "recruitment/index.html#how-to-take-part-in-our-studies-teesside-university-students-and-staff",
-    "title": "Taking part in psychology research at the MIND Lab",
-    "section": "How to take part in our studies (Teesside University students and staff)",
-    "text": "How to take part in our studies (Teesside University students and staff)\nIf you are a student or staff member at Teesside University, you can sign up to take part in our studies through our online research participation system. This lists all of the studies that are currently recruiting participants. You can sign up for studies that interest you, based on the study description provided.\nYou can sign up for as many studies as you like, and you can withdraw from a study at any time. If you join the participant pool you are not obliged to take part in any studies.\n\nTo do so, click on this link to register for an account. You will need to use your Teesside University email address to login first."
-  },
-  {
-    "objectID": "recruitment/index.html#how-to-take-part-in-our-studies-general-public",
-    "href": "recruitment/index.html#how-to-take-part-in-our-studies-general-public",
-    "title": "Taking part in psychology research at the MIND Lab",
-    "section": "How to take part in our studies (general public)",
-    "text": "How to take part in our studies (general public)\nWe do recruit participants from outside of the university for studies. Available studies will be listed here on this page. Some of these studies are open to everyone, while others may have specific eligibility criteria (e.g., age, gender, experience with a particular condition). Please read the study description carefully to see if you are eligible to take part.\nIf you are interested in taking part in one of our studies, please contact the researcher listed in the study description. They will provide you with more information about the study and how to take part."
-  },
-  {
-    "objectID": "recruitment/index.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
-    "href": "recruitment/index.html#general-criteria-for-taking-part-in-our-studies-unless-the-study-states-otherwise",
-    "title": "Taking part in psychology research at the MIND Lab",
-    "section": "General criteria for taking part in our studies (unless the study states otherwise)",
-    "text": "General criteria for taking part in our studies (unless the study states otherwise)\n\nParticipants should be aged 18 or over .\nParticipants need to have proficiency in English sufficient to understand and complete the study tasks.\nParticipants should have normal or corrected-to-normal vision and hearing."
-  },
-  {
-    "objectID": "research/gambling.html",
-    "href": "research/gambling.html",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "objectID": "recruitment/metacognition1.html",
+    "href": "recruitment/metacognition1.html",
+    "title": "Metacognition",
     "section": "",
-    "text": "This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.",
+    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+  },
+  {
+    "objectID": "recruitment/metacognition1.html#participants-needed",
+    "href": "recruitment/metacognition1.html#participants-needed",
+    "title": "Metacognition",
+    "section": "",
+    "text": "Topic: The aim of the study is to investigate performance in an immediate memory task.\nLocation: This study takes place in the Themis Building at Teesside University.\nWhat is involved? The purpose of the study is to understand more about how people learn. During the task you will hear sequences of letters or numbers through the headphones. You will be asked to recall them at some point.\nDuration: The study should take no longer than 25 minutes.\nSONA: https://tees.sona-systems.com/default.aspx?p_return_experiment_id=1135"
+  },
+  {
+    "objectID": "research/langlearn.html",
+    "href": "research/langlearn.html",
+    "title": "Language, Learning and Metacognition",
+    "section": "",
+    "text": "This research programme investigates how people monitor, assess, and manage their own cognitive resources (like memory and attention) and those of others. We apply cognitive science and experimental approaches to understand the metacognitive processes underlying learning, language, and communication.\nOur work is organised into three primary themes:",
     "crumbs": [
-      "Gambling Research Programme"
+      "Language Learning and Metacognition Programme"
     ]
   },
   {
-    "objectID": "research/gambling.html#projects",
-    "href": "research/gambling.html#projects",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "objectID": "research/langlearn.html#projects",
+    "href": "research/langlearn.html#projects",
+    "title": "Language, Learning and Metacognition",
     "section": "Projects",
-    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nFunded by The Academic Forum for the Study of Gambling (AFSG)\n\n\n\n\n\nNo matching items",
+    "text": "Projects\n\n\n\n\n\n\n\n\n\n\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMetacognition and cognitive offloading\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Gambling Research Programme"
+      "Language Learning and Metacognition Programme"
     ]
   },
   {
-    "objectID": "research/gambling.html#recent-publications",
-    "href": "research/gambling.html#recent-publications",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Recent Publications",
-    "text": "Recent Publications\n\n\n\n\n\n\n\n\n\n\nNew research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions\n\n\nNeurological and behavioural correlates of construal in economic decision-making under cognitive load\n\n\n\n\n\nBehavioural Brain Research\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Gambling Research Programme"
-    ]
-  },
-  {
-    "objectID": "research/gambling.html#talks",
-    "href": "research/gambling.html#talks",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
+    "objectID": "research/langlearn.html#talks",
+    "href": "research/langlearn.html#talks",
+    "title": "Language, Learning and Metacognition",
     "section": "Talks",
-    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items",
+    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Gambling Research Programme"
+      "Language Learning and Metacognition Programme"
     ]
   },
   {
-    "objectID": "research/gambling.html#doctoral-students",
-    "href": "research/gambling.html#doctoral-students",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Doctoral Students",
-    "text": "Doctoral Students\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\n\n\n\nNo matching items",
+    "objectID": "research/langlearn.html#lab-members-involved-in-this-research-programme",
+    "href": "research/langlearn.html#lab-members-involved-in-this-research-programme",
+    "title": "Language, Learning and Metacognition",
+    "section": "Lab members involved in this research programme",
+    "text": "Lab members involved in this research programme\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Gambling Research Programme"
+      "Language Learning and Metacognition Programme"
     ]
   },
   {
-    "objectID": "research/gambling.html#research-associates",
-    "href": "research/gambling.html#research-associates",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Research Associates",
-    "text": "Research Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Gambling Research Programme"
-    ]
-  },
-  {
-    "objectID": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
-    "href": "research/gambling.html#other-lab-members-involved-in-this-research-programme",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Other lab members involved in this research programme",
-    "text": "Other lab members involved in this research programme\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "Gambling Research Programme"
-    ]
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
-    "title": "‘It’s part of the sport’",
+    "objectID": "slides/school_talk/index.html#overview",
+    "href": "slides/school_talk/index.html#overview",
+    "title": "Breaking big problems into small pieces…",
     "section": "Overview",
-    "text": "Overview\n\nContext\nGambling harms\nThe complex nature of the topic\nDescribing a research programme\n\nClinical work: Hypomania\nClinical work: Depression\nClinical work Anxiety\nSocial: Implicit Associations with sport\nSocial: Effects of advertising via short form video\nPolicy: Efficacy of gambling policy\n\n“It’s part of the sport” - project overview\n“It’s part of the sport” - WP1 progress\n“It’s part of the sport” - WP 2 progress\n“It’s part of the sport” - project outcomes\nFuture research"
+    "text": "Overview\n\nHow do do psychology researchers tackle complex problems?\nHow pigeons helped get people to spend money to their in mobile games\nA psychology research lab\nComputer-based tasks in the lab\nBrain imaging demonstration"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-challenges-we-face",
-    "href": "slides/seminar_series_intro/index.html#the-challenges-we-face",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The challenges we face",
-    "text": "The challenges we face\n\nClimate change\nMisinformation and distrust\nSocial Isolation\nInequality and division\nTrauma and mental health issues\nChronic illness and ageing populations\nAdaptation to a rapidly changing world\n\n\nThere are many challenges that we face, on a global, community, and individual level.\nChallenges like climate change are co-occurring with increasing distrust of institutions and misinformation, increasing social isolation, rising inequality…\nand a general sense of instability and uncertainty in a rapidly changing world.\nWe know that people can often feel that these challenges are overwhelming, and that they are too big for any one person to tackle.\nThis can be true for academics and researchers as well. When research is framed as a luxury, something that we do when we have the time and resources, it can be framed as a distraction from the “real work” of addressing these challenges."
+    "objectID": "slides/school_talk/index.html#gambling-can-be-examined-at-multiple-levels",
+    "href": "slides/school_talk/index.html#gambling-can-be-examined-at-multiple-levels",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Gambling can be examined at multiple levels",
+    "text": "Gambling can be examined at multiple levels\n\nSocial: Social norms around gambling, peer influences, accessibility of gambling (e.g., online platforms), societal costs.\nRelational: Impact of gambling on family and relationships, co-dependency.\nBehavioral: Compulsive gambling, reinforcement, addiction.\nCognitive: Cognitive distortions (e.g., gambler’s fallacy, illusion of control), risk assessment, decision-making processes.\nNeurological: Reward pathways in the brain, neurotransmitter involvement (e.g., dopamine), brain activity during gambling."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-human-element",
-    "href": "slides/seminar_series_intro/index.html#the-human-element",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Human Element",
-    "text": "The Human Element\n\nContemporary challenges like misinformation, social isolation, and trauma are often viewed through a political or economic lens.\nAt their core, however, they are fundamentally human problems, rooted in cognition, emotion, and social identity.\nResearch provides us with the tools to understand these challenges, to support individuals and communities, and to start looking for solutions.\n\n\nThe goal of this talk is to argue that research is not a luxury, but a necessity. The problems we face are fundamentally human problems, rooted in cognition, emotion, and social identity.\nThat we need research in psychology and social work to understand these challenges, to support individuals and communities, and to start looking for solutions.\nAnd importantly, that the research being done here at Teesside University is directly relevant to these tackling these challenges … and making a positive difference in the world."
+    "objectID": "slides/school_talk/index.html#how-do-we-tackle-such-a-complex-problem",
+    "href": "slides/school_talk/index.html#how-do-we-tackle-such-a-complex-problem",
+    "title": "Breaking big problems into small pieces…",
+    "section": "How do we tackle such a complex problem?",
+    "text": "How do we tackle such a complex problem?\n\nBreak it down into smaller pieces.\nUse different methods to examine each piece.\nIntegrate knowledge across levels."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-psychology-of-the-climate-crisis",
-    "href": "slides/seminar_series_intro/index.html#the-psychology-of-the-climate-crisis",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Psychology of the Climate Crisis",
-    "text": "The Psychology of the Climate Crisis\n\n\n\n\nDr. Marcin Owczarek\n\n\nUnderstanding emotional responses like eco-anxiety is essential for understanding the psychological impact of climate change.\n\n\nLet’s start with one of the biggest challenges.\nThere’s a lot of focus on this topic about action, and rightly so. But if we want people to act, we need to understand more about the psychological barriers to action.\nMarcin’s work focuses on the concept of eco-anxiety and is leading the call for “more rigorous methodological standards and theoretical clarity”.\nThis will help advance our understanding of how people are emotionally responding to the climate crisis, and how we can support them in taking action.\n\n\nOwczarek, M., et al. (2025). Psychometric assessment of climate-related emotional responses… Current Psychology, 44, 4883–4905."
+    "objectID": "slides/school_talk/index.html#operant-conditioning",
+    "href": "slides/school_talk/index.html#operant-conditioning",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Operant conditioning",
+    "text": "Operant conditioning\n\nConditioning through reinforcement of responding\nIf we receive a reward for an action, the behaviour is reinforced."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-paradox-of-fear",
-    "href": "slides/seminar_series_intro/index.html#the-paradox-of-fear",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Paradox of Fear",
-    "text": "The Paradox of Fear\n\n\n\n\nDr. Lee Copping\n\n\nFor individuals with strong conspiratorial beliefs, fear-based health appeals can be counterproductive, triggering defiance instead of compliance.\n\n“Instead, the more anxious they become about infection, the more they blame the system and react against it…”\n\n\n\nThat links to Lee’s work, which demonstrates that how we communicate about risk might not effect behaviour in the way we expect.\nIt demonstrates the psychological principle of reactance, where a perceived attempt at control triggers defiance.\nIn Lee’s work, higher levels of anxiety led to more compliance, except for people with strong conspiratorial beliefs.\nFor individuals who already distrust institutions, fear appeals are not seen as warnings but as coercion, leading to an active rejection of recommended behaviours.\nThis work is valuable beyond the context of health messaging, because it provides insights into how to communicate effectively in a polarized information environment.\n\n\nCopping, L. (2022). Anxiety and covid-19 compliance behaviors in the UK: The moderating role of conspiratorial thinking. Personality and Individual Differences, 192, 111604."
+    "objectID": "slides/school_talk/index.html#reinforcement-schedules",
+    "href": "slides/school_talk/index.html#reinforcement-schedules",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Reinforcement schedules",
+    "text": "Reinforcement schedules\n\nVariable-ratio reinforcement schedules are most useful in increasing responding"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#emotion-shortcuts-our-judgement",
-    "href": "slides/seminar_series_intro/index.html#emotion-shortcuts-our-judgement",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Emotion shortcuts our judgement",
-    "text": "Emotion shortcuts our judgement\n\n\n\n\nDr. Chris Wilson\n\n\nThis research investigates how mental strain (cognitive load) and our personal framing of a choice (construal) can disrupt the ability to process risk, identifying the brain activity behind these altered decisions.\n\n\nThis work shows that under cognitive load (mental stress), certain factors interact, disrupting our ability to rationally assess risk.\nIt’s crucial for understanding why poor decisions might be made under pressure, and it identifies the corresponding neurological and behavioural patterns.\n\n\nWilson, C. J. (2025). Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load. Behavioural Brain Research, 115829."
+    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games",
+    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Variable ratio reinforcement in games",
+    "text": "Variable ratio reinforcement in games"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#co-constructing-health-knowledge",
-    "href": "slides/seminar_series_intro/index.html#co-constructing-health-knowledge",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Co-Constructing Health Knowledge",
-    "text": "Co-Constructing Health Knowledge\n\n\n\n\nDr. Lauren Walker\n\n\nThe wealth of online information is creating internet-informed patients. To maintain trust in the relationship, doctors need to shift their communication strategy “from compliance to co-construction” to build a shared understanding.\n\n\nOf course, in times of difficulty, people seek out information to help them make sense things. Like when faced with a health crisis.\nDr. Walker’s research shows that the potential harms of online misinformation can be mitigated through a strong, trusting therapeutic relationship.\nWhen patients feel safe to disclose their online research, it allows clinicians to address misconceptions, validate correct information, and integrate the patient’s priorities into a shared decision-making process.\n\n\nWalker, L., & Sillence, E. (2024). Examining Healthcare Professionals’ Communication Around Decision-Making with Internet-Informed Patients. Health communication, 39(6), 1094–1101."
+    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-1",
+    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-1",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Variable ratio reinforcement in games",
+    "text": "Variable ratio reinforcement in games"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#how-we-engage-on-cognitive-offloading",
-    "href": "slides/seminar_series_intro/index.html#how-we-engage-on-cognitive-offloading",
-    "title": "What’s the point of research at a time like this?",
-    "section": "How we engage on cognitive offloading",
-    "text": "How we engage on cognitive offloading\n\n\n\n\nDr. Srdan Medimorec\n\n\nInvestigating fundamental cognitive processes like metacognition (thinking about one’s own mind) and implicit learning (learning without awareness) provides the building blocks for understanding all complex human behaviours.\n\n\nDr. Srdan Medimorec’s into Cognitive offloading - the idea that when we are trying to process large amounts of information use certain techniques to temporarily offload that information so we can handle it\nprovides really important insights into how we manage this information overload without even realizing it.\nThis is one of those fundamental processes that underpins so many of the complex behaviours we are talking about today.\n\n\nMedimorec, S., et al. (2024). Children’s metacognition and cognitive offloading…"
+    "objectID": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-2",
+    "href": "slides/school_talk/index.html#variable-ratio-reinforcement-in-games-2",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Variable ratio reinforcement in games",
+    "text": "Variable ratio reinforcement in games"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-human-animal-bond",
-    "href": "slides/seminar_series_intro/index.html#the-human-animal-bond",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Human-Animal Bond",
-    "text": "The Human-Animal Bond\n\n\n\n\nDr. Heather Clements\n\n\nDr. Clements’ research reveals a complex reality about pets and loneliness. With unexpected results around pet ownership and mental health, and evidence of different impacts based on the type of animal and level of engagement.\n\n\nOne of the things that I like about this pandemic-based research is that it provided an unprecedented opportunity to study the human-animal bond in a context where social isolation was widespread.\nThe findings challenge some common assumptions, but this type of nuanced understanding is vital for developing effective interventions that leverage the human-animal bond to enhance wellbeing.\n\n\nClements, H., et al. (2021). Companion Animal Type and Level of Engagement Matter: A Mixed-Methods Study… Animals, 11(8), 2349."
+    "objectID": "slides/school_talk/index.html#our-perception-of-value-can-be-manipulated",
+    "href": "slides/school_talk/index.html#our-perception-of-value-can-be-manipulated",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Our perception of value can be manipulated",
+    "text": "Our perception of value can be manipulated\nPerceived scarcity can drive us to value something more than we might otherwise do\n\n\n\n\n\nLoss aversion is a strong driver of our behaviour."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#therapeutic-responses-to-marginalisation",
-    "href": "slides/seminar_series_intro/index.html#therapeutic-responses-to-marginalisation",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Therapeutic Responses to Marginalisation",
-    "text": "Therapeutic Responses to Marginalisation\n\n\n\n\nDr. Alex Kyriakopoulos\n\n\nFor destitute asylum seekers, loneliness is an active product of social exclusion. The research highlights that a therapist’s validating presence can be a lifeline, directly counteracting the dehumanising effects of their circumstances.\n\n\nThis work powerfully illustrates that loneliness is not merely a passive state. For marginalised groups, it is often an active product of social and political forces.\nThe psychological response, therefore, must be equally active. It is not about teaching “social skills” but about the fundamental human act of creating a safe, trusting, and affirming relationship, providing an antidote to the isolation engendered by systemic hostility.\n\n\nGerayeli, E., & Kyriakopoulos, A. (2024). How do therapists in the UK navigate the issue of loneliness when working with destitute asylum seekers?… Counselling and Psychotherapy Research."
+    "objectID": "slides/school_talk/index.html#artificial-scarcity-is-used-to-create-f.o.m.o",
+    "href": "slides/school_talk/index.html#artificial-scarcity-is-used-to-create-f.o.m.o",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Artificial scarcity is used to create F.O.M.O",
+    "text": "Artificial scarcity is used to create F.O.M.O\n\n\n\n\n\nYou might think that people would be savvy, and realise what is happening. But our ability to reflect is often short-circuted by tapping into another process"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-power-of-group-identity-belonging",
-    "href": "slides/seminar_series_intro/index.html#the-power-of-group-identity-belonging",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Power of Group Identity: Belonging",
-    "text": "The Power of Group Identity: Belonging\n\n\n\n\nDr. Paul Sander\n\n\nThe socio-situational context associated with individual personality traits to predict academic behavioural convidence.\n\n\nPaul’s research on “Academic Behavioural Confidence” shows that a student’s confidence is not formed in a vacuum but is powerfully reinforced by social context and socio-cultural expectations around gender norms for example.\nThis is an important reminder of how individual achievement can be shaped by social norms.\n\n\nSander, P., & de la Fuente, J. (2020). Undergraduate Student Gender, Personality and Academic Confidence. International Journal of Environmental Research and Public Health, 17(15), 5567."
+    "objectID": "slides/school_talk/index.html#type-1-and-type-2-thinking-systems",
+    "href": "slides/school_talk/index.html#type-1-and-type-2-thinking-systems",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Type 1 and Type 2 thinking systems",
+    "text": "Type 1 and Type 2 thinking systems\n\nDual process theory suggests there are two parallel cognitive processing systems, an intuitive and an analytic system.\nIntuitive thinking is more immediate and emotion-based.\nAnalytic thinking happens later and is more rational and logical.\n\n\nIf you can get someone to act quickly, they might act in a way that is less rational and more led by emotions."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-power-of-group-identity-application",
-    "href": "slides/seminar_series_intro/index.html#the-power-of-group-identity-application",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Power of Group Identity: Application",
-    "text": "The Power of Group Identity: Application\n\n\n\n\nDr. Robert Portman\n\n\nThe practical application of the social identity approach can be used to facilitate health-enhancing behaviour change by actively building supportive and cohesive communities.\n\n\nDr. Portman’s work shows how social identity can influence not just how we feel, but our behaviour. His research demonstrates that when people feel part of a community pursuing shared goals, their confidence and success rates improve.\n\n\nPortman, R. M., Levy, A. R., Maher, A. J., & Fairclough, S. J. (2021). Co-developing peer interventions in health-related contexts: A case study from exercise referral. Health Education Journal, 81(1), 17-28. https://doi.org/10.1177/00178969211045106 (Original work published 2022)"
+    "objectID": "slides/school_talk/index.html#limited-time-offers",
+    "href": "slides/school_talk/index.html#limited-time-offers",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Limited time offers!",
+    "text": "Limited time offers!\n\n\n\n\n\n\nBy creating artificial scarcity (FOMO) and getting people to act quickly (limited time), you can get them to act more emotionally and less rationally.\nThis can be enhanced if you manipulate people’s emotional state too."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#how-we-see-the-faces-of-others",
-    "href": "slides/seminar_series_intro/index.html#how-we-see-the-faces-of-others",
-    "title": "What’s the point of research at a time like this?",
-    "section": "How we see the faces of others",
-    "text": "How we see the faces of others\n\n\n\n\nDr. Natalie Butcher\n\n\nUnderstanding the cognitive neuroscience of face recognition, such as how facial motion affects recognition of same and other race faces, has profound implications for eyewitness testimony, unconscious bias, and intergroup relations.\n\n\nDr. Natalie Butcher’s research on the cognitive neuroscience of face recognition could have fit into several of the themes I’m discussing today, because it has such broad implications.\nHow we recognise and categorise the faces of other people is such a fundamental social cognitive process, with implications for everything from intergroup relations to eyewitness testimony.\n\n\nButcher, N. (2009). The effect of facial motion information on the recognition of same and other race faces."
+    "objectID": "slides/school_talk/index.html#the-affect-heuristic",
+    "href": "slides/school_talk/index.html#the-affect-heuristic",
+    "title": "Breaking big problems into small pieces…",
+    "section": "The affect heuristic",
+    "text": "The affect heuristic\n\nOur decisions are often made based on our current emotional state\nThis “gut feeling” often leads to biased judgments or even disregarding of information.\nFamiliarity through exposure is sufficient to generate positive affect.\n\n\nThis means that just by exposing us to something repeatedly, we are likley to have a more positive feeling about it."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-architecture-of-reasonable-hate",
-    "href": "slides/seminar_series_intro/index.html#the-architecture-of-reasonable-hate",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Architecture of “Reasonable” Hate",
-    "text": "The Architecture of “Reasonable” Hate\n\n\n\n\nDr. Shani Burke\n\n\nA key finding from discursive psychology is that strategies used to disguise talk as ‘not racist’ are also used to justify explicitly racist talk. Understanding these linguistic tactics is the first step toward deconstructing them.\n\n\nDr. Burke’s research moves beyond simply labelling discourse as hateful and instead performs a fine-grained analysis of the rhetorical strategies used to make such views appear legitimate.\nBy analysing tactics like appealing to “common sense” or constructing minorities as a threat, her research provides a “playbook” for how prejudice is laundered into seemingly acceptable public discourse. This work is vital for fostering a more critical and resilient civic dialogue.\n\n\nBurke, S., & Demasi, M. (2021). Extreme prejudice as reasoned discourse in face-to-face Interactions. In Political Communication: Discursive Perspectives."
+    "objectID": "slides/school_talk/index.html#influencers-and-fake-games",
+    "href": "slides/school_talk/index.html#influencers-and-fake-games",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Influencers and fake games",
+    "text": "Influencers and fake games"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#co-production-and-health-equity",
-    "href": "slides/seminar_series_intro/index.html#co-production-and-health-equity",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Co-Production and Health Equity",
-    "text": "Co-Production and Health Equity\n\n\n\n\nProfessor Judith Eberhardt\n\n\n\n“Through co-producing this intervention with Black communities and delivering it in trusted spaces, we aim to break down barriers to screening and facilitate equitable access to early diagnosis and treatment”.\n\n\n\nProf. Eberhardt’s research exemplifies a critical evolution in tackling systemic inequality.\nThe concept of “co-production” rejects a model where outside “experts” design interventions for a community. Instead, it involves working with community members as equal partners. This process builds trust and ensures the final product is culturally resonant, providing a powerful, evidence-based blueprint for tackling health inequalities.\n\n\nChristie-de Jong, F., & Eberhardt, J. (2025). EQUITy in Black Adult health (EQUITA). National Institute for Health and Care Research."
+    "objectID": "slides/school_talk/index.html#combination-of-manipulation-techniques",
+    "href": "slides/school_talk/index.html#combination-of-manipulation-techniques",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Combination of manipulation techniques",
+    "text": "Combination of manipulation techniques\n\nAddictive gameplay (Variable ratio reinforcement)\nArtificial scarcity in game stores (value framing)\nLimited time offers in game stores (type 1 thinking)\nInfluencers and fake games in ads (affect heuristic)"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#championing-lgbtq-inclusive-practice",
-    "href": "slides/seminar_series_intro/index.html#championing-lgbtq-inclusive-practice",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Championing LGBTQ+ Inclusive Practice",
-    "text": "Championing LGBTQ+ Inclusive Practice\n\n\n\n\nDr. Claire Brown\n\n\nResearch focused on “support and empowerment for LGBTQ+ carers and care-experienced young people” can be used as a tool for advocacy to create more equitable and just social care systems by challenging cisgenderism and heteronormativity.\n\n\nDr. Brown’s research provides a conceptually informed analysis of current policy and practice. Through publications such as “Removing gender barriers: Promoting inclusion for trans and non-binary carers in fostering and adoption,” she argues for more consistent inclusion and challenges the ways in which trans people’s voices have been silenced in research.\n\n\nBrown, C. (2023). Removing gender barriers: Promoting inclusion for trans and non-binary carers in fostering and adoption. Practice, 35(1), 47-62."
+    "objectID": "slides/school_talk/index.html#section-7",
+    "href": "slides/school_talk/index.html#section-7",
+    "title": "Breaking big problems into small pieces…",
+    "section": "",
+    "text": "https://www.themindlab.uk"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#stigma-and-reintegration",
-    "href": "slides/seminar_series_intro/index.html#stigma-and-reintegration",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Stigma and Reintegration",
-    "text": "Stigma and Reintegration\n\n\n\n\nDr. Laura Gair\n\n\nPublic stigma against former offenders, “fueled by media portrayals and misconceptions,” can create a self-defeating feedback loop. It creates barriers to the very factors known to reduce reoffending, like stable housing and employment.\n\n\nDr. Gair’s research highlights a dangerous societal dynamic. Public stigma creates political pressure for policies that prioritise punishment over evidence-based rehabilitation. These policies, in turn, make successful reintegration nearly impossible, potentially undermining the goal of enhancing long-term public safety. Her work demonstrates the vital role of forensic psychology in bringing evidence to a highly emotional public debate.\n\n\nTuschick, E., et al. (2025). A systematic review of public views on the reintegration of men convicted of a sexual offense into the community. Trauma, Violence, & Abuse."
+    "objectID": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
+    "href": "slides/school_talk/index.html#beahvioural-cognitive-tasks-in-the-lab",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Beahvioural / cognitive tasks in the lab",
+    "text": "Beahvioural / cognitive tasks in the lab\n\nWe use computer-based tasks to examine decision-making, risk-taking, and cognitive biases.\nWe can measure reaction times, accuracy, and other behavioural measures.\nWe can also measure physiological responses (e.g., heart rate, skin conductance)."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#inequality-within-systems-recruitment",
-    "href": "slides/seminar_series_intro/index.html#inequality-within-systems-recruitment",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Inequality Within Systems: Recruitment",
-    "text": "Inequality Within Systems: Recruitment\n\n\n\n\nDr. Sarah Craven-Staines\n\n\nInequality can be embedded within the very systems designed to provide care. This research focuses on creating anti-racist recruitment processes in Clinical Psychology to tackle disparity at its source.\n\n\nDr. Craven-Staines’ work is a powerful example of how psychology can apply its principles to its own gatekeeping functions. By systematically examining and aiming to reform the processes by which individuals enter the profession, this research works to ensure that the future of the profession more accurately reflects the diversity of the society it serves.\n\n\nCraven-Staines, S., et al. (2023). Clinical Psychology Forum, 371, 45-50."
+    "objectID": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
+    "href": "slides/school_talk/index.html#what-pieces-of-gambling-behaviour-does-the-task-examine",
+    "title": "Breaking big problems into small pieces…",
+    "section": "What pieces of gambling behaviour does the task examine?",
+    "text": "What pieces of gambling behaviour does the task examine?\nThis is a version of the Cambridge Gambling Task, which examines decision-making under risk. This includes:\n\nRisk perception\nRisk taking\nAdjusting behaviour based on consequences\n\nWe can combine this with other measures to get a more complete picture."
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#trauma-in-higher-education",
-    "href": "slides/seminar_series_intro/index.html#trauma-in-higher-education",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Trauma in Higher Education",
-    "text": "Trauma in Higher Education\n\n\n\n\nDr. Nikki Carthy\n\n\nThis work identified a “flourishing profile” of students who, despite high levels of trauma exposure, had a positive academic experience. This provides a roadmap for universities to proactively foster protective factors like social support and coping skills.\n\n\nThis research represents a crucial move away from a deterministic model where trauma inevitably leads to negative outcomes.\nby demonstrating that a subset of students can flourish despite adversity, The implication is that institutions can play an active role in creating an environment where students who have experienced trauma are given the tools to thrive.\n\n\nAllen, S., et al. (2024). A latent profile analysis of psychosocial factors and trauma exposure in U.K. students… Psychological Trauma: Theory, Research, Practice, and Policy."
+    "objectID": "slides/school_talk/index.html#functional-near-infrared-spectroscopy",
+    "href": "slides/school_talk/index.html#functional-near-infrared-spectroscopy",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Functional Near Infrared Spectroscopy",
+    "text": "Functional Near Infrared Spectroscopy\n\nUses light to measure blood oxygenation in the brain\nThis can tell is which areas of the brain are active at any given time\nThe prefrontal cortex is involved in thinking and decision-making"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#narratives-of-post-traumatic-growth",
-    "href": "slides/seminar_series_intro/index.html#narratives-of-post-traumatic-growth",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Narratives of Post-Traumatic Growth",
-    "text": "Narratives of Post-Traumatic Growth\n\n\n\n\nDr. Cat O’ Neill\n\n\nThe “Stories of Hope” project uses digital storytelling with men who have experienced post-traumatic growth after a suicide attempt. This research focuses not on risk factors but on the life that comes after, exploring positive psychological changes.\n\n\nThis project exemplifies a vital shift in focus within trauma studies—from pathology to resilience and meaning-making. The methodology of digital storytelling is significant, positioning the men as active creators and experts in their own lived experience. By amplifying stories of hope, this research challenges narratives of despair and provides tangible examples of how it is possible to find new meaning and purpose in the wake of profound suffering.\n\n\nO’Neill, C., et al. (2025). Stories of Hope: Using Digital Storytelling with men who have experienced post-traumatic growth following a suicide attempt."
+    "objectID": "slides/school_talk/index.html#summary",
+    "href": "slides/school_talk/index.html#summary",
+    "title": "Breaking big problems into small pieces…",
+    "section": "Summary",
+    "text": "Summary\n\nWe tackle complex problems by breaking them into smaller pieces\nCombining those pieces of knowledge give us the big picture\nIn a lab, we have many projects running at the same time looking at a given topic\nWe design computer-based tasks to examine specific elements of behaviour and cognition\nfNIRS is one of our neuroimaging tools to examine the brain during behaviour / cognition"
   },
   {
-    "objectID": "slides/seminar_series_intro/index.html#the-complexity-of-trauma",
-    "href": "slides/seminar_series_intro/index.html#the-complexity-of-trauma",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Complexity of Trauma",
-    "text": "The Complexity of Trauma\n\n\n\n\nDr. Alan Bowman\n\n\n\n“Traumatic injury poses significant physical and psychological challenges, often resulting in psychological distress, encompassing symptoms of anxiety, depression and post-traumatic stress”\n\n\n\nDr. Bowman’s clinical work broadens our understanding of trauma’s reach. His focus recognizes that healing pushes the psychological response beyond symptom management to the more profound work of helping individuals reconstruct meaning, purpose, and a coherent sense of identity in the aftermath of life-altering experiences.\n\n\nGrant, E., Bowman, A., & Johnson, L. (2025). Effectiveness of interventions for psychological distress following traumatic injury: A systematic review. Injury, 56(2), 112090."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#youth-wellbeing-nutrition",
-    "href": "slides/seminar_series_intro/index.html#youth-wellbeing-nutrition",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Youth Wellbeing: Nutrition",
-    "text": "Youth Wellbeing: Nutrition\n\n\n\n\nDr. Jeanet Ingwersen\n\n\nWellbeing is built upon foundations laid in childhood. Research shows a low glycaemic index breakfast can preferentially prevent children’s cognitive performance from declining throughout the morning.\n\n\nDr. Ingwersen’s work explores the fundamental link between nutrition and cognition. This seemingly simple finding has profound implications, showing that basic physiological support is directly tied to a child’s ability to learn and engage, highlighting a tangible, scalable way to improve educational outcomes.\n\n\nIngwersen, J. A., et al. (2007). Appetite, 49(1), 240-244."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#youth-wellbeing-school-culture",
-    "href": "slides/seminar_series_intro/index.html#youth-wellbeing-school-culture",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Youth Wellbeing: School Culture",
-    "text": "Youth Wellbeing: School Culture\n\n\n\n\nDr. Anna Haste\n\n\nEmbedding Mental Health Support Teams in schools helps to “change the culture within schools to incorporate mental health as a topic within the fabric of the school.”\n\n\nThis work discusses shift from a reactive model, which waits for children to be in crisis, an early intervention that normalises conversations about mental health and builds a supportive culture for all students.\n\n\nHaste, A., et al. (2025). Mental Health and Prevention, 39, 200435."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#lived-experience-in-health-the-whole-person",
-    "href": "slides/seminar_series_intro/index.html#lived-experience-in-health-the-whole-person",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Lived Experience in Health: The Whole Person",
-    "text": "Lived Experience in Health: The Whole Person\n\n\n\n\nDr. Stephanie Kilinc\n\n\nEffective care must address the whole person, not just a condition. Research into conditions like adult-onset epilepsy encourages healthcare practitioners to look beyond medical management and consider the impact on a person’s total wellbeing.\n\n\nDr. Kilinc’s work into the lived experience of patients has led to the development of new self-management frameworks. It is a powerful reminder that a condition is something a person has, not who they are, and that effective care must address the whole person.\n\n\nKılınç, S., Erdem, H., Healey, R., & Cole, J. (2022). Finding meaning and purpose: a framework for the self-management of neurological conditions. Disability and rehabilitation, 44(2), 219-230."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#cancer-as-chronic-illness",
-    "href": "slides/seminar_series_intro/index.html#cancer-as-chronic-illness",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Cancer as chronic illness",
-    "text": "Cancer as chronic illness\n\n\n\n\nDr. Grant McGeechan\n\n\n\n“this feeling of disorientation is not static and can ease as patients adjust to living with chronic uncertainty.”\n\n\n\npsychosocial experience of cancer survivorship as a chronic condition. The concept of “future disorientation” is a key and specific contribution of this research and should be highlighted. It captures a particular kind of existential uncertainty that goes beyond a general fear of recurrence.\nThis created a social and psychological disconnect. Participants felt they had to perform a version of health and normality for friends, family, and even healthcare professionals, because the external world struggled to understand the ongoing, invisible work of living with cancer as a chronic illness. This work is essential for developing interventions that support patients not just medically, but also psychologically, through their cancer journey.\n\n\nMcGeechan, G. J., McPherson, K. E., & Roberts, K. (2018). An interpretative phenomenological analysis of the experience of living with colorectal cancer as a chronic illness. Journal of clinical nursing, 27(15-16), 3148-3156."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#lived-experience-in-health-social-context",
-    "href": "slides/seminar_series_intro/index.html#lived-experience-in-health-social-context",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Lived Experience in Health: Social Context",
-    "text": "Lived Experience in Health: Social Context\n\n\n\n\nDr. Mia Campbell\n\n\nSupport for chronic illness must be designed with a deep understanding of real-world barriers. Self-management is challenging for people in deprivation due to “financial constraints and health literacy.”\n\n\nDr. Campbell’s work adds a crucial layer of social context, exploring how socioeconomic factors impact a person’s ability to manage their health. Her systematic review is vital for tackling health inequalities, showing that effective psychological interventions cannot be context-blind.\n\n\nCampbell, M., et al. (2023). Self-management of multiple long-term conditions: A systematic review of the barriers and facilitators amongst people experiencing socioeconomic deprivation. PLoS ONE, 18(2), e0282036."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#navigating-grief-and-loss-in-childhood",
-    "href": "slides/seminar_series_intro/index.html#navigating-grief-and-loss-in-childhood",
-    "title": "What’s the point of research at a time like this?",
-    "section": "Navigating Grief and Loss in Childhood",
-    "text": "Navigating Grief and Loss in Childhood\n\n\n\n\nMaggie Jackson\n\n\nChildren’s picture books can “offer a potentially safe way to allow adults and children to talk about and ask questions about death together.” This approach helps demystify a difficult topic and fosters emotional literacy from an early age.\n\n\n\npaper advocates for using children’s picture books as an effective and gentle way to introduce conversations about death and loss in the primary classroom.”\n“Modern picture books can provide a ‘safe way’ for adults and children to explore the topic together, addressing loss in familiar contexts like the death of a pet or grandparent.”\n\n\n\nJackson, M. (2019). Sneaking Death Into the Classroom [Conference paper]. Death, Dying and Disposal 14, University of Bath, Bath, United Kingdom."
-  },
-  {
-    "objectID": "slides/seminar_series_intro/index.html#the-value-of-psychology-and-social-work-research",
-    "href": "slides/seminar_series_intro/index.html#the-value-of-psychology-and-social-work-research",
-    "title": "What’s the point of research at a time like this?",
-    "section": "The Value of Psychology and Social Work Research",
-    "text": "The Value of Psychology and Social Work Research\n\nBeneath environmental, political and social disruption lie fundamental human processes.\nIn a complex world, the evidence-based, but deeply human insights of this research are more essential than ever.\nThe work done at Teesside University focuses on the mechanisms that underlie these challenges and can be harnessed to create meaningful change.\n\n\nTo conclude, I hope this brief overview has given you a sense of the breadth and depth of research being conducted in the Department of Psychology and Social Work at Teesside University.\nWe can see that the work we do here is vital to understanding the complex human behaviour that underpins many of the biggest challenges we face today.\nI hope that this has whet your appetite to learn more about our research and to attend the seminar series in the coming months where the researchers will be presenting new work in much more detail."
+    "objectID": "studies/hypomania_gambling.html",
+    "href": "studies/hypomania_gambling.html",
+    "title": "Hypomania and Risk-Taking in Gambling",
+    "section": "",
+    "text": "Previous research has demonstrated the relationship between hypomanic states and risky economic behaviour, such as gambling. This study (completed and currently being written for publication) examined this relationship in a sub-clinical population.\nThe experiment tested competing theories (“goal focus” versus “risk insensitivity”) which could explain this phenomenon. Using the Cambridge Gambling Task, we were able to derive distinct patterns of decision-making under risk and relate them to each potential theoretical explanation."
   },
   {
     "objectID": "tools/custom_tasks.html",
@@ -969,39 +983,5 @@
     "title": "Lab Equipment and Software",
     "section": "Open Source Sofware Development",
     "text": "Open Source Sofware Development\nTo support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.\nLearn more about the COBI fNIRS software"
-  },
-  {
-    "objectID": "research/gambling.html#research-programme-overview",
-    "href": "research/gambling.html#research-programme-overview",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Research Programme Overview",
-    "text": "Research Programme Overview\nThis research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.\n\nCognitive Moderators (e.g., attention, memory, numeracy)\nClinical Vulnerability (e.g., depression, hypomania, anxiety)\nThe Social Context (e.g., sports engagement, social identity)\nNeurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)",
-    "crumbs": [
-      "Gambling Research Programme"
-    ]
-  },
-  {
-    "objectID": "studies/hypomania_gambling.html",
-    "href": "studies/hypomania_gambling.html",
-    "title": "Hypomania and Risk-Taking in Gambling",
-    "section": "",
-    "text": "Previous research has demonstrated the relationship between hypomanic tendencies and risky economic behaviour, such as gambling. This study (completed and currently being written for publication) examined this relationship in a sub-clinical population.\nThe experiment tested competing theories (“goal focus” versus “risk insensitivity”) which could explain this phenomenon. Using the Cambridge Gambling Task, we were able to derive distinct patterns of decision-making under risk and relate them to each potential theoretical explanation."
-  },
-  {
-    "objectID": "research/gambling.html#studies",
-    "href": "research/gambling.html#studies",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
-    "section": "Studies",
-    "text": "Studies",
-    "crumbs": [
-      "Gambling Research Programme"
-    ]
-  },
-  {
-    "objectID": "recruitment/afsgwp2.html",
-    "href": "recruitment/afsgwp2.html",
-    "title": "Sports Engagement and Gambling Interviews",
-    "section": "",
-    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nParticipants should be willing to conduct and interview over Microsoft Teams, which will be recorded.\nThe interview will last approximately 45 minutes\nWe are offering a £15 shopping voucher as a token of appreciation.\n\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports and you have expressed an interest in being interviewed about this topic.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nYou will be interviewed about the topic of gambling in sports groups, including your experiences of this subject. You agree to take part in a Teams interview which involves using a webcam and that the interview will be recorded for the purposes of transcription.\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questions on this topic then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe interviews will be recorded and the recordings will be stored in password protected Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form. Transcripts of the interviews will also be created and stored in the same way.\nWhat you say in the interview will be anonymised. The transcript will be identified only by a pseudonym (a fake name), and any information that could identify you will be redacted.\nOnce written transcripts have been created, you will be given an opportunity to verify their accuracy. Once this has been done, the recordings of the interviews will be deleted. However, the transcripts from the interviews (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£10 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your interview transcript, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nAre there any circumstances under which my confidentiality could be breached?\nThis would only happen if you disclose any information during interviews that the researcher feels may result in harm to the participants or others, the researcher will need to breach confidentiality in order to inform the lead researcher. The researcher will then inform appropriate agencies in order to maintain the safety of those involved.\nThe researcher will act in accordance with the British Psychological Society’s Code of Human Research Ethics (2021) and the BPS Code of Ethics and Conduct (2021).\nWhen will I receive my token of appreciation: if you provide your email to receive a £15 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by notifying the interviewer.\nIf you complete the interview, you can withdraw your participation up to 7 days from the date of the interview. You will be asked to confirm your satisfaction with the the interview transcript within aprox. 7 days, at which point you can withdraw if you wish.\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk"
   }
 ]
