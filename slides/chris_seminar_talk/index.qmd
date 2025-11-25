@@ -67,7 +67,7 @@ While I will still talk about this, I thought it might be more suitable for this
     -   **The Rationale Point:** "This isn't just a marketing error; it’s a 'cue-reactivity' failure. We are using fNIRS to map exactly how these digital triggers hijack the brain's control systems."
 :::
 
-## The social context
+## The social context {background-image="../../images/gambling_ads.jpg" background-opacity="0.1"}
 
 -   Increasing prevalence of gambling advertisement
 
@@ -87,6 +87,16 @@ gambling has started to become norm-congruent behaviour within these social grou
 
 -   Behavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions [@schwebel2020]
 
+::: notes
+One of the things you see in reviewing the literature on this topic is that their is a lot of research.
+
+However the research is spread across disciplines and different areas of focus: policy and legislation, the public health agenda, clinical treatment, psychological processes...
+
+There's a bifurcation (although in multiple directions) in the research.
+
+Our research programme is designed to try to connect some of those strands.
+:::
+
 # The Research Programme
 
 ## 
@@ -103,9 +113,11 @@ The work seeks to integrate four strands:
 3.  **Cognitive Moderators** (The Tools)
 
 4.  **Neural Mechanisms** (The Underlying Biology)
+
+Our focus on the neural mechanisms, while also taking into account clinical vulnerabilities, and social factors gives us the potential to conduct really impactful work.
 :::
 
-## Clinical Vulnerabilities
+## Clinical Vulnerabilities {background-image="../../images/gambling_neuro.jpg" background-opacity="0.1"}
 
 -   **Doctoral Work:** *Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling.* ***Ema Abir*** (DClin)
 
@@ -118,6 +130,10 @@ The work seeks to integrate four strands:
 -   **Study:** *Anxiety & Decision-Making.* Investigating how anxiety specifically impacts decision quality vs. risk-taking. ***Summer Hall***
 
 ::: notes
+In terms of the clinical vulnerabilties, we have several DClin projects which look at how depression and hypomania interact with other cognitive processes to affect risky decision-making.
+
+They also examine the neurological level indicators to try to build a process-based account of the behaviour - showing us when and were is a neural response occurs.
+
 Finishing data collecton on DM and AG studies
 
 UG is a pilot study
@@ -125,7 +141,7 @@ UG is a pilot study
 All involve both neural mechanisms and cognitive moderators
 :::
 
-## Social Context
+## Social Context {background-image="../../images/gambling_group.jpg" background-opacity="0.1"}
 
 -   **Funded Project:** “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.
 
@@ -134,9 +150,14 @@ All involve both neural mechanisms and cognitive moderators
 -   **Review:** *Systematic Review on the efficacy of gambling harms policy-related interventions.* **w/ Dr. Andrew Richardson**
 
 ::: notes
+There has been a noted lack of work in understanding recreational gambling and the nuances of its development in specific social contexts. Our focus so far has been on sports engagement and the sporting identity. This links back to the symbolic construction of sports betting \[lopez-gonzalez\].
+
+The project I am going to talk about in more detail today focuses on this.
+
+We also have some pilot projects (UG) looking at the development of implicit associations between sports and gambling
 :::
 
-## Cognitive Mechanisms
+## Cognitive Mechanisms {background-image="../../images/gambling_decision.jpg" background-opacity="0.1"}
 
 -   **Published Study:** @wilson2026 demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour
 
@@ -145,25 +166,36 @@ All involve both neural mechanisms and cognitive moderators
 -   **Study:** *Short-Form Video Adverts.* Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. ***Theia Morgan***
 
 ::: {style="notes"}
+All of the clinical projects I talked about earlier included specific cognitive mechanisms such as working memory, attention, impulsivity etc.
+
+We have some non-clinical work which incorporates cognition too.
 :::
 
 # Focus: "It's part of the sport" project
 
 ![](/images/afsg_logo.png){width="500"}
 
-::: notes
+Dr Christopher Wilson, Dr Srdan Medimorec, Prof. Judith Eberhardt, Dr. Robert Portman, Hannah Poulter, Lorraine Temple
+
+:::: notes
+<div>
+
 What the preceding slides show is a body of work that is being conducted within our lab which tackles this problem across the different domains I mentioned earlier.
 
 Of course, the UG work might be considered pilots or proof of concept.
 
-We also have a series of doctoral projects that involve complex cognitive neuroscience experiements, behavioural and cogntiive measures of risk-taking
+We also have a series of doctoral projects that involve complex cognitive neuroscience experiements, behavioural and cogntive measures of risk-taking
 
 Published work and papers under submission and in perparation
-:::
+
+Now, I want to focus on a project in progress...
+
+</div>
+::::
 
 ## Project Team
 
-![](images/afsg_project_team.png){fig-align="center" width="100%"}
+![](images/afsg_project_team.png){fig-align="center" width="200%"}
 
 ## Project Background
 
@@ -173,7 +205,19 @@ Published work and papers under submission and in perparation
 
 -   “urgent need to identify predictors of disordered gambling in people who gamble recreationally \[…\] particularly across relationship \[… \] domains” [@bowden-jones2022]
 
-## The Social Component
+::: notes
+This project looks to address a gap in the literature about the role of socialisation - for example engagement as a fan or a player might influence gambling behaviour.
+
+-   Does it just increase exposure?
+
+-   Does it link to attitudes?
+
+-   Does it relate to frequency of betting or amount bet..
+
+There are lots of questions
+:::
+
+## Social Identification {background-image="../../images/gambling_sport.jpg" background-opacity="0.1"}
 
 -   Socialisation through family or peer groups is a common starting point in the initiation of gambling behaviour [@reith2011]
 
@@ -183,9 +227,17 @@ Published work and papers under submission and in perparation
 
     -   to engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling [@constandt2022]
 
+::: notes
+There has been work done before linking sports involvement to gambling behavour...
+
+However, much of the previous work treats the social context of sports engagement as a transient environmental experience. That is to say, an environment you can be in or out of - an external source of influence.
+
+Social identity is not a transient external source of influence, it is a state. It is who the person sees themselves to be. And although that can be context dependent... it is a very different way of looking at this topic.
+:::
+
 ## Research Questions
 
-> We theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member [@jetten2017]
+> We theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member
 
 -   Research Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?
 
@@ -207,9 +259,29 @@ Published work and papers under submission and in perparation
 
 ![](images/afsg_project_overview.png){fig-align="center" width="971"}
 
+::: notes
+-   Exploratory
+
+-   Role of EBEs
+
+-   Recruitment through sports networks, not gambling networks
+:::
+
 ## Work Package 1
 
 ![](/images/afsg_models.png){fig-align="center"}
+
+::: notes
+-   Survey approach - controlled access
+
+-   Sports engagement / fandom / involvement
+
+-   Social identity / prototypical group membership
+
+-   Gambling measures: PGSI, Follow-back, Attitudes...
+
+This is a diagram showing some of the hypotheses we will be testing
+:::
 
 ## Work Package 2: Interviews
 
@@ -230,6 +302,11 @@ Published work and papers under submission and in perparation
 -   Interview data will be analysed using Framework Analysis [@gale2013]
 
     ::: notes
+    In this part of the work we are taking some of the concepts that are explored in the questionnaires and we are interviewing people
+
+    -   Exploring normalisation
+
+    -   Theory-linked (not as inductive)
     :::
 
 ## Progress and current Status
@@ -239,6 +316,8 @@ Published work and papers under submission and in perparation
 -   Survey data collection (current n = 120)
 
 -   Interviews currently being scheduled
+
+# Why does this work matter?
 
 # Why does this work matter?
 
