@@ -165,7 +165,7 @@ We also have some pilot projects (UG) looking at the development of implicit ass
 
 -   **Study:** *Short-Form Video Adverts.* Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. ***Theia Morgan***
 
-::: {style="notes"}
+::: {.notes}
 All of the clinical projects I talked about earlier included specific cognitive mechanisms such as working memory, attention, impulsivity etc.
 
 We have some non-clinical work which incorporates cognition too.
