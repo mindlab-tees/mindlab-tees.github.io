@@ -46,7 +46,7 @@
     "href": "tools/cobifnirs.html",
     "title": "COBI fNIRS R Package",
     "section": "",
-    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\nNo matching items\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "slides/seminar_series_intro/index.html#the-challenges-we-face",
@@ -238,11 +238,137 @@
     "text": "The Value of Psychology and Social Work Research\n\nBeneath environmental, political and social disruption lie fundamental human processes.\nIn a complex world, the evidence-based, but deeply human insights of this research are more essential than ever.\nThe work done at Teesside University focuses on the mechanisms that underlie these challenges and can be harnessed to create meaningful change.\n\n\nTo conclude, I hope this brief overview has given you a sense of the breadth and depth of research being conducted in the Department of Psychology and Social Work at Teesside University.\nWe can see that the work we do here is vital to understanding the complex human behaviour that underpins many of the biggest challenges we face today.\nI hope that this has whet your appetite to learn more about our research and to attend the seminar series in the coming months where the researchers will be presenting new work in much more detail."
   },
   {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#overview",
-    "title": "‘It’s part of the sport’",
-    "section": "Overview",
-    "text": "Overview\n\nContext\nGambling harms\nThe complex nature of the topic\nDescribing a research programme\n\nClinical work: Hypomania\nClinical work: Depression\nClinical work Anxiety\nSocial: Implicit Associations with sport\nSocial: Effects of advertising via short form video\nPolicy: Efficacy of gambling policy\n\n“It’s part of the sport” - project overview\n“It’s part of the sport” - WP1 progress\n“It’s part of the sport” - WP 2 progress\n“It’s part of the sport” - project outcomes\nFuture research"
+    "objectID": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
+    "href": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Aims of this talk",
+    "text": "Aims of this talk\n\nTo outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#the-multi-dimensional-nature-of-gambling-harms",
+    "href": "slides/chris_seminar_talk/index.html#the-multi-dimensional-nature-of-gambling-harms",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "The multi-dimensional nature of gambling harms",
+    "text": "The multi-dimensional nature of gambling harms\n\n\n\nMeasuring gambling-related harms (Wardle et al., 2018)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#the-regulatory-context",
+    "href": "slides/chris_seminar_talk/index.html#the-regulatory-context",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "The regulatory context",
+    "text": "The regulatory context\n\nThe failure of “soft friction”\nCognitive knowledge is used for exploitative purposes - could be used positively\n“Self-exclusion” failure and cue reactivity\nNeed for behavioural measures of harm that assess risk-taking behaviour\n\n\n\nExample A: The Failure of “Soft Friction” (The “Pop-Up” Problem)\n\nThe Evidence: Use the Gamesys and Petfre (Betfred) enforcement cases from the UKGC bulletins. These operators used “soft” interactions (like emails or pop-ups) which players simply ignored while continuing to lose thousands of pounds .\nThe Rationale Point: “Policy currently relies on ‘soft friction’—asking people to stop. The regulatory data proves this fails because the ‘hot’ cognitive state (the urge) overrides the intervention. We need neuroscience to design ‘hard friction’ that actually engages the prefrontal cortex.”\n\nExample B: “Losses Disguised as Wins” (The Cognitive Exploit)\n\nThe Evidence: The UKGC “Safer by Design” mandate banned features where a player loses money (e.g., 50p return on a £1 bet) but the machine plays celebratory music .\nThe Rationale Point: “Gambling products are engineered to exploit specific neural errors. ‘Losses Disguised as Wins’ trick the striatum into releasing dopamine during a financial loss. My programme investigates how to reverse-engineer these exploits.”\n\nExample C: The “Self-Exclusion” Failure (Cue-Reactivity)\n\nThe Evidence: Operators have been fined for sending marketing emails to self-excluded players. This acts as a “hot cue” that triggers immediate craving and relapse, bypassing the player’s “cool” pre-commitment .\nThe Rationale Point: “This isn’t just a marketing error; it’s a ‘cue-reactivity’ failure. We are using fNIRS to map exactly how these digital triggers hijack the brain’s control systems.”"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#the-social-context",
+    "href": "slides/chris_seminar_talk/index.html#the-social-context",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "The social context",
+    "text": "The social context\n\nIncreasing prevalence of gambling advertisement\nNormalisation (Norm-congruence) of gambling as a part of sports engagement (Duggan and Mohan 2022; Jetten et al. 2017)\nThe symbolic construction of sports betting (Lopez-Gonzalez, Griffiths, and Jimenez-Murcia 2021)\n\n\ngambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al., 2017)."
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#the-research-silos",
+    "href": "slides/chris_seminar_talk/index.html#the-research-silos",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "The research silos",
+    "text": "The research silos\n\nRecent review of interventions for treatment of harmful gambling found 8 studies, all of which were retrospective - no experimental work (Seel et al. 2024)\nWe can identify neural deficits linked to gambling disorder (prefrontal-stratial dysregulation) but there is a call for “new interventions” which incorporate this knowledge (Raimo et al. 2021)\nBehavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions (Schwebel, Korecki, and Witkiewitz 2020)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#section",
+    "href": "slides/chris_seminar_talk/index.html#section",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "",
+    "text": "The work seeks to integrate four strands:\n\nSocial Context (The Environment)\nClinical Vulnerability (The Individual)\nCognitive Moderators (The Tools)\nNeural Mechanisms (The Underlying Biology)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#clinical-vulnerabilities",
+    "href": "slides/chris_seminar_talk/index.html#clinical-vulnerabilities",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Clinical Vulnerabilities",
+    "text": "Clinical Vulnerabilities\n\nDoctoral Work: Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling. Ema Abir (DClin)\nDoctoral Work: How risk imperception and reward magnitude moderate the relationship between subclinical hypomania and decision making. David Minchella (DClin)\nDoctoral Work: The role of impulsivity and working memory in the the relationship between subclinical hypomania and decision making. Alana Gadsby (DClin)\nCompleted Study Wilson, C.J., Medimorec, S., Naganathan, J et al. (in prep) Risk Imperception, Not Reward Focus Underlies Poor Gambling Decisions in Subclinical Hypomania.\nStudy: Anxiety & Decision-Making. Investigating how anxiety specifically impacts decision quality vs. risk-taking. Summer Hall\n\n\nFinishing data collecton on DM and AG studies\nUG is a pilot study\nAll involve both neural mechanisms and cognitive moderators"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#social-context",
+    "href": "slides/chris_seminar_talk/index.html#social-context",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Social Context",
+    "text": "Social Context\n\nFunded Project: “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\nStudy: Sports Engagement & Implicit Associations. Testing if high sports engagement predicts a stronger implicit cognitive association between “Sport” and “Gambling.” Thomas Wilkinson\nReview: Systematic Review on the efficacy of gambling harms policy-related interventions. w/ Dr. Andrew Richardson"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#cognitive-mechanisms",
+    "href": "slides/chris_seminar_talk/index.html#cognitive-mechanisms",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Cognitive Mechanisms",
+    "text": "Cognitive Mechanisms\n\nPublished Study: Wilson (2026) demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour\n\nThis is an proof-of concept experimental demonstration of the “hot-to-cool” shift that the gambling commission were advocating\n\nStudy: Short-Form Video Adverts. Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. Theia Morgan"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#project-team",
+    "href": "slides/chris_seminar_talk/index.html#project-team",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Project Team",
+    "text": "Project Team"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#project-background",
+    "href": "slides/chris_seminar_talk/index.html#project-background",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Project Background",
+    "text": "Project Background\n\nDiscourse around reducing harms is still heavily focused on the individual (Marko et al. 2022)\nFailure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology (Borrell and Boulet 2005)\n“urgent need to identify predictors of disordered gambling in people who gamble recreationally […] particularly across relationship [… ] domains” (Bowden-Jones et al. 2022)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#the-social-component",
+    "href": "slides/chris_seminar_talk/index.html#the-social-component",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "The Social Component",
+    "text": "The Social Component\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#research-questions",
+    "href": "slides/chris_seminar_talk/index.html#research-questions",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Research Questions",
+    "text": "Research Questions\n\nWe theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al. 2017)\n\n\nResearch Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?\nResearch Question 2: Is the relationship between sports engagement and gambling behaviour moderated by social identification with sports groups?\nResearch Question 3: How do people experience the normalisation of gambling within sports social groups?"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#methodology",
+    "href": "slides/chris_seminar_talk/index.html#methodology",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Methodology",
+    "text": "Methodology\n\nMixed methods approach\nWP1: a cross-sectional survey-based study\nWP 2: a qualitative study.\nWP 3: a synthesis of these ideas into recommendations for stakeholders"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#project-structure",
+    "href": "slides/chris_seminar_talk/index.html#project-structure",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Project Structure",
+    "text": "Project Structure"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#work-package-1",
+    "href": "slides/chris_seminar_talk/index.html#work-package-1",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Work Package 1",
+    "text": "Work Package 1"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#work-package-2-interviews",
+    "href": "slides/chris_seminar_talk/index.html#work-package-2-interviews",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Work Package 2: Interviews",
+    "text": "Work Package 2: Interviews\n\nFocusing on the experience of normalisation of gambling\nTopics covered:\n\nSports engagement\nIndividual level; survey: attitudes, gambling behaviour, problem gambling symptoms\nFamilies, peers; survey: conformity, social identity\nCommunity/organisational level; survey: sports engagement, group identity\nSocietal/commercial; survey: advertising, outcome expectancies\n\nInterview data will be analysed using Framework Analysis (Gale et al. 2013)"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#progress-and-current-status",
+    "href": "slides/chris_seminar_talk/index.html#progress-and-current-status",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "Progress and current Status",
+    "text": "Progress and current Status\n\nTargeted recruitment at sports organisations and fan groups\nSurvey data collection (current n = 120)\nInterviews currently being scheduled"
+  },
+  {
+    "objectID": "slides/chris_seminar_talk/index.html#references",
+    "href": "slides/chris_seminar_talk/index.html#references",
+    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\nAtte Oksanen, Atte Oksanen, Anu Sirola, Anu Sirola, Ilkka Savolainen, Iina Savolainen, Aki Koivula, et al. 2021. “Social Ecological Model of Problem Gambling: A Cross-National Survey Study of Young People in the United States, South Korea, Spain, and Finland.” International Journal of Environmental Research and Public Health 18 (6): 3220. https://doi.org/10.3390/ijerph18063220.\n\n\nBorrell, Jennifer, and Jacques Boulet. 2005. “A Critical Exploration of Objectivity and Bias in Gambling (and Other) Research.” International Journal of Mental Health & Addiction 2.\n\n\nBowden-Jones, Henrietta, Roxanne W. Hook, Jon E. Grant, Konstantinos Ioannidis, Ornella Corazza, Naomi A. Fineberg, Bryan F. Singer, et al. 2022. “Gambling Disorder in the UK: Key Research Priorities and the Urgent Need for Independent Research Funding.” The Lancet Psychiatry 9 (4): 321–29. https://doi.org/10.1016/S2215-0366(21)00356-4.\n\n\nConstandt, Bram, Johan Rosiers, Jolien Moernaut, Stef Van Der Hoeven, and Annick Willem. 2022. “Part of the Game? Exploring the Prevalence and Normalization of Gambling in Belgian Sports Clubs.” International Journal of Environmental Research and Public Health 19 (11): 6527. https://doi.org/10.3390/ijerph19116527.\n\n\nDuggan, Brendan, and Gretta Mohan. 2022. “A Longitudinal Examination of Young People’s Gambling Behaviours and Participation in Team Sports.” Journal of Gambling Studies 39 (2): 541–57. https://doi.org/10.1007/s10899-022-10175-x.\n\n\nGale, Nicola K., Gemma Heath, Elaine Cameron, Sabina Rashid, and Sabi Redwood. 2013. “Using the Framework Method for the Analysis of Qualitative Data in Multi-Disciplinary Health Research.” BMC Medical Research Methodology 13 (1): 117. https://doi.org/10.1186/1471-2288-13-117.\n\n\nJetten, Jolanda, S. Alexander Haslam, Tegan Cruwys, Katharine H. Greenaway, Catherine Haslam, and Niklas K. Steffens. 2017. “Advancing the Social Identity Approach to Health and Well-Being: Progressing the Social Cure Research Agenda.” European Journal of Social Psychology 47 (7): 789–802. https://doi.org/10.1002/ejsp.2333.\n\n\nLopez-Gonzalez, Hibai, Mark D. Griffiths, and Susana Jimenez-Murcia. 2021. “The Symbolic Construction of Sports Betting Products.” International Gambling Studies 21 (3): 498–515. https://doi.org/10.1080/14459795.2021.1937274.\n\n\nMarko, Sarah, Samantha L. Thomas, Kim Robinson, and Mike Daube. 2022. “Gamblers’ Perceptions of Responsibility for Gambling Harm: A Critical Qualitative Inquiry.” BMC Public Health 22 (1): 725. https://doi.org/10.1186/s12889-022-13109-9.\n\n\nRaimo, Simona, Maria Cropano, Luigi Trojano, and Gabriella Santangelo. 2021. “The neural basis of gambling disorder: An activation likelihood estimation meta-analysis.” Neuroscience and Biobehavioral Reviews 120 (January): 279–302. https://doi.org/10.1016/j.neubiorev.2020.11.027.\n\n\nReith, Gerda, and Fiona Dobbie. 2011. “Beginning Gambling: The Role of Social Networks and Environment.” Addiction Research & Theory 19 (6): 483–93. https://doi.org/10.3109/16066359.2011.558955.\n\n\nSchwebel, Frank J., J. Richard Korecki, and Katie Witkiewitz. 2020. “Addictive Behavior Change and Mindfulness-Based Interventions: Current Research and Future Directions.” Current Addiction Reports 7 (2): 117–24. https://doi.org/10.1007/s40429-020-00302-2.\n\n\nSeel, C. J., M. Jones, D. R. Christensen, R. May, A. E. Hoon, and S. Dymond. 2024. “Treatment of Harmful Gambling: A Scoping Review of United Kingdom-Based Intervention Research.” BMC Psychiatry 24 (1). https://doi.org/10.1186/s12888-024-05843-8.\n\n\nWilson, Christopher J. 2026. “Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load.” Behavioural Brain Research 496 (January): 115829. https://doi.org/10.1016/j.bbr.2025.115829."
   },
   {
     "objectID": "research/gambling.html#research-programme-overview",
@@ -382,63 +508,203 @@
     "href": "recruitment/afsgwp1.html",
     "title": "Sports Engagement and Gambling",
     "section": "",
-    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nThe survey takes about 15 minutes to complete.\nWe are offering a £5 shopping voucher as a token of appreciation.\n\nTo take part, you need to receive a link directly from the research team.\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nComplete several questionnaires which cover the following topics:\n\nDemographics (i.e., your age, gender, education level and income)\nYour engagement with sports and socialisation with sports groups\nYour current and prior experiences of gambling\n\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questionnaires that cover any of the above topics, such as gambling, then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe responses to the questions that you provide will initially be stored in an encrypted form on a web server, and then downloaded to Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form.\nThis information will be identified only by a randomly-generated participant ID code, so will be anonymised from the outset. The responses you provide (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£5 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your questionnaire responses, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nWhen will I receive my token of appreciation: if you enter your email to receive a £5 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nYou will be offered the opportunity, following this study, to take part in an online interview at a later date, and to provide your email for the purposes of arranging this interview. You can choose not to do this, but if you provide your email address for this purpose, it will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by closing this web browser window.\nOnce you complete the study (by clicking “complete study” at the end) you will not be able to withdraw your data, as the data will be anonymised.\nInformation about the School Research Ethics Committee and Chair\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk"
+    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nThe survey takes about 15 minutes to complete.\nWe are offering a £5 shopping voucher as a token of appreciation.\n\nTo take part, you need to receive a link directly from the research team.\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nComplete several questionnaires which cover the following topics:\n\nDemographics (i.e., your age, gender, education level and income)\nYour engagement with sports and socialisation with sports groups\nYour current and prior experiences of gambling\n\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questionnaires that cover any of the above topics, such as gambling, then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe responses to the questions that you provide will initially be stored in an encrypted form on a web server, and then downloaded to Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form.\nThis information will be identified only by a randomly-generated participant ID code, so will be anonymised from the outset. The responses you provide (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£5 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your questionnaire responses, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nWhen will I receive my token of appreciation: if you enter your email to receive a £5 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nYou will be offered the opportunity, following this study, to take part in an online interview at a later date, and to provide your email for the purposes of arranging this interview. You can choose not to do this, but if you provide your email address for this purpose, it will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by closing this web browser window.\nOnce you complete the study (by clicking “complete study” at the end) you will not be able to withdraw your data, as the data will be anonymised.\nInformation about the School Research Ethics Committee and Chair\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk\n\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "publications/wilson2025.html",
     "href": "publications/wilson2025.html",
     "title": "New research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions",
     "section": "",
-    "text": "A new paper from the MIND Lab has been published in the journal Behavioural Brain Research. The paper, titled “Neurological and behavioural correlates of construal in economic decision-making under cognitive load”, examines how construal level interacts with cognitive load, numeracy, financial literacy and self-control during economic decision-making.\nThis paper has relevance to our understanding of gambling behaviour, as the decisions under examination were functionally gambling decisions. The findings suggest that high construal (thinking about the big picture) promotes risk aversion under cognitive load, while low construal (focusing on details) may lead to increased risk-taking. Additionally, individual differences in self-control, financial literacy and subjective numeracy were found to influence brain activation patterns during these decisions.\nThe study employed functional near-infrared spectroscopy (fNIRS) to measure brain activity, specifically in the lateral pre-frontal cortex (LPFC), which is associated with decision-making and self-control. The results provide new insights into how cognitive processes and individual differences interact to influence economic decisions, particularly in contexts that resemble gambling.\nThe full paper can be accessed via the following link: https://doi.org/10.1016/j.bbr.2025.115829"
+    "text": "A new paper from the MIND Lab has been published in the journal Behavioural Brain Research. The paper, titled “Neurological and behavioural correlates of construal in economic decision-making under cognitive load”, examines how construal level interacts with cognitive load, numeracy, financial literacy and self-control during economic decision-making.\nThis paper has relevance to our understanding of gambling behaviour, as the decisions under examination were functionally gambling decisions. The findings suggest that high construal (thinking about the big picture) promotes risk aversion under cognitive load, while low construal (focusing on details) may lead to increased risk-taking. Additionally, individual differences in self-control, financial literacy and subjective numeracy were found to influence brain activation patterns during these decisions.\nThe study employed functional near-infrared spectroscopy (fNIRS) to measure brain activity, specifically in the lateral pre-frontal cortex (LPFC), which is associated with decision-making and self-control. The results provide new insights into how cognitive processes and individual differences interact to influence economic decisions, particularly in contexts that resemble gambling.\nThe full paper can be accessed via the following link: https://doi.org/10.1016/j.bbr.2025.115829\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "projects/afsg_sport.html",
-    "href": "projects/afsg_sport.html",
-    "title": "New project examines the links between sports engagement and gambling",
+    "objectID": "projects/metacognition.html",
+    "href": "projects/metacognition.html",
+    "title": "Metacognition and cognitive offloading",
     "section": "",
-    "text": "The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour.\n\n\nHighlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the AFSG:\n\n“The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”\n\nThe project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project. Project updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research.\n\nDetails are available on the AFSG website."
+    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
   },
   {
-    "objectID": "people/srdan/index.html",
-    "href": "people/srdan/index.html",
-    "title": "Srdan Medimorec",
+    "objectID": "projects/metacognition.html#research-overview",
+    "href": "projects/metacognition.html#research-overview",
+    "title": "Metacognition and cognitive offloading",
     "section": "",
-    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies."
+    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
   },
   {
-    "objectID": "people/lisa.html",
-    "href": "people/lisa.html",
-    "title": "Lisa Cassidy",
+    "objectID": "projects/accent.html",
+    "href": "projects/accent.html",
+    "title": "Is non-native speech processed in less detail and, if so, why?",
     "section": "",
-    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own."
+    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
   },
   {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "Lab members",
+    "objectID": "projects/accent.html#research-overview",
+    "href": "projects/accent.html#research-overview",
+    "title": "Is non-native speech processed in less detail and, if so, why?",
     "section": "",
-    "text": "NoneNote\n\n\n\nWe are still updating the lab membership for the 2025-26 academic year. Please check back soon!\n\n\n\nLab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nResearch Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items"
+    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
   },
   {
-    "objectID": "people/david.html",
-    "href": "people/david.html",
-    "title": "David Minchella",
+    "objectID": "people/lorraine_temple.html",
+    "href": "people/lorraine_temple.html",
+    "title": "Lorraine Temple",
     "section": "",
-    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception.\nDavid Minchella (Dclin, 2026): Does reward focus moderate the relationship between hypomania and economic risk-taking?"
+    "text": "Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on metacognition and accent perception."
   },
   {
-    "objectID": "people/alana.html",
-    "href": "people/alana.html",
-    "title": "Alana Gadsby",
-    "section": "",
-    "text": "Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory."
+    "objectID": "people/lorraine_temple.html#projects-i-have-been-involved-in",
+    "href": "people/lorraine_temple.html#projects-i-have-been-involved-in",
+    "title": "Lorraine Temple",
+    "section": "Projects I have been involved in",
+    "text": "Projects I have been involved in\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "news/lab_schedule_sem1.html",
-    "href": "news/lab_schedule_sem1.html",
-    "title": "Lab meeting schedule for Semester 1 published",
+    "objectID": "people/lorraine_temple.html#research-training-badges",
+    "href": "people/lorraine_temple.html#research-training-badges",
+    "title": "Lorraine Temple",
+    "section": "Research Training Badges",
+    "text": "Research Training Badges\n\n\n  \n    \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/jaya-priya.html",
+    "href": "people/jaya-priya.html",
+    "title": "Jaya Priya Naganathan",
     "section": "",
-    "text": "The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.\nThe first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this link (www.themindlab.uk/info/lab_schedule.html)."
+    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field.\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "people/ema.html",
+    "href": "people/ema.html",
+    "title": "Ema Abir",
+    "section": "",
+    "text": "Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between depression and problem gambling. Her work employs a neuroeconomic approach, using functional near-infrared spectroscopy to examine neural correlates of gambling decisions.\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "people/chris/index.html",
+    "href": "people/chris/index.html",
+    "title": "Christopher Wilson",
+    "section": "",
+    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. I am a founder and lead of The MIND Lab.\nMy primary research programme is focused on understanding and reducing gambling-related harm. I apply cognitive neuroscience and neuroeconomic approaches to investigate the real-world factors that influence risky decision-making.\nFurther details of my research programme can be found here: The Cognitive Neuroscience of Gambling Behaviour\nIn the lab, I use fNIRS, Eyetracking, and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments.\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "news/tu_research_fair.html",
+    "href": "news/tu_research_fair.html",
+    "title": "MIND Lab at Teesside University Research Fair",
+    "section": "",
+    "text": "The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nDr. Srdan Medimoric said of the event:\n\n“We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University.”\n\nPosters presented at the event included:\n\nIt’s part of the sport: How social identification with sports groups predicts gambling behaviour\nThe cognitive and neural moderators of hypomania and economic risk-taking\nCognitive offloading without benefits to performance?\nIs non-native speech processed in less detail and, if so, why?\n\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "info/lab_schedule.html",
+    "href": "info/lab_schedule.html",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "",
+    "text": "Last Updated: Oct 2025"
+  },
+  {
+    "objectID": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "href": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "Meeting schedule for Semester 1 2025/2026",
+    "text": "Meeting schedule for Semester 1 2025/2026\nThe meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nTime 2pm. Room: CL1.03 Themis\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nIntroduction to fNIRS for brain imaging\n\n\n13/11/25\nLab meeting\n\n\n27/11/25\nIntroduction to eyetracking for cognitive psychology\n\n\n15/01/26\nLab meeting\n\n\n29/01/26\nDesigning and coding experiments with OpenSesame\n\n\n12/2/2026\nLab meeting\n\n\n26/02/26\nUsing OpenScience Framework (OSF) for research management\n\n\n12/3/2026\nLab meeting"
+  },
+  {
+    "objectID": "info/lab_schedule.html#lab-events",
+    "href": "info/lab_schedule.html#lab-events",
+    "title": "Lab Events and Meeting Schedule",
+    "section": "Lab Events",
+    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\n2025-10-29\n\n\nCL2.02 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.\n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "info/lab_induction.html#introductions",
+    "href": "info/lab_induction.html#introductions",
+    "title": "Introduction to the lab",
+    "section": "Introductions",
+    "text": "Introductions\nDr Christopher Wilson\nDr Srdan Medimorec"
+  },
+  {
+    "objectID": "events/tu_research_fair.html",
+    "href": "events/tu_research_fair.html",
+    "title": "MIND Lab @ Teesside University Research Fair",
+    "section": "",
+    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html",
+    "href": "events/intro_to_fnirs.html",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "",
+    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+  },
+  {
+    "objectID": "events/intro_to_fnirs.html#workshop-outline",
+    "href": "events/intro_to_fnirs.html#workshop-outline",
+    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "section": "Workshop Outline",
+    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
+  },
+  {
+    "objectID": "events/chris_talk_25.html",
+    "href": "events/chris_talk_25.html",
+    "title": "Research Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour",
+    "section": "",
+    "text": "Dr Christopher Wilson will be delivering a talk on 26th November 2025 at 2:00 PM in CL1.06. The talk will outline the programme of research currently being conducted the The MIND Lab on the clinical, cognitive, neurological and social aspects of gambling behaviour and gambling harms. It will also focus on a new project exploring how social identification with sports groups predicts gambling behaviour.\nThis talk is part of the psychology and social work research seminar series at Teesside University and is open to all students and staff interested in the psychological and social aspects of gambling behaviour."
+  },
+  {
+    "objectID": "events/chris_talk_25.html#abstract",
+    "href": "events/chris_talk_25.html#abstract",
+    "title": "Research Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour",
+    "section": "Abstract",
+    "text": "Abstract\nPrevious research has indicated that social relationships are a strong factor in the maintenance of gambling harms. There are certain sports (e.g., football), wherein gambling has become a normalised part of socialising within these groups. However, while some research has found sports participation is a predictor of gambling behaviour, there is a lack of work exploring how social identification with sports groups might predict gambling and which aspects of gambling it might be linked to (e.g., frequency of gambling, amount gambled, attitudes to gambling). Furthermore, while we know little about how socialisation can lead to gambling in families, we know little about how people experience the normalisation of gambling within wider social groups.\nThis current project, funded by the AFSG aims to explore how social identification with sports groups is linked to gambling behaviour; to explore which aspects of gambling behaviour are predicted by social identification with sports groups and to explore how people experience the normalisation of gambling within sports social groups."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About our lab",
+    "section": "",
+    "text": "The Wilson-Medimorec MIND Lab is a collaborative research group co-led by Dr Christopher wilson and Dr Srdan Medmiorec, who are based within the Department of Psychology at Teesside University.\nEstablished in 2024, the group serves as the central hub for the research programmes, grants, and outputs led by Principal Investigators Dr. Christopher Wilson and Dr. Srdan Medimorec. By pooling our resources and expertise, we provide a structured and focused research environment for our students, supervisees and collaborators.\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "events/college_talk.html",
+    "href": "events/college_talk.html",
+    "title": "Breaking big problems into small pieces…",
+    "section": "",
+    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour.\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
+  },
+  {
+    "objectID": "events/srdan_talk_25.html",
+    "href": "events/srdan_talk_25.html",
+    "title": "Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.",
+    "section": "",
+    "text": "Dr Srdan Medimorec will be giving a research talk titled “The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory” on October 29, 2025, at 2:00 PM in CL2.02.\nThis talk is part of the psychology and social work research seminar series at Teesside University and is open to all students and staff interested in the cognitive aspects of language and learning."
+  },
+  {
+    "objectID": "events/srdan_talk_25.html#abstract",
+    "href": "events/srdan_talk_25.html#abstract",
+    "title": "Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.",
+    "section": "Abstract",
+    "text": "Abstract\nPeople adjust the way they speak and write depending on the situation. For example, they may simplify their language when addressing children or older adults. Such adjustments likely help make communication clearer and easier to understand, which is especially important in instructional settings. In a series of studies, we first demonstrated that speech characteristics vary systematically across academic disciplines. For instance, science lectures often present conceptually difficult material but tend to compensate by using simpler syntax. We then examined how these linguistic variations in lectures relate to student learning. Specifically, we tested whether computationally derived measures of language difficulty could predict performance on multiple-choice and short-answer assessments. Our findings demonstrate a strong relationship between lecture language features and students’ memory."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to the Lab",
+    "section": "",
+    "text": "The Wilson-Medimorec MIND Lab is a collaborative research group co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.\nWe use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
+  },
+  {
+    "objectID": "index.html#lab-news",
+    "href": "index.html#lab-news",
+    "title": "Welcome to the Lab",
+    "section": "Lab News",
+    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nThe MIND Lab Research Challenge\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions\n\n\nConstrual level has been shown to influence economic decisions, affecting both risk perception and risk-taking. However, there has been some inconsistency as to the exact…\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting schedule for Semester 1 published\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab at Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "Welcome to the Lab",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\nThe full lab meeting and event schedule can be found on the Lab Schedule page.\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\n2025-10-29\n\n\nCL2.02 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "info/lab_manual.html",
@@ -504,186 +770,53 @@
     "text": "Organisation and collaboration\nHaving a consistent approach to organisation and collaboration is important for the success of the lab. This means having clear processes and procedures for conducting research, managing data, and communicating with each other. By using a consistent approach, we can maintain research integrity, proper research protocols and data management practices.\n\nCommunication\nWe will use the lab website as the main external communication tool for the lab. This will include information about the lab, our research, and opportunities to get involved. You can contribute to the website by sharing your work, writing blog posts, and sharing news and updates about the lab.\nWe will use Microsoft Teams as the main internal communication tool for the lab. This will include channels for different projects, as well as general channels for lab members to share ideas and discuss their work. We will also use Teams for video calls and meetings.\nThis will allow us to maintain a central repository of information and resources, and to communicate effectively with each other. We will also use email for more formal communication, but we encourage you to use Teams for day-to-day communication.\n\n\nData collection and management\nAll projects should have a Data Management Plan (DMP) that outlines how data will be collected, stored, and shared. This should include information about the types of data being collected, how it will be stored and backed up, and how it will be shared with others. We will provide templates and guidance on how to create a DMP.\nWhen collecting data for a project, it is essential that you adhere to the DMP and follow all guidelines and protocols for data collection. This particularly relates to storing, saving and backing up data, as well the storage of any personal information from participants.\nFailure to adhere to the DMP and guidelines for data collection may result in the loss of data, violation of legal/ethical requirements or other issues that could impact the integrity of the research. If you have any questions or concerns about the DMP or data collection, please speak to the lab leads.\n\n\nThe Open Science Framework (OSF)\nWe will use the OSF to manage our projects and share our data, methods and findings with others. This will include creating a project page for each project, where you can share your data, methods and findings. We will provide training on how to use the OSF in accordance with the lab’s policies and procedures.\n\n\nGithub\nWe will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab’s policies and procedures.\n\n\nThe lab website\nThe lab website will generally be run by the lab leads, but we will encourage all lab members to contribute to the website. This will include sharing your work, writing blog posts, and sharing news and updates about the lab. We will provide guidance on how to use the website and how to contribute to it."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to the Lab",
+    "objectID": "news/lab_schedule_sem1.html",
+    "href": "news/lab_schedule_sem1.html",
+    "title": "Lab meeting schedule for Semester 1 published",
     "section": "",
-    "text": "The MIND Lab is co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.\nWe use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations."
+    "text": "The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in cognitive psychology and neuroscience, including introductions to functional near-infrared spectroscopy (fNIRS) and eye-tracking, as well as workshops on designing experiments with OpenSesame and using the OpenScience Framework (OSF) for research management.\nThe first meeting is scheduled for October 2nd, 2025 at 2pm (room TBC), with subsequent meetings planned throughout the semester. The full schedule is accessible via this link (www.themindlab.uk/info/lab_schedule.html).\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "index.html#lab-news",
-    "href": "index.html#lab-news",
-    "title": "Welcome to the Lab",
-    "section": "Lab News",
-    "text": "Lab News\n\n\n\n\n\n\n\n\n\n\nThe MIND Lab Research Challenge\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions\n\n\nConstrual level has been shown to influence economic decisions, affecting both risk perception and risk-taking. However, there has been some inconsistency as to the exact…\n\n\n\n\n\n\n\n\n\n\n\n\nLab meeting schedule for Semester 1 published\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab at Teesside University Research Fair\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#upcoming-events",
-    "href": "index.html#upcoming-events",
-    "title": "Welcome to the Lab",
-    "section": "Upcoming Events",
-    "text": "Upcoming Events\nThe full lab meeting and event schedule can be found on the Lab Schedule page.\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\n2025-10-29\n\n\nCL2.02 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "events/srdan_talk_25.html",
-    "href": "events/srdan_talk_25.html",
-    "title": "Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.",
+    "objectID": "people/alana.html",
+    "href": "people/alana.html",
+    "title": "Alana Gadsby",
     "section": "",
-    "text": "Dr Srdan Medimorec will be giving a research talk titled “The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory” on October 29, 2025, at 2:00 PM in CL2.02.\nThis talk is part of the psychology and social work research seminar series at Teesside University and is open to all students and staff interested in the cognitive aspects of language and learning."
+    "text": "Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory.\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "events/srdan_talk_25.html#abstract",
-    "href": "events/srdan_talk_25.html#abstract",
-    "title": "Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.",
-    "section": "Abstract",
-    "text": "Abstract\nPeople adjust the way they speak and write depending on the situation. For example, they may simplify their language when addressing children or older adults. Such adjustments likely help make communication clearer and easier to understand, which is especially important in instructional settings. In a series of studies, we first demonstrated that speech characteristics vary systematically across academic disciplines. For instance, science lectures often present conceptually difficult material but tend to compensate by using simpler syntax. We then examined how these linguistic variations in lectures relate to student learning. Specifically, we tested whether computationally derived measures of language difficulty could predict performance on multiple-choice and short-answer assessments. Our findings demonstrate a strong relationship between lecture language features and students’ memory."
-  },
-  {
-    "objectID": "events/college_talk.html",
-    "href": "events/college_talk.html",
-    "title": "Breaking big problems into small pieces…",
+    "objectID": "people/david.html",
+    "href": "people/david.html",
+    "title": "David Minchella",
     "section": "",
-    "text": "To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.\n\nWe talk about research collaboration, and how a psychology lab contains many researchers tackling the same problem from different angles. We also discuss how researchers use technology to study the brain and experimental tasks to measure behaviour in precise ways.\nThis session includes a demonstration of Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive brain imaging technique that measures changes in blood oxygenation levels in the brain. We show how fNIRS can be used to study brain activity during cognitive tasks, and how it can be used to investigate the neural basis of behaviour."
+    "text": "David is a clinical doctoral student interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception.\nDavid Minchella (Dclin, 2026): Does reward focus moderate the relationship between hypomania and economic risk-taking?\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "events/chris_talk_25.html",
-    "href": "events/chris_talk_25.html",
-    "title": "Research Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour",
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "Lab members",
     "section": "",
-    "text": "Dr Christopher Wilson will be delivering a talk on 26th November 2025 at 2:00 PM in CL1.06. The talk will outline the programme of research currently being conducted the The MIND Lab on the clinical, cognitive, neurological and social aspects of gambling behaviour and gambling harms. It will also focus on a new project exploring how social identification with sports groups predicts gambling behaviour.\nThis talk is part of the psychology and social work research seminar series at Teesside University and is open to all students and staff interested in the psychological and social aspects of gambling behaviour."
+    "text": "NoneNote\n\n\n\nWe are still updating the lab membership for the 2025-26 academic year. Please check back soon!\n\n\n\nLab leads\n\n\n\n\n\n\n\n\n\n\nChristopher Wilson\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSrdan Medimorec\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nDoctoral Researchers\n\n\n\n\n\n\n\n\n\n\nAlana Gadsby\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDavid Minchella\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEma Abir\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nResearch Associates\n\n\n\n\n\n\n\n\n\n\nLorraine Temple\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nVolunteer Researchers\n\n\n\n\n\n\n\n\n\n\nJaya Priya Naganathan\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLisa Cassidy\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items\n\n\n\n\nNo matching items\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "events/chris_talk_25.html#abstract",
-    "href": "events/chris_talk_25.html#abstract",
-    "title": "Research Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour",
-    "section": "Abstract",
-    "text": "Abstract\nPrevious research has indicated that social relationships are a strong factor in the maintenance of gambling harms. There are certain sports (e.g., football), wherein gambling has become a normalised part of socialising within these groups. However, while some research has found sports participation is a predictor of gambling behaviour, there is a lack of work exploring how social identification with sports groups might predict gambling and which aspects of gambling it might be linked to (e.g., frequency of gambling, amount gambled, attitudes to gambling). Furthermore, while we know little about how socialisation can lead to gambling in families, we know little about how people experience the normalisation of gambling within wider social groups.\nThis current project, funded by the AFSG aims to explore how social identification with sports groups is linked to gambling behaviour; to explore which aspects of gambling behaviour are predicted by social identification with sports groups and to explore how people experience the normalisation of gambling within sports social groups."
-  },
-  {
-    "objectID": "events/intro_to_fnirs.html",
-    "href": "events/intro_to_fnirs.html",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
+    "objectID": "people/lisa.html",
+    "href": "people/lisa.html",
+    "title": "Lisa Cassidy",
     "section": "",
-    "text": "This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting changes in blood oxygenation. fNIRS is based on the principle that when a brain region is activated, blood flow to that region increases, leading to an increase in oxygenated hemoglobin and a decrease in deoxygenated hemoglobin. fNIRS uses near-infrared light to measure these changes in blood oxygenation, allowing researchers to study brain function in real-time."
+    "text": "My main goals are to work as a researcher in neuro/cognitive psychology fields, and contribute meaningfully to existing knowledge, perhaps making a few significant discoveries of my own.\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "events/intro_to_fnirs.html#workshop-outline",
-    "href": "events/intro_to_fnirs.html#workshop-outline",
-    "title": "Introduction to Functional Near-Infrared Spectroscopy",
-    "section": "Workshop Outline",
-    "text": "Workshop Outline\n\nWhat is fNIRS?\nSetting up an fNIRS experiment\nData acquisition\nExporting data"
-  },
-  {
-    "objectID": "events/tu_research_fair.html",
-    "href": "events/tu_research_fair.html",
-    "title": "MIND Lab @ Teesside University Research Fair",
+    "objectID": "people/srdan/index.html",
+    "href": "people/srdan/index.html",
+    "title": "Srdan Medimorec",
     "section": "",
-    "text": "This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our collaborators and communities.\nWe will be presenting posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nPosters will be displayed in the Hub exhibition space, and we will be available to discuss our work and answer any questions you may have. We look forward to seeing you there!\n(Posters will be added here after the event.)"
+    "text": "My research program is focused on investigating metacognition (the way people think about their own minds) and implicit learning (learning that takes place without awareness and explicit instructions). I am also interested in the effects of individual differences and contextual factors on language processing. Much of my research is experimental and lab-based. The experiments that we conduct in the MIND lab are computer-based cognition, language processing, memory, and learning studies.\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
-    "objectID": "info/lab_induction.html#introductions",
-    "href": "info/lab_induction.html#introductions",
-    "title": "Introduction to the lab",
-    "section": "Introductions",
-    "text": "Introductions\nDr Christopher Wilson\nDr Srdan Medimorec"
-  },
-  {
-    "objectID": "info/lab_schedule.html",
-    "href": "info/lab_schedule.html",
-    "title": "Lab Events and Meeting Schedule",
+    "objectID": "projects/afsg_sport.html",
+    "href": "projects/afsg_sport.html",
+    "title": "New project examines the links between sports engagement and gambling",
     "section": "",
-    "text": "Last Updated: Oct 2025"
-  },
-  {
-    "objectID": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
-    "href": "info/lab_schedule.html#meeting-schedule-for-semester-1-20252026",
-    "title": "Lab Events and Meeting Schedule",
-    "section": "Meeting schedule for Semester 1 2025/2026",
-    "text": "Meeting schedule for Semester 1 2025/2026\nThe meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.\nTime 2pm. Room: CL1.03 Themis\n\n\n\n\n\n\n\nW/C\nTopic\n\n\n\n\n02/10/25\nIntroduction meeting 25/26\n\n\n16/10/25\nSrdan Talk - Research Stream Update\n\n\n30/10/25\nIntroduction to fNIRS for brain imaging\n\n\n13/11/25\nLab meeting\n\n\n27/11/25\nIntroduction to eyetracking for cognitive psychology\n\n\n15/01/26\nLab meeting\n\n\n29/01/26\nDesigning and coding experiments with OpenSesame\n\n\n12/2/2026\nLab meeting\n\n\n26/02/26\nUsing OpenScience Framework (OSF) for research management\n\n\n12/3/2026\nLab meeting"
-  },
-  {
-    "objectID": "info/lab_schedule.html#lab-events",
-    "href": "info/lab_schedule.html#lab-events",
-    "title": "Lab Events and Meeting Schedule",
-    "section": "Lab Events",
-    "text": "Lab Events\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nResearch Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.\n\n\n\n\n\n\n\n\n2025-10-29\n\n\nCL2.02 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\n\n\n\n\n\n\n\nBreaking big problems into small pieces…\n\n\nThis session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.\n\n\n\n\n\n2025-04-02\n\n\nThemis Building, Psychology Dept.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Functional Near-Infrared Spectroscopy\n\n\n\n\n\n\n\n\n2024-10-23\n\n\nThemis fNIRS lab\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "news/tu_research_fair.html",
-    "href": "news/tu_research_fair.html",
-    "title": "MIND Lab at Teesside University Research Fair",
-    "section": "",
-    "text": "The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research projects, including collaborations with the University of Waterloo (Canada) and work funded by the Academic Forum for the Study of Gambling (AFSG).\nDr. Srdan Medimoric said of the event:\n\n“We engaged with attendees, discussing our work and answering questions about our research. The event provided an excellent opportunity to share our findings and connect with the broader research community at Teesside University.”\n\nPosters presented at the event included:\n\nIt’s part of the sport: How social identification with sports groups predicts gambling behaviour\nThe cognitive and neural moderators of hypomania and economic risk-taking\nCognitive offloading without benefits to performance?\nIs non-native speech processed in less detail and, if so, why?"
-  },
-  {
-    "objectID": "people/chris/index.html",
-    "href": "people/chris/index.html",
-    "title": "Christopher Wilson",
-    "section": "",
-    "text": "I am an Associate Professor in the Department of Psychology at Teesside University. I am a founder and lead of The MIND Lab.\nMy primary research programme is focused on understanding and reducing gambling-related harm. I apply cognitive neuroscience and neuroeconomic approaches to investigate the real-world factors that influence risky decision-making.\nFurther details of my research programme can be found here: The Cognitive Neuroscience of Gambling Behaviour\nIn the lab, I use fNIRS, Eyetracking, and web-based experimental approaches in this work. I use R for data analysis and jsPsych for coding experiments."
-  },
-  {
-    "objectID": "people/ema.html",
-    "href": "people/ema.html",
-    "title": "Ema Abir",
-    "section": "",
-    "text": "Ema Abir is a Doctorate in Clinical Psychology Trainee (2027). Her project is focused on cognitive inhibition and flexibility as moderators of the relationship between depression and problem gambling. Her work employs a neuroeconomic approach, using functional near-infrared spectroscopy to examine neural correlates of gambling decisions."
-  },
-  {
-    "objectID": "people/jaya-priya.html",
-    "href": "people/jaya-priya.html",
-    "title": "Jaya Priya Naganathan",
-    "section": "",
-    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field."
-  },
-  {
-    "objectID": "people/lorraine_temple.html",
-    "href": "people/lorraine_temple.html",
-    "title": "Lorraine Temple",
-    "section": "",
-    "text": "Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on metacognition and accent perception."
-  },
-  {
-    "objectID": "people/lorraine_temple.html#projects-i-have-been-involved-in",
-    "href": "people/lorraine_temple.html#projects-i-have-been-involved-in",
-    "title": "Lorraine Temple",
-    "section": "Projects I have been involved in",
-    "text": "Projects I have been involved in\n\n\n\n\n\n\n\n\nNew project examines the links between sports engagement and gambling\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "people/lorraine_temple.html#research-training-badges",
-    "href": "people/lorraine_temple.html#research-training-badges",
-    "title": "Lorraine Temple",
-    "section": "Research Training Badges",
-    "text": "Research Training Badges\n\n\n  \n    \n      \n    \n  \n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/accent.html",
-    "href": "projects/accent.html",
-    "title": "Is non-native speech processed in less detail and, if so, why?",
-    "section": "",
-    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
-  },
-  {
-    "objectID": "projects/accent.html#research-overview",
-    "href": "projects/accent.html#research-overview",
-    "title": "Is non-native speech processed in less detail and, if so, why?",
-    "section": "",
-    "text": "In the current series of experiments, we seek to understand why foreign-accented speech is processed in less detail compared to native-accented speech.\nThe goal of this work is to contrast two potential explanations of this observation: one arguing that foreign-accented speech is more difficult to process because of its higher signal variability, and another one attributing the phenomenon to a listener’s expectation that non-native speech should be less reliable and accurate.\nWe contrast these potential accounts by manipulating speaker accent (native vs. non-native) and information about the speaker’s expertise (expert vs. non-expert)."
-  },
-  {
-    "objectID": "projects/metacognition.html",
-    "href": "projects/metacognition.html",
-    "title": "Metacognition and cognitive offloading",
-    "section": "",
-    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
-  },
-  {
-    "objectID": "projects/metacognition.html#research-overview",
-    "href": "projects/metacognition.html#research-overview",
-    "title": "Metacognition and cognitive offloading",
-    "section": "",
-    "text": "Cognitive offloading involves using external actions, like writing down information, to ease internal processing demands. In the current series of experiments, we investigate how and why individuals choose to use external resources to supplement their internal cognitive resources in an immediate memory task. We are interested in specific circumstances where cognitive offloading might become more of less frequent, and how a decision to offload is related to metacognitive factors."
+    "text": "The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour.\n\n\nHighlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the AFSG:\n\n“The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”\n\nThe project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project. Project updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research.\n\nDetails are available on the AFSG website.\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "recruitment/accent1_slide.html#participants-needed",
@@ -711,7 +844,7 @@
     "href": "recruitment/afsgwp2.html",
     "title": "Sports Engagement and Gambling Interviews",
     "section": "",
-    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nParticipants should be willing to conduct and interview over Microsoft Teams, which will be recorded.\nThe interview will last approximately 45 minutes\nWe are offering a £15 shopping voucher as a token of appreciation.\n\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports and you have expressed an interest in being interviewed about this topic.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nYou will be interviewed about the topic of gambling in sports groups, including your experiences of this subject. You agree to take part in a Teams interview which involves using a webcam and that the interview will be recorded for the purposes of transcription.\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questions on this topic then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe interviews will be recorded and the recordings will be stored in password protected Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form. Transcripts of the interviews will also be created and stored in the same way.\nWhat you say in the interview will be anonymised. The transcript will be identified only by a pseudonym (a fake name), and any information that could identify you will be redacted.\nOnce written transcripts have been created, you will be given an opportunity to verify their accuracy. Once this has been done, the recordings of the interviews will be deleted. However, the transcripts from the interviews (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£10 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your interview transcript, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nAre there any circumstances under which my confidentiality could be breached?\nThis would only happen if you disclose any information during interviews that the researcher feels may result in harm to the participants or others, the researcher will need to breach confidentiality in order to inform the lead researcher. The researcher will then inform appropriate agencies in order to maintain the safety of those involved.\nThe researcher will act in accordance with the British Psychological Society’s Code of Human Research Ethics (2021) and the BPS Code of Ethics and Conduct (2021).\nWhen will I receive my token of appreciation: if you provide your email to receive a £15 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by notifying the interviewer.\nIf you complete the interview, you can withdraw your participation up to 7 days from the date of the interview. You will be asked to confirm your satisfaction with the the interview transcript within aprox. 7 days, at which point you can withdraw if you wish.\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk"
+    "text": "Thank you for your interest in this project\nYou have reached this page as you have been invited to participate in our current research study, which examines potential links between sports engagement and gambling. The study is run by Dr Christopher Wilson at Teesside University and funded by the Academic Forum for the Study of Gambling (AFSG).\n\n\nBrief summary\nFull information about the project is below. However, a brief summary is as follows:\n\nWe are looking for people who are fans of, or participate in sports.\nThey must be aged 18 or over.\nThey might or might not have experience of gambling.\nParticipants should be willing to conduct and interview over Microsoft Teams, which will be recorded.\nThe interview will last approximately 45 minutes\nWe are offering a £15 shopping voucher as a token of appreciation.\n\n\n\nDetailed infromation\nChief Investigator: Dr Christopher Wilson\nResearchers: Dr Srdan Medimorec, Dr Judith Eberhardt, Dr Robert Portman, Hannah Poulter, Lorraine Temple\nHello, my name is Christopher Wilson and I am an Associate Professor in the School of Social Sciences, Humanities and Law, Teesside University. I am undertaking a research projectand I would like to invite you to take part. Before you decide if you want to please read the following information and discuss it with others if you wish. Please contact me if you have any questions: Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nWhat is the purpose of the study?\nThis study aims to understand the relationship between engagement with sports and gambling behaviour.\nWhy am I being invited to take part?\nYou have been invited because I believe you are a member of a sports club or a person who regularly follows watches sports and you have expressed an interest in being interviewed about this topic.\nTo be able to take part though you must be:\n\nat least 18 years old\nare a member of a sports club or a person who regularly follows watches sports\n\nDo I have to take part?\nNo, it’s up to you if you want to, or not.\nWhat would I be asked to do if I chose to take part?\nYou will be interviewed about the topic of gambling in sports groups, including your experiences of this subject. You agree to take part in a Teams interview which involves using a webcam and that the interview will be recorded for the purposes of transcription.\nWhat are the possible disadvantages, or risks, of taking part?\nWe do not anticipate any specific risks. However, if you feel uncomfortable answering questions on this topic then you do not have to take part. You can also choose to withdraw your participation at any time during the study.\nWhat are the possible benefits to taking part?\nWe hope to gain a better understanding of the links between sports participation and gambling behaviour. In the future, we believe this could lead to more targeted support for those who suffer from gambling harms.\nWhat would happen to the information collected about me?\nThe interviews will be recorded and the recordings will be stored in password protected Teesside University storage, managed by the principal investigator and accessible by the researchers named on this form. Transcripts of the interviews will also be created and stored in the same way.\nWhat you say in the interview will be anonymised. The transcript will be identified only by a pseudonym (a fake name), and any information that could identify you will be redacted.\nOnce written transcripts have been created, you will be given an opportunity to verify their accuracy. Once this has been done, the recordings of the interviews will be deleted. However, the transcripts from the interviews (in anonymised form) will be retained indefinitely, and used for the purposes of research, which will include publication of data in reports, research articles and in data repositories such as the open science framework (OSF).\nIf you wish to receive a token of compensation for taking part in this study (£10 shopping voucher), you will be asked to provide your email address so that the e-voucher can be emailed to you from the voucher provider. You can choose not to do this, but if you provide your email address, it will be stored separately from your interview transcript, to preserve your anonymity. Your email address will be used only for this purpose, and only retained until the end of this research project (31/03/26).\nAre there any circumstances under which my confidentiality could be breached?\nThis would only happen if you disclose any information during interviews that the researcher feels may result in harm to the participants or others, the researcher will need to breach confidentiality in order to inform the lead researcher. The researcher will then inform appropriate agencies in order to maintain the safety of those involved.\nThe researcher will act in accordance with the British Psychological Society’s Code of Human Research Ethics (2021) and the BPS Code of Ethics and Conduct (2021).\nWhen will I receive my token of appreciation: if you provide your email to receive a £15 shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.\nPersonal data including special category data obtained for the purposes of this research project is processed lawfully in the necessary performance of scientific or historical research or for statistical purposes carried out in the public interest. Processing of personal data including special category data is proportionate to the aims pursued, respects the essence of data protection and provides suitable and specific measures to safeguard the rights and interests of the data subject in full compliance with the General Data Protection Regulation and the Data Protection Act 2018.\nWhat would happen if I started, but, changed my mind?\nIf you decide not to complete the study, you can withdraw your participation at any time, by notifying the interviewer.\nIf you complete the interview, you can withdraw your participation up to 7 days from the date of the interview. You will be asked to confirm your satisfaction with the the interview transcript within aprox. 7 days, at which point you can withdraw if you wish.\nWho has approved this study?\nThis study has been approved by a Research Ethics sub-Committee in:\nSchool of Social Sciences, Humanities & Law (SSSHL)\u0001\nWhat happens if there are any problems?\nIf you are unhappy, or there is a problem, please contact the project lead Dr. Christopher Wilson (christopher.wilson at tees dot ac dot uk?subject=Research%20Participation%20Query)\nIf you remain unhappy, or there is an issue which you do not wish to talk to the project lead about please contact the Chair of the Research Ethics sub-Committee:\nPsychologyEthicsChair at tees dot ac dot uk\n\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "recruitment/hyp1_slide.html#participants-needed",
@@ -940,14 +1073,14 @@
     "href": "studies/hypomania_gambling.html",
     "title": "Hypomania and Risk-Taking in Gambling",
     "section": "",
-    "text": "Previous research has demonstrated the relationship between hypomanic states and risky economic behaviour, such as gambling. This study (completed and currently being written for publication) examined this relationship in a sub-clinical population.\nThe experiment tested competing theories (“goal focus” versus “risk insensitivity”) which could explain this phenomenon. Using the Cambridge Gambling Task, we were able to derive distinct patterns of decision-making under risk and relate them to each potential theoretical explanation."
+    "text": "Previous research has demonstrated the relationship between hypomanic states and risky economic behaviour, such as gambling. This study (completed and currently being written for publication) examined this relationship in a sub-clinical population.\nThe experiment tested competing theories (“goal focus” versus “risk insensitivity”) which could explain this phenomenon. Using the Cambridge Gambling Task, we were able to derive distinct patterns of decision-making under risk and relate them to each potential theoretical explanation.\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "tools/custom_tasks.html",
     "href": "tools/custom_tasks.html",
     "title": "Experimental Tasks",
     "section": "",
-    "text": "In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using JSPsych, a JavaScript library for creating behavioral experiments in a web browser or OpenSesame, a graphical experiment builder that runs on python.\nWe plan to make the code for these tasks available on our github repository soon. In the meantime, please get in touch if you would like more information about any of the tasks listed below.\n\nDecision under risk (based on Rogers et al., 1999). Commonly referred to as “The Cambridge Gambling Task”, this task was first published by Rogers et al., in 1999. This is a computerized task that assesses decision-making under risk. Participants are presented with a series of gambles and must decide whether to accept or reject each gamble. The task is designed to measure risk-taking behavior and has been used in a range of studies investigating decision-making in healthy and clinical populations. We have implemented this task in JSPsych and also have a version of the task that is modified for fNIRS, including delays in the feedback to account for the hemodynamic response, and serial port communication to synchronize the task with the fNIRS data.\nWorking Memory We use a version of the Operation Span task to assess working memory capacity. In this task, participants are presented with a series of math problems and must remember the answer to each problem. At the end of each set of problems, participants are asked to recall the answers in the order they were presented. This task is designed to measure working memory capacity and has been used in a range of studies investigating working memory in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nGlobal and Local Processing We use a version of the Navon task to assess global and local processing. In this task, participants are presented with a large letter made up of smaller letters. Participants must respond to either the large letter (global level) or the smaller letters (local level). This task is designed to measure the extent to which participants process information at the global or local level and has been used in a range of studies investigating cognitive processing in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nEyewitness lineup identification We have implemented a simultaneous lineup task to assess eyewitness identification accuracy. In this task, participants are presented with a lineup of faces and must identify the face they saw during a previous event. This includes a confidence rating response based on the “cup half full” scale. This task is designed to measure eyewitness identification accuracy and has been used in a range of studies investigating eyewitness memory in adult and child populations. This version of the task has been implemented in JSPsych."
+    "text": "In our lab we use a range of experimental tasks to study cognitive and neural processes. These tasks are programmed using JSPsych, a JavaScript library for creating behavioral experiments in a web browser or OpenSesame, a graphical experiment builder that runs on python.\nWe plan to make the code for these tasks available on our github repository soon. In the meantime, please get in touch if you would like more information about any of the tasks listed below.\n\nDecision under risk (based on Rogers et al., 1999). Commonly referred to as “The Cambridge Gambling Task”, this task was first published by Rogers et al., in 1999. This is a computerized task that assesses decision-making under risk. Participants are presented with a series of gambles and must decide whether to accept or reject each gamble. The task is designed to measure risk-taking behavior and has been used in a range of studies investigating decision-making in healthy and clinical populations. We have implemented this task in JSPsych and also have a version of the task that is modified for fNIRS, including delays in the feedback to account for the hemodynamic response, and serial port communication to synchronize the task with the fNIRS data.\nWorking Memory We use a version of the Operation Span task to assess working memory capacity. In this task, participants are presented with a series of math problems and must remember the answer to each problem. At the end of each set of problems, participants are asked to recall the answers in the order they were presented. This task is designed to measure working memory capacity and has been used in a range of studies investigating working memory in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nGlobal and Local Processing We use a version of the Navon task to assess global and local processing. In this task, participants are presented with a large letter made up of smaller letters. Participants must respond to either the large letter (global level) or the smaller letters (local level). This task is designed to measure the extent to which participants process information at the global or local level and has been used in a range of studies investigating cognitive processing in healthy and clinical populations. This version of the task has been implemented in JSPsych.\nEyewitness lineup identification We have implemented a simultaneous lineup task to assess eyewitness identification accuracy. In this task, participants are presented with a lineup of faces and must identify the face they saw during a previous event. This includes a confidence rating response based on the “cup half full” scale. This task is designed to measure eyewitness identification accuracy and has been used in a range of studies investigating eyewitness memory in adult and child populations. This version of the task has been implemented in JSPsych.\n\n\n\n\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "tools/index.html",
@@ -983,327 +1116,5 @@
     "title": "Lab Equipment and Software",
     "section": "Open Source Sofware Development",
     "text": "Open Source Sofware Development\nTo support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.\nLearn more about the COBI fNIRS software"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#background",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#background",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Background",
-    "text": "Background"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#aims-of-this-talk",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#aims-of-this-talk",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Aims of this talk",
-    "text": "Aims of this talk\n\nTo outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#models-of-gambling-harms",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#models-of-gambling-harms",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Models of gambling harms",
-    "text": "Models of gambling harms"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#the-regulatory-context",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#the-regulatory-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The regulatory context",
-    "text": "The regulatory context\n\nThe failure of “soft friction”\nCognitive knowledge is used for exploitative purposes - could be used positively\n“Self-exclusion” failure and cue reactivity\nNeed for behavioural measures of harm that assess risk-taking behaviour\n\n\n\nExample A: The Failure of “Soft Friction” (The “Pop-Up” Problem)\n\nThe Evidence: Use the Gamesys and Petfre (Betfred) enforcement cases from the UKGC bulletins. These operators used “soft” interactions (like emails or pop-ups) which players simply ignored while continuing to lose thousands of pounds .\nThe Rationale Point: “Policy currently relies on ‘soft friction’—asking people to stop. The regulatory data proves this fails because the ‘hot’ cognitive state (the urge) overrides the intervention. We need neuroscience to design ‘hard friction’ that actually engages the prefrontal cortex.”\n\nExample B: “Losses Disguised as Wins” (The Cognitive Exploit)\n\nThe Evidence: The UKGC “Safer by Design” mandate banned features where a player loses money (e.g., 50p return on a £1 bet) but the machine plays celebratory music .\nThe Rationale Point: “Gambling products are engineered to exploit specific neural errors. ‘Losses Disguised as Wins’ trick the striatum into releasing dopamine during a financial loss. My programme investigates how to reverse-engineer these exploits.”\n\nExample C: The “Self-Exclusion” Failure (Cue-Reactivity)\n\nThe Evidence: Operators have been fined for sending marketing emails to self-excluded players. This acts as a “hot cue” that triggers immediate craving and relapse, bypassing the player’s “cool” pre-commitment .\nThe Rationale Point: “This isn’t just a marketing error; it’s a ‘cue-reactivity’ failure. We are using fNIRS to map exactly how these digital triggers hijack the brain’s control systems.”"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#the-social-context",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#the-social-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The social context",
-    "text": "The social context\n\nIncreasing prevalence of gambling advertisement\nNormalisation (Norm-congruence) of gambling as a part of sports engagement (Duggan and Mohan 2022; Jetten et al. 2017)\nThe symbolic construction of sports betting (Lopez-Gonzalez, Griffiths, and Jimenez-Murcia 2021)\n\n\ngambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al., 2017)."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#the-research-silos",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#the-research-silos",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The research silos",
-    "text": "The research silos\n\nRecent review of interventions for treatment of harmful gambling found 8 studies, all of which were retrospective - no experimental work (Seel et al. 2024)\nWe can identify neural deficits linked to gambling disorder (prefrontal-stratial dysregulation) but there is a call for “new interventions” which incorporate this knowledge (Raimo et al. 2021)\nBehavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions (Schwebel, Korecki, and Witkiewitz 2020)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#section",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#section",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "",
-    "text": "The work seeks to integrate four strands:\n\nSocial Context (The Environment)\nClinical Vulnerability (The Individual)\nCognitive Moderators (The Tools)\nNeural Mechanisms (The Underlying Biology)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#section-1",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#section-1",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "",
-    "text": "The work seeks to integrate four strands:\n\nSocial Context (The Environment)\nClinical Vulnerability (The Individual)\nCognitive Moderators (The Tools)\nNeural Mechanisms (The Underlying Biology)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#clinical-vulnerabilities",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#clinical-vulnerabilities",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Clinical Vulnerabilities",
-    "text": "Clinical Vulnerabilities\n\nDoctoral Work: Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling. Ema Abir (DClin)\nDoctoral Work: How risk imperception and reward magnitude moderate the relationship between subclinical hypomania and decision making. David Minchella (DClin)\nDoctoral Work: The role of impulsivity and working memory in the the relationship between subclinical hypomania and decision making. Alana Gadsby (DClin)\nCompleted Study Wilson, C.J., Medimorec, S., Naganathan, J et al. (in prep) Risk Imperception, Not Reward Focus Underlies Poor Gambling Decisions in Subclinical Hypomania.\nStudy: Anxiety & Decision-Making. Investigating how anxiety specifically impacts decision quality vs. risk-taking. Summer Hall\n\n\nFinishing data collecton on DM and AG studies\nUG is a pilot study\nAll involve both neural mechanisms and cognitive moderators"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#social-context",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#social-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Social Context",
-    "text": "Social Context\n\nFunded Project: “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\nStudy: Sports Engagement & Implicit Associations. Testing if high sports engagement predicts a stronger implicit cognitive association between “Sport” and “Gambling.” Thomas Wilkinson\nReview: Systematic Review on the efficacy of gambling harms policy-related interventions. w/ Dr. Andrew Richardson"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#the-multi-dimensional-nature-of-gambling-harms",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#the-multi-dimensional-nature-of-gambling-harms",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The multi-dimensional nature of gambling harms",
-    "text": "The multi-dimensional nature of gambling harms\n\n\n\nMeasuring gambling-related harms (Wardle et al., 2018)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#cognitive-mechanisms",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#cognitive-mechanisms",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Cognitive Mechanisms",
-    "text": "Cognitive Mechanisms\n\nPublished Study: (Wilson 2026) demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour\n\nThis is an proof-of concept experimental demonstration of the “hot-to-cool” shift that the gambling commission were advocating\n\nStudy: Short-Form Video Adverts. Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. Theia Morgan"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#project-background-and-aims",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#project-background-and-aims",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Background and Aims",
-    "text": "Project Background and Aims"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#project-team",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#project-team",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Team",
-    "text": "Project Team"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#project-structure",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#project-structure",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Structure",
-    "text": "Project Structure"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-1",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-1",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 1",
-    "text": "Work Package 1"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-2",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-2",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 2",
-    "text": "Work Package 2"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-3",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-3",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 3",
-    "text": "Work Package 3"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#current-status",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#current-status",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Current Status",
-    "text": "Current Status"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#project-background",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#project-background",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Background",
-    "text": "Project Background\n\nDiscourse around reducing harms is still heavily focused on the individual (Marko et al. 2022)\nFailure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology (Borrell and Boulet 2005)\n“urgent need to identify predictors of disordered gambling in people who gamble recreationally […] particularly across relationship [… ] domains” (Bowden-Jones et al. 2022)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#the-social-component",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#the-social-component",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The Social Component",
-    "text": "The Social Component\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#research-questions",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#research-questions",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Research Questions",
-    "text": "Research Questions\n\nWe theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al. 2017)\n\n\nResearch Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?\nResearch Question 2: Is the relationship between sports engagement and gambling behaviour moderated by social identification with sports groups?\nResearch Question 3: How do people experience the normalisation of gambling within sports social groups?"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#methodology",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#methodology",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Methodology",
-    "text": "Methodology\n\nMixed methods approach\nWP1: a cross-sectional survey-based study\nWP 2: a qualitative study.\nWP 3: a synthesis of these ideas into recommendations for stakeholders"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-2-interviews",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#work-package-2-interviews",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 2: Interviews",
-    "text": "Work Package 2: Interviews\n\nFocusing on the experience of normalisation of gambling\nTopics covered:\n\nSports engagement\nIndividual level; survey: attitudes, gambling behaviour, problem gambling symptoms\nFamilies, peers; survey: conformity, social identity\nCommunity/organisational level; survey: sports engagement, group identity\nSocietal/commercial; survey: advertising, outcome expectancies\n\nInterview data will be analysed using Framework Analysis (Gale et al., 2013)."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#progress-and-current-status",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#progress-and-current-status",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Progress and current Status",
-    "text": "Progress and current Status\n\nTargeted recruitment at sports organisations and fan groups\nSurvey data collection (current n = 120)\nInterviews currently being scheduled"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#focus-its-part-of-the-sport-project",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#focus-its-part-of-the-sport-project",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Focus: “It’s part of the sport” project",
-    "text": "Focus: “It’s part of the sport” project\n\n\n\nResearch Funded by the Academic Forum for The Study of Gambling\n\n\n\nWhat the preceding slides show is a body of work that is being conducted within our lab which tackles this problem across the different domains I mentioned earlier.\nOf course, the UG work might be considered pilots or proof of concept.\nWe also have a series of doctoral projects that involve complex cognitive neuroscience experiements, behavioural and cogntiive measures of risk-taking\nPublished work and papers under submission and in perparation"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/seminar_talk_chris.html#references",
-    "href": "slides/chris_seminar_talk/seminar_talk_chris.html#references",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\nAtte Oksanen, Atte Oksanen, Anu Sirola, Anu Sirola, Ilkka Savolainen, Iina Savolainen, Aki Koivula, et al. 2021. “Social Ecological Model of Problem Gambling: A Cross-National Survey Study of Young People in the United States, South Korea, Spain, and Finland.” International Journal of Environmental Research and Public Health 18 (6): 3220. https://doi.org/10.3390/ijerph18063220.\n\n\nBorrell, Jennifer, and Jacques Boulet. 2005. “A Critical Exploration of Objectivity and Bias in Gambling (and Other) Research.” International Journal of Mental Health & Addiction 2.\n\n\nBowden-Jones, Henrietta, Roxanne W. Hook, Jon E. Grant, Konstantinos Ioannidis, Ornella Corazza, Naomi A. Fineberg, Bryan F. Singer, et al. 2022. “Gambling Disorder in the UK: Key Research Priorities and the Urgent Need for Independent Research Funding.” The Lancet Psychiatry 9 (4): 321–29. https://doi.org/10.1016/S2215-0366(21)00356-4.\n\n\nConstandt, Bram, Johan Rosiers, Jolien Moernaut, Stef Van Der Hoeven, and Annick Willem. 2022. “Part of the Game? Exploring the Prevalence and Normalization of Gambling in Belgian Sports Clubs.” International Journal of Environmental Research and Public Health 19 (11): 6527. https://doi.org/10.3390/ijerph19116527.\n\n\nDuggan, Brendan, and Gretta Mohan. 2022. “A Longitudinal Examination of Young People’s Gambling Behaviours and Participation in Team Sports.” Journal of Gambling Studies 39 (2): 541–57. https://doi.org/10.1007/s10899-022-10175-x.\n\n\nJetten, Jolanda, S. Alexander Haslam, Tegan Cruwys, Katharine H. Greenaway, Catherine Haslam, and Niklas K. Steffens. 2017. “Advancing the Social Identity Approach to Health and Well-Being: Progressing the Social Cure Research Agenda.” European Journal of Social Psychology 47 (7): 789–802. https://doi.org/10.1002/ejsp.2333.\n\n\nLopez-Gonzalez, Hibai, Mark D. Griffiths, and Susana Jimenez-Murcia. 2021. “The Symbolic Construction of Sports Betting Products.” International Gambling Studies 21 (3): 498–515. https://doi.org/10.1080/14459795.2021.1937274.\n\n\nMarko, Sarah, Samantha L. Thomas, Kim Robinson, and Mike Daube. 2022. “Gamblers’ Perceptions of Responsibility for Gambling Harm: A Critical Qualitative Inquiry.” BMC Public Health 22 (1): 725. https://doi.org/10.1186/s12889-022-13109-9.\n\n\nRaimo, Simona, Maria Cropano, Luigi Trojano, and Gabriella Santangelo. 2021. “The neural basis of gambling disorder: An activation likelihood estimation meta-analysis.” Neuroscience and Biobehavioral Reviews 120 (January): 279–302. https://doi.org/10.1016/j.neubiorev.2020.11.027.\n\n\nReith, Gerda, and Fiona Dobbie. 2011. “Beginning Gambling: The Role of Social Networks and Environment.” Addiction Research & Theory 19 (6): 483–93. https://doi.org/10.3109/16066359.2011.558955.\n\n\nSchwebel, Frank J., J. Richard Korecki, and Katie Witkiewitz. 2020. “Addictive Behavior Change and Mindfulness-Based Interventions: Current Research and Future Directions.” Current Addiction Reports 7 (2): 117–24. https://doi.org/10.1007/s40429-020-00302-2.\n\n\nSeel, C. J., M. Jones, D. R. Christensen, R. May, A. E. Hoon, and S. Dymond. 2024. “Treatment of Harmful Gambling: A Scoping Review of United Kingdom-Based Intervention Research.” BMC Psychiatry 24 (1). https://doi.org/10.1186/s12888-024-05843-8.\n\n\nWilson, Christopher J. 2026. “Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load.” Behavioural Brain Research 496 (January): 115829. https://doi.org/10.1016/j.bbr.2025.115829."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
-    "href": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Aims of this talk",
-    "text": "Aims of this talk\n\nTo outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-multi-dimensional-nature-of-gambling-harms",
-    "href": "slides/chris_seminar_talk/index.html#the-multi-dimensional-nature-of-gambling-harms",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The multi-dimensional nature of gambling harms",
-    "text": "The multi-dimensional nature of gambling harms\n\n\n\nMeasuring gambling-related harms (Wardle et al., 2018)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-regulatory-context",
-    "href": "slides/chris_seminar_talk/index.html#the-regulatory-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The regulatory context",
-    "text": "The regulatory context\n\nThe failure of “soft friction”\nCognitive knowledge is used for exploitative purposes - could be used positively\n“Self-exclusion” failure and cue reactivity\nNeed for behavioural measures of harm that assess risk-taking behaviour\n\n\n\nExample A: The Failure of “Soft Friction” (The “Pop-Up” Problem)\n\nThe Evidence: Use the Gamesys and Petfre (Betfred) enforcement cases from the UKGC bulletins. These operators used “soft” interactions (like emails or pop-ups) which players simply ignored while continuing to lose thousands of pounds .\nThe Rationale Point: “Policy currently relies on ‘soft friction’—asking people to stop. The regulatory data proves this fails because the ‘hot’ cognitive state (the urge) overrides the intervention. We need neuroscience to design ‘hard friction’ that actually engages the prefrontal cortex.”\n\nExample B: “Losses Disguised as Wins” (The Cognitive Exploit)\n\nThe Evidence: The UKGC “Safer by Design” mandate banned features where a player loses money (e.g., 50p return on a £1 bet) but the machine plays celebratory music .\nThe Rationale Point: “Gambling products are engineered to exploit specific neural errors. ‘Losses Disguised as Wins’ trick the striatum into releasing dopamine during a financial loss. My programme investigates how to reverse-engineer these exploits.”\n\nExample C: The “Self-Exclusion” Failure (Cue-Reactivity)\n\nThe Evidence: Operators have been fined for sending marketing emails to self-excluded players. This acts as a “hot cue” that triggers immediate craving and relapse, bypassing the player’s “cool” pre-commitment .\nThe Rationale Point: “This isn’t just a marketing error; it’s a ‘cue-reactivity’ failure. We are using fNIRS to map exactly how these digital triggers hijack the brain’s control systems.”"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-social-context",
-    "href": "slides/chris_seminar_talk/index.html#the-social-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The social context",
-    "text": "The social context\n\nIncreasing prevalence of gambling advertisement\nNormalisation (Norm-congruence) of gambling as a part of sports engagement (Duggan and Mohan 2022; Jetten et al. 2017)\nThe symbolic construction of sports betting (Lopez-Gonzalez, Griffiths, and Jimenez-Murcia 2021)\n\n\ngambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al., 2017)."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-research-silos",
-    "href": "slides/chris_seminar_talk/index.html#the-research-silos",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The research silos",
-    "text": "The research silos\n\nRecent review of interventions for treatment of harmful gambling found 8 studies, all of which were retrospective - no experimental work (Seel et al. 2024)\nWe can identify neural deficits linked to gambling disorder (prefrontal-stratial dysregulation) but there is a call for “new interventions” which incorporate this knowledge (Raimo et al. 2021)\nBehavioural intervention research calls for further understanding of the neurobiological changes that take place with interventions (Schwebel, Korecki, and Witkiewitz 2020)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#section",
-    "href": "slides/chris_seminar_talk/index.html#section",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "",
-    "text": "The work seeks to integrate four strands:\n\nSocial Context (The Environment)\nClinical Vulnerability (The Individual)\nCognitive Moderators (The Tools)\nNeural Mechanisms (The Underlying Biology)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#clinical-vulnerabilities",
-    "href": "slides/chris_seminar_talk/index.html#clinical-vulnerabilities",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Clinical Vulnerabilities",
-    "text": "Clinical Vulnerabilities\n\nDoctoral Work: Cognitive Inhibition and Cognitive Flexibility as moderators of Depression and Problem Gambling. Ema Abir (DClin)\nDoctoral Work: How risk imperception and reward magnitude moderate the relationship between subclinical hypomania and decision making. David Minchella (DClin)\nDoctoral Work: The role of impulsivity and working memory in the the relationship between subclinical hypomania and decision making. Alana Gadsby (DClin)\nCompleted Study Wilson, C.J., Medimorec, S., Naganathan, J et al. (in prep) Risk Imperception, Not Reward Focus Underlies Poor Gambling Decisions in Subclinical Hypomania.\nStudy: Anxiety & Decision-Making. Investigating how anxiety specifically impacts decision quality vs. risk-taking. Summer Hall\n\n\nFinishing data collecton on DM and AG studies\nUG is a pilot study\nAll involve both neural mechanisms and cognitive moderators"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#social-context",
-    "href": "slides/chris_seminar_talk/index.html#social-context",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Social Context",
-    "text": "Social Context\n\nFunded Project: “It’s part of the sport”: Exploring how social identification with sports groups predicts gambling behaviour and how people experience the normalisation of gambling with sports groups.\nStudy: Sports Engagement & Implicit Associations. Testing if high sports engagement predicts a stronger implicit cognitive association between “Sport” and “Gambling.” Thomas Wilkinson\nReview: Systematic Review on the efficacy of gambling harms policy-related interventions. w/ Dr. Andrew Richardson"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#cognitive-mechanisms",
-    "href": "slides/chris_seminar_talk/index.html#cognitive-mechanisms",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Cognitive Mechanisms",
-    "text": "Cognitive Mechanisms\n\nPublished Study: Wilson (2026) demonstrated that cognitive adaptations (construal mindset) can influence neural risk sensitivity in the Lateral Pre-frontal Cortex and affect risk-taking behaviour\n\nThis is an proof-of concept experimental demonstration of the “hot-to-cool” shift that the gambling commission were advocating\n\nStudy: Short-Form Video Adverts. Testing if exposure to gambling adverts in short-form video content alters risk-taking behaviour. Theia Morgan"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#project-team",
-    "href": "slides/chris_seminar_talk/index.html#project-team",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Team",
-    "text": "Project Team"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#project-background",
-    "href": "slides/chris_seminar_talk/index.html#project-background",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Background",
-    "text": "Project Background\n\nDiscourse around reducing harms is still heavily focused on the individual (Marko et al. 2022)\nFailure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology (Borrell and Boulet 2005)\n“urgent need to identify predictors of disordered gambling in people who gamble recreationally […] particularly across relationship [… ] domains” (Bowden-Jones et al. 2022)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-social-component",
-    "href": "slides/chris_seminar_talk/index.html#the-social-component",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The Social Component",
-    "text": "The Social Component\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#research-questions",
-    "href": "slides/chris_seminar_talk/index.html#research-questions",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Research Questions",
-    "text": "Research Questions\n\nWe theorise that gambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al. 2017)\n\n\nResearch Question 1: Which aspects of gambling behaviour are linked to social identification with sports groups?\nResearch Question 2: Is the relationship between sports engagement and gambling behaviour moderated by social identification with sports groups?\nResearch Question 3: How do people experience the normalisation of gambling within sports social groups?"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#methodology",
-    "href": "slides/chris_seminar_talk/index.html#methodology",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Methodology",
-    "text": "Methodology\n\nMixed methods approach\nWP1: a cross-sectional survey-based study\nWP 2: a qualitative study.\nWP 3: a synthesis of these ideas into recommendations for stakeholders"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#project-structure",
-    "href": "slides/chris_seminar_talk/index.html#project-structure",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Project Structure",
-    "text": "Project Structure"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#work-package-1",
-    "href": "slides/chris_seminar_talk/index.html#work-package-1",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 1",
-    "text": "Work Package 1"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#work-package-2-interviews",
-    "href": "slides/chris_seminar_talk/index.html#work-package-2-interviews",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Work Package 2: Interviews",
-    "text": "Work Package 2: Interviews\n\nFocusing on the experience of normalisation of gambling\nTopics covered:\n\nSports engagement\nIndividual level; survey: attitudes, gambling behaviour, problem gambling symptoms\nFamilies, peers; survey: conformity, social identity\nCommunity/organisational level; survey: sports engagement, group identity\nSocietal/commercial; survey: advertising, outcome expectancies\n\nInterview data will be analysed using Framework Analysis (Gale et al. 2013)"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#progress-and-current-status",
-    "href": "slides/chris_seminar_talk/index.html#progress-and-current-status",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Progress and current Status",
-    "text": "Progress and current Status\n\nTargeted recruitment at sports organisations and fan groups\nSurvey data collection (current n = 120)\nInterviews currently being scheduled"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#references",
-    "href": "slides/chris_seminar_talk/index.html#references",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\nAtte Oksanen, Atte Oksanen, Anu Sirola, Anu Sirola, Ilkka Savolainen, Iina Savolainen, Aki Koivula, et al. 2021. “Social Ecological Model of Problem Gambling: A Cross-National Survey Study of Young People in the United States, South Korea, Spain, and Finland.” International Journal of Environmental Research and Public Health 18 (6): 3220. https://doi.org/10.3390/ijerph18063220.\n\n\nBorrell, Jennifer, and Jacques Boulet. 2005. “A Critical Exploration of Objectivity and Bias in Gambling (and Other) Research.” International Journal of Mental Health & Addiction 2.\n\n\nBowden-Jones, Henrietta, Roxanne W. Hook, Jon E. Grant, Konstantinos Ioannidis, Ornella Corazza, Naomi A. Fineberg, Bryan F. Singer, et al. 2022. “Gambling Disorder in the UK: Key Research Priorities and the Urgent Need for Independent Research Funding.” The Lancet Psychiatry 9 (4): 321–29. https://doi.org/10.1016/S2215-0366(21)00356-4.\n\n\nConstandt, Bram, Johan Rosiers, Jolien Moernaut, Stef Van Der Hoeven, and Annick Willem. 2022. “Part of the Game? Exploring the Prevalence and Normalization of Gambling in Belgian Sports Clubs.” International Journal of Environmental Research and Public Health 19 (11): 6527. https://doi.org/10.3390/ijerph19116527.\n\n\nDuggan, Brendan, and Gretta Mohan. 2022. “A Longitudinal Examination of Young People’s Gambling Behaviours and Participation in Team Sports.” Journal of Gambling Studies 39 (2): 541–57. https://doi.org/10.1007/s10899-022-10175-x.\n\n\nGale, Nicola K., Gemma Heath, Elaine Cameron, Sabina Rashid, and Sabi Redwood. 2013. “Using the Framework Method for the Analysis of Qualitative Data in Multi-Disciplinary Health Research.” BMC Medical Research Methodology 13 (1): 117. https://doi.org/10.1186/1471-2288-13-117.\n\n\nJetten, Jolanda, S. Alexander Haslam, Tegan Cruwys, Katharine H. Greenaway, Catherine Haslam, and Niklas K. Steffens. 2017. “Advancing the Social Identity Approach to Health and Well-Being: Progressing the Social Cure Research Agenda.” European Journal of Social Psychology 47 (7): 789–802. https://doi.org/10.1002/ejsp.2333.\n\n\nLopez-Gonzalez, Hibai, Mark D. Griffiths, and Susana Jimenez-Murcia. 2021. “The Symbolic Construction of Sports Betting Products.” International Gambling Studies 21 (3): 498–515. https://doi.org/10.1080/14459795.2021.1937274.\n\n\nMarko, Sarah, Samantha L. Thomas, Kim Robinson, and Mike Daube. 2022. “Gamblers’ Perceptions of Responsibility for Gambling Harm: A Critical Qualitative Inquiry.” BMC Public Health 22 (1): 725. https://doi.org/10.1186/s12889-022-13109-9.\n\n\nRaimo, Simona, Maria Cropano, Luigi Trojano, and Gabriella Santangelo. 2021. “The neural basis of gambling disorder: An activation likelihood estimation meta-analysis.” Neuroscience and Biobehavioral Reviews 120 (January): 279–302. https://doi.org/10.1016/j.neubiorev.2020.11.027.\n\n\nReith, Gerda, and Fiona Dobbie. 2011. “Beginning Gambling: The Role of Social Networks and Environment.” Addiction Research & Theory 19 (6): 483–93. https://doi.org/10.3109/16066359.2011.558955.\n\n\nSchwebel, Frank J., J. Richard Korecki, and Katie Witkiewitz. 2020. “Addictive Behavior Change and Mindfulness-Based Interventions: Current Research and Future Directions.” Current Addiction Reports 7 (2): 117–24. https://doi.org/10.1007/s40429-020-00302-2.\n\n\nSeel, C. J., M. Jones, D. R. Christensen, R. May, A. E. Hoon, and S. Dymond. 2024. “Treatment of Harmful Gambling: A Scoping Review of United Kingdom-Based Intervention Research.” BMC Psychiatry 24 (1). https://doi.org/10.1186/s12888-024-05843-8.\n\n\nWilson, Christopher J. 2026. “Neurological and Behavioural Correlates of Construal in Economic Decision-Making Under Cognitive Load.” Behavioural Brain Research 496 (January): 115829. https://doi.org/10.1016/j.bbr.2025.115829."
   }
 ]

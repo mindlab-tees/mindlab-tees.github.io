@@ -209,7 +209,7 @@ Published work and papers under submission and in perparation
 
 ## Work Package 1
 
-![](images/afsg_models.png){fig-align="center" width="585"}
+![](/images/afsg_models.png){fig-align="center"}
 
 ## Work Package 2: Interviews
 
@@ -248,9 +248,9 @@ Published work and papers under submission and in perparation
 
 -   We are working to understand:
 
-    -   What are the specific neural mechanisms involved
+    -   How cognitive processes affect gambling behaviour specifically
 
-    -   How cognitive processes affect risk behaviour specifically
+    -   What are the specific neural mechanisms involved
 
     -   How trait-level social constructs (e.g., fan identity) moderate the link between community and behaviour
 
@@ -260,6 +260,6 @@ Published work and papers under submission and in perparation
 
 -   **The goal:** To move beyond *describing* harm to *preventing* it, developing neuro-informed frameworks for safer gambling environments.
 
-# Thank you
+# Thank you, questions?
 
 ## References

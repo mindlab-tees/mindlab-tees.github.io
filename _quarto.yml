@@ -4,6 +4,7 @@ project:
   resources: 
     - "CNAME"
 website:
+  body-footer: "<div class='nav-footer'>[The Wilson-Medimorec MIND Lab](/about.qmd)</div>"
   announcement: 
     icon: info-circle
     dismissable: true

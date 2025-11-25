@@ -6,6 +6,7 @@ categories: [project, news, funding]
 programme: [gambling]
 people: [chris, srdan, lorraine_temple]
 news-date: 2025-05-1
+date: 2025-05-01
 funder: "Funded by The Academic Forum for the Study of Gambling (AFSG)"
 ---
  

@@ -70,4 +70,41 @@ li::marker {
   
 }
 
+/* --- Footer Appearance --- */
+
+.nav-footer {
+  /* Create separation without heavy lines */
+  border-top: 1px solid #eaeaea; 
+  background-color: transparent;
+  
+  /* Add breathing room so it doesn't crowd the content */
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  
+  /* Typography: Smaller and lighter than main text */
+  text-align: center;
+  font-size: 0.85rem; 
+  color: #777777; /* Muted grey */
+}
+
+/* --- Link Styling --- */
+/* This is key for the "less intrusive" look. 
+   It stops the footer from looking like a list of bright blue links. */
+
+.nav-footer a {
+  color: inherit; /* Forces links to be grey like the text */
+  text-decoration: none; /* Removes underline */
+  opacity: 0.8;
+  transition: all 0.2s ease-in-out;
+}
+
+/* --- Interaction --- */
+/* Only bring attention to the link when the user hovers */
+
+.nav-footer a:hover {
+  color: #2fa4e7; /* Restores the blue accent color on hover */
+  opacity: 1;
+  text-decoration: underline;
+}
 

@@ -1,0 +1,28 @@
+---
+title: "UKRI Funding Award for Gambling Evidence Review"
+draft: TRUE      
+image: "../images/ahrc_logo.png"
+categories: [project, news, funding]
+programme: [gambling]
+people: [chris]
+news-date: 2025-12-1
+date: 2025-12-1
+funder: "Funded by UKRI/AHRC"
+---
+
+
+ 
+Dr Christopher Wilson of The MIND Lab has been awarded a grant by UKRI / AHRC as part of the Rapid Evidence Reviews into Gambling Harms. 
+
+![](../images/ahrc_logo.png){style="display: block; margin: 0 auto; width:50%" } 
+
+Dr Wilson (PI) will be working with Dr Andrew Richardson (Newcastle University / ADPH North East Gambling Related Harms Programme) on a project titled: *Sports engagement as a gateway activity to gambling activity: a systematic review and intersectional analysis of the compound vulnerabilities to gambling harm*.
+
+
+The goal of this current set of reviews is to inform policy and research priorities. These reviews are part of a larger UKRI initiative to strengthen the evidence base on gambling-related harms, and findings will help identify research gaps and guide future work. 
+
+Speaking about the project, Dr Wilson said:
+
+> This work seeks to synthesise knowledge about vulnerabilities to gambling harms within specific populations. The prevalence of gambling within sporting contexts potentially means different levels of risk exist in comparison to the general population. We hope this work will contribute to an evidence base that could lead to the development of tailored harm reduction approaches.  
+  
+Details are available on the UKRI AHRC Website:
