@@ -241,8 +241,8 @@
     "objectID": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
     "href": "slides/chris_seminar_talk/index.html#aims-of-this-talk",
     "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "",
-    "text": "To outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
+    "section": "Aims of this talk",
+    "text": "Aims of this talk\n\nTo outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
   },
   {
     "objectID": "slides/chris_seminar_talk/index.html#the-multi-dimensional-nature-of-gambling-harms",
@@ -315,11 +315,11 @@
     "text": "Project Background\n\nDiscourse around reducing harms is still heavily focused on the individual (Marko et al. 2022)\nFailure of research to epistemologically consider the broader context in which gambling takes place, has led to too much focus on individual pathology (Borrell and Boulet 2005)\n“urgent need to identify predictors of disordered gambling in people who gamble recreationally […] particularly across relationship [… ] domains” (Bowden-Jones et al. 2022)\n\n\nThis project looks to address a gap in the literature about the role of socialisation - for example engagement as a fan or a player might influence gambling behaviour.\n\nDoes it just increase exposure?\nDoes it link to attitudes?\nDoes it relate to frequency of betting or amount bet..\n\nThere are lots of questions"
   },
   {
-    "objectID": "slides/chris_seminar_talk/index.html#the-social-component",
-    "href": "slides/chris_seminar_talk/index.html#the-social-component",
+    "objectID": "slides/chris_seminar_talk/index.html#social-identification",
+    "href": "slides/chris_seminar_talk/index.html#social-identification",
     "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The Social Component",
-    "text": "The Social Component\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)"
+    "section": "Social Identification",
+    "text": "Social Identification\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)\n\n\n\nThere has been work done before linking sports involvement to gambling behavour…\nHowever, much of the previous work treats the social context of sports engagement as a transient environmental experience. That is to say, an environment you can be in or out of - an external source of influence.\nSocial identity is not a transient external source of influence, it is a state. It is who the person sees themselves to be. And although that can be context dependent… it is a very different way of looking at this topic."
   },
   {
     "objectID": "slides/chris_seminar_talk/index.html#research-questions",
@@ -415,7 +415,7 @@
     "href": "research/gambling.html#talks",
     "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
     "section": "Talks",
-    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nResearch Talk: It’s part of the sport: Exploring how social identification with sports groups predicts gambling behaviour\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items",
+    "text": "Talks\n\n\n\n\n\n\n\n\n\n\nResearch Talk: “The Cognitive Neuroscience of Risk and Gambling Behaviour: A multidimensional approach to understanding Gambling Harms”\n\n\n\n\n\n\n\n\n2025-11-26\n\n\nCL1.06 Themis Building, Teesside University\n\n\n\n\n\n\n\n\n\n\n\n\nMIND Lab @ Teesside University Research Fair\n\n\n\n\n\n\n\n\n2025-06-24\n\n\nThe Hub exhibition space, SU Building\n\n\n\n\n\nNo matching items",
     "crumbs": [
       "Gambling Research Programme"
     ]
@@ -1116,26 +1116,5 @@
     "title": "Lab Equipment and Software",
     "section": "Open Source Sofware Development",
     "text": "Open Source Sofware Development\nTo support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.\nLearn more about the COBI fNIRS software"
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#social-identification",
-    "href": "slides/chris_seminar_talk/index.html#social-identification",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "Social Identification",
-    "text": "Social Identification\n\nSocialisation through family or peer groups is a common starting point in the initiation of gambling behaviour (Reith and Dobbie 2011)\nProblem gambling has been found to be associated with conformity to group norms (Atte Oksanen et al. 2021)\nIt is potentially much more valuable to understand how identification with other social groups could lead to gambling.\n\nto engage with them at any level (e.g., amateur players or fan) is to be exposed to gambling (Constandt et al. 2022)\n\n\n\nThere has been work done before linking sports involvement to gambling behavour…\nHowever, much of the previous work treats the social context of sports engagement as a transient environmental experience. That is to say, an environment you can be in or out of - an external source of influence.\nSocial identity is not a transient external source of influence, it is a state. It is who the person sees themselves to be. And although that can be context dependent… it is a very different way of looking at this topic."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html#the-social-context-background-image....imagesgambling_ads.jpg-background-opacity0.3",
-    "href": "slides/chris_seminar_talk/index.html#the-social-context-background-image....imagesgambling_ads.jpg-background-opacity0.3",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "The social context {background-image=“../../images/gambling_ads.jpg background-opacity=”0.3”}",
-    "text": "The social context {background-image=“../../images/gambling_ads.jpg background-opacity=”0.3”}\n\nIncreasing prevalence of gambling advertisement\nNormalisation (Norm-congruence) of gambling as a part of sports engagement (Duggan and Mohan 2022; Jetten et al. 2017)\nThe symbolic construction of sports betting (Lopez-Gonzalez, Griffiths, and Jimenez-Murcia 2021)\n\n\ngambling has started to become norm-congruent behaviour within these social groups, which in-turn makes it an acceptable, or even expected, behaviour for those who want to see themselves as a prototypical group member (Jetten et al., 2017)."
-  },
-  {
-    "objectID": "slides/chris_seminar_talk/index.html",
-    "href": "slides/chris_seminar_talk/index.html",
-    "title": "The Cognitive Neuroscience of Risk and Gambling Behaviour",
-    "section": "",
-    "text": "To outline a developing research programme on the cognitive neuroscience of gambling harms\nTo explore a currently active project on the role of social identity and the normalisation of gambling in sports groups\nTo discuss some planned research and future directions\n\n\nI was originally going to talk about a single project which is currently ongoing.\nWhile I will still talk about this, I thought it might be more suitable for this seminar series to outline the programme of work that is currently taking place in our lab, involving funded research projects with Research Associates, Doctoral Students, MSc students and UG projects."
   }
 ]
