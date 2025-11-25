@@ -1,8 +1,6 @@
 ---
 title: |
-  Research Talk: *It’s part of the sport*: Exploring how 
-  social identification  with sports groups predicts 
-  gambling behaviour
+  Research Talk: "The Cognitive Neuroscience of Risk and Gambling Behaviour: A multidimensional approach to understanding Gambling Harms"
 image: "../images/gambling_sport.jpg"
 categories:
   - talks
