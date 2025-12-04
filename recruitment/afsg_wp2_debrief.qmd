@@ -1,0 +1,51 @@
+---
+brand: ../_brand_mind.yml
+format: 
+  html:
+    embed_resources: true
+    output-file: "afsgwp2_debrief.html"
+    toc: true
+  # revealjs: 
+  #   embed_resources: true
+  #   output-file: "afsgwp2_slide.html"
+  #   width: 1500
+email-obfuscation: javascript 
+status: open
+study-location: "Online"
+title: "Sports Engagement and Gambling Interviews: Debrief"
+image: "../images/sport_team.jpg"
+footer: "<a href='/'>www.themindlab.uk</a>" 
+---
+## Aims of the research:  
+
+The aims of this project are: to explore how social identification with sports groups is linked to gambling behaviour; to explore which aspects of gambling behaviour are predicted by social identification with sports groups; to explore how people experience the normalisation of gambling within sports social groups; and to synthesise our findings into recommendations for relevant stakeholders, to support their approaches gambling harm reduction. 
+
+Previous research has indicated that social relationships are a strong factor in the maintenance of gambling harms. There are certain sports (e.g., football), wherein gambling has become a normalised part of socialising within these groups. However, while some research has found sports participation is a predictor of gambling behaviour, there is a lack of work exploring how social identification with sports groups might predict gambling and which aspects of gambling it might be linked to (e.g., frequency of gambling, amount gambled, attitudes to gambling). Furthermore, while we know little about how socialisation can lead to gambling in families, we know little about how people experience the normalisation of gambling within wider social groups. 
+
+I would like to emphasise that all information provided by yourself will be treated with strict confidentiality and under no circumstances will your name or any identifying characteristics be included in any subsequent reports or publications. If you have any further questions about this study, please contact [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Research%20Participation%20Query).
+
+You may withdraw your data from this research at any point up to 7 days from the date of your interview. Within this timeframe, you will be contacted to confirm that you are happy with the interview transcript, and asked if you would like to withdraw from the study, if you choose.  
+
+**When will I receive my token of appreciation?:** if you provided your email to receive a shopping voucher for participation, you will receive an email within aprox. 7 days, subject to verification of responses (anti-fraud measures). We need to ensure that all responses are genuine, including that participants are based in the UK, and are part of the sports groups which are participating in the study. If we are unsure, we will be in touch to confirm.  
+
+ 
+
+## If you are affected by gambling, you can get support.  
+
+ 
+
+EPIC Restart Foundation is a charity built on lived experience of gambling harm, supporting people across the UK. https://www.epicrestartfoundation.org/  
+
+ 
+
+GAMSTOP is a free online self-exclusion tool that helps you control your online gambling. Once registered you will be prevented from using gambling websites and apps run by companies licensed in Great Britain, for a period of your choosing. https://www.gamstop.co.uk/  
+
+ 
+
+GambleAware offer free advice, tools and support to help keep people safe from gambling harms. https://www.gambleaware.org/  
+
+ 
+
+ 
+
+Thank you for your participation   
