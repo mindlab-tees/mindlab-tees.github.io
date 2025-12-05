@@ -9,7 +9,7 @@ about:
   image-shape: round
 listing:
    - id: badges
-     contents: "../badges_awarded/lorraine_temple/*.svg"
+     contents: "../badges_awarded/lorraine_temple/*.jpg"
      template: ../badges.ejs
    - id : projects
      contents: "../projects/*qmd"
@@ -20,14 +20,14 @@ listing:
 ---
 
 
-Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on metacognition and accent perception. 
+Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on [metacognition](http://themindlab.uk/posters/metacog_poster.pdf) and [accent perception](http://themindlab.uk/posters/accent_poster.pdf). 
 
 ## Projects I have been involved in
 
 ::: {#projects}
 :::
 
-## Research Training Badges
+## Research Training
 
 ::: {#badges}
 

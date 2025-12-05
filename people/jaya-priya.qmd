@@ -4,9 +4,19 @@ role: volunteer
 #projects: [hypomania]
 image: "../images/user.webp"
 programme: [gambling]
+listing:
+   - id: badges
+     contents: "../badges_awarded/jaya/*.jpg"
+     template: ../badges.ejs
 about: 
   template: trestles
   image-width: 10em
   image-shape: round
 ---
-I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field.
+I’m currently a Master’s student in Applied Psychology with a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including [hypomania and risk-taking](http://themindlab.uk/posters/hypomania_poster.pdf) bahaviour. My goal is to pursue a PhD in the future.
+
+## Research Training 
+
+::: {#badges}
+
+:::

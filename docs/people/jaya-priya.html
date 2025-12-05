@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -67,7 +69,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-badges .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-filename','listing-file-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-filename","listing-file-modified"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-badges'] = new List('listing-badges', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -165,9 +225,48 @@ ul.task-list li input[type="checkbox"] {
 </header>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field.</p>
+<p>I’m currently a Master’s student in Applied Psychology with a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including <a href="http://themindlab.uk/posters/hypomania_poster.pdf">hypomania and risk-taking</a> bahaviour. My goal is to pursue a PhD in the future.</p>
+<section id="research-training" class="level2">
+<h2 data-anchor-id="research-training">Research Training</h2>
+<div id="listing-badges" class="quarto-listing quarto-listing-container-custom">
+<div class="grid">
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../badges_awarded/jaya/ml_badge_et.jpg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../badges_awarded/jaya/ml_badge_fnirs.jpg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../badges_awarded/jaya/ml_badge_ldc.jpg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+  <div class="g-col-12 g-col-sm-6 g-col-md-4 g-col-lg-3">
+    <div class="badge-container">
+      <img src="../badges_awarded/jaya/ml_badge_le.jpg" alt="Badge" class="badge-svg">
+    </div>
+  </div>
+</div>
+<style>
+.badge-container {
+  padding: 10px;
+}
+.badge-svg {
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+</style>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
 
 
+</section>
 <div class="nav-footer">
 <a href="../about.html">The Wilson-Medimorec MIND Lab</a>
 </div></main></div>

@@ -375,7 +375,7 @@
     "href": "research/gambling.html#research-programme-overview",
     "title": "The Cognitive Neuroscience of Risk and Gambling Harms",
     "section": "Research Programme Overview",
-    "text": "Research Programme Overview\nThis research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm.\n\nCognitive Moderators (e.g., attention, memory, numeracy)\nClinical Vulnerability (e.g., depression, hypomania, anxiety)\nThe Social Context (e.g., sports engagement, social identity)\nNeurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)",
+    "text": "Research Programme Overview\nThis programme adopts a multi-dimensional approach to gambling harms. Our structural-interactive view recognises that product design and the wider commercial environment are designed to exploit individual psychological vulnerabilities. Our goal is to provide the mechanistic evidence base to support more robust interventions that reduce vulnerable cognitive states (supporting ‘Safer by Design’ regulatory policy). We use neuroimaging (fNIRS) to identify the specific neurocognitive mechanisms that are vulnerable to exploutation and work to develop methods of strengthening them in the face of cognitively exploitative product features and ‘frictionless’ access to an increasing array of gambling opportunities.\n\nCognitive Moderators (e.g., attention, memory, numeracy)\nClinical Vulnerability (e.g., depression, hypomania, anxiety)\nThe Social Context (e.g., sports engagement, social identity)\nNeurological Correlates (Using fNIRS to map the “in-the-moment” brain activity of decision-making and risk-taking)",
     "crumbs": [
       "Gambling Research Programme"
     ]
@@ -781,7 +781,7 @@
     "href": "people/jaya-priya.html",
     "title": "Jaya Priya Naganathan",
     "section": "",
-    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain, behaviour, and neurodevelopmental disorders. I’m particularly passionate about understanding how the brain develops, adapts, and interacts with neurodivergent conditions. My goal is to pursue a PhD in the future and contribute to research that explores the unanswered questions in this field.\n\n\n\nThe Wilson-Medimorec MIND Lab"
+    "text": "I’m currently a Master’s student in Applied Psychology with a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including hypomania and risk-taking bahaviour. My goal is to pursue a PhD in the future."
   },
   {
     "objectID": "people/lorraine_temple.html",
@@ -1137,5 +1137,19 @@
     "title": "Lab Equipment and Software",
     "section": "Open Source Sofware Development",
     "text": "Open Source Sofware Development\nTo support this scientific pipeline, our lab also develops its own open-source tools, such as the COBI fNIRS R Package, a collection of functions for processing and analyzing complex fNIRS data.\nLearn more about the COBI fNIRS software"
+  },
+  {
+    "objectID": "people/jaya-priya.html#research-training",
+    "href": "people/jaya-priya.html#research-training",
+    "title": "Jaya Priya Naganathan",
+    "section": "Research Training",
+    "text": "Research Training\n\n\n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/lorraine_temple.html#research-training",
+    "href": "people/lorraine_temple.html#research-training",
+    "title": "Lorraine Temple",
+    "section": "Research Training",
+    "text": "Research Training\n\n\n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n  \n    \n      \n    \n  \n\n\nNo matching items"
   }
 ]

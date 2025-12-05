@@ -62,7 +62,7 @@ listing:
 
 ## Research Programme Overview
 
-This research programme takes a multi-dimensional approach to understanding and reducing gambling-related harm. 
+This programme adopts a multi-dimensional approach to gambling harms. Our structural-interactive view recognises that product design and the wider commercial environment are designed to exploit individual psychological vulnerabilities. Our goal is to provide the mechanistic evidence base to support more robust interventions that reduce vulnerable cognitive states (supporting 'Safer by Design' regulatory policy). We use neuroimaging (fNIRS) to identify the specific neurocognitive mechanisms that are vulnerable to exploutation and work to develop methods of strengthening them in the face of cognitively exploitative product features and 'frictionless' access to an increasing array of gambling opportunities. 
 
 - Cognitive Moderators (e.g., attention, memory, numeracy)
 
