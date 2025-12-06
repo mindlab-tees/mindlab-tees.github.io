@@ -62,7 +62,7 @@ listing:
 
 ## Research Programme Overview
 
-This programme adopts a multi-dimensional approach to gambling harms. Our structural-interactive view recognises that product design and the wider commercial environment are designed to exploit individual psychological vulnerabilities. Our goal is to provide the mechanistic evidence base to support more robust interventions that reduce vulnerable cognitive states (supporting 'Safer by Design' regulatory policy). We use neuroimaging (fNIRS) to identify the specific neurocognitive mechanisms that are vulnerable to exploitation and work to develop methods of strengthening them in the face of cognitively exploitative product features and 'frictionless' access to gambling. 
+This programme adopts a multi-dimensional approach to gambling harms. Our structural-interactive view rejects the narrative that gambling harms are a failure of individual responsibility and recognises that product design and the wider commercial environment are designed to exploit individual psychological vulnerabilities. Our goal is to provide the mechanistic evidence base to support more robust interventions that reduce vulnerable cognitive states (supporting 'Safer by Design' regulatory policy). We use neuroimaging (fNIRS) to identify the specific neurocognitive mechanisms that are vulnerable to exploitation and work to develop methods of strengthening them in the face of cognitively exploitative product features and 'frictionless' access to gambling. 
 
 - Cognitive Moderators (e.g., attention, memory, numeracy)
 
@@ -85,6 +85,11 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 ::: {#doctoral-researchers}
 :::
 
+## Research Associates
+
+::: {#ra}
+:::
+
 ## Recent Publications
 
 ::: {#recent-publications}
@@ -99,10 +104,7 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 
 
 
-## Research Associates
 
-::: {#ra}
-:::
 
 ## Other lab members involved in this research programme
 
