@@ -16,7 +16,6 @@
     "items": [
       "/people/jaya-priya.html",
       "/people/lorraine_temple.html",
-      "/projects/ukri_rer.html",
       "/projects/afsg_sport.html",
       "/people/alana.html",
       "/people/david.html",
@@ -27,17 +26,14 @@
     ]
   },
   {
-    "listing": "/people/index.html",
+    "listing": "/people/lorraine_temple.html",
     "items": [
-      "/people/chris/index.html",
-      "/people/srdan/index.html",
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/ema.html",
-      "/people/lorraine_temple.html",
-      "/people/jaya-priya.html",
-      "/people/lisa.html"
+      "/projects/afsg_sport.html"
     ]
+  },
+  {
+    "listing": "/people/jaya-priya.html",
+    "items": []
   },
   {
     "listing": "/index.html",
@@ -66,9 +62,16 @@
     ]
   },
   {
-    "listing": "/people/lorraine_temple.html",
+    "listing": "/people/index.html",
     "items": [
-      "/projects/afsg_sport.html"
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/people/lorraine_temple.html",
+      "/people/jaya-priya.html",
+      "/people/lisa.html"
     ]
   },
   {
@@ -80,9 +83,5 @@
       "/projects/accent.html",
       "/projects/metacognition.html"
     ]
-  },
-  {
-    "listing": "/people/jaya-priya.html",
-    "items": []
   }
 ]
