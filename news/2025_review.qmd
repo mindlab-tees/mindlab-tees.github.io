@@ -10,7 +10,7 @@ It has been a busy and productive semester for the Lab. As we head into the brea
 
 ## Building Research Capacity
 
-A core mission of the lab is to equip our researchers with methodological and tehnical research skills. We continued this month with hands-on training in Eye-Tracking data acquisition. This follows our sessions on fNIRS neuroimaging and will be followed by sessions on [experimental programming and open science in the next semester.](https://themindlab.uk/info/lab_schedule.html)
+A core mission of the lab is to equip our researchers with methodological and technical research skills. We continued this month with hands-on training in Eye-Tracking data acquisition. This follows our sessions on fNIRS neuroimaging and will be followed by sessions on [experimental programming and open science in the next semester.](https://themindlab.uk/info/lab_schedule.html)
 
 ![](../images/eye_t1.jpg){style="display: block; margin: 0 auto; width:50%" }
 
