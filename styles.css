@@ -1,5 +1,23 @@
 /* css styles */
 
+:root {
+    /* 1. The Standard Link Color (Midnight Navy) */
+    --bs-link-color: #003366; 
+    
+    /* 2. The RGB Version (CRITICAL) */
+    /* This MUST match the Hex above. Format: Red, Green, Blue (no brackets) */
+    /* 0, 51, 102 corresponds to #003366 */
+    --bs-link-color-rgb: 0, 51, 102;
+
+    /* 3. The Link Hover Color (Slightly lighter/brighter for interaction) */
+    --bs-link-hover-color: #0056b3;
+    
+    /* 4. The Hover RGB Version */
+    /* 0, 86, 179 corresponds to #0056b3 */
+    --bs-link-hover-color-rgb: 0, 86, 179;
+}
+
+
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .navbar-logo {
@@ -108,3 +126,83 @@ li::marker {
   text-decoration: underline;
 }
 
+/* link colours */
+a.quarto-grid-link .listing-title {
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    transition: color 0.2s ease-in-out;
+}
+
+/* On hover, use the site's standard link hover color */
+a.quarto-grid-link:hover .listing-title {
+    color: rgba(var(--bs-link-hover-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: underline;
+}
+h3.listing-title a {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: none;
+}
+
+/* On hover, use the site's standard link hover color */
+h3.listing-title a:hover {
+    color: rgba(var(--bs-link-hover-color-rgb), var(--bs-link-opacity, 1));
+    text-decoration: underline;
+}
+/* Targets the description container */
+.listing-description {
+    font-size: 0.95rem;       /* Slightly smaller than body text for hierarchy */
+    line-height: 1.5;         /* Improves readability on multi-line descriptions */
+    color: #4a4a4a;           /* Dark grey: readable but distinct from the Navy header */
+    margin-top: 0.5rem;       /* Adds breathing room between Header and Description */
+}
+
+/* Ensures the link inside the description doesn't look like a blue link */
+.listing-description a {
+    color: inherit;           /* Forces it to use the grey defined above */
+    text-decoration: none;    /* Removes underline */
+    cursor: text;             /* Optional: Makes it feel like normal text, not a link */
+}
+
+/* Target the specific image class used by Quarto listings */
+img.thumbnail-image {
+    height: 12rem;       /* Sets a fixed height (approx 190px). Adjust as needed. */
+    width: 100%;         /* Ensures the image fills the width of its container */
+    object-fit: cover;   /* Critical: Crops the image to fill the box without squashing it */
+    object-position: center; /* Centers the image within the crop */
+}
+
+/* Adds space between the content (image/text) and the bottom border line */
+.quarto-post {
+    padding-bottom: 1.5rem; /* Adjust this value to increase/decrease space */
+    margin-bottom: 1.5rem;  /* Ensures there is also space outside the border before the next item starts */
+}
+
+.alert-primary {
+  background-color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+  
+}
+
+/* Overrides the 'Success' button to use the Logo's Orange Accent */
+.btn-success {
+    /* 1. Background: The Brand Orange */
+    /* Using a vibrant orange similar to your logo icon */
+    --bs-btn-bg: #e67e22; 
+    --bs-btn-border-color: #e67e22;
+    
+    /* 2. Text Color: Midnight Navy */
+    /* Using Navy text on Orange ensures it passes accessibility standards significantly better than White text */
+    --bs-btn-color: #003366;
+    
+    /* 3. Hover State: Slightly Darker Orange */
+    --bs-btn-hover-bg: #d35400;
+    --bs-btn-hover-border-color: #d35400;
+    
+    /* 4. Hover Text: Keep it Navy or switch to White if preferred */
+    --bs-btn-hover-color: #003366; 
+
+    /* 5. Active/Click State */
+    --bs-btn-active-bg: #a84300;
+    --bs-btn-active-border-color: #a84300;
+    --bs-btn-active-color: #ffffff; /* Turns white when physically clicked for feedback */
+}
