@@ -8,8 +8,16 @@ programme: gambling
 event-date: 2025-11-26
 event-location: CL1.06 Themis Building, Teesside University
 ---
+**Slides have been added below:**
 
-<!-- ![](../images/srdan_talk1.jpg){style="display: block; margin: 0 auto; width:50%" } -->
+
+```{=html}
+<iframe width=100% height = 400px src="../slides/chris_seminar_talk/"></iframe>
+```
+<div style="color:gray; font-size:small;" >
+*To navigate the slides, click on them and use the arrow keys on your keyboard. Alternatively, you can click the menu in the bottom left corner of the slide.*
+</div>
+
 
 Dr Christopher Wilson will be delivering a talk on 26th November 2025 at 2:00 PM in CL1.06. The talk will outline the programme of research currently being conducted the The MIND Lab on the clinical, cognitive, neurological and social aspects of gambling behaviour and gambling harms. It will also focus on a new project exploring how social identification with sports groups predicts gambling behaviour.
 
