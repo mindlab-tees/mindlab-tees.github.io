@@ -80,15 +80,17 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 ::: {#gambling-projects}
 :::
 
+## Research Associates
+
+::: {#ra}
+:::
+
 ## Doctoral Students
 
 ::: {#doctoral-researchers}
 :::
 
-## Research Associates
 
-::: {#ra}
-:::
 
 ## Recent Publications
 
