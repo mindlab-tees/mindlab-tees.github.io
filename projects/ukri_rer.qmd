@@ -4,7 +4,7 @@ draft: FALSE
 image: "../images/ahrc_logo.png"
 categories: [project, news, funding]
 programme: [gambling]
-people: [chris]
+people: [chris, jaya]
 news-date: 2026-01-05
 date: 2026-01-05
 funder: "Funded by UKRI/AHRC"

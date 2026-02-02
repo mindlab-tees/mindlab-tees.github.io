@@ -27,14 +27,27 @@
     ]
   },
   {
-    "listing": "/people/lorraine_temple.html",
+    "listing": "/people/index.html",
     "items": [
-      "/projects/afsg_sport.html"
+      "/people/chris/index.html",
+      "/people/srdan/index.html",
+      "/people/alana.html",
+      "/people/david.html",
+      "/people/ema.html",
+      "/people/jaya-priya.html",
+      "/people/lorraine_temple.html",
+      "/people/lisa.html"
     ]
   },
   {
-    "listing": "/people/jaya-priya.html",
-    "items": []
+    "listing": "/info/lab_schedule.html",
+    "items": [
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html"
+    ]
   },
   {
     "listing": "/index.html",
@@ -54,26 +67,15 @@
     ]
   },
   {
-    "listing": "/info/lab_schedule.html",
+    "listing": "/people/jaya-priya.html",
     "items": [
-      "/events/chris_talk_25.html",
-      "/events/srdan_talk_25.html",
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html"
+      "/projects/ukri_rer.html"
     ]
   },
   {
-    "listing": "/people/index.html",
+    "listing": "/people/lorraine_temple.html",
     "items": [
-      "/people/chris/index.html",
-      "/people/srdan/index.html",
-      "/people/alana.html",
-      "/people/david.html",
-      "/people/ema.html",
-      "/people/lorraine_temple.html",
-      "/people/jaya-priya.html",
-      "/people/lisa.html"
+      "/projects/afsg_sport.html"
     ]
   },
   {

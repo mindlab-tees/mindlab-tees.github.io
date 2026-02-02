@@ -16,7 +16,7 @@ listing:
      type: default
      include: 
        people: [lorraine_temple]
-     fields: [image, title]
+     fields: [title, description,funder]
 ---
 
 

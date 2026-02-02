@@ -97,6 +97,34 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-description','listing-title','listing-funder',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -214,7 +242,7 @@ window.Quarto = {
 <!-- main -->
 <div class="quarto-about-trestles column-page">
   <div class="about-entity">
-    <img src="../images/user.webp" class="about-image
+    <img src="../images/jaya.jpg" class="about-image
   round " style="height: 10em; width: 10em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -225,7 +253,32 @@ window.Quarto = {
 </header>
   </div>
   <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>I’m currently a Master’s student in Applied Psychology with a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including <a href="http://themindlab.uk/posters/hypomania_poster.pdf">hypomania and risk-taking</a> bahaviour. My goal is to pursue a PhD in the future.</p>
+<p>I’m have recently completed a Master’s in Applied Psychology at Teesside University. I have a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including <a href="http://themindlab.uk/posters/hypomania_poster.pdf">hypomania and risk-taking</a> behaviour. My goal is to pursue a PhD in the future. I am currently working as a research associate on the UKRI/AHRC funded gambling harms evidence review project.</p>
+<section id="projects-i-have-been-involved-in" class="level2">
+<h2 data-anchor-id="projects-i-have-been-involved-in">Projects I have been involved in</h2>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="cHJvamVjdCUyQ25ld3MlMkNmdW5kaW5n" data-listing-date-sort="1767571200000" data-listing-file-modified-sort="1770027903235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../projects/ukri_rer.html" class="no-external">UKRI Funding Award for Gambling Evidence Review</a>
+</h3>
+<div class="delink listing-description"><a href="../projects/ukri_rer.html" class="no-external">
+The MIND Lab has been awarded a grant by UKRI / AHRC as part of the Rapid Evidence Reviews into Gambling Harms. Dr Wilson (PI) will be working with Dr Andrew Richardson…<em></em>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../projects/ukri_rer.html" class="no-external">
+<div class="metadata-value listing-funder">
+Funded by UKRI/AHRC
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
 <section id="research-training" class="level2">
 <h2 data-anchor-id="research-training">Research Training</h2>
 <div id="listing-badges" class="quarto-listing quarto-listing-container-custom">

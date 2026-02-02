@@ -1,19 +1,30 @@
 ---
 title: "Jaya Priya Naganathan"
-role: volunteer
+role: ra
 #projects: [hypomania]
-image: "../images/user.webp"
+image: "../images/jaya.jpg"
 programme: [gambling]
 listing:
    - id: badges
      contents: "../badges_awarded/jaya/*.jpg"
      template: ../badges.ejs
+   - id : projects
+     contents: "../projects/*qmd"
+     type: default
+     include: 
+       people: [jaya]
+     fields: [description, title,funder]
 about: 
   template: trestles
   image-width: 10em
   image-shape: round
 ---
-I’m currently a Master’s student in Applied Psychology with a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including [hypomania and risk-taking](http://themindlab.uk/posters/hypomania_poster.pdf) bahaviour. My goal is to pursue a PhD in the future.
+I’m have recently completed a Master’s in Applied Psychology at Teesside University. I have a strong interest in the brain and behaviour. During my time at the lab, I have worked on several studies, including [hypomania and risk-taking](http://themindlab.uk/posters/hypomania_poster.pdf) behaviour. My goal is to pursue a PhD in the future. I am currently working as a research associate on the UKRI/AHRC funded gambling harms evidence review project.
+
+## Projects I have been involved in
+
+::: {#projects}
+:::
 
 ## Research Training 
 
