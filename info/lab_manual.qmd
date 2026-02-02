@@ -24,7 +24,7 @@ If you would like to gain some volunteer experience in a lab environment, you ca
 
 ## Overview
 
-The MIND Lab is a research group based in the Psychology Department at Teesside University. We conduct research into cognition, memory and decision-making, with specific strands of work being led by Dr. Christopher Wilson (decision-making under risk: gambling, economic decision-making) and Dr. Srdan Medimorec (language, meta-cognition, implicit learning).
+The Wilson-Medimorec MIND Lab is a research group run by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Psychology Department at Teesside University. We conduct research into cognition, memory and decision-making, with specific strands of work being led by Dr. Christopher Wilson (decision-making under risk: gambling, economic decision-making) and Dr. Srdan Medimorec (language, meta-cognition, implicit learning).
 
 This document outlines our approach to conducting research in a lab environment. It is intended to be a living document that will be updated as our lab grows and changes.
 
@@ -219,7 +219,7 @@ We will use the OSF to manage our projects and share our data, methods and findi
 
 ### Github
 
-We will use Github to manage our code and software development. This will include creating a repository for each project, where you can share your code and collaborate with others. We will provide training on how to use Github in accordance with the lab's policies and procedures.
+We will use Github to manage our code and software development. We will provide training on how to use Github in accordance with the lab's policies and procedures.
 
 ### The lab website
 
