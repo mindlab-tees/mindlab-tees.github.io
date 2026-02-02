@@ -24,4 +24,4 @@ We use fnirs to examine brain activity during various cognitive tasks, such as w
 
 We currently use an FNIR400 from Biopac Systems Inc. which is a continuous wave system. We use a 16-channel headband to measure changes in blood oxygenation in the prefrontal cortex, a brain region that is involved in a wide range of cognitive functions.
 
-## More on fNIRS:
+

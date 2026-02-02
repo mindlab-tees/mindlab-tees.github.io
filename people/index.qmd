@@ -50,6 +50,10 @@ We are still updating the lab membership for the 2025-26 academic year. Please c
 ::: {#lab-directors}
 :::
 
+### Research Associates
+
+::: {#research-associates}
+:::
 
 ### Doctoral Researchers
 
@@ -57,10 +61,7 @@ We are still updating the lab membership for the 2025-26 academic year. Please c
 :::
 
 
-### Research Associates
 
-::: {#research-associates}
-:::
 
 
 
