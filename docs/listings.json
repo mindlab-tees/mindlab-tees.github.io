@@ -87,5 +87,13 @@
       "/projects/accent.html",
       "/projects/metacognition.html"
     ]
+  },
+  {
+    "listing": "/people/david.html",
+    "items": []
+  },
+  {
+    "listing": "/people/alana.html",
+    "items": []
   }
 ]

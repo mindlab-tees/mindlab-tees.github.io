@@ -2,15 +2,23 @@
 title: "David Minchella"
 image: "../images/user.webp"
 role: doctoral
-#projects: [hypomania]
 programme: [gambling]
 about: 
   template: trestles
- # image: "../images/lisa.jpg"
   image-width: 10em
   image-shape: round
+listing:
+   - id: badges
+     contents: "../badges_awarded/david/*.jpg"
+     template: ../badges.ejs
 ---
 
 David is a doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential moderating roles of reward focus and risk perception. He used functional near infrared spectroscopy to look at neural activation. 
 
 Update: David passed his viva voce examination in September 2025.
+
+## Research Training
+
+::: {#badges}
+
+:::
