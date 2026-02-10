@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Welcome to the Lab – The MIND Lab</title>
+<title>cobifnirs v0.1.0: Refining the Pipeline for Event-Related fNIRS Analysis – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,29 +20,62 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,95 +103,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-events .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-event-date','listing-event-location','listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-events'] = new List('listing-events', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-news .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-news'] = new List('listing-news', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -166,16 +113,16 @@ window.Quarto = {
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <div id="quarto-announcement" data-announcement-id="3c91e7ff5eab85a6243ec7e7e962013a" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are currently recruiting participants for research on campus. Click <a href="./recruitment/index.html">here</a> to learn more.</p>
+<p>We are currently recruiting participants for research on campus. Click <a href="../recruitment/index.html">here</a> to learn more.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/icon.png" alt="" class="navbar-logo light-content">
-    <img src="./images/icon.png" alt="" class="navbar-logo dark-content">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../images/icon.png" alt="" class="navbar-logo light-content">
+    <img src="../images/icon.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">The MIND Lab</span>
     </a>
   </div>
@@ -186,15 +133,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./info/lab_schedule.html"> 
+    <a class="nav-link" href="../info/lab_schedule.html"> 
 <span class="menu-text">Events and Meetings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./info/lab_manual.html"> 
+    <a class="nav-link" href="../info/lab_manual.html"> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -203,29 +150,29 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="./research/gambling.html">
+    <a class="dropdown-item" href="../research/gambling.html">
  <span class="dropdown-text">Gambling Research Programme</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./research/langlearn.html">
+    <a class="dropdown-item" href="../research/langlearn.html">
  <span class="dropdown-text">Language Learning and Metacognition Programme</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./tools/index.html"> 
+    <a class="nav-link" href="../tools/index.html"> 
 <span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people/"> 
+    <a class="nav-link" href="../people/"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./training/index.html"> 
+    <a class="nav-link" href="../training/index.html"> 
 <span class="menu-text">Training</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./recruitment/index.html"> 
+    <a class="nav-link" href="../recruitment/index.html"> 
 <span class="menu-text">Research Participation</span></a>
   </li>  
 </ul>
@@ -245,8 +192,11 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Welcome to the Lab</h1>
-</div>
+<h1 class="title">cobifnirs v0.1.0: Refining the Pipeline for Event-Related fNIRS Analysis</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">news</div>
+  </div>
+  </div>
 
 
 
@@ -262,285 +212,50 @@ window.Quarto = {
 </header>
 
 
-<style>
-.column {
-  /* border: 1px solid #ddd; */
-  padding: 1em;
-  border-radius: 5px;
-  /* 1. Make this column a flex container */
-  display: flex;
-
-  /* 2. Stack its children vertically */
-  flex-direction: column;
-
-  /* 3. Center the children horizontally */
-  align-items: center;
-
-  /* 4. Center the children vertically */
-  justify-content: center; 
-
-  /* 5. (Optional) Also center any text inside the children */
-  text-align: center;
-}
-
-.column + .column {
-  /* This adds the 1px solid grey vertical line */
-  border-left: 1px solid #ddd;
-
-  /* This adds some space between the line and the content 
-  padding-left: 1em; */
-}
-</style>
-<p>The Wilson-Medimorec MIND Lab is a <a href="https://www.themindlab.uk/about.html">collaborative research group</a> co-led by Dr Christopher Wilson and Dr Srdan Medimorec, who are based in the Department of Psychology at Teesside University. The lab’s work is organised into two primary research streams, each led by a Principal Investigator.</p>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p><strong>The Cognitive Neuroscience of Risk &amp; Gambling Harms.</strong></p>
-<p><a href="./research/gambling.html" class="btn btn-success">Learn more about gambling research here</a></p>
-</div><div class="column" style="width:50%;">
-<p><strong>Language, meta-cognition, implicit learning.</strong></p>
-<p><a href="./research/langlearn.html" class="btn btn-success">Learn more about language and learning research here</a></p>
-</div>
-</div>
-<p>We use a range of methods, including functional near-infrared spectroscopy (fNIRS), eye-tracking, and virtual reality, to study these processes in both healthy and clinical populations.</p>
-<div class="callout callout-style-simple callout-none no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">None</span>Joining the lab
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>If you are interested in joining the lab, the fist step is reading the <a href="info/lab_manual.html">Lab Manual</a>. This will give you an overview of the lab’s research, methods, and culture.</p>
-</div>
-</div>
-<section id="lab-news" class="level2">
-<h2 class="anchored" data-anchor-id="lab-news">Lab News</h2>
-<div id="listing-news" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="bmV3cw==" data-listing-file-modified-sort="1770743396187" data-listing-reading-time-sort="3" data-listing-word-count-sort="427">
-<a href="./news/cobi_fnirs_0.10.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/cobifnirs.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-cobifnirs v0.1.0: Refining the Pipeline for Event-Related fNIRS Analysis
-</h5>
-<div class="card-text listing-description delink">
-We have released <code>cobifnirs</code> v0.1.0, a significant update focused on improving the precision and statistical validity of fNIRS data analysis in R.
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="cHJvamVjdCUyQ25ld3MlMkNmdW5kaW5n" data-listing-date-sort="1767571200000" data-listing-file-modified-sort="1770027903235" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
-<a href="./projects/ukri_rer.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/ahrc_logo.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-UKRI Funding Award for Gambling Evidence Review
-</h5>
-<div class="card-text listing-description delink">
-The MIND Lab has been awarded a grant by UKRI / AHRC as part of the Rapid Evidence Reviews into Gambling Harms. Dr Wilson (PI) will be working with Dr Andrew Richardson…<em></em>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="bmV3cw==" data-listing-file-modified-sort="1766069846925" data-listing-reading-time-sort="2" data-listing-word-count-sort="348">
-<a href="./news/2025_review.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/eye_t2.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Autumn 2025 Review: New Grants, Papers and Training
-</h5>
-<div class="card-text listing-description delink">
-It has been a busy and productive semester for the Lab. As we head into the break, here is a roundup of the key developments from the last few months.
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-categories="bmV3cw==" data-listing-file-modified-sort="1762872608733" data-listing-reading-time-sort="2" data-listing-word-count-sort="377">
-<a href="./recruitment/challenge.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/challenge_poster.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-The MIND Lab Research Challenge
-</h5>
-<div class="card-text listing-description delink">
-We are looking for participants to take part in two research studies that explore how people think and make decisions. At the end of each study we will give you a code. Take…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="cHVibGljYXRpb25zJTJDbmV3cw==" data-listing-file-modified-sort="1762961644175" data-listing-reading-time-sort="1" data-listing-word-count-sort="176">
-<a href="./publications/wilson2025.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/brain.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New research paper looks at how construal, numeracy and financial literacy predict brain activity during gambling decisions
-</h5>
-<div class="card-text listing-description delink">
-<p>Construal level has been shown to influence economic decisions, affecting both risk perception and risk-taking. However, there has been some inconsistency as to the exact…</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-categories="bGFiJTIwbWVldGluZ3MlMkNuZXdz" data-listing-file-modified-sort="1762850369416" data-listing-reading-time-sort="1" data-listing-word-count-sort="93">
-<a href="./news/lab_schedule_sem1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/calendar.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lab meeting schedule for Semester 1 published
-</h5>
-<div class="card-text listing-description delink">
- The lab meeting schedule for Semester 1 of the 2025/2026 academic year has been published. The seminars will cover a range of topics related to research training in…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="Y29uZmVyZW5jZXMlMkNuZXdz" data-listing-file-modified-sort="1762850369416" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
-<a href="./news/tu_research_fair.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/srdan2.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-MIND Lab at Teesside University Research Fair
-</h5>
-<div class="card-text listing-description delink">
-The TU Research Fair took place on June 24th, 2025, at the Hub exhibition space in the SU Building. The MIND Lab showcased posters from several currently active research…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-categories="cHJvamVjdCUyQ25ld3MlMkNmdW5kaW5n" data-listing-date-sort="1746054000000" data-listing-file-modified-sort="1764082359564" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<a href="./projects/afsg_sport.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/afsg.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New project examines the links between sports engagement and gambling
-</h5>
-<div class="card-text listing-description delink">
-The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour.
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<p>We have released <code>cobifnirs</code> v0.1.0, a significant update focused on improving the precision and statistical validity of fNIRS data analysis in R.</p>
+<p>While previous iterations focused on import and basic preprocessing, this release addresses a critical methodological challenge in hemodynamic analysis: the separation of event-related signals from systemic drift. The new functionality bridges the gap between raw concentration changes and robust Multi-Level Modeling (MLM).</p>
+<section id="addressing-signal-drift-and-trial-alignment" class="level3">
+<h3 class="anchored" data-anchor-id="addressing-signal-drift-and-trial-alignment">Addressing Signal Drift and Trial Alignment</h3>
+<p>A primary challenge in functional Near-Infrared Spectroscopy (fNIRS) is that the signal is non-stationary. Systemic physiology and instrumental factors cause the baseline to wander over the course of an experiment. Consequently, a trial occurring at minute 10 often has a significantly different starting amplitude than a trial at minute 2, confounding statistical comparisons.</p>
+<p>Version 0.1.0 introduces a robust <strong>Local Baseline Correction</strong> workflow. Rather than relying solely on the Modified Beer-Lambert Law (MBLL) global baseline, the package now implements time-locked correction for every unique trial.</p>
+<ul>
+<li><strong>Robust Epoching:</strong> The <code>get_event_data()</code> function has been refined to handle variable lead/lag times, allowing for precise slicing of continuous data into discrete trial windows.</li>
+<li><strong>Time-Locked Zeroing:</strong> The new <code>apply_baseline_correction()</code> function uses relative time indexing to align the onset of every stimulus to exactly . This removes low-frequency drift and ensures that variance in the model reflects neural activation rather than systemic noise.</li>
+</ul>
 </section>
-<section id="upcoming-events" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming-events">Upcoming Events</h2>
-<p>The full lab meeting and event schedule can be found on the <a href="info/lab_schedule.html">Lab Schedule</a> page.</p>
-<div id="listing-events" class="quarto-listing quarto-listing-container-default">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGFsa3M=" data-listing-file-modified-sort="1766069988864" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
-<div class="thumbnail"><a href="./events/chris_talk_25.html" class="no-external">
-
-<img loading="lazy" src="./images/gambling_sport.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/chris_talk_25.html" class="no-external">Research Talk: “The Cognitive Neuroscience of Risk and Gambling Behaviour: A multidimensional approach to understanding Gambling Harms”</a>
-</h3>
-<div class="delink listing-description"><a href="./events/chris_talk_25.html" class="no-external">
-Dr Christopher Wilson will be delivering a talk on 26th November 2025 at 2:00 PM in CL1.06. The talk will outline the programme of research currently being conducted the The…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./events/chris_talk_25.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-11-26
-</div>
-<div class="metadata-value listing-event-location">
-CL1.06 Themis Building, Teesside University
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="dGFsa3M=" data-listing-file-modified-sort="1762700118488" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<div class="thumbnail"><a href="./events/srdan_talk_25.html" class="no-external">
-
-<img loading="lazy" src="./images/srdan_talk2.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/srdan_talk_25.html" class="no-external">Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.</a>
-</h3>
-<div class="delink listing-description"><a href="./events/srdan_talk_25.html" class="no-external">
-Dr Srdan Medimorec will be giving a research talk titled “The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory” on October 29, 2025…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./events/srdan_talk_25.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-10-29
-</div>
-<div class="metadata-value listing-event-location">
-CL2.02 Themis Building, Teesside University
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-date-sort="1750719600000" data-listing-file-modified-sort="1762700129254" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
-<div class="thumbnail"><a href="./events/tu_research_fair.html" class="no-external">
-
-<img loading="lazy" src="./images/poster1.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./events/tu_research_fair.html" class="no-external">MIND Lab @ Teesside University Research Fair</a>
-</h3>
-<div class="delink listing-description"><a href="./events/tu_research_fair.html" class="no-external">
-This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our…
-</a></div>
-</div>
-<div class="metadata">
-<a href="./events/tu_research_fair.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-06-24
-</div>
-<div class="metadata-value listing-event-location">
-The Hub exhibition space, SU Building
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
-
+<section id="from-continuous-data-to-multi-level-models" class="level3">
+<h3 class="anchored" data-anchor-id="from-continuous-data-to-multi-level-models">From Continuous Data to Multi-Level Models</h3>
+<p>Researchers increasingly prefer Multi-Level Models (MLM) or Linear Mixed Effects (LME) models over standard block averaging because they preserve trial-by-trial variability. To support this, we have standardized the aggregation pipeline.</p>
+<p>The new <code>prepare_mlm_data()</code> wrapper automates the transition from continuous timeseries to statistical inputs:</p>
+<ol type="1">
+<li><strong>Epochs</strong> the data around specific markers (e.g., “Stimulus A”).</li>
+<li><strong>Corrects</strong> the baseline using the pre-stimulus “lead” period.</li>
+<li><strong>Averages</strong> the concentration within a user-defined “Response Window” (e.g., 5–15 seconds post-stimulus).</li>
+</ol>
+<p>This allows users to define physiologically relevant windows for cognitive or motor tasks and immediately output a dataframe compatible with <code>lme4</code> or <code>brms</code>.</p>
+</section>
+<section id="summary-of-capabilities" class="level3">
+<h3 class="anchored" data-anchor-id="summary-of-capabilities">Summary of Capabilities</h3>
+<ul>
+<li><strong>Import:</strong> Automated handling of <code>.nir</code> files with ambient channel isolation.</li>
+<li><strong>Artifact Correction:</strong> Implementation of Sliding Window Motion Artifact Rejection (SMAR) using Inter-Quartile Range (IQR) detection.</li>
+<li><strong>Analysis Flexibility:</strong></li>
+<li><strong>GLM:</strong> Standard General Linear Model with stick functions and canonical HRF for deconvolution of overlapping events.</li>
+<li><strong>MLM/LME:</strong> Trial-wise extraction with robust baseline correction for mixed-effects modeling.</li>
+</ul>
+</section>
+<section id="status-and-availability" class="level3">
+<h3 class="anchored" data-anchor-id="status-and-availability"><strong>Status and Availability</strong></h3>
+<p><strong>Note:</strong> <code>cobifnirs</code> is currently in <strong>Beta (v0.1.0)</strong>. It is provided for research, testing, and feedback purposes. While we have tested these functions against our internal datasets, we encourage users to verify outputs and report any edge cases or issues via the <a href="https://github.com/christopherjwilson/cobifnirs/issues">GitHub Issues</a> page.</p>
+<p>This update moves <code>cobifnirs</code> from a data-handling utility towards comprehensive analysis, prioritizing reproducibility. <strong>Installation</strong></p>
+<p>The package is available for installation from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>devtools<span class="sc">::</span><span class="fu">install_github</span>(<span class="st">"christopherjwilson/cobifnirs"</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 
 
 </section>
 
 <div class="nav-footer">
-<a href="./about.html">The Wilson-Medimorec MIND Lab</a>
+<a href="../about.html">The Wilson-Medimorec MIND Lab</a>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {

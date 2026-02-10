@@ -1,0 +1,57 @@
+---
+title: "cobifnirs v0.1.0: Refining the Pipeline for Event-Related fNIRS Analysis"
+image: "../images/cobifnirs.png"
+categories:
+  - news
+news-date: 2026-02-10
+---
+
+
+We have released `cobifnirs` v0.1.0, a significant update focused on improving the precision and statistical validity of fNIRS data analysis in R.
+
+While previous iterations focused on import and basic preprocessing, this release addresses a critical methodological challenge in hemodynamic analysis: the separation of event-related signals from systemic drift. The new functionality bridges the gap between raw concentration changes and robust Multi-Level Modeling (MLM).
+
+### Addressing Signal Drift and Trial Alignment
+
+A primary challenge in functional Near-Infrared Spectroscopy (fNIRS) is that the signal is non-stationary. Systemic physiology and instrumental factors cause the baseline to wander over the course of an experiment. Consequently, a trial occurring at minute 10 often has a significantly different starting amplitude than a trial at minute 2, confounding statistical comparisons.
+
+Version 0.1.0 introduces a robust **Local Baseline Correction** workflow. Rather than relying solely on the Modified Beer-Lambert Law (MBLL) global baseline, the package now implements time-locked correction for every unique trial.
+
+* **Robust Epoching:** The `get_event_data()` function has been refined to handle variable lead/lag times, allowing for precise slicing of continuous data into discrete trial windows.
+* **Time-Locked Zeroing:** The new `apply_baseline_correction()` function uses relative time indexing to align the onset of every stimulus to exactly . This removes low-frequency drift and ensures that variance in the model reflects neural activation rather than systemic noise.
+
+### From Continuous Data to Multi-Level Models
+
+Researchers increasingly prefer Multi-Level Models (MLM) or Linear Mixed Effects (LME) models over standard block averaging because they preserve trial-by-trial variability. To support this, we have standardized the aggregation pipeline.
+
+The new `prepare_mlm_data()` wrapper automates the transition from continuous timeseries to statistical inputs:
+
+1. **Epochs** the data around specific markers (e.g., "Stimulus A").
+2. **Corrects** the baseline using the pre-stimulus "lead" period.
+3. **Averages** the concentration within a user-defined "Response Window" (e.g., 5–15 seconds post-stimulus).
+
+This allows users to define physiologically relevant windows for cognitive or motor tasks and immediately output a dataframe compatible with `lme4` or `brms`.
+
+### Summary of Capabilities
+
+* **Import:** Automated handling of `.nir` files with ambient channel isolation.
+* **Artifact Correction:** Implementation of Sliding Window Motion Artifact Rejection (SMAR) using Inter-Quartile Range (IQR) detection.
+* **Analysis Flexibility:**
+* **GLM:** Standard General Linear Model with stick functions and canonical HRF for deconvolution of overlapping events.
+* **MLM/LME:** Trial-wise extraction with robust baseline correction for mixed-effects modeling.
+
+
+
+### **Status and Availability**
+
+**Note:** `cobifnirs` is currently in **Beta (v0.1.0)**. It is provided for research, testing, and feedback purposes. While we have  tested these functions against our internal datasets, we encourage users to verify outputs and report any edge cases or issues via the [GitHub Issues](https://github.com/christopherjwilson/cobifnirs/issues) page.
+
+This update moves `cobifnirs` from a data-handling utility towards comprehensive analysis, prioritizing reproducibility.
+**Installation**
+
+The package is available for installation from GitHub:
+
+```r
+devtools::install_github("christopherjwilson/cobifnirs")
+
+```
