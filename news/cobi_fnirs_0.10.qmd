@@ -42,7 +42,7 @@ This allows users to define physiologically relevant windows for cognitive or mo
 
 
 
-### **Status and Availability**
+### Status and Availability
 
 **Note:** `cobifnirs` is currently in **Beta (v0.1.0)**. It is provided for research, testing, and feedback purposes. While we have  tested these functions against our internal datasets, we encourage users to verify outputs and report any edge cases or issues via the [GitHub Issues](https://github.com/christopherjwilson/cobifnirs/issues) page.
 
