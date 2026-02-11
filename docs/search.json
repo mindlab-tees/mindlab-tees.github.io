@@ -46,7 +46,7 @@
     "href": "tools/cobifnirs.html",
     "title": "COBI fNIRS R Package",
     "section": "",
-    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\n\nProjects that use the package:\n\n\n\n\n\n\n\n\n\nNo matching items\n\nThe Wilson-Medimorec MIND Lab"
+    "text": "The COBI fNIRS R package is a collection of functions for processing and analyzing functional near-infrared spectroscopy (fNIRS) data. The package provides functions for importing, preprocessing and visualising fNIRS data that has been recorded in COBI studio.\nThe package is in early development and should be used with caution. Please check all outputs and results carefully.\nIf you have questions or would like to contribute to the package, please get in touch.\nThe github repository for the package can be found here.\nDocumentation for the package is avalable here https://themindlab.uk/cobifnirs/\n\n\n\n\n\n\n\n\nNo matching items\n\nThe Wilson-Medimorec MIND Lab"
   },
   {
     "objectID": "slides/seminar_series_intro/index.html#the-challenges-we-face",
