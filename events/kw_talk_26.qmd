@@ -1,0 +1,21 @@
+---
+title: |
+  Research Talk: "Children’s treatment of accent variation" | Prof. Katherine White (University of Waterloo, Canada)
+image: "../images/katherine.jpg"
+categories:
+  - talks
+programme: langlearn
+event-date: 2026-02-25
+event-location: CL1.07 Themis Building, Teesside University / Online
+---
+
+We are delighted to welcome Prof. Katherine White from the University of Waterloo, Canada, who will be giving a talk on "Children’s treatment of accent variation" on 25th February 2026. Professor White's research focuses on what infants and toddlers know about language (their own, or language in general) and how they come to know it: What knowledge and abilities do infants bring to the task of language acquisition, and how are they altered by experience with the native language? My work primarily investigates these questions with respect to early perceptual language development (in infants and toddlers aged 6-24 months), with a focus on the acquisition of the speech sound system and early word learning.
+
+Professor White runs the Lab for Infant Development and Language (LIDLLab) at the University of Waterloo.
+
+![](../images/lidllab.png)
+
+
+## Abstract
+
+We all talk differently – as a result of where we grew up, what social groups we identify with, the influence of additional languages, and our own individual idiosyncrasies. This variation poses a challenge to the word processing system. In this talk, I present evidence demonstrating that the ability to handle accent variation emerges early in development. Like adults, young children are able to understand new accents with exposure. Young children also demonstrate many of the same accent-based social inferences found in adults. This work suggests that the basic architecture underlying the treatment of accent variation is similar across development.
