@@ -14,7 +14,7 @@ color:
   palette:
     black: "#1A1A1A"
     white: "#F9F9F9"
-    orange: "#FF6F20"
+    orange: "#f0ad4e"
     pink: "#FF3D7F"
   foreground: black
   background: white

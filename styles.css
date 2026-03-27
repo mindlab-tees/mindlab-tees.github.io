@@ -187,8 +187,8 @@ img.thumbnail-image {
 .btn-success {
     /* 1. Background: The Brand Orange */
     /* Using a vibrant orange similar to your logo icon */
-    --bs-btn-bg: #e67e22; 
-    --bs-btn-border-color: #e67e22;
+    --bs-btn-bg: #f0ad4e; 
+    --bs-btn-border-color: #f0ad4e;
     
     /* 2. Text Color: Midnight Navy */
     /* Using Navy text on Orange ensures it passes accessibility standards significantly better than White text */
