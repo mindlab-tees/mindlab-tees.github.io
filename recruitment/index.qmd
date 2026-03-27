@@ -10,13 +10,13 @@ toc: true
  #    status: open
 ---
 
-[ ![](../images/challenge_banner.png){width=80% fig-align="center"} ](challenge.qmd)
-
 In the lab, we are running many studies at any one time.  Because of the type of research we do, we often need participants to come into the lab. We are located in the Themis Building at Teesside University. 
 
 Research participation is an essential part of the scientific process. It allows us to test our hypotheses, gather data, and ultimately to the research that makes an impact in the real world. 
 
 The ultimate goal of our research is to improve people's lives. To do this, we need to understand how people think, feel, and behave. By participating in our studies, you are helping us to gain this understanding.
+
+<div style="display:flex; justify-content: center; align-items: center; margin:15px auto;"> [Click here to participate in research studies](https://recruitment.themindlab.uk){.btn .btn-success}</div>
 
 ## What does taking part involve?
 
@@ -30,7 +30,7 @@ This depends on the study. Some studies may offer compensation in the form of vo
 
 This will be clearly stated in the study description. 
 
-## How to take part in our studies (Teesside University students and staff)
+## How to take part in our studies
 
 If you are a student or staff member at Teesside University, you can sign up to take part in our studies through our online research participation system. This lists all of the studies that are currently recruiting participants. You can sign up for studies that interest you, based on the study description provided.
 
@@ -38,9 +38,10 @@ You can sign up for as many studies as you like, and you can withdraw from a stu
 
 
 
-![](../images/sona1.png){width=100%}
+![](../images/recruitment.png){width=100%}
+*Our research participation portal, where you can sign up for studies.*
 
-To do so, click [on this link](https://tees.sona-systems.com/default.aspx) to register for an account. You will need to use your Teesside University email address to login first.
+To do so, click [on this link](https://recruitment.themindlab.uk/) to sign up for a study. You should use your Teesside University email address to sign up.
 
 ## How to take part in our studies (general public)
 

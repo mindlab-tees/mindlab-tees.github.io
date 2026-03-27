@@ -40,15 +40,12 @@
     ]
   },
   {
-    "listing": "/info/lab_schedule.html",
-    "items": [
-      "/events/kw_talk_26.html",
-      "/events/chris_talk_25.html",
-      "/events/srdan_talk_25.html",
-      "/events/tu_research_fair.html",
-      "/events/college_talk.html",
-      "/events/intro_to_fnirs.html"
-    ]
+    "listing": "/people/david.html",
+    "items": []
+  },
+  {
+    "listing": "/people/alana.html",
+    "items": []
   },
   {
     "listing": "/index.html",
@@ -67,6 +64,17 @@
       "/news/lab_schedule_sem1.html",
       "/news/tu_research_fair.html",
       "/projects/afsg_sport.html"
+    ]
+  },
+  {
+    "listing": "/info/lab_schedule.html",
+    "items": [
+      "/events/kw_talk_26.html",
+      "/events/chris_talk_25.html",
+      "/events/srdan_talk_25.html",
+      "/events/tu_research_fair.html",
+      "/events/college_talk.html",
+      "/events/intro_to_fnirs.html"
     ]
   },
   {
@@ -91,13 +99,5 @@
       "/projects/accent.html",
       "/projects/metacognition.html"
     ]
-  },
-  {
-    "listing": "/people/david.html",
-    "items": []
-  },
-  {
-    "listing": "/people/alana.html",
-    "items": []
   }
 ]
