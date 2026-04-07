@@ -22,6 +22,7 @@
       "/people/david.html",
       "/people/ema.html",
       "/publications/wilson2025.html",
+      "/events/gambling_summit.html",
       "/events/chris_talk_25.html",
       "/events/tu_research_fair.html"
     ]
@@ -50,6 +51,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/events/gambling_summit.html",
       "/events/kw_talk_26.html",
       "/events/chris_talk_25.html",
       "/events/srdan_talk_25.html",
@@ -69,6 +71,7 @@
   {
     "listing": "/info/lab_schedule.html",
     "items": [
+      "/events/gambling_summit.html",
       "/events/kw_talk_26.html",
       "/events/chris_talk_25.html",
       "/events/srdan_talk_25.html",
