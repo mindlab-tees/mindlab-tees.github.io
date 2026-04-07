@@ -15,33 +15,27 @@ body {
     font-family: 'Atkinson Hyperlegible', sans-serif;
 }
 
-.embed-wrapper {
-    display: flex;             /* Enables Flexbox layout */
-    justify-content: center;   /* Centers horizontally */
-    align-items: center;       /* Centers vertically */
-    min-height: 100vh;         /* Ensures the wrapper fills the full screen height */
-    background-color: #f0f0f0; /* Optional: matches the previous body background */
-    padding: 40px 0;           /* Provides breathing room if the window is small */
-}
-
-/* Ensure the container doesn't reflow */
 .poster-container {
-    flex-shrink: 0;            /* Prevents the poster from squashing on small screens */
-    margin: 0 auto;            /* Redundant but safe fallback */
-}
-
-.poster-container {
-    width: 210mm;
-    height: 297mm;
-    padding: 5mm 8mm; 
+    /* 1. Fluid Width with a Cap */
+    width: 95vw;                /* Uses 95% of the viewport width on small screens */
+    max-width: 210mm;           /* Never grows larger than a standard A4 */
+    
+    /* 2. Maintain A4 Proportions */
+    aspect-ratio: 210 / 297;    /* Enforces the A4 shape automatically */
+    height: auto;               /* Allows height to be calculated based on width */
+    
+    /* 3. Layout and Aesthetics */
+    padding: 5%;                /* Use percentage-based padding for scaling */
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
     background: white;
     border-top: 15px solid var(--mind-orange);
-    overflow: hidden; /* Ensures content never spills over A4 bounds */
-    border-radius: 4px;
-    border:dotted 1px var(--mind-dark);
+    
+    /* 4. Overflow Handling */
+    overflow-y: auto;           /* Adds a scrollbar if text overflows on tiny screens */
+    margin: 20px auto;          /* Centers the poster on the webpage */
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
 }
 
 header h1 {
