@@ -1,7 +1,7 @@
 ---
 format: 
   html:
-    css: styles.css
+    css: event_poster.css
 categories:
   - talks
   - events

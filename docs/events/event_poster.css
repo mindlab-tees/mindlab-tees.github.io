@@ -21,7 +21,7 @@ body {
     max-width: 90%;           /* Never grows larger than a standard A4 */
     
     /* 2. Maintain A4 Proportions */
-    aspect-ratio: 210 / 297;    /* Enforces the A4 shape automatically */
+ 
     height: auto;               /* Allows height to be calculated based on width */
     
     /* 3. Layout and Aesthetics */

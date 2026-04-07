@@ -18,10 +18,10 @@ body {
 .poster-container {
     /* 1. Fluid Width with a Cap */
     width: 95vw;                /* Uses 95% of the viewport width on small screens */
-    max-width: 210mm;           /* Never grows larger than a standard A4 */
+    max-width: 90%;           /* Never grows larger than a standard A4 */
     
     /* 2. Maintain A4 Proportions */
-    aspect-ratio: 210 / 297;    /* Enforces the A4 shape automatically */
+ 
     height: auto;               /* Allows height to be calculated based on width */
     
     /* 3. Layout and Aesthetics */
@@ -68,7 +68,7 @@ header h1 {
 .main-content {
     display: flex;
     gap: 30px;
-    flex: 1; /* Takes up remaining space between info-strip and footer */
+   
     min-height: 0;
     margin-bottom: 20px;
 }
@@ -126,11 +126,11 @@ h3 {
 
 footer {
     display: flex;
-    flex-direction: column;
+
     gap: 15px;
     padding-top: 15px;
     border-top: 3px solid var(--mind-dark);
-    margin-top: auto; /* Forces footer to sit at the absolute bottom */
+
 }
 
 .qr-row {
@@ -160,6 +160,8 @@ footer {
     max-height: 80px;
     width: 80px;
     margin: 0mm 5mm;
+    filter: grayscale(100%);
+    opacity: 0.9;
 }
 
 @media print {
@@ -169,5 +171,49 @@ footer {
         width: 210mm;
         height: 297mm;
         border-top: 15px solid var(--mind-orange) !important;
+    }
+}
+
+/* --- MOBILE RESPONSIVE FIX --- */
+@media screen and (max-width: 768px) {
+    .poster-container {
+        /* 1. Disable fixed proportions */
+        height: auto;           
+        aspect-ratio: auto;     
+        width: 95%;             
+        padding: 20px;
+        overflow: visible;      /* Allows content to flow naturally */
+    }
+    
+/* 2. Stack the two-column layout into one column */
+    .main-content {
+        flex-direction: column; 
+        gap: 25px;
+    }
+
+    /* 3. Adjust the footer for narrow screens */
+    footer {
+        margin-top: 30px;       /* Spacing after the text ends */
+    }
+
+    .qr-row {
+        flex-direction: column; /* Stack QR code above text */
+        text-align: center;
+        align-items: center;
+    }
+
+/* Updated Logo Section */
+    .funder-logos {
+        flex-direction: column; /* Changes horizontal row to vertical stack */
+        align-items: center;    /* Centers the logos horizontally in the stack */
+        gap: 25px;              /* Increases vertical spacing between stacked logos */
+        width: 100%;
+    }
+
+    .funder-logo {
+        max-height: 50px;       /* Increased from 25px to make them more legible */
+        width: auto;
+        filter: grayscale(100%);
+        opacity: 0.9;
     }
 }
