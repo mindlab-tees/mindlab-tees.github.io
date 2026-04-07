@@ -13,9 +13,9 @@ listing:
     fields: [event-date, event-location, image, title, description]
 ---
 
-Last Updated: Oct 2025
 
-## Meeting schedule for Semester 1 2025/2026
+
+## Meeting schedule for 2025/2026
 
 The meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.
 
