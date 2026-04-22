@@ -1,7 +1,7 @@
 ---
-title: "Alana Gadsby"
+title: "Dr Alana Gadsby"
 image: "../images/alana.jpg"
-role: doctoral
+role: alumni
 programme: [gambling]
 about: 
   template: trestles
@@ -13,9 +13,7 @@ listing:
      template: ../badges.ejs
 ---
 
-Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the potential moderating roles of executive function and working memory. She used functional near infrared spectroscopy to look at neural activation during risk-taking. 
-
-Update: Alana passed her viva voce examination in February 2026.
+Alana is a clinical psychologist who completed her thesis in the lab (2026). Her research focused on the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focused on the potential moderating roles of executive function and working memory. She used functional near infrared spectroscopy to look at neural activation during risk-taking. 
 
 ## Research Training
 
