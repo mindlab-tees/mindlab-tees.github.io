@@ -52,6 +52,7 @@
     "listing": "/index.html",
     "items": [
       "/events/gambling_summit.html",
+      "/events/csbbcs26.html",
       "/events/kw_talk_26.html",
       "/events/chris_talk_25.html",
       "/events/srdan_talk_25.html",
@@ -72,6 +73,7 @@
     "listing": "/info/lab_schedule.html",
     "items": [
       "/events/gambling_summit.html",
+      "/events/csbbcs26.html",
       "/events/kw_talk_26.html",
       "/events/chris_talk_25.html",
       "/events/srdan_talk_25.html",
@@ -96,6 +98,7 @@
     "listing": "/research/langlearn.html",
     "items": [
       "/people/lisa.html",
+      "/events/csbbcs26.html",
       "/events/tu_research_fair.html",
       "/events/kw_talk_26.html",
       "/events/srdan_talk_25.html",

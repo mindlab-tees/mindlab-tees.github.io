@@ -13,7 +13,7 @@ listing:
   - id: talks
     contents: "../events/*qmd"
     type: default
-    fields: [image, title]
+    fields: [event-date, event-location, image, title, description]
     include:
       programme: langlearn
       categories: talks
