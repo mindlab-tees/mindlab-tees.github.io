@@ -33,11 +33,11 @@
       "/people/chris/index.html",
       "/people/srdan/index.html",
       "/people/alana.html",
-      "/people/david.html",
       "/people/ema.html",
       "/people/jaya-priya.html",
       "/people/lorraine_temple.html",
-      "/people/lisa.html"
+      "/people/lisa.html",
+      "/people/davidm.html"
     ]
   },
   {
@@ -105,5 +105,9 @@
       "/projects/accent.html",
       "/projects/metacognition.html"
     ]
+  },
+  {
+    "listing": "/people/davidm.html",
+    "items": []
   }
 ]
