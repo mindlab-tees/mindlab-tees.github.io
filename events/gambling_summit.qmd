@@ -13,7 +13,7 @@ image: "../images/riverside.jpeg"
 title: "Research stakeholder event: pathways from sports engagement to gambling harms"
 params:
   event_title: "Pathways from sports engagement to gambling harms: a research summit"
-  hero_image: "gambling_sport.jpg"
+  hero_image: "../images/gambling_sport.jpg"
   date_time: "Friday, Jun 26 | 9:30 am to 4 pm"
   location: "Riverside Stadium | Middlesbrough"
   qr_link: "https://www.eventbrite.co.uk/e/pathways-from-sports-engagement-to-gambling-harms-a-research-summit-tickets-1986061765203"
