@@ -185,6 +185,34 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-alumni .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-alumni'] = new List('listing-alumni', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-recent-publications .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -362,6 +390,7 @@ window.Quarto = {
   <li><a href="#doctoral-students" id="toc-doctoral-students" class="nav-link" data-scroll-target="#doctoral-students">Doctoral Students</a></li>
   <li><a href="#recent-publications" id="toc-recent-publications" class="nav-link" data-scroll-target="#recent-publications">Recent Publications</a></li>
   <li><a href="#talks" id="toc-talks" class="nav-link" data-scroll-target="#talks">Talks</a></li>
+  <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
   </ul>
 </nav>
     </div>
@@ -489,39 +518,7 @@ Lorraine Temple
 <h2 class="anchored" data-anchor-id="doctoral-students">Doctoral Students</h2>
 <div id="listing-doctoral-researchers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1770641195479" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
-<a href="../people/alana.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/alana.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Alana Gadsby
-</h5>
-<div class="card-text listing-description delink">
-Alana is a clinical doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focuses on the…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1770641193725" data-listing-reading-time-sort="1" data-listing-word-count-sort="54">
-<a href="../people/david.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../images/user.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-David Minchella
-</h5>
-<div class="card-text listing-description delink">
-David is a doctorate trainee (2026) interested in the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. His project focuses on the potential…
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1762699152314" data-listing-reading-time-sort="1" data-listing-word-count-sort="46">
 <a href="../people/ema.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -575,7 +572,7 @@ Behavioural Brain Research
 <h2 class="anchored" data-anchor-id="talks">Talks</h2>
 <div id="listing-talks" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGFsa3MlMkNldmVudHMlMkNuZXdz" data-listing-file-modified-sort="1775568357279" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="quarto-post image-right" data-index="0" data-categories="dGFsa3MlMkNldmVudHMlMkNuZXdz" data-listing-file-modified-sort="1776935069343" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
 <div class="thumbnail"><a href="../events/gambling_summit.html" class="no-external">
 
 <img loading="lazy" src="../images/riverside.jpeg" class="thumbnail-image">
@@ -649,6 +646,46 @@ The Hub exhibition space, SU Building
 </div>
 </a>
 </div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="alumni" class="level2">
+<h2 class="anchored" data-anchor-id="alumni">Alumni</h2>
+<div id="listing-alumni" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1777043553238" data-listing-reading-time-sort="1" data-listing-word-count-sort="58">
+<a href="../people/alana.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/alana.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr Alana Gadsby
+</h5>
+<div class="card-text listing-description delink">
+Dr Alana Gadsby is a clinical psychologist who completed her thesis in the lab (2026).
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1776855660156" data-listing-reading-time-sort="1" data-listing-word-count-sort="63">
+<a href="../people/davidm.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../images/davidm.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dr David Minchella
+</h5>
+<div class="card-text listing-description delink">
+Dr David Minchella is a Specialist Clinical Psychologist at Durham, Tees Valley and Forensic Care Group.
+</div>
+</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

@@ -13,7 +13,9 @@ listing:
      template: ../badges.ejs
 ---
 
-Alana is a clinical psychologist who completed her thesis in the lab (2026). Her research focused on the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focused on the potential moderating roles of executive function and working memory. She used functional near infrared spectroscopy to look at neural activation during risk-taking. 
+Dr Alana Gadsby is a clinical psychologist who completed her doctoral thesis in the lab (2026). 
+
+Her research focused on the cognitive and neural mechanisms underlying risk-taking behavior in hypomania. Her project focused on the potential moderating roles of executive function and working memory. She used functional near infrared spectroscopy to look at neural activation during risk-taking. 
 
 ## Research Training
 

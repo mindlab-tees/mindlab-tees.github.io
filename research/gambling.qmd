@@ -11,7 +11,7 @@ listing:
     include:
       programme: gambling
     exclude:
-      role: [doctoral,ra]
+      role: [doctoral,ra, alumni]
   - id: ra
     contents: "../people/*qmd"
     type: grid
@@ -34,6 +34,13 @@ listing:
     include:
       programme: gambling
       role: doctoral
+  - id: alumni
+    contents: "../people/*qmd"
+    type: grid
+    fields: [image, title, description]
+    include:
+      programme: gambling
+      role: alumni
   - id: recent-publications
     contents: "../publications/*qmd"
     type: default
@@ -105,4 +112,8 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 :::
 
 
+## Alumni
+
+::: {#alumni}
+:::
 
