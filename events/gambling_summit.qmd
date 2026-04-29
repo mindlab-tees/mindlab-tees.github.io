@@ -20,6 +20,7 @@ params:
   speakers: 
     - "Dr Christopher Wilson (Teesside University)"
     - "Dr Andrew Richardson (Newcastle University)"
+    - "Ben Jones (Gambling Harms UK)"
     - "Lived experience speakers"
     - "Stakeholder representatives"
 ---
