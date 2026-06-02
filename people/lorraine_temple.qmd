@@ -1,7 +1,7 @@
 ---
 title: "Lorraine Temple"
 image: "../images/lorraine_temple.jpg"
-role: ra
+role: intern
 programme: [gambling]
 about: 
   template: trestles
@@ -19,8 +19,11 @@ listing:
      fields: [title, description,funder]
 ---
 
+Lorraine currently works as a graduate intern in the lab, leading the 2026 intern team on the completion of their project work for the summer.
 
-Lorraine works as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. Her previous work with the lab has focused on [metacognition](http://themindlab.uk/posters/metacog_poster.pdf) and [accent perception](http://themindlab.uk/posters/accent_poster.pdf). 
+In 20025-2026, she worked as a research associate on the ASFG funded project which explores how social identification with sports groups predicts gambling behaviour. 
+
+Priot to this, Lorraine contributed to several pieces of research including [metacognition](http://themindlab.uk/posters/metacog_poster.pdf) and [accent perception](http://themindlab.uk/posters/accent_poster.pdf). 
 
 ## Projects I have been involved in
 
