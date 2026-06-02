@@ -37,6 +37,11 @@ listing:
     type: grid
     include:
       role: alumni
+  - id: intern
+    contents: /
+    type: grid
+    include:
+      role: intern
 ---
 
 ::: {.callout}
@@ -50,16 +55,22 @@ We update lab profiles each semester. If any information is out of date, please 
 ::: {#lab-directors}
 :::
 
-### Research Associates
-
-::: {#research-associates}
-:::
 
 ### Doctoral Researchers
 
 ::: {#doctoral-researchers}
 :::
 
+### Research Associates
+
+::: {#research-associates}
+:::
+
+
+### Interns
+
+::: {#intern}
+:::
 
 ### Alumni
 

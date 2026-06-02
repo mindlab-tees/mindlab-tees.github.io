@@ -1,0 +1,37 @@
+---
+title: "Dia Nayun"
+role: intern
+#projects: [hypomania]
+image: "../images/dia.jpg"
+# programme: [gambling]
+# listing:
+#    - id: badges
+#      contents: "../badges_awarded/dia/*.jpg"
+#      template: ../badges.ejs
+#    - id : projects
+#      contents: "../projects/*qmd"
+#      type: default
+#      include: 
+#        people: [dia]
+#      fields: [description, title,funder]
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+---
+
+My name is Dia Nayun, and I am a final-year psychology undergraduate student. My ultimate goal is to become a Clinical Psychologist to help and support people become better versions of themselves, but through my time at Teesside University, I have also developed a strong interest in research within psychology. My primary research interests lie in and around cognition, memory and decision-making. 
+
+During my 8-week internship with the lab, I would like to learn about and engage in the full process, start to finish, of how psychological research is conducted within a lab setting. I would also love the opportunity to be able to present an academic poster that details this process. 
+
+
+<!-- ## Projects I have been involved in -->
+
+<!-- ::: {#projects} -->
+<!-- ::: -->
+
+<!-- ## Research Training  -->
+
+<!-- ::: {#badges} -->
+
+<!-- ::: -->
