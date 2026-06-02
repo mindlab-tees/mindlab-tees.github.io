@@ -94,7 +94,9 @@
   },
   {
     "listing": "/people/lorraine_temple.html",
-    "items": []
+    "items": [
+      "/projects/afsg_sport/index.html"
+    ]
   },
   {
     "listing": "/research/langlearn.html",

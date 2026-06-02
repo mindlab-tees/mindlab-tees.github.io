@@ -13,7 +13,7 @@ listing:
      contents: "../badges_awarded/lorraine_temple/*.jpg"
      template: ../badges.ejs
    - id : projects
-     contents: "../projects/*qmd"
+     contents: "../projects/**"
      type: default
      include: 
        people: [lorraine_temple]

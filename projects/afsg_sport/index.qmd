@@ -1,5 +1,8 @@
 ---
 title: "It's part of the sport: How social identification with sports groups predicts gambling behaviour"
+format: 
+  html:
+    toc: true
 aliases:
   - ../afsg_sport.html
 image: "../../images/afsg.jpg"
@@ -49,4 +52,4 @@ We have completed data collection and initial analysis across both the survey an
 ::: {#talks}
 :::
 
-## People involved in this project:
+# People involved in this project:
