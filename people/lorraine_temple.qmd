@@ -3,6 +3,7 @@ title: "Lorraine Temple"
 image: "../images/lorraine_temple.jpg"
 role: intern
 programme: [gambling]
+project: [afsg_sport]
 about: 
   template: trestles
   image-width: 10em

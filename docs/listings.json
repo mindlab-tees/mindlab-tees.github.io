@@ -16,8 +16,8 @@
     "items": [
       "/people/lorraine_temple.html",
       "/people/jaya-priya.html",
+      "/projects/afsg_sport/index.html",
       "/projects/ukri_rer.html",
-      "/projects/afsg_sport.html",
       "/people/ema.html",
       "/people/alana.html",
       "/people/davidm.html",
@@ -39,6 +39,7 @@
       "/people/davidm.html",
       "/people/dia_nayun.html",
       "/people/lorraine_temple.html",
+      "/people/lucy_taylor.html",
       "/people/sophie_wegner.html"
     ]
   },
@@ -62,14 +63,14 @@
       "/events/college_talk.html",
       "/events/intro_to_fnirs.html",
       "/news/interns2026.html",
-      "/projects/afsg_sport.html",
       "/news/cobi_fnirs_0.10.html",
       "/projects/ukri_rer.html",
       "/news/2025_review.html",
       "/recruitment/challenge.html",
       "/publications/wilson2025.html",
       "/news/lab_schedule_sem1.html",
-      "/news/tu_research_fair.html"
+      "/news/tu_research_fair.html",
+      "/projects/afsg_sport/afsg_sport.html"
     ]
   },
   {
@@ -93,9 +94,7 @@
   },
   {
     "listing": "/people/lorraine_temple.html",
-    "items": [
-      "/projects/afsg_sport.html"
-    ]
+    "items": []
   },
   {
     "listing": "/research/langlearn.html",
@@ -112,5 +111,13 @@
   {
     "listing": "/people/davidm.html",
     "items": []
+  },
+  {
+    "listing": "/projects/afsg_sport/index.html",
+    "items": [
+      "/events/gambling_summit.html",
+      "/events/tu_research_fair.html",
+      "/people/lorraine_temple.html"
+    ]
   }
 ]

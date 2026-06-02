@@ -2,6 +2,7 @@
 title: "MIND Lab @ Teesside University Research Fair"
 image: "../images/poster1.png"
 programme: [gambling,langlearn]
+project: [afsg_sport]
 categories:
   - conferences
   - posters

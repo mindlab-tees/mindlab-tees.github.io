@@ -7,6 +7,7 @@ categories:
   - events
   - news
 programme: gambling
+project: [afsg_sport, ukri_rer]
 event-date: 2026-06-26
 event-location: Riverside Stadium, Middlesbrough
 image: "../images/riverside.jpeg"

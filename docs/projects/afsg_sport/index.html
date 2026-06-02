@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lab Events and Meeting Schedule – The MIND Lab</title>
+<title>It’s part of the sport: How social identification with sports groups predicts gambling behaviour – The MIND Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-dad3dac345b9ab7a94c2caeaabad13fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-events .list');
+    const listingTargetEl = window.document.querySelector('#listing-talks .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,35 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-events'] = new List('listing-events', options);
+    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-people .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-people'] = new List('listing-people', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -130,7 +158,7 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -138,16 +166,16 @@ window.Quarto = {
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <div id="quarto-announcement" data-announcement-id="3c91e7ff5eab85a6243ec7e7e962013a" class="alert alert-primary hidden"><i class="bi bi-info-circle quarto-announcement-icon"></i><div class="quarto-announcement-content">
-<p>We are currently recruiting participants for research on campus. Click <a href="../recruitment/index.html">here</a> to learn more.</p>
+<p>We are currently recruiting participants for research on campus. Click <a href="../../recruitment/index.html">here</a> to learn more.</p>
 </div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="../index.html" class="navbar-brand navbar-brand-logo">
-    <img src="../images/icon.png" alt="" class="navbar-logo light-content">
-    <img src="../images/icon.png" alt="" class="navbar-logo dark-content">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../images/icon.png" alt="" class="navbar-logo light-content">
+    <img src="../../images/icon.png" alt="" class="navbar-logo dark-content">
     </a>
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">The MIND Lab</span>
     </a>
   </div>
@@ -158,15 +186,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../info/lab_schedule.html" aria-current="page"> 
+    <a class="nav-link" href="../../info/lab_schedule.html"> 
 <span class="menu-text">Events and Meetings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../info/lab_manual.html"> 
+    <a class="nav-link" href="../../info/lab_manual.html"> 
 <span class="menu-text">Lab Manual</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -175,29 +203,29 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
         <li>
-    <a class="dropdown-item" href="../research/gambling.html">
+    <a class="dropdown-item" href="../../research/gambling.html">
  <span class="dropdown-text">Gambling Research Programme</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../research/langlearn.html">
+    <a class="dropdown-item" href="../../research/langlearn.html">
  <span class="dropdown-text">Language Learning and Metacognition Programme</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../tools/index.html"> 
+    <a class="nav-link" href="../../tools/index.html"> 
 <span class="menu-text">Tools</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../people/"> 
+    <a class="nav-link" href="../../people/"> 
 <span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../training/index.html"> 
+    <a class="nav-link" href="../../training/index.html"> 
 <span class="menu-text">Training</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../recruitment/index.html"> 
+    <a class="nav-link" href="../../recruitment/index.html"> 
 <span class="menu-text">Research Participation</span></a>
   </li>  
 </ul>
@@ -211,27 +239,22 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#meeting-schedule-for-20252026" id="toc-meeting-schedule-for-20252026" class="nav-link active" data-scroll-target="#meeting-schedule-for-20252026">Meeting schedule for 2025/2026</a></li>
-  <li><a href="#lab-events" id="toc-lab-events" class="nav-link" data-scroll-target="#lab-events">Lab Events</a></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="lab_schedule.pdf"><i class="bi bi-file-pdf"></i>Typst</a></li></ul></div></nav>
-    </div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lab Events and Meeting Schedule</h1>
-</div>
+<h1 class="title">It’s part of the sport: How social identification with sports groups predicts gambling behaviour</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">project</div>
+    <div class="quarto-category">funding</div>
+  </div>
+  </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -243,85 +266,44 @@ window.Quarto = {
 </header>
 
 
-<section id="meeting-schedule-for-20252026" class="level2">
-<h2 class="anchored" data-anchor-id="meeting-schedule-for-20252026">Meeting schedule for 2025/2026</h2>
-<p>The meetings are open to all members of the lab, and attendance is expected for those who are actively involved in research projects. We will assign projects each semester and we will plan around your capacity and availability on a case-by-case basis.</p>
-<p>Time 2pm. Room: CL1.03 Themis</p>
-<table class="caption-top table">
-<colgroup>
-<col style="width: 15%">
-<col style="width: 84%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>W/C</th>
-<th>Topic</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>02/10/25</td>
-<td>Introduction meeting 25/26</td>
-</tr>
-<tr class="even">
-<td>16/10/25</td>
-<td>Srdan Talk - Research Stream Update</td>
-</tr>
-<tr class="odd">
-<td>30/10/25</td>
-<td>Introduction to fNIRS for brain imaging</td>
-</tr>
-<tr class="even">
-<td>13/11/25</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="odd">
-<td>27/11/25</td>
-<td>Introduction to eyetracking for cognitive psychology</td>
-</tr>
-<tr class="even">
-<td>15/01/26</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="odd">
-<td>29/01/26</td>
-<td>Designing and coding experiments with OpenSesame</td>
-</tr>
-<tr class="even">
-<td>12/2/2026</td>
-<td>Lab meeting</td>
-</tr>
-<tr class="odd">
-<td>26/02/26</td>
-<td>Using OpenScience Framework (OSF) for research management</td>
-</tr>
-<tr class="even">
-<td>12/3/2026</td>
-<td>Lab meeting</td>
-</tr>
-</tbody>
-</table>
+<section id="what-was-the-aim-of-this-project" class="level3">
+<h3 class="anchored" data-anchor-id="what-was-the-aim-of-this-project">What was the aim of this project?</h3>
+<p>This project set out to understand how being involved in sport—whether as a player, fan, or regular viewer—relates to gambling behaviour. In particular, the research explored how strongly identifying with sports groups (such as friends, teams, or wider fan communities) shapes attitudes towards gambling and influences behaviour. It also aimed to understand how gambling becomes part of everyday social life within sports settings, and to use these insights to inform practical recommendations for organisations working in public health, sport, and policy.</p>
 </section>
-<section id="lab-events" class="level2">
-<h2 class="anchored" data-anchor-id="lab-events">Lab Events</h2>
-<div id="listing-events" class="quarto-listing quarto-listing-container-default">
+<section id="what-questions-did-the-research-address" class="level3">
+<h3 class="anchored" data-anchor-id="what-questions-did-the-research-address">What questions did the research address?</h3>
+<p>The project focused on three key questions. First, which aspects of gambling behaviour are linked to identifying with sports groups? Second, whether this sense of identity changes how sport engagement and gambling are connected. Third, how people experience gambling becoming a normal part of social life around sport.</p>
+</section>
+<section id="how-was-the-research-carried-out" class="level3">
+<h3 class="anchored" data-anchor-id="how-was-the-research-carried-out">How was the research carried out?</h3>
+<p>The project combined a large-scale survey with in-depth interviews. A survey of adults in the UK who regularly engage with sport examined gambling behaviour, attitudes, exposure to advertising, and levels of connection to sports groups. Participants were recruited through sports clubs, fan networks, online platforms and related communities to ensure the study reflected real-world sports engagement.</p>
+<p>This was followed by a series of interviews with 11 participants, which explored personal experiences of gambling in sports settings. These conversations focused on how gambling fits into social routines, relationships, and shared experiences.</p>
+<p>Importantly, people with lived experience of gambling harms were involved throughout the project. They helped shape the design, language, and interpretation of the research to ensure it remained grounded and relevant.</p>
+</section>
+<section id="current-project-status-june-2026-and-what-happens-next" class="level2">
+<h2 class="anchored" data-anchor-id="current-project-status-june-2026-and-what-happens-next">Current project status (June 2026) and what happens next:</h2>
+<p>We have completed data collection and initial analysis across both the survey and interview components of the project. We are now in the process of finalising our findings and preparing them for publication. We are also working on translating our findings into practical recommendations for organisations working in public health, sport, and policy. We will be sharing these findings at our <a href="https://themindlab.uk/events/gambling_summit.html">stakeholder event in June 2026</a> and through academic publications and stakeholder channels in the coming months.</p>
+</section>
+<section id="events-related-to-this-project" class="level1">
+<h1>Events related to this project:</h1>
+<div id="listing-talks" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGFsa3MlMkNldmVudHMlMkNuZXdz" data-listing-file-modified-sort="1777467855186" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
-<div class="thumbnail"><a href="../events/gambling_summit.html" class="no-external">
+<div class="quarto-post image-right" data-index="0" data-categories="dGFsa3MlMkNldmVudHMlMkNuZXdz" data-listing-file-modified-sort="1780413757405" data-listing-reading-time-sort="2" data-listing-word-count-sort="261">
+<div class="thumbnail"><a href="../../events/gambling_summit.html" class="no-external">
 
-<img loading="lazy" src="../images/riverside.jpeg" class="thumbnail-image">
+<img loading="lazy" src="../../images/riverside.jpeg" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../events/gambling_summit.html" class="no-external">Research stakeholder event: pathways from sports engagement to gambling harms</a>
+<a href="../../events/gambling_summit.html" class="no-external">Research stakeholder event: pathways from sports engagement to gambling harms</a>
 </h3>
-<div class="delink listing-description"><a href="../events/gambling_summit.html" class="no-external">
+<div class="delink listing-description"><a href="../../events/gambling_summit.html" class="no-external">
 The MIND Lab is hosting a research summit on the 26th June 2026 at the Riverside Stadium in Middlesbrough, which will bring together stakeholders and researchers to discuss…
 </a></div>
 </div>
 <div class="metadata">
-<a href="../events/gambling_summit.html" class="no-external">
+<a href="../../events/gambling_summit.html" class="no-external">
 <div class="metadata-value listing-event-date">
 2026-06-26
 </div>
@@ -331,122 +313,22 @@ Riverside Stadium, Middlesbrough
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-file-modified-sort="1776847687169" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
-<div class="thumbnail"><a href="../events/csbbcs26.html" class="no-external">
+<div class="quarto-post image-right" data-index="1" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-date-sort="1750719600000" data-listing-file-modified-sort="1780413786414" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<div class="thumbnail"><a href="../../events/tu_research_fair.html" class="no-external">
 
-<img loading="lazy" src="../images/csbbcs_logo.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/csbbcs26.html" class="no-external">MIND Lab @ Canadian Society for Brain, Behaviour and Cognitive Science 2026</a>
-</h3>
-<div class="delink listing-description"><a href="../events/csbbcs26.html" class="no-external">
-The MIND Lab is excited to announce our participation in the upcoming Canadian Society for Brain, Behaviour and Cognitive Science (CSBBS) conference, taking place from June…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/csbbcs26.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2026-06-01
-</div>
-<div class="metadata-value listing-event-location">
-Centre for Integrative and Applied Neuroscience, York University, Toronto
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-categories="dGFsa3M=" data-listing-file-modified-sort="1770998917514" data-listing-reading-time-sort="2" data-listing-word-count-sort="228">
-<div class="thumbnail"><a href="../events/kw_talk_26.html" class="no-external">
-
-<img loading="lazy" src="../images/katherine.jpg" class="thumbnail-image">
+<img loading="lazy" src="../../images/poster1.png" class="thumbnail-image">
 
 </a></div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../events/kw_talk_26.html" class="no-external">Research Talk: “Children’s treatment of accent variation” | Prof.&nbsp;Katherine White (University of Waterloo, Canada)</a>
+<a href="../../events/tu_research_fair.html" class="no-external">MIND Lab @ Teesside University Research Fair</a>
 </h3>
-<div class="delink listing-description"><a href="../events/kw_talk_26.html" class="no-external">
-We are delighted to welcome Prof.&nbsp;Katherine White from the University of Waterloo, Canada, who will be giving a talk on “Children’s treatment of accent variation” on 25th…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/kw_talk_26.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2026-02-25
-</div>
-<div class="metadata-value listing-event-location">
-CL1.07 Themis Building, Teesside University / Online
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="dGFsa3M=" data-listing-file-modified-sort="1766069988864" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
-<div class="thumbnail"><a href="../events/chris_talk_25.html" class="no-external">
-
-<img loading="lazy" src="../images/gambling_sport.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/chris_talk_25.html" class="no-external">Research Talk: “The Cognitive Neuroscience of Risk and Gambling Behaviour: A multidimensional approach to understanding Gambling Harms”</a>
-</h3>
-<div class="delink listing-description"><a href="../events/chris_talk_25.html" class="no-external">
-Dr Christopher Wilson will be delivering a talk on 26th November 2025 at 2:00 PM in CL1.06. The talk will outline the programme of research currently being conducted the The…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/chris_talk_25.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-11-26
-</div>
-<div class="metadata-value listing-event-location">
-CL1.06 Themis Building, Teesside University
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-categories="dGFsa3M=" data-listing-file-modified-sort="1762700118488" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-<div class="thumbnail"><a href="../events/srdan_talk_25.html" class="no-external">
-
-<img loading="lazy" src="../images/srdan_talk2.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/srdan_talk_25.html" class="no-external">Research Talk: The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory.</a>
-</h3>
-<div class="delink listing-description"><a href="../events/srdan_talk_25.html" class="no-external">
-Dr Srdan Medimorec will be giving a research talk titled “The Language of Learning: Linguistic Characteristics of Lectures and Their Impact on Memory” on October 29, 2025…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/srdan_talk_25.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-10-29
-</div>
-<div class="metadata-value listing-event-location">
-CL2.02 Themis Building, Teesside University
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-categories="Y29uZmVyZW5jZXMlMkNwb3N0ZXJzJTJDdGFsa3M=" data-listing-date-sort="1750719600000" data-listing-file-modified-sort="1762700129254" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
-<div class="thumbnail"><a href="../events/tu_research_fair.html" class="no-external">
-
-<img loading="lazy" src="../images/poster1.png" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/tu_research_fair.html" class="no-external">MIND Lab @ Teesside University Research Fair</a>
-</h3>
-<div class="delink listing-description"><a href="../events/tu_research_fair.html" class="no-external">
+<div class="delink listing-description"><a href="../../events/tu_research_fair.html" class="no-external">
 This event is part of the Teesside University Research Fair, showcasing research and impact in creative ways and explore research happening at Teesside and with our…
 </a></div>
 </div>
 <div class="metadata">
-<a href="../events/tu_research_fair.html" class="no-external">
+<a href="../../events/tu_research_fair.html" class="no-external">
 <div class="metadata-value listing-event-date">
 2025-06-24
 </div>
@@ -456,66 +338,36 @@ The Hub exhibition space, SU Building
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="Zm5pcnMlMkNnYW1ibGluZyUyQ2dhbWluZw==" data-listing-file-modified-sort="1757597264655" data-listing-reading-time-sort="1" data-listing-word-count-sort="127">
-<div class="thumbnail"><a href="../events/college_talk.html" class="no-external">
-
-<img loading="lazy" src="../images/jigsaw.jpg" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/college_talk.html" class="no-external">Breaking big problems into small pieces…</a>
-</h3>
-<div class="delink listing-description"><a href="../events/college_talk.html" class="no-external">
-<p>This session is for college students who are interested in studying psychology. We discuss how psychology researchers tackle big problems by breaking them down into smaller, more manageable pieces. We use examples of how certain principles of behavioural and cognitive psychology are used to manipulate people in the contexts of gambling, gaming and social media.</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/college_talk.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2025-04-02
-</div>
-<div class="metadata-value listing-event-location">
-Themis Building, Psychology Dept.
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="7" data-categories="Zm5pcnM=" data-listing-file-modified-sort="1757597264655" data-listing-reading-time-sort="1" data-listing-word-count-sort="88">
-<div class="thumbnail"><a href="../events/intro_to_fnirs.html" class="no-external">
-
-<img loading="lazy" src="../images/fnirs_plot.webp" class="thumbnail-image">
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../events/intro_to_fnirs.html" class="no-external">Introduction to Functional Near-Infrared Spectroscopy</a>
-</h3>
-<div class="delink listing-description"><a href="../events/intro_to_fnirs.html" class="no-external">
-This workshop will provide an introduction to Functional Near-Infrared Spectroscopy (fNIRS), a non-invasive neuroimaging technique that measures brain activity by detecting…
-</a></div>
-</div>
-<div class="metadata">
-<a href="../events/intro_to_fnirs.html" class="no-external">
-<div class="metadata-value listing-event-date">
-2024-10-23
-</div>
-<div class="metadata-value listing-event-location">
-Themis fNIRS lab
-</div>
-</a>
-</div>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
+<section id="people-involved-in-this-project" class="level2">
+<h2 class="anchored" data-anchor-id="people-involved-in-this-project">People involved in this project:</h2>
 
 
 
 </section>
+</section>
 
-<div class="nav-footer">
-<a href="../about.html">The Wilson-Medimorec MIND Lab</a>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-people">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1780413886320" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<a href="../../people/lorraine_temple.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../../images/lorraine_temple.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Lorraine Temple
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div><div class="nav-footer">
+<a href="../../about.html">The Wilson-Medimorec MIND Lab</a>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {

@@ -1,20 +1,28 @@
 ---
-title: "Update: Research project examines the role of social identity in the link between sports engagement and gambling"
-subtile: "Project update"      
-image: "../images/afsg.jpg"
-categories: [project, news, funding]
+title: "It's part of the sport: How social identification with sports groups predicts gambling behaviour"
+aliases:
+  - ../afsg_sport.html
+image: "../../images/afsg.jpg"
+categories: [project, funding]
 programme: [gambling]
 people: [chris, srdan, lorraine_temple]
-news-date: 2026-06-1
-date: 2026-06-01
 funder: "Funded by The Academic Forum for the Study of Gambling (AFSG)"
+listing:
+  - id: talks
+    contents: "../../events/*qmd"
+    sort: "event-date desc"
+    fields: [event-date, event-location, image, title, description]
+    include:
+      programme: gambling
+      categories: talks
+      project: [afsg_sport]
+  - id: people
+    contents: "../../people/*qmd"
+    type: grid
+    fields: [image, title]
+    include:
+      project: [afsg_sport]
 ---
-
-[![](https://img.shields.io/badge/OSF-z5ky8-green)](https://osf.io/tjygq/)
-
-![](../images/sport_team.jpg){style="display: block; margin: 0 auto; width:50%" }
-
-## Project title: "It's part of the sport: How social identification with sports groups predicts gambling behaviour"
 
 ### What was the aim of this project?
 
@@ -36,25 +44,9 @@ Importantly, people with lived experience of gambling harms were involved throug
 
 We have completed data collection and initial analysis across both the survey and interview components of the project. We are now in the process of finalising our findings and preparing them for publication. We are also working on translating our findings into practical recommendations for organisations working in public health, sport, and policy. We will be sharing these findings at our [stakeholder event in June 2026](https://themindlab.uk/events/gambling_summit.html) and through academic publications and stakeholder channels in the coming months.
 
+# Events related to this project:
 
+::: {#talks}
+:::
 
-<hline></hline>
-
-# Initial project announcement (May 2025)
- 
-The MIND Lab has been awarded a grant by the Academic Forum for the Study of Gambling (AFSG) to explore links between sports engagement and gambling behaviour. 
- 
-
-
-
-
-Highlighting the links between sport and gambling in the UK, Dr. Christopher Wilson discussed his project with the [AFSG](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/):
-
->"The increasing prominence of gambling in professional sports broadcasting and sponsorship creates an association between them, to the extent that gambling is starting to become a normalised part of socialising around some sports. It’s important that we understand which features of gambling behaviour are predicted by this relationship, and how sports groups experience the exposure to gambling, so we can provide evidence to support targeted harm-reduction approaches.”
-    
-The project is led by Dr. Christopher Wilson and Co-investigators Dr. Srdan Medimorec, Dr. Robert Portman, Dr. Judith Eberhardt. Hannah Poulter (Bristol) is also collaborating on this project. Project updates will be shared on the MIND Lab website and media channels, so please follow us to keep up to date with our research.
-
-![](../images/afsg.jpg){style="display: block; margin: 0 auto; width:50%" }
-  
-Details are available on the [AFSG website](https://afsg.org/2025/04/30/exploratory-grant-award-winners-2025/).
-
+## People involved in this project:

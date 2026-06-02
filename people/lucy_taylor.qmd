@@ -1,0 +1,34 @@
+---
+title: "Lucy Taylor"
+role: intern
+#projects: [hypomania]
+image: "../images/lucy.png"
+# programme: [gambling]
+# listing:
+#    - id: badges
+#      contents: "../badges_awarded/lucy/*.jpg"
+#      template: ../badges.ejs
+#    - id : projects
+#      contents: "../projects/*qmd"
+#      type: default
+#      include: 
+#        people: [lucy]
+#      fields: [description, title,funder]
+about: 
+  template: trestles
+  image-width: 10em
+  image-shape: round
+---
+
+Hello, my name is Lucy Taylor and I am a third-year Psychology student. I hope to become a Clinical Psychologist focusing on psychological disorders in adults such as OCD, anxiety and schizophrenia. I am also interested in the factors influencing help-seeking propensity. From my internship, I hope to use the knowledge I have gained in the classroom and learn to apply it to a lab setting. I would also like to gain more of an insight into the inner workings of lab-based research including data collection, lab engagement and networking.
+
+<!-- ## Projects I have been involved in -->
+
+<!-- ::: {#projects} -->
+<!-- ::: -->
+
+<!-- ## Research Training  -->
+
+<!-- ::: {#badges} -->
+
+<!-- ::: -->

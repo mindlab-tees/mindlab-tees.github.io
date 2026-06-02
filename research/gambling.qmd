@@ -20,7 +20,7 @@ listing:
       programme: gambling
       role: [ra]
   - id: gambling-projects
-    contents: "../projects/*qmd"
+    contents: "../projects/**"
     type: default
     sort: "date desc"
     fields: [image, title, description, funder]
