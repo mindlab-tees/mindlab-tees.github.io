@@ -11,14 +11,7 @@ listing:
     include:
       programme: gambling
     exclude:
-      role: [doctoral,ra, alumni]
-  - id: ra
-    contents: "../people/*qmd"
-    type: grid
-    fields: [image, title]
-    include:
-      programme: gambling
-      role: [ra]
+      role: [doctoral, alumni]
   - id: gambling-projects
     contents: "../projects/**"
     type: default
@@ -30,7 +23,7 @@ listing:
   - id: doctoral-researchers
     contents: "../people/*qmd"
     type: grid
-    fields: [image, title, description]
+    fields: [image, title]
     include:
       programme: gambling
       role: doctoral
@@ -87,12 +80,12 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 ::: {#gambling-projects}
 :::
 
-## Research Associates
+## Researchers
 
-::: {#ra}
+::: {#lab-members}
 :::
 
-## Doctoral Students
+## Doctoral Researchers
 
 ::: {#doctoral-researchers}
 :::
