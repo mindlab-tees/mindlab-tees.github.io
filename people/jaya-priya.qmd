@@ -4,15 +4,17 @@ role: ra
 #projects: [hypomania]
 image: "../images/jaya.jpg"
 programme: [gambling]
+project: [ukri_rer]
 listing:
    - id: badges
      contents: "../badges_awarded/jaya/*.jpg"
      template: ../badges.ejs
    - id : projects
-     contents: "../projects/*qmd"
+     contents: "../projects/**"
      type: default
      include: 
        people: [jaya]
+       categories: [project]
      fields: [description, title,funder]
 about: 
   template: trestles

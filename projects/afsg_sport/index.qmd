@@ -20,7 +20,7 @@ listing:
       categories: talks
       project: [afsg_sport]
   - id: people
-    contents: "../../people/*qmd"
+    contents: "../../people/**"
     type: grid
     fields: [image, title]
     include:
@@ -52,9 +52,12 @@ We have completed data collection and initial analysis across both the survey an
 
 A summary of the key findings from the project will be added here once they are finalised and links to the publications will be added once they are available.
 
-# Events related to this project:
+# Events related to this project
 
 ::: {#talks}
 :::
 
-# People involved in this project:
+# People involved in this project
+
+::: {#people}
+:::

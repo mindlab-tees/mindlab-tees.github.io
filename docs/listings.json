@@ -17,7 +17,7 @@
       "/people/jaya-priya.html",
       "/people/lorraine_temple.html",
       "/projects/afsg_sport/index.html",
-      "/projects/ukri_rer.html",
+      "/projects/ukri_rer/index.html",
       "/people/ema.html",
       "/people/alana.html",
       "/people/davidm.html",
@@ -44,14 +44,6 @@
     ]
   },
   {
-    "listing": "/people/david.html",
-    "items": []
-  },
-  {
-    "listing": "/people/alana.html",
-    "items": []
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/events/gambling_summit.html",
@@ -64,7 +56,7 @@
       "/events/intro_to_fnirs.html",
       "/news/interns2026.html",
       "/news/cobi_fnirs_0.10.html",
-      "/projects/ukri_rer.html",
+      "/projects/ukri_rer/ukri_rer.html",
       "/news/2025_review.html",
       "/recruitment/challenge.html",
       "/publications/wilson2025.html",
@@ -87,15 +79,41 @@
     ]
   },
   {
+    "listing": "/people/alana.html",
+    "items": []
+  },
+  {
+    "listing": "/people/davidm.html",
+    "items": []
+  },
+  {
     "listing": "/people/jaya-priya.html",
     "items": [
-      "/projects/ukri_rer.html"
+      "/projects/ukri_rer/index.html"
     ]
   },
   {
     "listing": "/people/lorraine_temple.html",
     "items": [
       "/projects/afsg_sport/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/afsg_sport/index.html",
+    "items": [
+      "/events/gambling_summit.html",
+      "/events/tu_research_fair.html",
+      "/people/chris/index.html",
+      "/people/lorraine_temple.html",
+      "/people/srdan/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/ukri_rer/index.html",
+    "items": [
+      "/events/gambling_summit.html",
+      "/people/chris/index.html",
+      "/people/jaya-priya.html"
     ]
   },
   {
@@ -108,18 +126,6 @@
       "/events/srdan_talk_25.html",
       "/projects/accent.html",
       "/projects/metacognition.html"
-    ]
-  },
-  {
-    "listing": "/people/davidm.html",
-    "items": []
-  },
-  {
-    "listing": "/projects/afsg_sport/index.html",
-    "items": [
-      "/events/gambling_summit.html",
-      "/events/tu_research_fair.html",
-      "/people/lorraine_temple.html"
     ]
   }
 ]

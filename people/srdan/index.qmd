@@ -2,7 +2,7 @@
 title: "Srdan Medimorec"
 image: "../../images/srdan.jpg"
 role: director
-projects: [accent, metacognition]
+project: [accent, metacognition, afsg_sport]
 about: 
   template: trestles
   image: "../../images/srdan.jpg"

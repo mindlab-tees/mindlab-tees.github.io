@@ -3,6 +3,7 @@ title: "Christopher Wilson"
 image: "../../images/chris.webp"
 role: director
 programme: [gambling]
+project: [afsg_sport, ukri_rer]
 about: 
   template: trestles
   image: "../../images/chris.webp"

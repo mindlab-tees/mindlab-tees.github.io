@@ -1,0 +1,90 @@
+---
+title: "Sports engagement as a gateway activity to gambling activity: a systematic review and intersectional analysis of the compound vulnerabilities to gambling harm."
+format: 
+  html:
+    toc: true
+aliases:
+  - ../ukri_rer.html
+image: "../../images/ahrc_logo.png"
+categories: [project, funding]
+programme: [gambling]
+people: [chris, jaya]
+funder: "Funded by The AHRC/UKRI"
+listing:
+  - id: talks
+    contents: "../../events/*qmd"
+    sort: "event-date desc"
+    fields: [event-date, event-location, image, title, description]
+    include:
+      programme: gambling
+      project: [ukri_rer]
+  - id: people
+    contents: "../../people/**"
+    type: grid
+    fields: [image, title]
+    include:
+      project: [ukri_rer]
+---
+
+
+This project examines how sports engagement can act as a gateway to gambling, and how different forms of vulnerability can combine to increase the risk of gambling-related harm. It is led by Dr Christopher Wilson at Teesside University, with Dr Andrew Richardson (Newcastle University and ADPH North East Gambling Harms Programme) as Project Co-Lead and support from a Research and Innovation Associate. The work brings together existing research on sports-engaged people, including both participants and fans, to better understand how gambling becomes part of sporting life and which groups may be most at risk. The project is funded by the AHRC/UKRI as part of the Rapid Evidence Review (RER) funding scheme, which supports rapid reviews of evidence to inform policy and practice.
+
+![](../../images/ahrc_logo.png){style="display: block; margin: 0 auto; width:20%" }
+
+## What is the aim of this project?
+
+The aim of this project is to understand how demographic, psychosocial and environmental factors intersect to create compounded vulnerabilities to gambling harm among sports-engaged people. The project is particularly concerned with the ways sport can become a social setting in which gambling is normalised, especially for young adults.
+
+Rather than looking at one risk factor at a time, the review is designed to identify how factors such as age, gender, education, financial circumstances, peer influence, mental health, and wider sports culture may overlap to shape risk.
+
+## What questions does the research address?
+
+The project is organised around four main questions. First, it asks what profiles of compounded vulnerability emerge from the existing evidence on sports-engaged individuals. Second, it explores how social and environmental influences, such as team membership, peer normalisation and exposure to sports culture, interact with these profiles to shape gambling behaviour.
+
+Third, it looks at psychological factors that may strengthen the link between sports engagement and gambling harm, including risk-taking, mental health comorbidities and erroneous beliefs. Finally, it considers whether the vulnerability profiles identified in the review are consistent across different national and regional contexts.
+
+## How is the research being carried out?
+
+The project is being carried out as a rapid systematic review and intersectional analysis, guided by PRISMA principles. The review combines academic and grey literature, with eligibility criteria designed to include qualitative, quantitative and mixed-methods studies that examine the relationship between sport engagement and gambling.
+
+The search strategy uses a structured framework alongside keyword development methods intended to improve sensitivity and reduce bias. The review process includes screening, quality appraisal, data extraction and narrative synthesis, with quantitative and qualitative evidence first examined separately and then brought together to develop an intersectional understanding of vulnerability.
+
+A central part of the project is the involvement of expert review panels at key stages of the work. These panels bring together academic experts, stakeholders from gambling harms and recovery services, experts by experience of gambling harm, and people with experience of organised sport. Their role is to strengthen the review process and help shape conclusions and recommendations.
+
+### Expert Panel Members
+
+- Dr Blair Biggar (Glasgow University)
+- Joanne McLaughlin (NECA)
+- Craig Hodgson (Sunderland City Council)
+- Patrick Burnley (Tees Valley Sport)
+- Steve Ramsay (Lived Experience)
+
+## Why does this project matter?
+
+There is already a growing body of research showing links between sport and gambling, but much of it focuses on individual risk factors in isolation. This project matters because it aims to develop a more joined-up picture of how these risks combine in real-world sporting settings.
+
+The findings are intended to inform public health, policy and professional practice. In particular, the review is designed to support clinicians, third sector organisations, sports organisations and policymakers by identifying which sports-engaged groups may be at greater risk, what forms of vulnerability appear to matter most, and how prevention or support strategies might be better targeted.
+
+## What outputs will come from the project?
+
+The project is expected to produce a final report for non-academic audiences, an academic journal article, documentation from the expert review panels, and materials from the review process. It also includes a dissemination and impact co-design event, intended to bring together stakeholders, topic experts and experts by experience to discuss what the findings mean for policy and practice.
+
+As part of this process, the project will also develop a stakeholder-led implementation roadmap. The original proposal set out plans for this to become the starting point for a Delphi-style process, allowing stakeholders to continue refining recommendations beyond the review itself.
+
+## Current project status (June 2026) and what happens next:
+
+This project is currently in progress. The original proposal set out a six-month programme of work beginning in January 2026, including protocol development, literature searching, screening, evidence synthesis, final reporting and a stakeholder dissemination event.
+
+As the project continues, the main next steps are to finalise the review findings, complete the public-facing and academic outputs, and translate the evidence into practical recommendations for stakeholders working in public health, policy, treatment and sport.
+
+## Events related to this project
+
+::: {#talks}
+
+:::
+
+## People involved in this project
+
+::: {#people}
+
+:::
