@@ -206,3 +206,35 @@ img.thumbnail-image {
     --bs-btn-active-border-color: #a84300;
     --bs-btn-active-color: #ffffff; /* Turns white when physically clicked for feedback */
 }
+
+.small-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 12px;
+}
+.small-gallery img {
+  width: 100%;
+  height: 200px; /* Forces uniform thumbnail height */
+  object-fit: cover; /* Crops image cleanly without distorting aspect ratio */
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+.small-gallery img:hover {
+  transform: scale(1.02);
+}
+
+.medium-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+  gap: 12px;
+}
+.medium-gallery img {
+  width: 100%;
+  height: 400px; /* Forces uniform thumbnail height */
+  object-fit: cover; /* Crops image cleanly without distorting aspect ratio */
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+.medium-gallery img:hover {
+  transform: scale(1.02);
+}

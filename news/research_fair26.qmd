@@ -1,0 +1,22 @@
+---
+title: "Research interns and doctoral students present their work at university research day"
+news-date: 2026-06-24
+image: "../images/interns2.jpg"
+categories:
+  - news
+lightbox: true
+---
+
+On the 22nd of June, a poster day was held as part of Teesside University's summer research week. At this year's event, our lab was represented by our research interns Lorraine, Dia, Sophie and Lucy, who presented a poster on one of the projects they had been working on over the preceding weeks. 
+
+::: {.medium-gallery}
+
+![](/images/interns2.jpg){group="research_fair26"}
+
+![](/images/posters2026.jpg){group="research_fair26"}
+
+:::
+
+
+Our doctoral students Ema, Dawid and Ella also presented posters of their research projects, which focused on the links between clinical vulnerabilities and risk-raking behaviours. These cognitive neuroscience studies utilise brain imaging and attentional measures and are part of the lab's research programme into gambling harms.
+
