@@ -7,7 +7,7 @@ categories:
 lightbox: true
 ---
 
-On the 22nd of June, a poster day was held as part of Teesside University's summer research week. At this year's event, our lab was represented by our research interns Lorraine, Dia, Sophie and Lucy, who presented a poster on one of the projects they had been working on over the preceding weeks. 
+On the 23nd of June, a poster day was held as part of Teesside University's summer research week. At this year's event, our lab was represented by our summer research interns Lorraine, Dia, Sophie and Lucy, who presented a poster on one of the projects they had been working on over the preceding weeks. 
 
 ::: {.medium-gallery}
 
