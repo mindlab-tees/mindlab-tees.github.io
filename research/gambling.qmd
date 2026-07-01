@@ -42,13 +42,19 @@ listing:
     #template: "../templates/new_default.ejs"
     include:
       programme: gambling
-  - id: talks
+  - id: events
     contents: "../events/*qmd"
     sort: "event-date desc"
     fields: [event-date, event-location, image, title, description]
     include:
       programme: gambling
-      categories: talks
+    # categories: talks
+  - id: news
+    contents: "../news/*qmd"
+    sort: "news-date desc"
+    fields: [news-date, image, title, description]
+    include:
+      programme: gambling
   # - id: gambling-studies
   #   contents: "../studies/*qmd"
   #   type: default
@@ -98,10 +104,14 @@ This programme adopts a multi-dimensional approach to gambling harms. Our struct
 :::
 
 
+## News
 
-## Talks
+::: {#news}
+:::
 
-::: {#talks}
+## Events
+
+::: {#events}
 :::
 
 
