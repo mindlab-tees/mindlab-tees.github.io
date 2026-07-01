@@ -9,11 +9,12 @@ categories:
 programme: gambling
 project: [afsg_sport, ukri_rer]
 event-date: 2026-06-26
+news-date: 2026-06-01
 event-location: Riverside Stadium, Middlesbrough
 image: "../images/riverside.jpeg"
-title: "Research stakeholder event: pathways from sports engagement to gambling harms"
+title: "Research engagement event: pathways from sports engagement to gambling harms"
 params:
-  event_title: "Pathways from sports engagement to gambling harms: a research summit"
+  event_title: "Pathways from sports engagement to gambling harms: a research engagement event"
   hero_image: "../images/gambling_sport.jpg"
   date_time: "Friday, Jun 26 | 9:30 am to 4 pm"
   location: "Riverside Stadium | Middlesbrough"
@@ -26,7 +27,7 @@ params:
     - "Stakeholder representatives"
 ---
 
-The MIND Lab is hosting a research summit on the 26th June 2026 at the Riverside Stadium in Middlesbrough, which will bring together stakeholders and researchers to discuss recent research we have conducted on the pathways from sports engagement to gambling harms.
+The MIND Lab is hosting a research engagement event on the 26th June 2026 at the Riverside Stadium in Middlesbrough, which will bring together stakeholders and researchers to discuss recent research we have conducted on the pathways from sports engagement to gambling harms.
 
 The event will discuss our AFSG funded project exploring how social identification with sports groups predicts gambling behaviour and our UKRI/AHRC funded project reviewing evidence on sports engagement as a gateway activity to gambling activity.
 
