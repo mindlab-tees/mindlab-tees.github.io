@@ -7,12 +7,23 @@ format:
     mainfont: "Lexica Ultralegible"
 ---
 
-Last Updated: Feb 2026
+Last Updated: Aug 2026
 
 
-## How to join the lab
+## How to apply to join the lab
 
-If you are interested in joining the lab, please contact [Dr. Christopher Wilson](mailto:christopher.wilson@tees.ac.uk?subject=Joining the MIND Lab) or [Dr. Srdan Medimorec](mailto:s.medimorec@tees.ac.uk?subject=Joining the MIND Lab).
+We have a large volume of requests to join the lab. We value quality of work over volume of activity, so we limit the number of people we accept into the lab to ensure that we can provide the best environment. Before you contact us, please read this document carefully.
+
+**We are interested in hearing from applicants who have an interest in our areas of research and want to conduct research in these areas.** Please be sure you have read the lab website and our research profiles and are familiar with the work we do.
+
+
+To apply to the lab, please use this link: 
+
+[https://survey.themindlab.uk/apply](https://survey.themindlab.uk/apply)
+
+We will contact you to discuss next steps.
+
+## What is involved?
 
 Joining the lab means attending lab meetings, contributing to research projects (as appropriate to your career stage), and engaging with other lab members. 
 
@@ -20,7 +31,7 @@ Joining the lab means attending lab meetings, contributing to research projects 
  - [Info for MSc Students](#sec-msc) 
  - [Info for Doctoral Researchers](#sec-doctoral). 
 
-If you would like to gain some volunteer experience in a lab environment, you can also join the lab through VolunTees (Teesside University's volunteering service). You can apply [here](https://voluntees.co.uk/opportunity/96384).
+Where people are working in the lab in a volntary capacity, they can register with VolunTees (Teesside University's volunteering service) so that their hours and contribution are recorded and recognised appropriately.
 
 ## Overview
 
@@ -209,7 +220,7 @@ Failure to adhere to the DMP and guidelines for data collection may result in th
 
 ### The electronic lab notebook 
 
-We use an electronic lab notebook (ELN) to document our research process (elabftw). Especially for lab-based studies, we document data collection sessions in the ELN, including details of the participants, the equipment used, any issues that arose during data collection, and any other relevant information. This helps to ensure that we have a clear record of the research process and can replicate our work in the future. 
+We use an electronic lab notebook (ELN) to document our research process. Especially for lab-based studies, we document data collection sessions in the ELN, including details of the participants, the equipment used, any issues that arose during data collection, and any other relevant information. This helps to ensure that we have a clear record of the research process and can replicate our work in the future. 
 
 The lab notebook also contains videos and documents outlining standard operating procedures (SOPs) for using the lab equipment and software. This helps to ensure that everyone is using the equipment and software in a consistent way, and that we are following best practices for conducting research.
 
